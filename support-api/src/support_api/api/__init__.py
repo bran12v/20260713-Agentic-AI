@@ -2,6 +2,8 @@ from flask import Flask
 
 from support_api.api.blueprints.tickets import bp as ticket_bp
 from support_api.logging import configure_logging
+from support_api.api.errors import register_error_handlers
+from support_api.api.middleware import register_request_logging
 
 def create_app() -> Flask:
     """Main entrypoint for the creation of the flask app."""
@@ -15,6 +17,9 @@ def create_app() -> Flask:
     # mount the blueprints to the flask app to allow them to be accessable.
     app.register_blueprint(ticket_bp, url_prefix="/tickets") # localhost:5000/tickets
     # url_prefix defines what the routes for this registration start with
+
+    register_error_handlers(app)
+    register_request_logging(app)
 
     # tiny top level route for smoke-testing
     @app.route("/", methods=["GET"]) # root

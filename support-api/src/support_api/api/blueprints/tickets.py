@@ -1,7 +1,8 @@
 from flask import Blueprint, request
-
+from datetime import datetime, timezone 
 from support_api.filters import filter_by_priority, filter_by_tenant, load_tickets
-
+from support_api.models import TicketCreate
+from support_api.api.errors import TicketNotFound
 # A blueprint is a group of routes that we attach to the app
 bp = Blueprint("tickets", __name__)
 
@@ -34,4 +35,24 @@ def get_ticket(ticket_id: str):
     for ticket in tickets:
         if ticket["id"] == ticket_id:
             return ticket # 200 OK
-    return { "error": "ticket_not_found", "ticket_id": ticket_id}, 404 # 404 not found
+    raise TicketNotFound(ticket_id) # 404 not found
+
+# NEW (W2 D2) — same URL as list_tickets, different verb.
+@bp.route("", methods=["POST"])
+def create_ticket():
+    # silent=True → None on bad body; `or {}` → Pydantic reports EVERY
+    # missing field, not just "body can't be None".
+    data = TicketCreate.model_validate(request.get_json(silent=True) or {})
+
+    # ISO-8601 with trailing Z, the canonical API timestamp format.
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
+    existing = load_tickets()
+    return (
+        {
+            **data.model_dump(),     # spread validated fields
+            "id": f"TKT-{10001 + len(existing):05d}",
+            "created_at": now,
+            "updated_at": now,
+        },
+        201,                         # 201 Created
+    )

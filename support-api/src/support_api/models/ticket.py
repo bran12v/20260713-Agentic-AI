@@ -26,6 +26,38 @@ class Ticket(BaseModel):
     created_at: datetime
     updated_at: datetime
 
+class TicketCreate(BaseModel):
+    """Body schema for POST /tickets. Server assigns id + timestamps."""
+
+    # extra="forbid" rejects any unknown field the client sends.
+    model_config = ConfigDict(extra="forbid")
+
+    # Field(...) attaches constraints beyond the type.
+    title: str = Field(min_length=5, max_length=200)
+    body: str = Field(min_length=1)
+    priority: Priority                       # Literal enum from W01 D04
+    category: Category
+    tenant: str = Field(min_length=1, max_length=50)
+    customer_id: str = Field(pattern=r"^CUS-\d{5}$")   # format enforced
+    assignee: str | None = None              # optional
+    channel: Channel
+    tags: list[str] = Field(default_factory=list, max_length=10)
+    status: Status = "open"
+
+
+class TicketPatch(BaseModel):
+    """Body schema for PATCH /tickets/<id>. All fields optional."""
+
+    model_config = ConfigDict(extra="forbid")
+
+    title: str | None = Field(default=None, min_length=5, max_length=200)
+    body: str | None = Field(default=None, min_length=1)
+    priority: Priority | None = None
+    status: Status | None = None
+    category: Category | None = None
+    assignee: str | None = None
+    tags: list[str] | None = Field(default=None, max_length=10)
+
 if __name__ == "__main__":
     import json
     from pathlib import Path
