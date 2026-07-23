@@ -2,13 +2,14 @@
 name = "support-api"
 version = "0.1.0"
 description = "Customer Support Intelligence Platform — backend service."
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 dependencies = [
     "pydantic>=2.10",
     "structlog>=24.4",
     "httpx>=0.28",
     "python-dotenv>=1.0",
     "flask>=3.0",
+    "gunicorn>=22.0"
 ]
 
 [project.optional-dependencies]
@@ -26,6 +27,9 @@ build-backend = "setuptools.build_meta"
 [tool.setuptools.packages.find]
 where = ["src"]
 
+[tool.setuptools.package-data]
+support_api = ["storage/schema.sql"]
+
 [tool.pytest.ini_options]
 asyncio_mode = "auto"
 pythonpath = ["src"]
@@ -33,8 +37,8 @@ testpaths = ["tests"]
 
 [tool.ruff]
 line-length = 100
-target-version = "py311"
+target-version = "py312"
 
 [tool.mypy]
-python_version = "3.11"
+python_version = "3.12"
 strict = true
