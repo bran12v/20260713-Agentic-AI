@@ -2,9 +2,12 @@ from flask import Flask, g
 from pathlib import Path
 import os
 from support_api.api.blueprints.tickets import bp as ticket_bp
+from support_api.api.blueprints.health import bp as health_bp
 from support_api.logging import configure_logging
 from support_api.api.errors import register_error_handlers
 from support_api.api.middleware import register_request_logging
+from flask_limiter import Limiter
+from flask_limiter.util import get_remote_address
 
 _DEFAULT_DB_PATH = (
     Path(__file__).resolve().parent.parent.parent.parent / "tickets.db"
@@ -25,7 +28,15 @@ def create_app(db_path: Path | str | None = None) -> Flask:
 
     # mount the blueprints to the flask app to allow them to be accessable.
     app.register_blueprint(ticket_bp, url_prefix="/tickets") # localhost:5000/tickets
+    app.register_blueprint(health_bp)
     # url_prefix defines what the routes for this registration start with
+
+    Limiter(
+        key_func=get_remote_address,
+        app=app,
+        default_limits=["20 per minute"],
+        storage_uri="memory://"
+    )
 
     register_error_handlers(app)
     register_request_logging(app)

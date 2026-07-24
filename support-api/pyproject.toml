@@ -9,7 +9,8 @@ dependencies = [
     "httpx>=0.28",
     "python-dotenv>=1.0",
     "flask>=3.0",
-    "gunicorn>=22.0"
+    "gunicorn>=22.0",
+    "flask-limiter>=3.8",
 ]
 
 [project.optional-dependencies]

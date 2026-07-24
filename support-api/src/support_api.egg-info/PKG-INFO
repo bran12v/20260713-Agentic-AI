@@ -2,13 +2,14 @@ Metadata-Version: 2.4
 Name: support-api
 Version: 0.1.0
 Summary: Customer Support Intelligence Platform — backend service.
-Requires-Python: >=3.11
+Requires-Python: >=3.12
 Requires-Dist: pydantic>=2.10
 Requires-Dist: structlog>=24.4
 Requires-Dist: httpx>=0.28
 Requires-Dist: python-dotenv>=1.0
 Requires-Dist: flask>=3.0
 Requires-Dist: gunicorn>=22.0
+Requires-Dist: flask-limiter>=3.8
 Provides-Extra: dev
 Requires-Dist: pytest>=8.3; extra == "dev"
 Requires-Dist: pytest-asyncio>=0.25; extra == "dev"

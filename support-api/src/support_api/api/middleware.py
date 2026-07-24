@@ -22,11 +22,17 @@ def register_request_logging(app: Flask) -> None:
 
     @app.after_request
     def _end(response: Response) -> Response:
-        duration_ms = round((time.perf_counter() - g.start_time) * 1000, 1)
+        start_time = g.get("start_time")
+        duration_ms = (
+            round((time.perf_counter() - g.get("start_time")) * 1000, 1)
+            if start_time is not None
+            else None
+        )
         log.info(
             "request_completed",
             status=response.status_code,
             duration_ms=duration_ms,
         )
-        response.headers["X-Request-ID"] = g.request_id
+        if "request_id" in g:
+            response.headers["X-Request-ID"] = g.request_id
         return response

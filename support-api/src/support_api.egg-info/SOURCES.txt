@@ -15,6 +15,7 @@ src/support_api/api/__init__.py
 src/support_api/api/errors.py
 src/support_api/api/middleware.py
 src/support_api/api/blueprints/__init__.py
+src/support_api/api/blueprints/health.py
 src/support_api/api/blueprints/tickets.py
 src/support_api/models/__init__.py
 src/support_api/models/customer.py
