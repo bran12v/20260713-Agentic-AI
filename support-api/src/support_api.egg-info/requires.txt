@@ -5,6 +5,7 @@ python-dotenv>=1.0
 flask>=3.0
 gunicorn>=22.0
 flask-limiter>=3.8
+requests>=2.32
 
 [dev]
 pytest>=8.3

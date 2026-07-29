@@ -2,6 +2,7 @@ pyproject.toml
 src/support_api/__init__.py
 src/support_api/enrich.py
 src/support_api/filters.py
+src/support_api/http_resilience.py
 src/support_api/logging.py
 src/support_api/routing_rules.py
 src/support_api/stream.py
