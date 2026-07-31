@@ -1,7 +1,7 @@
 [
   {
     "id": "TKT-10001",
-    "title": "Invoice shows duplicate charge for April seats",
+    "title": "Invoice shows duplicate charge for April seats, thank you!",
     "body": "Hi team - our April invoice (INV-2026-04-88421) shows two line items of $4,200 for the exact same seat pack. Pretty sure we only added 14 seats, not 28. Can someone look into this before our AP cutoff on the 25th? Happy to send screenshots.",
     "priority": "high",
     "status": "in_progress",
@@ -16,7 +16,7 @@
   },
   {
     "id": "TKT-10002",
-    "title": "API returning 429 on /v2/exports despite low call volume",
+    "title": "a API devuelve el código 429 en /v2/exports a pesar de un bajo volumen de solicitudes.",
     "body": "We're hitting 429 Too Many Requests on POST /api/v2/exports even though we're well under the documented 60 rpm limit. Retry-After header says 47 seconds. This started around 2026-04-19 08:00 UTC. Running from our us-east prod cluster. Example request id: req_8f3d2a1c9e.",
     "priority": "high",
     "status": "open",
@@ -31,7 +31,7 @@
   },
   {
     "id": "TKT-10003",
-    "title": "Need to remove departing employee immediately",
+    "title": "Need to remove departing employee immediately, urgent problem",
     "body": "Employee separation today, effective 5pm ET. Please remove user jsmith@meridiancap.com from all access and transfer owned reports to tscott@meridiancap.com. This is a terminated-for-cause situation so please treat as urgent. Confirm once done.",
     "priority": "urgent",
     "status": "resolved",
