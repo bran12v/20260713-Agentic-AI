@@ -1,5 +1,4 @@
 from flask import Flask, g
-from pathlib import Path
 import os
 from support_api.api.blueprints.tickets import bp as ticket_bp
 from support_api.api.blueprints.health import bp as health_bp
@@ -9,11 +8,7 @@ from support_api.api.middleware import register_request_logging
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
 
-_DEFAULT_DB_PATH = (
-    Path(__file__).resolve().parent.parent.parent.parent / "tickets.db"
-)
-
-def create_app(db_path: Path | str | None = None) -> Flask:
+def create_app(database_url: str | None = None) -> Flask:
     """Main entrypoint for the creation of the flask app."""
     # on app startup first we want to configure our logs so that resource logs are
     # owned by structlog.
@@ -22,8 +17,8 @@ def create_app(db_path: Path | str | None = None) -> Flask:
     # __name__ tells flask where it is in our file structure
     app = Flask(__name__)
 
-    app.config["DB_PATH"] = str(
-        db_path or os.environ.get("DB_PATH") or _DEFAULT_DB_PATH
+    app.config["DATABASE_URL"] = str(
+        database_url or os.environ.get("DATABASE_URL")
     )
 
     # mount the blueprints to the flask app to allow them to be accessable.

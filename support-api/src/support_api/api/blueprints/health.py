@@ -21,7 +21,7 @@ def readiness():
     from support_api.storage import connect
 
     try:
-        conn = connect(current_app.config["DB_PATH"])
+        conn = connect(current_app.config["DATABASE_URL"])
         try:
             conn.execute("SELECT 1").fetchone()
         finally:

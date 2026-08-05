@@ -10,7 +10,7 @@ bp = Blueprint("tickets", __name__)
 def _db():
     if "db" not in g:
         from support_api.storage import connect
-        g.db = connect(current_app.config["DB_PATH"]) # ref our flask env variables
+        g.db = connect(current_app.config["DATABASE_URL"]) # ref our flask env variables
     return g.db
 
 @bp.route("", methods=["GET"]) # url endpoint, and HTTP verbs usable by this route # localhost:5000/

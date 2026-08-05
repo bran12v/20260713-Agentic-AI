@@ -31,7 +31,7 @@ CREATE INDEX IF NOT EXISTS ix_tickets_priority     ON tickets(priority);
 CREATE INDEX IF NOT EXISTS ix_tickets_customer_id  ON tickets(customer_id);
 
 CREATE TABLE IF NOT EXISTS conversation_turns (
-    id              INTEGER PRIMARY KEY AUTOINCREMENT,
+    id              INTEGER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     ticket_id       TEXT NOT NULL REFERENCES tickets(id) ON DELETE CASCADE,
     turn_type       TEXT NOT NULL CHECK (turn_type IN ('customer_message', 'agent_reply', 'internal_note', 'system_event', 'llm_draft')),
     author          TEXT NOT NULL,

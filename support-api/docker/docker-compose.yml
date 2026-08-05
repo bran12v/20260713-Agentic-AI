@@ -1,4 +1,21 @@
 services:
+  db:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_USER: support
+      POSTGRES_PASSWORD: support_dev
+      POSTGRES_DB: support
+    ports:
+      - "5432:5432"
+    volumes:
+      - support_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U support -d support"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+      start_period: 5s
+
   web:
     build:
       context:  ..
@@ -10,7 +27,7 @@ services:
     environment:
       LOG_LEVEL: info
       LOG_JSON: "1"
-      DB_PATH: /app/tickets.db
+      DATABASE_URL: postgresql://support:support_dev@db:5432/support
       DATA_DIR: /app/data
 
     healthcheck:
@@ -24,3 +41,10 @@ services:
       sh -c "
         python -c 'from support_api.storage import init_db, seed_from_json; init_db(); seed_from_json()' && gunicorn --bind 0.0.0.0:5000 --workers 2 --access-logfile - --error-logfile - 'support_api.api:create_app()'
       "
+
+    depends_on:
+      db:
+        condition: service_healthy
+    
+volumes:
+  support_pgdata:

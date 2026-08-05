@@ -11,6 +11,8 @@ dependencies = [
     "flask>=3.0",
     "gunicorn>=22.0",
     "flask-limiter>=3.8",
+    "psycopg[binary]>=3.2",
+    "azure-identity>=1.19",
 ]
 
 [project.optional-dependencies]

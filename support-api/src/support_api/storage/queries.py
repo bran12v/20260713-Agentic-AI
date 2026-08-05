@@ -1,9 +1,9 @@
 import json 
-import sqlite3
+import psycopg
 from typing import Any
 
-def _row_to_ticket(row: sqlite3.Row) -> dict[str, Any]:
-    """Maps a sqlite3.Row to a dict[str, Any]"""
+def _row_to_ticket(row: dict[str, Any]) -> dict[str, Any]:
+    """Maps a psycopg dict row to a dict[str, Any]"""
     return {
         "id": row["id"],
         "title": row["title"],
@@ -21,7 +21,7 @@ def _row_to_ticket(row: sqlite3.Row) -> dict[str, Any]:
     }
 
 def list_tickets(
-        conn: sqlite3.Connection, 
+        conn: psycopg.Connection, 
         priority: str | None = None, 
         tenant: str | None = None, 
         status: str | None = None, 
@@ -30,34 +30,34 @@ def list_tickets(
     """The service function that will facilitate getting and filtering a list of tickets."""
     where, params = [], []
     if priority:
-        where.append("priority = ?") # placeholder string for the where which will be filled with
+        where.append("priority = %s") # placeholder string for the where which will be filled with
         params.append(priority) # the value of priority that we will be filter on
     if tenant:
-        where.append("tenant = ?")
+        where.append("tenant = %s")
         params.append(tenant)
     if status:
-        where.append("status = ?")
+        where.append("status = %s")
         params.append(status)
 
     sql = "SELECT * FROM tickets"
     if where:
-        sql += " WHERE " + " AND ".join(where) # SELECT * FROM tickets WHERE priority = ?
-    sql += " ORDER BY created_at DESC LIMIT ?" # sorts our results by when they were created in decending order
+        sql += " WHERE " + " AND ".join(where) # SELECT * FROM tickets WHERE priority = %s
+    sql += " ORDER BY created_at DESC LIMIT %s" # sorts our results by when they were created in decending order
     params.append(limit)
 
     return [_row_to_ticket(row) for row in conn.execute(sql, params).fetchall()] # want to get a list of dicts not a list of sqlite3.Row's
 
-def get_ticket(conn: sqlite3.Connection, ticket_id: str) -> dict[str, Any] | None:
+def get_ticket(conn: psycopg.Connection, ticket_id: str) -> dict[str, Any] | None:
     """Get an individual ticket by ID and return it as a dict."""
-    row = conn.execute("SELECT * FROM tickets WHERE id = ?", (ticket_id,)).fetchone()
+    row = conn.execute("SELECT * FROM tickets WHERE id = %s", (ticket_id,)).fetchone()
     return _row_to_ticket(row) if row else None
 
-def insert_ticket(conn: sqlite3.Connection, ticket: dict[str, Any]) -> None:
+def insert_ticket(conn: psycopg.Connection, ticket: dict[str, Any]) -> None:
     """Insert a single ticket into the database based on the ticket dict provided."""
     conn.execute(
         """INSERT INTO tickets
             (id, title, body, priority, status, category, tenant, customer_id, assignee, channel, tags, created_at, updated_at)
-            VALUES (:id, :title, :body, :priority, :status, :category, :tenant, :customer_id, :assignee, :channel, :tags, :created_at, :updated_at)
+            VALUES (%(id)s, %(title)s, %(body)s, %(priority)s, %(status)s, %(category)s, %(tenant)s, %(customer_id)s, %(assignee)s, %(channel)s, %(tags)s, %(created_at)s, %(updated_at)s)
         """,
         {**ticket, "tags": json.dumps(ticket.get("tags", []))}
     )
