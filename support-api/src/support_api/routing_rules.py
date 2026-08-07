@@ -37,7 +37,7 @@ class TicketRouter:
         self._rules = rules
 
     @classmethod
-    def with_defaults(cls) -> TicketRouter:
+    def with_defaults(cls):
         """Alternative constructor: a router that is preloaded with DEFAULT_RULES."""
         return cls(DEFAULT_RULES)
     
