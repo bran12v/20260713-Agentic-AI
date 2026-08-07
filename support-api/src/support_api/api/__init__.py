@@ -17,9 +17,9 @@ def create_app(database_url: str | None = None) -> Flask:
     # __name__ tells flask where it is in our file structure
     app = Flask(__name__)
 
-    app.config["DATABASE_URL"] = str(
-        database_url or os.environ.get("DATABASE_URL")
-    )
+    # Keep None as None - str() would produce the truthy string "None", which
+    # connect() treats as an explicit conninfo and passes straight to psycopg.
+    app.config["DATABASE_URL"] = database_url or os.environ.get("DATABASE_URL")
 
     # mount the blueprints to the flask app to allow them to be accessable.
     app.register_blueprint(ticket_bp, url_prefix="/tickets") # localhost:5000/tickets

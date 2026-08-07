@@ -1,0 +1,54 @@
+name: support-api -> ACA
+
+on: # triggers
+    pull_request:
+        branches: [main]
+        paths: ['support-api/**', '.github/workflows/support-api-CICD.yaml']
+    push:
+        branches: [main]
+        paths: ['support-api/**', '.github/workflows/support-api-CICD.yaml']
+    workflow_dispatch: # manual deployment
+
+permissions: # OIDC creds to work, otherwise our azure/login will fail
+    id-token: write
+    contents: read
+
+concurrency:
+    group: support-api-CICD-${{ github.ref }}
+    cancel-in-progress: true
+
+env:
+    IMAGE_REPOSITORY: support-api
+    ACR_NAME: ${{ vars.ACR_NAME }}
+    RESOURCE_GROUP: ${{ vars.ACA_RESOURCE_GROUP }}
+    APP_NAME: ${{ vars.ACA_APP_NAME }}
+
+jobs:
+    test:
+        runs-on: ubuntu-latest
+        services:
+            postgres:
+                image: pgvector/pgvector:pg16
+                env:
+                    POSTGRES_USER: support
+                    POSTGRES_PASSWORD: support_ci
+                    POSTGRES_DB: support
+                ports: ['5432:5432']
+                options: >-
+                    --health-cmd "pg_isready -U support"
+                    --health-interval 10s --health-timeout 5s --health-retries 5
+
+        steps:
+            - uses: actions/checkout@v4 # pull the code onto the runner
+            - uses: actions/setup-python@v5 # installs python/pip
+              with:
+                python-version: '3.12'
+                cache: pip
+            - name: Install
+              working-directory: support-api
+              run: pip install -e ".[dev]"
+            - name: Test
+              working-directory: support-api
+              env:
+                DATABASE_URL: postgresql://support:support_ci@localhost:5432/support
+              run: pytest -q
