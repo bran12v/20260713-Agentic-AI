@@ -1,0 +1,161 @@
+openapi: 3.1.0
+info:
+  title: Support API
+  version: 0.2.3
+  description: 'Customer support platform: read support tickets for customer accounts. Deployed to Azure
+    Container Apps behind Microsoft Entra authentication; callers must present a token for this API''s
+    audience.'
+servers:
+- url: https://ca-support-api.lemonstone-eeb584dc.eastus.azurecontainerapps.io/
+paths:
+  /tickets:
+    get:
+      operationId: listSupportTickets
+      summary: List support tickets, optionally filtered.
+      description: Retrieve support tickets for a customer account, optionally narrowed by priority, tenant,
+        or status. Use this when the user asks what issues are open, which tickets are urgent, how many
+        tickets a tenant has raised, or asks for a summary of current support load. Returns ticket metadata
+        and body text, newest first. If the user names a specific ticket by its TKT-##### identifier,
+        use getSupportTicket instead - this operation is for searching and listing, not for looking up
+        one known ticket.
+      parameters:
+      - name: tenant
+        in: query
+        required: false
+        description: Only return tickets belonging to this tenant (customer organisation), e.g. 'acme-corp'.
+          Always pass this when the user is asking about a specific customer - omitting it returns tickets
+          across every tenant.
+        schema:
+          type: string
+          maxLength: 50
+      responses:
+        '200':
+          description: Matching tickets.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  count:
+                    type: integer
+                  items:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Ticket'
+  /tickets/{ticket_id}:
+    get:
+      operationId: getSupportTicket
+      summary: Fetch one support ticket by its identifier.
+      description: Retrieve the full record of a single support ticket when the user names it by identifier,
+        for example 'what's the status of TKT-10042?'. Returns the title, body, priority, status, category,
+        assignee, and timestamps. If the user has not given an identifier, use listSupportTickets to find
+        candidates first.
+      parameters:
+      - name: ticket_id
+        in: path
+        required: true
+        description: Ticket identifier in the form TKT-##### , e.g. TKT-10042.
+        schema:
+          type: string
+          pattern: ^TKT-\d{5}$
+      responses:
+        '200':
+          description: The ticket.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Ticket'
+components:
+  schemas:
+    Ticket:
+      additionalProperties: false
+      description: A single customer support ticket.
+      properties:
+        id:
+          pattern: ^TKT-\d{5}$
+          title: Id
+          type: string
+        title:
+          maxLength: 200
+          minLength: 5
+          title: Title
+          type: string
+        body:
+          minLength: 1
+          title: Body
+          type: string
+        priority:
+          enum:
+          - urgent
+          - high
+          - normal
+          - low
+          title: Priority
+          type: string
+        status:
+          enum:
+          - open
+          - in_progress
+          - waiting_on_customer
+          - resolved
+          - closed
+          title: Status
+          type: string
+        category:
+          enum:
+          - billing
+          - technical
+          - account
+          - general
+          title: Category
+          type: string
+        tenant:
+          maxLength: 50
+          minLength: 1
+          title: Tenant
+          type: string
+        customer_id:
+          pattern: ^CUS-\d{5}$
+          title: Customer Id
+          type: string
+        assignee:
+          anyOf:
+          - type: string
+          - type: 'null'
+          default: null
+          title: Assignee
+        channel:
+          enum:
+          - email
+          - chat
+          - phone
+          - portal
+          title: Channel
+          type: string
+        tags:
+          items:
+            type: string
+          maxItems: 10
+          title: Tags
+          type: array
+        created_at:
+          format: date-time
+          title: Created At
+          type: string
+        updated_at:
+          format: date-time
+          title: Updated At
+          type: string
+      required:
+      - id
+      - title
+      - body
+      - priority
+      - status
+      - category
+      - tenant
+      - customer_id
+      - channel
+      - created_at
+      - updated_at
+      type: object
