@@ -28,14 +28,20 @@ def main() -> None:
             print("\nAssistant: Goodbye.")
             break
 
-        response = client.responses.create(
+        stream = client.responses.create(
             model=deployment,
             instructions=INSTRUCTIONS,
             input=user_text,
-            previous_response_id=last_response_id
+            previous_response_id=last_response_id,
+            stream=True
         )
-        print(f"\nAssistant: {response.output_text}")
-        last_response_id = response.id
+        print("\nAssistant: ", end="", flush=True)
+        for event in stream:
+            if event.type == "response.output_text.delta":
+                print(event.delta, end="", flush=True)
+            elif event.type == "response.completed":
+                last_response_id = event.response.id
+        print()
 
 if __name__ == "__main__":
     main()
