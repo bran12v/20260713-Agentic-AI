@@ -8,6 +8,7 @@ from pathlib import Path
 
 load_dotenv(Path.cwd().parent / ".env")
 
+# classic (legacy) v1
 agent_client = AgentsClient(
     endpoint=os.environ["AZURE_FOUNDRY_PROJECT_ENDPOINT"],
     credential=AzureCliCredential(process_timeout=30) # gets your credentials (permissions) from 'az login'

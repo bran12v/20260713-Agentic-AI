@@ -6,11 +6,12 @@ from azure.ai.projects import AIProjectClient
 from azure.ai.projects.models import PromptAgentDefinition
 from pathlib import Path
 
-load_dotenv(Path.cwd().parent / ".env")
+load_dotenv()
 
+# Current v2
 project_client = AIProjectClient(
     endpoint=os.environ["AZURE_FOUNDRY_PROJECT_ENDPOINT"],
-    credential=AzureCliCredential(process_timeout=30)
+    credential=AzureCliCredential(process_timeout=30) # DefaultAzureCredential
 )
 
 AGENT_NAME = "delivery-support-agent"
@@ -46,7 +47,8 @@ def main() -> None:
     response = openai_client.responses.create(
         input="What handles traffic switch in a blue-green deployment on AKS?",
         extra_body={"agent_reference": {
-            "name": version.name,
+            "name": AGENT_NAME,
+            "version": version.version,
             "type": "agent_reference"
         }} # use version 3 not 2 or 1
     )
