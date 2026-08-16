@@ -47,7 +47,7 @@ Each has a real job, appears in a demo scenario, and is visible in the run recor
 
 | # | Service | Job |
 |---|---|---|
-| 1 | Azure AI Foundry | Model deployments: a reasoning tier for the workers, a fast tier for classification and the readiness gate, an embedding model for the index, a multimodal deployment for reading the scanned exemption designation |
+| 1 | Azure AI Foundry | Model deployments: a reasoning tier for the workers, a fast tier for classification and the readiness gate, an embedding model for the index, a multimodal deployment for reading the scanned exemption designation, and a judge deployment for § 13's evaluators |
 | 2 | Azure AI Search | The corpus index — hybrid retrieval with the semantic ranker, filterable on `doc_type` and `section_path` |
 | 3 | Azure AI Document Intelligence | Cracks the corpus PDFs at ingestion and the packet artifacts at `submit`, retaining per-field confidence |
 | 4 | Azure AI Content Safety | Content filters on every model call; Prompt Shields on analyst input and on every string cracked out of an artifact |
@@ -201,7 +201,7 @@ Five pure Python functions over typed inputs. **Thresholds never come from a mod
 > R5 cites no regulation. It is a configured extraction-quality threshold, declared in typed config and recorded in the architecture document's decisions table with the chosen value. Its rule output must identify it as a pipeline parameter.
 
 **Requirements**
-- Each rule returns outcome, rule id, source document id and the inputs used — never a bare boolean.
+- Each rule returns the outcome, the rule id, **every source it was decided from** and the inputs used — never a bare boolean. Type the source field as a list. Every rule in the table above is decided from several sections and some from more than one document, while R5 is a pipeline parameter with no regulatory source at all — a field typed as one id forces a special case at the call site for both ends of that range, and the citation the dossier renders is only as complete as what the rule handed back.
 - A missing input returns `insufficient_data` with the field named. Never a default.
 - Unit-tested at every boundary: exactly $10,000 and one cent above it, exactly $5,000, exactly $25,000, exactly 30 and exactly 60 calendar days from detection, exactly 15 days, and exactly 0.60.
 - **$10,000 is not the threshold — "more than $10,000" is.** A transaction of exactly $10,000 is not reportable under § 1010.311. Test the boundary on the correct side.
@@ -225,6 +225,8 @@ Five pure Python functions over typed inputs. **Thresholds never come from a mod
 2. **Crack** — Document Intelligence, retaining per-field confidence.
 3. **Images** — the multimodal deployment reads the scanned designation form and any branch correspondence in the context of the alert and returns a typed corroboration verdict.
 4. **Redact** — deterministic PII redaction by field name before any text reaches a model, log or index. Returns the removed spans.
+
+> **The transaction figures are a rule input, so redaction here is a projection and not a deletion.** R2 aggregates currency by person and by business day and R1 reads the pattern of amounts; a redactor that strips the figures before anything sees them leaves both rules nothing to aggregate. Keep two representations and be explicit about which is which. The **stored record** is written to Postgres with amounts, dates and branch intact, because that is what the rules engine reads. The **model-facing projection** drops the customer's name, taxpayer identification number and account number and keeps the amounts, the dates and the branch — identity leaves, the pattern stays, and R1's structuring question is still answerable. Log sinks are a third case: everything written to a log, a trace or the evaluation store is redacted unconditionally, figures included.
 5. **Normalize** — one structured-output call producing a typed record where each field carries its source artifact and confidence.
 6. **Skip and log** — malformed artifacts are skipped, not fatal; the dossier states what failed.
 7. **Verify** — an ingestion report: artifacts processed, fields extracted, fields below floor, failures.
@@ -241,7 +243,7 @@ Five pure Python functions over typed inputs. **Thresholds never come from a mod
 ### Query pipeline
 
 - Hybrid retrieval, semantic-ranked, with filters where the query implies them.
-- **Refusal is gated on `@search.rerankerScore`** (bounded scale), never `@search.score`. Choose the threshold by running the golden set and finding where correct and incorrect answers separate; report the value and the method. If the semantic ranker is unavailable, run a second vector-only query and threshold on cosine similarity.
+- **Refusal is gated on `@search.rerankerScore`** (bounded scale), never `@search.score`. Choose the threshold by running the golden set and finding where correct and incorrect answers separate; report the value, the method **and which score it sits on**. The two paths are not interchangeable — `@search.rerankerScore` runs on the semantic ranker's bounded scale and cosine similarity runs 0 to 1 — so the fallback needs a threshold of its own, chosen the same way. A value carried across from one to the other refuses everything or nothing. If the semantic ranker is unavailable, run a second vector-only query and threshold on cosine similarity.
 - Detect multi-hop cases where one document cross-references another.
 - Every grounded claim carries a machine-checkable citation — a structured `sources` array of document id, title and chunk id, with prose referring to entries by index.
 - Below threshold: refuse explicitly, name what was searched for, offer the escalation path. Never fall back on model knowledge.
@@ -257,8 +259,11 @@ PostgreSQL holds alert records, run records, the review queue and sessions.
 - Versioned migrations, committed.
 - Passwordless Entra auth on the deployed path; local compose uses a development credential from typed config.
 - `pgvector` backs similar-alert search.
-- A session table holds the serialized transcript keyed by `(analyst_id, alert_id)`.
+- A session table holds the serialized transcript keyed by `(analyst_id, alert_id, participant)`. The third column is what keeps the Reviewer's transcript out of the analyst's — § 4 runs the Reviewer as a harness stage with a conversation of its own, and § 9 requires one session per participant. Two columns collide the first time the Reviewer runs.
 - Seed 12+ historical alert records: one on each side of every rule boundary, several messy-reality records, and one forcing `insufficient_data`.
+- **A seed is what `find_similar_alerts` returns, so a boundary value alone is not one.** Each seed carries the same normalized field set a submitted packet produces, the outcome it was closed with, the rule that decided it, and a short narrative — the embedding is built from the narrative, and a seed without one is unfindable however well it sits against a boundary. Spread the dates across at least two years so recency is a real filter, and spread them across business lines so entitlement filtering has something to exclude.
+- **An analysts table and a grants table, seeded.** An entitlement is an analyst's grant over a partition of the records, and for this project the partition is the line of business the account sits in: every alert record carries a `business_line_id`, and a grant is a `(analyst_id, business_line_id)` row. Seed at least three analysts across at least three business lines, with one analyst holding two grants and one alert no one but its owner can read. Without those rows there is nothing for § 10's in-tool check to deny and nothing for the entitlement test in § 12 to assert.
+- **A run record carries what § 12 measures.** One row per turn: correlation id, command, the workers dispatched, every tool invocation with its arguments hash and outcome, every rules-engine invocation with its inputs and result, and the escalation triggers evaluated with which fired. § 12 asks for cost and latency **measured, not estimated**, so the row also carries per-call model deployment, prompt and completion token counts, wall-clock duration, and the cost derived from them. Prices come from typed config rather than a constant in the code — they change, and an unpinned price makes last month's cost report unreproducible.
 
 ---
 
@@ -280,6 +285,8 @@ PostgreSQL holds alert records, run records, the review queue and sessions.
 **Tool rules**
 - **The model chooses what, never whose.** No tool accepts an alert id as a model-filled argument — the subject is session-bound and injected by the dispatcher. The model still picks filters and `top_k`.
 - **Idempotency keys come from the harness**, derived from `(session_id, tool_name, canonicalized_arguments)`. Canonicalization must be order-independent and tested.
+- **`find_similar_alerts` returns candidates, never a conclusion.** Each result carries the alert id, the outcome it was closed with, the rule that decided it, the similarity score, and the span of narrative that matched — enough for a worker to cite a precedent and for the Reviewer to check that it says what the worker claims. It returns no recommendation, and a worker that adopts the nearest neighbour's outcome as its own has skipped the rule. `top_k` and the filters are model-chosen; the entitlement partition is not.
+- **Every `propose_*` tool takes a typed proposal, returns it validated or rejected, and writes nothing.** The rejection is synchronous and the worker can retry against it, which is why `propose_diligence_finding` enforces its citation there: a proposal whose citation does not resolve to a real document and chunk id comes straight back. That is a schema-level check and it is **not** the same test as § 9's output guardrail, which reads the turn's own record after generation and asks whether the cited chunk actually supports the claim. The first costs a retry, the second costs a regeneration. Write both, and test them separately. The other `propose_*` tools carry no citation gate because their outcomes come from the rules engine, where the attribution check covers them instead.
 - Pydantic in and out; precise docstrings with per-parameter descriptions; structured errors rather than raised exceptions (unexpected exceptions still logged with stack trace).
 
 **MCP server**
@@ -298,6 +305,9 @@ PostgreSQL holds alert records, run records, the review queue and sessions.
 1. **Input validation** before any model call — typed request model, length caps, artifact type and size checks.
 2. **Prompt Shields** on analyst input and on every string cracked out of an artifact.
 3. **Readiness gate** — classify into `policy_question` / `classify` / `action` / `out_of_scope`, then run a deterministic check regardless of what the model returned: is there a normalized record, are required fields present, is any field below 0.60?
+
+   **Each label has a consequence, and the CI tier asserts it.** `policy_question` answers from retrieval without dispatching a worker. `classify` runs the workflow. `action` is refused outright — nothing in this system writes without the two-person approval in § 11, so a turn asking it to act is answered with what would have to happen instead. `out_of_scope` refuses and names the escalation path. The deterministic check overrides the label in one direction only: it can stop a `classify` turn, never start one.
+
 4. **Output guardrails** — deterministic code reading the turn's own record, blocking assertions without provenance, uncited claims, threshold outcomes with no rules-engine invocation this turn, and determination-shaped language.
 
 **Remedies differ by failure type:**
@@ -309,6 +319,8 @@ PostgreSQL holds alert records, run records, the review queue and sessions.
 | Missing disclosure | Append deterministically |
 | Unattributed threshold | Run the rule, inject the result, regenerate |
 | PII in output | Redact deterministically, raise an event, never regenerate |
+
+**An event has a sink.** The events this table raises are a row on the turn's run record and a line in the structured log, each carrying the correlation id, the remedy applied and the field or claim that triggered it — not a `print`, and not an exception that unwinds the turn. The PII event has one extra constraint: it must survive the redactor. Record that a redaction happened and which field it was on, never what was in it.
 
 No failure is silently repaired — every remedy is recorded on the turn. Refusals are typed first-class outputs with reason codes.
 
@@ -333,7 +345,7 @@ Triggers, OR-ed, each recorded by name when it fires:
 - **R1 returned `not_required`** — a decision not to file a suspicious activity report always escalates
 - The business description contradicts the exemption category on the designation form
 
-**Near-boundary margins** are configured per rule around the $10,000, $5,000, $25,000, 30-day and 15-day boundaries. R3 has no margin on the (e)(8) list — it is a closed set of activities, and a business either is or is not engaged primarily in one of them.
+**Near-boundary margins** are configured per rule around the $10,000, $5,000, $25,000, 30-day and 15-day boundaries. R3 has no margin on the (e)(8) list — it is a closed set of activities, and a business either is or is not engaged primarily in one of them. A margin is expressed in the boundary's own unit — days against a day count, individuals against a population, dollars against a dollar figure — never as a percentage of the boundary, which makes two margins on different scales look comparable when they are not. The chosen values are yours; record each one, with its unit and the reasoning, in the architecture document's decisions table.
 
 > **Both negative outcomes escalate.** Every trigger in this system that ends the process quietly — an exemption confirmed, a SAR not required — is a decision to stop looking, and each is the outcome the bank's own paperwork will tend to support. Record this in the architecture document as a deliberate decision rather than a threshold.
 
@@ -366,7 +378,7 @@ Named, typed configuration with defaults in code, overridable per environment:
 - **Keyless end to end.** `az login` locally, user-assigned managed identity deployed. `DefaultAzureCredential` for development, an explicit credential in production.
 - **Entitlement checks run inside the tool, on every call** — not once at session start, not in the system prompt. An unentitled call returns a structured denial, never empty results.
 - **Indirect injection is tested.** Author a poisoned packet designed to make an agent skip the gate or assert a classification, keep it in test fixtures, and demonstrate the system resisting it.
-- PII redaction before any write to logs or the evaluation store. Alert packets carry customer names, taxpayer identification numbers, account numbers and balances; treat all of them as sensitive. One redactor, used everywhere.
+- PII redaction before any write to logs or the evaluation store. Alert packets carry customer names, taxpayer identification numbers, account numbers and balances; treat all of them as sensitive. One redactor, used everywhere — but see § 6 on the difference between the stored record, the model-facing projection and what reaches a log. The transaction amounts are an input to R1 and R2, so they survive into the projection and are stripped at the log boundary rather than at ingestion.
 - Every query goes through the repository module, parameterized.
 - A correction to a run record is a new record referencing the original, never an edit in place.
 
@@ -395,6 +407,8 @@ Installed as a console entry point (`pip install -e .`). Each command: load conf
 
 - **Citations that resolve** — document id, title, section, and the chunk text one command away. Requires stable chunk ids in the stored dossier.
 - **A review queue and decision card** — the queue lists escalated dossiers with the named triggers that escalated each; the card shows the exact payload with approve / edit-then-approve / reject, all three recorded.
+
+  **Edit-then-approve edits the narrative, never the determination.** A reviewer may change wording, add a note, and repoint a citation at a different chunk of the same source. They may not change a rule outcome, a computed date or a cited document — those came from the rules engine and the index, and an edited copy no longer traces to either. A reviewer who disagrees with an outcome rejects it, which is what sends it back. The stored record keeps the original payload and the edit as separate fields, since § 7 requires a correction to be a new record rather than an edit in place.
 - **Refusals rendered as answers, not errors** — the reason, what was searched for, the escalation path.
 - **Visible provenance for computed outcomes** — which rule, on what inputs.
 - **A persistent disclosure** that the dossier is AI-generated and must be verified, that it covers the Bank Secrecy Act only and not sanctions or state law, plus the synthetic-data notice.
@@ -455,6 +469,20 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 
 **One of the two refusal cases must be an examiner-expectation question**, which the missing FFIEC manual makes a clean refusal. If you use OFAC for the other, phrase it about a specific blocked person or match rather than about how the programmes relate, because the preamble does discuss the relationship.
 
+### What a golden case is on disk
+
+The custom evaluators read these files and the CI tier hard-fails on them, so "in version control" means machine-readable and not a table in a markdown file. One YAML or JSON file per case under `evals/golden/`, or one document holding all of them — either, as long as a test can load it.
+
+Every case carries an id, the category from the table above, the query text, the expected outcome, the document ids and section paths that must appear in the answer's `sources` array, the subject `alert_id` where the case is alert-backed and null where it is not, and one line on why the case exists.
+
+Three categories need more than that:
+
+- **A refusal case has no expected answer.** It carries the refusal reason it should give and the phrase that must **not** appear in the response. Only the second field catches the real failure, which is not a wrong answer but a refusal that hedges its way into one.
+
+- **A threshold case carries the boundary, the value, which side of the boundary the value falls on, and the expected rule outcome.** The two cases in a pair share a `pair_id` so the evaluator can assert they come out differently — a pair that agrees is a pair that proves nothing, and it fails silently unless something checks for it.
+
+- **A multi-turn case is a list of turns, not one query**, each turn with its own expectation, and it asserts on the session as well as the answer: the follow-up turn must reach the same rules-engine invocation the first one recorded rather than re-deriving the threshold from the model.
+
 **Evaluators:** Foundry's for groundedness and relevance. Custom for provenance and citation accuracy (does each cited chunk actually support its claim?), rules-engine attribution (asserted against the stored run record), and refusal precision and recall reported separately.
 
 ### The four adversarial cases
@@ -489,13 +517,14 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 - Azure AI Search at Basic tier or higher (semantic ranker), or adopt the vector-only fallback.
 - Document Intelligence at **Standard (S0), not F0** — F0 silently returns only the first two pages of a document, which would truncate `CFR-1020` to nothing useful.
 - Record provisioned TPM per deployment.
+- **A separate judge deployment for the evaluators.** Foundry's groundedness and relevance evaluators call a model of their own. Pointed at the workers' reasoning deployment they compete for the same TPM, which makes § 12's latency numbers unreproducible and makes an evaluation run look slower the more of it you run. Provision the judge separately, pin its model and version in the architecture document, and record its TPM with the others — two judged runs are not comparable across two judge versions, and § 13 asks you to analyze the delta between them.
 - Cost budget and GitHub OIDC federated credential provisioned up front.
 
 ---
 
 ## 15. Deliverables
 
-1. **The repository** — CLI application, MCP server, ingestion pipeline, repository module, rules engine, evaluation suite, tests, `infra/`, Dockerfiles, compose file, CI workflow, pinned dependencies, README operations section, and `packets/`.
+1. **The repository** — CLI application, MCP server, ingestion pipeline, repository module, rules engine, evaluation suite, tests, Dockerfiles, compose file, CI workflow, pinned dependencies, README operations section, and `packets/`.
 
 2. **Architecture document** — a reference document, not an essay:
    - The topology, plus why orchestrator/worker and why not the framework's sequential, concurrent, group-chat, handoff or magentic orchestrations (one line each)
@@ -507,7 +536,17 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 
 3. **Evaluation report** — golden set, per-category results, the reranker threshold and how it was chosen, both judged runs with the delta, every adversarial case, cost and latency measured from the run records.
 
-4. **Demonstration artifacts** — the escalation contrast (one alert clearing, the same alert with one signal degraded escalating) · indirect-injection resistance · the session-isolation test · the grounded-versus-ungrounded contrast · the MCP server driven from an external client.
+4. **Demonstration artifacts** — five of them, each a committed file rather than a live click-through, so a grader can check them without your laptop.
+
+   - **The escalation contrast** — the `trace` and `dossier` output of the clean run, the same two from a run of the same alert with one field degraded, and two lines naming the trigger that fired and the queue row it produced. This is the artifact § 15 leans on hardest and the one most often submitted as a screenshot of a terminal that has since scrolled away.
+
+   - **Indirect-injection resistance** — the transcript of the run against the poisoned artifact, with the Prompt Shields event and the unchanged determination both visible in the trace.
+
+   - **The session-isolation test** — the test file and its output.
+
+   - **The grounded-versus-ungrounded contrast** — both transcripts side by side, which § 13's first adversarial case already asks you to commit.
+
+   - **The MCP server driven from an external client** — a recorded terminal session or a screen capture of a second host (Claude Code, MCP Inspector) listing the tools and calling one, **plus the server-side log line** showing the call arrived over Streamable HTTP and was authorized as that caller rather than as the CLI. The client-side screenshot alone proves the tool exists; the log line is what proves the identity posture in § 8 holds for a caller that is not your own application.
 
 5. **Live demo (5–7 minutes)** — three parts, roughly two minutes each:
    1. One alert end to end: `analyze`, open the dossier, resolve a citation to its chunk, trace a threshold to a rules-engine invocation.
@@ -527,7 +566,7 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 - ☐ Four packets outside `corpus/`, and every Form 110 among them is the real FinCEN Form 110 — one handwritten with a sub-floor field, one malformed artifact, one contradicting business description, one legal entity customer
 - ☐ Every customer, taxpayer identification number and account number is synthetic
 - ☐ Golden questions written by the learner who did not tune retrieval; injection fixture outside `corpus/` and `packets/`
-- ☐ Every packet carries transaction dates, a detection date and any designation date, and they differ
+- ☐ Every packet carries transaction dates naming the business day each falls in and a date of initial detection; every packet with a Form 110 on file also carries the date the designation was made
 - ☐ The two manifest cross-references designated as the chain, and at least one distractor query, exercised by the golden set, including a case on each clock distractor
 
 **Architecture**
@@ -546,7 +585,8 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 - ☐ R1 and R2 are independent, proven by a test
 - ☐ Aggregation is computed deterministically at ingestion, not by a model
 - ☐ Escalation is deterministic code over deterministic signals; no model self-reported confidence anywhere
-- ☐ Four named triggers each fire on one alert and stay silent on a paired near-identical alert
+- ☐ Four named triggers each fire on one alert and stay silent on a paired near-identical alert
+- ☐ Near-boundary margins are configured per rule **with their units**, recorded in the architecture document's decisions table, and a value inside one escalates — proven by the paired case § 13 requires
 - ☐ Every R3 `exempt` and every R1 `not_required` outcome escalates; an R2 `not_required` does not, and the two are never conflated
 - ☐ No agent tool writes; the write layer requires a recorded approval
 - ☐ Every loop has a structured termination condition and an independent hard cap; every bound is typed config
@@ -568,7 +608,8 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 - ☐ The MCP server resolves the subject itself, is consumed by an agent, and is driven from an external client
 - ☐ Indirect injection through an uploaded artifact is tested and resisted
 - ☐ Every query goes through the repository module, parameterized, passwordless
-- ☐ Customer name, taxpayer identification number, account number and balance are redacted before reaching a model, a log or the index
+- ☐ An analyst holding no grant over an alert's business line gets a structured denial from the tool, not an empty result set — seeded analysts, seeded grants, and a test that asserts both directions
+- ☐ Customer name, taxpayer identification number and account number are redacted before reaching a model, a log or the index; transaction amounts and dates reach the workers because R1 and R2 need them, and are redacted at the log, trace and evaluation-store boundary
 
 **Delivery**
 - ☐ Run records cover every agent, tool, retrieval, rule and gate decision, PII-redacted

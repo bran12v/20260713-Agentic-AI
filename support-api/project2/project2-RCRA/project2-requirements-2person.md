@@ -47,7 +47,7 @@ Each has a real job, appears in a demo scenario, and is visible in the run recor
 
 | # | Service | Job |
 |---|---|---|
-| 1 | Azure AI Foundry | Model deployments: a reasoning tier for the workers, a fast tier for classification and the readiness gate, an embedding model for the index, a multimodal deployment for reading container labels and log photographs |
+| 1 | Azure AI Foundry | Model deployments: a reasoning tier for the workers, a fast tier for classification and the readiness gate, an embedding model for the index, a multimodal deployment for reading container labels and log photographs, and a judge deployment for § 13's evaluators |
 | 2 | Azure AI Search | The corpus index — hybrid retrieval with the semantic ranker, filterable on `doc_type` and `section_path` |
 | 3 | Azure AI Document Intelligence | Cracks the corpus PDFs at ingestion and the packet artifacts at `submit`, retaining per-field confidence |
 | 4 | Azure AI Content Safety | Content filters on every model call; Prompt Shields on analyst input and on every string cracked out of an artifact |
@@ -201,7 +201,7 @@ Five pure Python functions over typed inputs. **Thresholds never come from a mod
 > R5 cites no regulation. It is a configured extraction-quality threshold, declared in typed config and recorded in the architecture document's decisions table with the chosen value. Its rule output must identify it as a pipeline parameter.
 
 **Requirements**
-- Each rule returns outcome, rule id, source document id and the inputs used — never a bare boolean.
+- Each rule returns the outcome, the rule id, **every source it was decided from** and the inputs used — never a bare boolean. Type the source field as a list. Every rule in the table above is decided from several sections and some from more than one document, while R5 is a pipeline parameter with no regulatory source at all — a field typed as one id forces a special case at the call site for both ends of that range, and the citation the dossier renders is only as complete as what the rule handed back.
 - A missing input returns `insufficient_data` with the field named. Never a default.
 - Unit-tested at every boundary: exactly one inch of residue, exactly 3 percent by weight, exactly 119 gallons, exactly 0.3 percent above it, exactly 1 kg of acute waste, exactly 100 kg and exactly 1,000 kg of non-acute, exactly 90, 180 and 270 days, and exactly 0.60.
 - **R1 resolves acuteness from § 261.30(d), not from the code's shape.** That paragraph is the only place the corpus names the acute F-codes — F020–F023, F026 and F027 — and it is what § 9's escalation trigger and R2's exception both read. A rule that returns a listed code without an acute flag leaves both of them with nothing to test.
@@ -238,7 +238,7 @@ Five pure Python functions over typed inputs. **Thresholds never come from a mod
 ### Query pipeline
 
 - Hybrid retrieval, semantic-ranked, with filters where the query implies them.
-- **Refusal is gated on `@search.rerankerScore`** (bounded scale), never `@search.score`. Choose the threshold by running the golden set and finding where correct and incorrect answers separate; report the value and the method. If the semantic ranker is unavailable, run a second vector-only query and threshold on cosine similarity.
+- **Refusal is gated on `@search.rerankerScore`** (bounded scale), never `@search.score`. Choose the threshold by running the golden set and finding where correct and incorrect answers separate; report the value, the method **and which score it sits on**. The two paths are not interchangeable — `@search.rerankerScore` runs on the semantic ranker's bounded scale and cosine similarity runs 0 to 1 — so the fallback needs a threshold of its own, chosen the same way. A value carried across from one to the other refuses everything or nothing. If the semantic ranker is unavailable, run a second vector-only query and threshold on cosine similarity.
 - Detect multi-hop cases where one document cross-references another.
 - Every grounded claim carries a machine-checkable citation — a structured `sources` array of document id, title and chunk id, with prose referring to entries by index.
 - Below threshold: refuse explicitly, name what was searched for, offer the escalation path. Never fall back on model knowledge.
@@ -254,8 +254,11 @@ PostgreSQL holds waste determinations, run records, the review queue and session
 - Versioned migrations, committed.
 - Passwordless Entra auth on the deployed path; local compose uses a development credential from typed config.
 - `pgvector` backs similar-stream search.
-- A session table holds the serialized transcript keyed by `(analyst_id, stream_id)`.
+- A session table holds the serialized transcript keyed by `(analyst_id, stream_id, participant)`. The third column is what keeps the Reviewer's transcript out of the analyst's — § 4 runs the Reviewer as a harness stage with a conversation of its own, and § 9 requires one session per participant. Two columns collide the first time the Reviewer runs.
 - Seed 12+ historical determinations: one on each side of every rule boundary, several messy-reality records, and one forcing `insufficient_data`.
+- **A seed is what `find_similar_streams` returns, so a boundary value alone is not one.** Each seed carries the same normalized field set a submitted packet produces, the outcome it was closed with, the rule that decided it, and a short narrative — the embedding is built from the narrative, and a seed without one is unfindable however well it sits against a boundary. Spread the dates across at least two years so recency is a real filter, and spread them across facilities so entitlement filtering has something to exclude.
+- **An analysts table and a grants table, seeded.** An entitlement is an analyst's grant over a partition of the records, and for this project the partition is the generator facility the stream comes from: every waste stream record carries a `facility_id`, and a grant is a `(analyst_id, facility_id)` row. Seed at least three analysts across at least three facilities, with one analyst holding two grants and one waste stream no one but its owner can read. Without those rows there is nothing for § 10's in-tool check to deny and nothing for the entitlement test in § 12 to assert.
+- **A run record carries what § 12 measures.** One row per turn: correlation id, command, the workers dispatched, every tool invocation with its arguments hash and outcome, every rules-engine invocation with its inputs and result, and the escalation triggers evaluated with which fired. § 12 asks for cost and latency **measured, not estimated**, so the row also carries per-call model deployment, prompt and completion token counts, wall-clock duration, and the cost derived from them. Prices come from typed config rather than a constant in the code — they change, and an unpinned price makes last month's cost report unreproducible.
 
 ---
 
@@ -277,6 +280,8 @@ PostgreSQL holds waste determinations, run records, the review queue and session
 **Tool rules**
 - **The model chooses what, never whose.** No tool accepts a stream id as a model-filled argument — the subject is session-bound and injected by the dispatcher. The model still picks filters and `top_k`.
 - **Idempotency keys come from the harness**, derived from `(session_id, tool_name, canonicalized_arguments)`. Canonicalization must be order-independent and tested.
+- **`find_similar_streams` returns candidates, never a conclusion.** Each result carries the stream id, the outcome it was closed with, the rule that decided it, the similarity score, and the span of narrative that matched — enough for a worker to cite a precedent and for the Reviewer to check that it says what the worker claims. It returns no recommendation, and a worker that adopts the nearest neighbour's outcome as its own has skipped the rule. `top_k` and the filters are model-chosen; the entitlement partition is not.
+- **Every `propose_*` tool takes a typed proposal, returns it validated or rejected, and writes nothing.** The rejection is synchronous and the worker can retry against it, which is why `propose_restriction_finding` enforces its citation there: a proposal whose citation does not resolve to a real document and chunk id comes straight back. That is a schema-level check and it is **not** the same test as § 9's output guardrail, which reads the turn's own record after generation and asks whether the cited chunk actually supports the claim. The first costs a retry, the second costs a regeneration. Write both, and test them separately. The other `propose_*` tools carry no citation gate because their outcomes come from the rules engine, where the attribution check covers them instead.
 - Pydantic in and out; precise docstrings with per-parameter descriptions; structured errors rather than raised exceptions (unexpected exceptions still logged with stack trace).
 
 **MCP server**
@@ -295,6 +300,9 @@ PostgreSQL holds waste determinations, run records, the review queue and session
 1. **Input validation** before any model call — typed request model, length caps, artifact type and size checks.
 2. **Prompt Shields** on analyst input and on every string cracked out of an artifact.
 3. **Readiness gate** — classify into `policy_question` / `classify` / `action` / `out_of_scope`, then run a deterministic check regardless of what the model returned: is there a normalized record, are required fields present, is any field below 0.60?
+
+   **Each label has a consequence, and the CI tier asserts it.** `policy_question` answers from retrieval without dispatching a worker. `classify` runs the workflow. `action` is refused outright — nothing in this system writes without the two-person approval in § 11, so a turn asking it to act is answered with what would have to happen instead. `out_of_scope` refuses and names the escalation path. The deterministic check overrides the label in one direction only: it can stop a `classify` turn, never start one.
+
 4. **Output guardrails** — deterministic code reading the turn's own record, blocking assertions without provenance, uncited claims, threshold outcomes with no rules-engine invocation this turn, and determination-shaped language.
 
 **Remedies differ by failure type:**
@@ -306,6 +314,8 @@ PostgreSQL holds waste determinations, run records, the review queue and session
 | Missing disclosure | Append deterministically |
 | Unattributed threshold | Run the rule, inject the result, regenerate |
 | PII in output | Redact deterministically, raise an event, never regenerate |
+
+**An event has a sink.** The events this table raises are a row on the turn's run record and a line in the structured log, each carrying the correlation id, the remedy applied and the field or claim that triggered it — not a `print`, and not an exception that unwinds the turn. The PII event has one extra constraint: it must survive the redactor. Record that a redaction happened and which field it was on, never what was in it.
 
 No failure is silently repaired — every remedy is recorded on the turn. Refusals are typed first-class outputs with reason codes.
 
@@ -328,7 +338,7 @@ Triggers, OR-ed, each recorded by name when it fires:
 - The container photograph contradicts the log
 - **The two legs disagree** — the quantity the generator status leg counted is inconsistent with what the waste identification leg found
 
-**Near-boundary margins** are configured per rule around the one-inch, 3-percent, 1 kg, 100 kg, 1,000 kg, 90-day, 180-day and 0.60 boundaries. R1 has no margin for list membership — an unrecognised code returns `insufficient_data`, not a default.
+**Near-boundary margins** are configured per rule around the one-inch, 3-percent, 1 kg, 100 kg, 1,000 kg, 90-day, 180-day and 0.60 boundaries. R1 has no margin for list membership — an unrecognised code returns `insufficient_data`, not a default. A margin is expressed in the boundary's own unit — days against a day count, individuals against a population, dollars against a dollar figure — never as a percentage of the boundary, which makes two margins on different scales look comparable when they are not. The chosen values are yours; record each one, with its unit and the reasoning, in the architecture document's decisions table.
 
 > **A determination near a category boundary always escalates.** The 1 kg acute threshold is small enough that a single mis-measured drum can move a facility from small to large quantity generator, which changes its accumulation clock, its manifest duties and its inspection posture. Record this in the architecture document as a deliberate decision.
 
@@ -390,6 +400,8 @@ Installed as a console entry point (`pip install -e .`). Each command: load conf
 
 - **Citations that resolve** — document id, title, section, and the chunk text one command away. Requires stable chunk ids in the stored dossier.
 - **A review queue and decision card** — the queue lists escalated dossiers with the named triggers that escalated each; the card shows the exact payload with approve / edit-then-approve / reject, all three recorded.
+
+  **Edit-then-approve edits the narrative, never the determination.** A reviewer may change wording, add a note, and repoint a citation at a different chunk of the same source. They may not change a rule outcome, a computed date or a cited document — those came from the rules engine and the index, and an edited copy no longer traces to either. A reviewer who disagrees with an outcome rejects it, which is what sends it back. The stored record keeps the original payload and the edit as separate fields, since § 7 requires a correction to be a new record rather than an edit in place.
 - **Refusals rendered as answers, not errors** — the reason, what was searched for, the escalation path.
 - **Visible provenance for computed outcomes** — which rule, on what inputs.
 - **A persistent disclosure** that the dossier is AI-generated and must be verified, that it reflects the federal baseline only, and the synthetic-data notice.
@@ -448,6 +460,20 @@ Type hints throughout · `ruff` clean · a custom exception hierarchy so extract
 
 At least two cases are multi-turn (`analyze` then `ask`). At least one query must be built on each of the first three retrieval distractors in the manifest, including one whose naive keyword match lands on the wrong section. **One of the two refusal cases must be a P-code or U-code listing question** — the in-scope-but-not-carried gap, which is harder to refuse correctly than an obviously foreign topic.
 
+### What a golden case is on disk
+
+The custom evaluators read these files and the CI tier hard-fails on them, so "in version control" means machine-readable and not a table in a markdown file. One YAML or JSON file per case under `evals/golden/`, or one document holding all of them — either, as long as a test can load it.
+
+Every case carries an id, the category from the table above, the query text, the expected outcome, the document ids and section paths that must appear in the answer's `sources` array, the subject `stream_id` where the case is stream-backed and null where it is not, and one line on why the case exists.
+
+Three categories need more than that:
+
+- **A refusal case has no expected answer.** It carries the refusal reason it should give and the phrase that must **not** appear in the response. Only the second field catches the real failure, which is not a wrong answer but a refusal that hedges its way into one.
+
+- **A threshold case carries the boundary, the value, which side of the boundary the value falls on, and the expected rule outcome.** The two cases in a pair share a `pair_id` so the evaluator can assert they come out differently — a pair that agrees is a pair that proves nothing, and it fails silently unless something checks for it.
+
+- **A multi-turn case is a list of turns, not one query**, each turn with its own expectation, and it asserts on the session as well as the answer: the follow-up turn must reach the same rules-engine invocation the first one recorded rather than re-deriving the threshold from the model.
+
 **Evaluators:** Foundry's for groundedness and relevance. Custom for provenance and citation accuracy (does each cited chunk actually support its claim?), rules-engine attribution (asserted against the stored run record), and refusal precision and recall reported separately.
 
 ### The four adversarial cases
@@ -482,13 +508,14 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 - Azure AI Search at Basic tier or higher (semantic ranker), or adopt the vector-only fallback.
 - Document Intelligence at **Standard (S0), not F0** — F0 silently returns only the first two pages of a document, which would truncate `CFR-261` to nothing useful.
 - Record provisioned TPM per deployment.
+- **A separate judge deployment for the evaluators.** Foundry's groundedness and relevance evaluators call a model of their own. Pointed at the workers' reasoning deployment they compete for the same TPM, which makes § 12's latency numbers unreproducible and makes an evaluation run look slower the more of it you run. Provision the judge separately, pin its model and version in the architecture document, and record its TPM with the others — two judged runs are not comparable across two judge versions, and § 13 asks you to analyze the delta between them.
 - Cost budget and GitHub OIDC federated credential provisioned up front.
 
 ---
 
 ## 15. Deliverables
 
-1. **The repository** — CLI application, MCP server, ingestion pipeline, repository module, rules engine, evaluation suite, tests, `infra/`, Dockerfiles, compose file, CI workflow, pinned dependencies, README operations section, and `packets/`.
+1. **The repository** — CLI application, MCP server, ingestion pipeline, repository module, rules engine, evaluation suite, tests, Dockerfiles, compose file, CI workflow, pinned dependencies, README operations section, and `packets/`.
 
 2. **Architecture document** — a reference document, not an essay:
    - The topology, plus why orchestrator/worker and why not the framework's sequential, concurrent, group-chat, handoff or magentic orchestrations (one line each)
@@ -499,7 +526,17 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 
 3. **Evaluation report** — golden set, per-category results, the reranker threshold and how it was chosen, both judged runs with the delta, every adversarial case, cost and latency measured from the run records.
 
-4. **Demonstration artifacts** — the escalation contrast (one stream clearing, the same stream with one signal degraded escalating) · indirect-injection resistance · the session-isolation test · the grounded-versus-ungrounded contrast · the MCP server driven from an external client.
+4. **Demonstration artifacts** — five of them, each a committed file rather than a live click-through, so a grader can check them without your laptop.
+
+   - **The escalation contrast** — the `trace` and `dossier` output of the clean run, the same two from a run of the same waste stream with one field degraded, and two lines naming the trigger that fired and the queue row it produced. This is the artifact § 15 leans on hardest and the one most often submitted as a screenshot of a terminal that has since scrolled away.
+
+   - **Indirect-injection resistance** — the transcript of the run against the poisoned artifact, with the Prompt Shields event and the unchanged determination both visible in the trace.
+
+   - **The session-isolation test** — the test file and its output.
+
+   - **The grounded-versus-ungrounded contrast** — both transcripts side by side, which § 13's first adversarial case already asks you to commit.
+
+   - **The MCP server driven from an external client** — a recorded terminal session or a screen capture of a second host (Claude Code, MCP Inspector) listing the tools and calling one, **plus the server-side log line** showing the call arrived over Streamable HTTP and was authorized as that caller rather than as the CLI. The client-side screenshot alone proves the tool exists; the log line is what proves the identity posture in § 8 holds for a caller that is not your own application.
 
 5. **Live demo (5–7 minutes)** — three parts, roughly two minutes each:
    1. One stream end to end: `analyze`, open the dossier, resolve a citation to its chunk, trace a threshold to a rules-engine invocation.
@@ -518,7 +555,7 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 - ☐ Threshold wording in the Python functions matches the regulation, including the acute-waste exception in § 261.7(b)(1)
 - ☐ Four packets on the real Uniform Hazardous Waste Manifest, outside `corpus/` — one handwritten with a sub-floor field, one malformed artifact, one contradicting container photograph, one acute-waste drum
 - ☐ Golden questions written by the learner who did not tune retrieval; injection fixture outside `corpus/` and `packets/`
-- ☐ Every packet carries a generation date, an accumulation start date and a review date, and they differ
+- ☐ Every packet carries a review date and a generation date; every packet that accumulates also carries an accumulation start date, and P1's absence of one is the case that proves the generator status leg is never dispatched
 - ☐ The three manifest cross-references designated as the chain, and at least one distractor query, exercised by the golden set
 
 **Architecture**
@@ -536,7 +573,8 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 - ☐ R3 counts acute and non-acute quantities separately, proven by a test
 - ☐ Escalation is deterministic code over deterministic signals; no model self-reported confidence anywhere
 - ☐ Four named triggers each fire on one stream and stay silent on a paired near-identical stream
-- ☐ Near-boundary margins configured per rule; an acute code, a near-boundary quantity, an R2 `not_empty` on a container the packet marked empty, or the two legs disagreeing all escalate
+- ☐ Near-boundary margins are configured per rule **with their units**, recorded in the architecture document's decisions table, and a value inside one escalates — proven by the paired case § 13 requires
+- ☐ An acute code, a near-boundary quantity, an R2 `not_empty` on a container the packet marked empty, or the two legs disagreeing all escalate
 - ☐ No agent tool writes; the write layer requires a recorded approval
 - ☐ Every loop has a structured termination condition and an independent hard cap; every bound is typed config
 - ☐ The cost ceiling is per-session and accumulates across `ask` turns
@@ -556,6 +594,7 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 - ☐ The MCP server resolves the subject itself, is consumed by an agent, and is driven from an external client
 - ☐ Indirect injection through an uploaded artifact is tested and resisted
 - ☐ Every query goes through the repository module, parameterized, passwordless
+- ☐ An analyst holding no grant over a waste stream's facility gets a structured denial from the tool, not an empty result set — seeded analysts, seeded grants, and a test that asserts both directions
 - ☐ EPA identification numbers, transporter names and site addresses are redacted before reaching a model, a log or the index
 
 **Delivery**
