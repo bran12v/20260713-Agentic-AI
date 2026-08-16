@@ -49,7 +49,7 @@ Each has a real job, appears in a demo scenario, and is visible in the run recor
 
 | # | Service | Job |
 |---|---|---|
-| 1 | Azure AI Foundry | Model deployments: a reasoning tier for the workers, a fast tier for classification and the readiness gate, an embedding model for the index, a multimodal deployment for reading the handwritten Form SS-8 and the deposit schedule tables |
+| 1 | Azure AI Foundry | Model deployments: a reasoning tier for the workers, a fast tier for classification and the readiness gate, an embedding model for the index, a multimodal deployment for reading the handwritten Form SS-8 and the deposit schedule tables, and a judge deployment for § 13's evaluators |
 | 2 | Azure AI Search | The corpus index — hybrid retrieval with the semantic ranker, filterable on `doc_type` and `section_path` |
 | 3 | Azure AI Document Intelligence | Cracks the corpus PDFs at ingestion and the packet artifacts at `submit`, retaining per-field confidence |
 | 4 | Azure AI Content Safety | Content filters on every model call; Prompt Shields on analyst input and on every string cracked out of an artifact |
@@ -107,7 +107,7 @@ Four packets in `packets/`, outside `corpus/`, built on the real Form SS-8. **Se
 | Packet | Exercises |
 |---|---|
 | P1 | A genuine independent contractor — the common-law factors point away from employment. No liability arises |
-| P2 | An employee with **relief available for one year and unavailable for another** — fires all three legs, and proves the period-by-period rule |
+| P2 | An employee whose information returns were both filed **after the first IRS contact** — fires all three legs, proves footnote 14, and is the packet that clears |
 | P3 | Illegible date of first IRS contact on a handwritten SS-8 → extraction below 0.60 → routes to human determination |
 | P4 | An employee whose firm treated a comparable worker as an employee — **but only after the audit years**. Plus a malformed artifact and a filing history that contradicts the SS-8 |
 
@@ -170,11 +170,11 @@ The topology is expressed as executors and typed edges, not as hand-rolled `asyn
 | Packet | Plan |
 |---|---|
 | P1 — genuine contractor | Classification and relief. R1 returns `independent_contractor`, so the exposure leg's predicate fails on its first conjunct |
-| P2 — employee, relief for one year only | All three. The exposure leg runs **for the unrelieved period only** |
+| P2 — employee, no relief in either period | All three. The exposure leg runs **for both periods** |
 | P3 — illegible IRS contact date | None. The readiness gate routes to the analyst before any dispatch |
 | P4 — employee, comparable worker converted later | Classification and relief. Relief **is** available, so no exposure leg — which is the whole point |
 
-P3 dispatches none and P4 must dispatch two, so **P2 and P4 are the pair to demonstrate** — P2 fires all three and splits by period, and P4 produces the Reviewer rejection.
+P3 dispatches none and P4 must dispatch two, so **P2 and P4 are the pair to demonstrate** — P2 fires all three legs and is the packet that clears, and P4 produces the Reviewer rejection.
 
 ### Requirements
 
@@ -212,7 +212,7 @@ Five pure Python functions over typed inputs. **Thresholds never come from a mod
 > R5 cites no regulation. It is a configured extraction-quality threshold, declared in typed config and recorded in the architecture document's decisions table with the chosen value. Its rule output must identify it as a pipeline parameter.
 
 **Requirements**
-- Each rule returns outcome, rule id, source document id and the inputs used — never a bare boolean.
+- Each rule returns the outcome, the rule id, **every source it was decided from** and the inputs used — never a bare boolean. Type the source field as a list. Every rule in the table above is decided from several sections and some from more than one document, while R5 is a pipeline parameter with no regulatory source at all — a field typed as one id forces a special case at the call site for both ends of that range, and the citation the dossier renders is only as complete as what the rule handed back.
 - A missing input returns `insufficient_data` with the field named. Never a default.
 - Unit-tested at every boundary: exactly 5 days late, exactly 6, exactly 15, exactly 16, the $100,000 next-day threshold, the greater-of-$100-or-2% shortfall tolerance, and exactly 0.60. Where a rule has no numeric boundary, test each limb independently.
 - **R2 returns a result per period, not per firm.** Rev. Proc. 2025-10 § 4.03 states that reporting consistency "must be satisfied on a period-by-period basis" — a firm that filed information returns for year 2 but not year 1 has relief for year 2 only. A rule that returns one verdict for a worker cannot express P2, and a signature that takes a single period and is called in a loop is the intended shape.
@@ -253,7 +253,7 @@ Five pure Python functions over typed inputs. **Thresholds never come from a mod
 ### Query pipeline
 
 - Hybrid retrieval, semantic-ranked, with filters where the query implies them.
-- **Refusal is gated on `@search.rerankerScore`** (bounded scale), never `@search.score`. Choose the threshold by running the golden set and finding where correct and incorrect answers separate; report the value and the method. If the semantic ranker is unavailable, run a second vector-only query and threshold on cosine similarity.
+- **Refusal is gated on `@search.rerankerScore`** (bounded scale), never `@search.score`. Choose the threshold by running the golden set and finding where correct and incorrect answers separate; report the value, the method **and which score it sits on**. The two paths are not interchangeable — `@search.rerankerScore` runs on the semantic ranker's bounded scale and cosine similarity runs 0 to 1 — so the fallback needs a threshold of its own, chosen the same way. A value carried across from one to the other refuses everything or nothing. If the semantic ranker is unavailable, run a second vector-only query and threshold on cosine similarity.
 - **Disambiguating "safe harbor" is a requirement, not an optimization.** The term backs two unrelated rules. Whatever mechanism you choose — `section_path` filtering, query rewriting, or routing by the dispatching worker's identity — demonstrate it with a golden case and record the choice in the architecture document.
 - Detect multi-hop cases where one document cross-references another, **and the within-document case where one section qualifies another.**
 - Every grounded claim carries a machine-checkable citation — a structured `sources` array of document id, title and chunk id, with prose referring to entries by index.
@@ -270,8 +270,11 @@ PostgreSQL holds worker records, run records, the review queue and sessions.
 - Versioned migrations, committed.
 - Passwordless Entra auth on the deployed path; local compose uses a development credential from typed config.
 - `pgvector` backs comparable-worker search — which is not a convenience here but an input to R2, since substantive consistency is a comparison against other workers the firm engaged.
-- A session table holds the serialized transcript keyed by `(analyst_id, worker_file_id)`.
+- A session table holds the serialized transcript keyed by `(analyst_id, worker_file_id, participant)`. The third column is what keeps the Reviewer's transcript out of the analyst's — § 4 runs the Reviewer as a harness stage with a conversation of its own, and § 9 requires one session per participant. Two columns collide the first time the Reviewer runs.
 - Seed 12+ historical worker records: one on each side of every rule boundary, several messy-reality records, at least one pair that is substantially similar on duties but **not** on control, and one forcing `insufficient_data`.
+- **A seed is what `find_comparable_workers` returns, so a boundary value alone is not one.** Each seed carries the same normalized field set a submitted packet produces, the outcome it was closed with, the rule that decided it, and a short narrative — the embedding is built from the narrative, and a seed without one is unfindable however well it sits against a boundary. Spread the dates across at least two years so recency is a real filter, and spread them across clients so entitlement filtering has something to exclude.
+- **An analysts table and a grants table, seeded.** An entitlement is an analyst's grant over a partition of the records, and for this project the partition is the client firm under examination: every worker file record carries a `client_id`, and a grant is a `(analyst_id, client_id)` row. Seed at least three analysts across at least three clients, with one analyst holding two grants and one worker file no one but its owner can read. Without those rows there is nothing for § 10's in-tool check to deny and nothing for the entitlement test in § 12 to assert.
+- **A run record carries what § 12 measures.** One row per turn: correlation id, command, the workers dispatched, every tool invocation with its arguments hash and outcome, every rules-engine invocation with its inputs and result, and the escalation triggers evaluated with which fired. § 12 asks for cost and latency **measured, not estimated**, so the row also carries per-call model deployment, prompt and completion token counts, wall-clock duration, and the cost derived from them. Prices come from typed config rather than a constant in the code — they change, and an unpinned price makes last month's cost report unreproducible.
 
 ---
 
@@ -293,6 +296,8 @@ PostgreSQL holds worker records, run records, the review queue and sessions.
 **Tool rules**
 - **The model chooses what, never whose.** No tool accepts a worker file id as a model-filled argument — the subject is session-bound and injected by the dispatcher. The model still picks filters and `top_k`.
 - **Idempotency keys come from the harness**, derived from `(session_id, tool_name, canonicalized_arguments)`. Canonicalization must be order-independent and tested.
+- **`find_comparable_workers` returns candidates, never a conclusion.** Each result carries the worker record id, the outcome it was closed with, the rule that decided it, the similarity score, and the span of narrative that matched — enough for a worker to cite a precedent and for the Reviewer to check that it says what the worker claims. It returns no recommendation, and a worker that adopts the nearest neighbour's outcome as its own has skipped the rule. `top_k` and the filters are model-chosen; the entitlement partition is not.
+- **Every `propose_*` tool takes a typed proposal, returns it validated or rejected, and writes nothing.** The rejection is synchronous and the worker can retry against it, which is why `propose_relief_finding` enforces its citation there: a proposal whose citation does not resolve to a real document and chunk id comes straight back. That is a schema-level check and it is **not** the same test as § 9's output guardrail, which reads the turn's own record after generation and asks whether the cited chunk actually supports the claim. The first costs a retry, the second costs a regeneration. Write both, and test them separately. The other `propose_*` tools carry no citation gate because their outcomes come from the rules engine, where the attribution check covers them instead.
 - Pydantic in and out; precise docstrings with per-parameter descriptions; structured errors rather than raised exceptions (unexpected exceptions still logged with stack trace).
 
 **MCP server**
@@ -311,6 +316,9 @@ PostgreSQL holds worker records, run records, the review queue and sessions.
 1. **Input validation** before any model call — typed request model, length caps, artifact type and size checks.
 2. **Prompt Shields** on analyst input and on every string cracked out of an artifact.
 3. **Readiness gate** — classify into `policy_question` / `classify` / `action` / `out_of_scope`, then run a deterministic check regardless of what the model returned: is there a normalized record, are required fields present, is any field below 0.60?
+
+   **Each label has a consequence, and the CI tier asserts it.** `policy_question` answers from retrieval without dispatching a worker. `classify` runs the workflow. `action` is refused outright — nothing in this system writes without the two-person approval in § 11, so a turn asking it to act is answered with what would have to happen instead. `out_of_scope` refuses and names the escalation path. The deterministic check overrides the label in one direction only: it can stop a `classify` turn, never start one.
+
 4. **Output guardrails** — deterministic code reading the turn's own record, blocking assertions without provenance, uncited claims, threshold outcomes with no rules-engine invocation this turn, and determination-shaped language.
 
 **Remedies differ by failure type:**
@@ -322,6 +330,8 @@ PostgreSQL holds worker records, run records, the review queue and sessions.
 | Missing disclosure | Append deterministically |
 | Unattributed threshold | Run the rule, inject the result, regenerate |
 | PII in output | Redact deterministically, raise an event, never regenerate |
+
+**An event has a sink.** The events this table raises are a row on the turn's run record and a line in the structured log, each carrying the correlation id, the remedy applied and the field or claim that triggered it — not a `print`, and not an exception that unwinds the turn. The PII event has one extra constraint: it must survive the redactor. Record that a redaction happened and which field it was on, never what was in it.
 
 No failure is silently repaired — every remedy is recorded on the turn. Refusals are typed first-class outputs with reason codes.
 
@@ -353,7 +363,7 @@ Triggers, OR-ed, each recorded by name when it fires:
 - A comparable worker was found whose duties are substantially similar but whose control is not, or the reverse
 - The filing history contradicts the Form SS-8
 
-**Near-boundary margins** are configured per rule around the penalty tier day boundaries and the $100,000 threshold. R1 and R2 have no numeric margin — both turn on qualitative multi-factor tests, and a rule that scores them numerically has invented a threshold the law does not contain.
+**Near-boundary margins** are configured per rule around the penalty tier day boundaries and the $100,000 threshold. R1 and R2 have no numeric margin — both turn on qualitative multi-factor tests, and a rule that scores them numerically has invented a threshold the law does not contain. A margin is expressed in the boundary's own unit — days against a day count, individuals against a population, dollars against a dollar figure — never as a percentage of the boundary, which makes two margins on different scales look comparable when they are not. The chosen values are yours; record each one, with its unit and the reasoning, in the architecture document's decisions table.
 
 > **Both favourable outcomes escalate, and the reason is the same in each case.** A finding of independent-contractor status and a finding of section 530 relief are the two outcomes that end the process with nothing owed. Both rest on evidence the firm itself controls and produces, both are what the firm is paying to hear, and a system that reaches either one quietly has done the most expensive possible thing wrong. Record this in the architecture document as a deliberate decision.
 
@@ -415,6 +425,8 @@ Installed as a console entry point (`pip install -e .`). Each command: load conf
 
 - **Citations that resolve** — document id, title, section, and the chunk text one command away. Requires stable chunk ids in the stored dossier.
 - **A review queue and decision card** — the queue lists escalated dossiers with the named triggers that escalated each; the card shows the exact payload with approve / edit-then-approve / reject, all three recorded.
+
+  **Edit-then-approve edits the narrative, never the determination.** A reviewer may change wording, add a note, and repoint a citation at a different chunk of the same source. They may not change a rule outcome, a computed date or a cited document — those came from the rules engine and the index, and an edited copy no longer traces to either. A reviewer who disagrees with an outcome rejects it, which is what sends it back. The stored record keeps the original payload and the edit as separate fields, since § 7 requires a correction to be a new record rather than an edit in place.
 - **Refusals rendered as answers, not errors** — the reason, what was searched for, the escalation path.
 - **Visible provenance for computed outcomes** — which rule, on what inputs. For R2 this must be rendered **per period**, because a single line saying relief is or is not available misrepresents what the rule returned.
 - **A persistent disclosure** that the dossier is AI-generated and must be verified, that section 530 relief has no regulations and is grounded in published guidance alone, that the corpus covers federal employment tax only and not the FLSA or any state test, plus the synthetic-data notice.
@@ -475,6 +487,20 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 
 **One refusal case must be built on the FLSA economic-reality test**, which is genuinely absent. Do not build one on wages or overtime generally — `minimum wage` and `overtime` each appear once in `RP-2025-10`, so a refusal on either would fail for the wrong reason.
 
+### What a golden case is on disk
+
+The custom evaluators read these files and the CI tier hard-fails on them, so "in version control" means machine-readable and not a table in a markdown file. One YAML or JSON file per case under `evals/golden/`, or one document holding all of them — either, as long as a test can load it.
+
+Every case carries an id, the category from the table above, the query text, the expected outcome, the document ids and section paths that must appear in the answer's `sources` array, the subject `worker_file_id` where the case is file-backed and null where it is not, and one line on why the case exists.
+
+Three categories need more than that:
+
+- **A refusal case has no expected answer.** It carries the refusal reason it should give and the phrase that must **not** appear in the response. Only the second field catches the real failure, which is not a wrong answer but a refusal that hedges its way into one.
+
+- **A threshold case carries the boundary, the value, which side of the boundary the value falls on, and the expected rule outcome.** The two cases in a pair share a `pair_id` so the evaluator can assert they come out differently — a pair that agrees is a pair that proves nothing, and it fails silently unless something checks for it.
+
+- **A multi-turn case is a list of turns, not one query**, each turn with its own expectation, and it asserts on the session as well as the answer: the follow-up turn must reach the same rules-engine invocation the first one recorded rather than re-deriving the threshold from the model.
+
 **Evaluators:** Foundry's for groundedness and relevance. Custom for provenance and citation accuracy (does each cited chunk actually support its claim?), rules-engine attribution (asserted against the stored run record), and refusal precision and recall reported separately.
 
 ### The four adversarial cases
@@ -509,13 +535,14 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 - Azure AI Search at Basic tier or higher (semantic ranker), or adopt the vector-only fallback.
 - Document Intelligence at **Standard (S0), not F0** — F0 silently returns only the first two pages of a document, which would truncate `RP-2025-10` to its purpose statement and lose the entire trap.
 - Record provisioned TPM per deployment.
+- **A separate judge deployment for the evaluators.** Foundry's groundedness and relevance evaluators call a model of their own. Pointed at the workers' reasoning deployment they compete for the same TPM, which makes § 12's latency numbers unreproducible and makes an evaluation run look slower the more of it you run. Provision the judge separately, pin its model and version in the architecture document, and record its TPM with the others — two judged runs are not comparable across two judge versions, and § 13 asks you to analyze the delta between them.
 - Cost budget and GitHub OIDC federated credential provisioned up front.
 
 ---
 
 ## 15. Deliverables
 
-1. **The repository** — CLI application, MCP server, ingestion pipeline, repository module, rules engine, evaluation suite, tests, `infra/`, Dockerfiles, compose file, CI workflow, pinned dependencies, README operations section, and `packets/`.
+1. **The repository** — CLI application, MCP server, ingestion pipeline, repository module, rules engine, evaluation suite, tests, Dockerfiles, compose file, CI workflow, pinned dependencies, README operations section, and `packets/`.
 
 2. **Architecture document** — a reference document, not an essay:
    - The topology, plus why orchestrator/worker and why not the framework's sequential, concurrent, group-chat, handoff or magentic orchestrations (one line each)
@@ -529,12 +556,22 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 
 3. **Evaluation report** — golden set, per-category results, the reranker threshold and how it was chosen, both judged runs with the delta, every adversarial case, cost and latency measured from the run records.
 
-4. **Demonstration artifacts** — the escalation contrast (one file clearing, the same file with one signal degraded escalating) · indirect-injection resistance · the session-isolation test · the grounded-versus-ungrounded contrast · the MCP server driven from an external client.
+4. **Demonstration artifacts** — five of them, each a committed file rather than a live click-through, so a grader can check them without your laptop.
+
+   - **The escalation contrast** — the `trace` and `dossier` output of the clean run, the same two from a run of the same worker file with one field degraded, and two lines naming the trigger that fired and the queue row it produced. This is the artifact § 15 leans on hardest and the one most often submitted as a screenshot of a terminal that has since scrolled away.
+
+   - **Indirect-injection resistance** — the transcript of the run against the poisoned artifact, with the Prompt Shields event and the unchanged determination both visible in the trace.
+
+   - **The session-isolation test** — the test file and its output.
+
+   - **The grounded-versus-ungrounded contrast** — both transcripts side by side, which § 13's first adversarial case already asks you to commit.
+
+   - **The MCP server driven from an external client** — a recorded terminal session or a screen capture of a second host (Claude Code, MCP Inspector) listing the tools and calling one, **plus the server-side log line** showing the call arrived over Streamable HTTP and was authorized as that caller rather than as the CLI. The client-side screenshot alone proves the tool exists; the log line is what proves the identity posture in § 8 holds for a caller that is not your own application.
 
 5. **Live demo (5–7 minutes)** — three parts, roughly two minutes each:
    1. One worker file end to end: `analyze`, open the dossier, resolve a citation to its chunk, trace a penalty tier to a rules-engine invocation.
    2. The escalation contrast: a clean file clears; a degraded signal lands in the queue with the trigger named.
-   3. P2 and P4 side by side: P2 fires all three legs and splits relief by period; P4 fires two, and the Reviewer rejection over § 5.04 is visible in the run record.
+   3. P2 and P4 side by side: P2 fires all three legs and clears; P4 fires two, and the Reviewer rejection over § 5.04 is visible in the run record.
 
    Run `submit` before the demo starts. Rehearse to time. Both team members must be able to answer questions about any part of the system.
 
@@ -548,7 +585,7 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 - ☐ The `PUB-15` penalty tier table was checked explicitly and the result recorded in the architecture document
 - ☐ Threshold wording in the Python functions matches the source, including "substantially similar position" and "subsequent to the period under audit"
 - ☐ Four packets on the real Form SS-8, outside `corpus/` — one handwritten with a sub-floor field, one malformed artifact, one contradicting filing history — and no worker, client, TIN or engagement in any of them is real
-- ☐ Every packet carries a services-began date, information-return filing dates and a date of first IRS contact, and they differ
+- ☐ Every packet carries a services-began date, one information-return filing date per period and a date of first IRS contact, and they differ; P3's contact date is the field degraded below the confidence floor
 - ☐ Golden questions written by the learner who did not tune retrieval; injection fixture outside `corpus/` and `packets/`
 - ☐ The two manifest cross-references designated as the chain, and at least one distractor query, exercised by the golden set, including the within-document multi-hop and a "safe harbor" query that resolves to the correct one of the two rules
 
@@ -569,7 +606,8 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 - ☐ R3 raises rather than returns when called without both conjuncts satisfied
 - ☐ R1 reaches the statutory lists before the common-law test, and tests all three further conditions for statutory employees
 - ☐ Escalation is deterministic code over deterministic signals; no model self-reported confidence anywhere
-- ☐ Four named triggers each fire on one file and stay silent on a paired near-identical file
+- ☐ Four named triggers each fire on one file and stay silent on a paired near-identical file
+- ☐ Near-boundary margins are configured per rule **with their units**, recorded in the architecture document's decisions table, and a value inside one escalates — proven by the paired case § 13 requires
 - ☐ Every `independent_contractor` and every `relief_available` outcome escalates
 - ☐ No agent tool writes; the write layer requires a recorded approval
 - ☐ Every loop has a structured termination condition and an independent hard cap; every bound is typed config
@@ -591,6 +629,7 @@ At least two cases are multi-turn (`analyze` then `ask`). At least one query mus
 - ☐ The MCP server resolves the subject itself, is consumed by an agent, and is driven from an external client
 - ☐ Indirect injection through an uploaded artifact is tested and resisted
 - ☐ Every query goes through the repository module, parameterized, passwordless
+- ☐ An analyst holding no grant over a worker file's client gets a structured denial from the tool, not an empty result set — seeded analysts, seeded grants, and a test that asserts both directions
 - ☐ Taxpayer identification numbers are redacted before reaching a model, a log or the index
 
 **Delivery**
