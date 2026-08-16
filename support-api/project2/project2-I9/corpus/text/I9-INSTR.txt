@@ -1,0 +1,336 @@
+
+--- page 1 ---
+Page 1 of 8Form I-9 Instructions   01/20/25
+Instructions for Form I-9, 
+Employment Eligibility Verification                      
+Department of Homeland Security 
+U.S. Citizenship and Immigration Services
+USCIS 
+Form I-9 
+OMB No. 1615-0047 
+Expires 05/31/2027
+Employers and employees must complete their respective sections of Form I-9.  The form is used to document verification 
+of the identity and employment authorization of each new employee (both U.S. citizen and alien) hired after November 6, 
+1986, to work in the United States.  In the Commonwealth of the Northern Mariana Islands (CNMI), employers must 
+complete Form I-9 to document the verification of the identity and employment authorization of each new employee (both 
+U.S. citizen and alien) hired after November 27, 2011.
+Purpose of Form I-9
+Anti-Discrimination Notice:  Employers must allow all employees to choose which acceptable documentation to present 
+for Form I-9.  Employers cannot ask employees for documentation to verify information entered in Section 1, or specify 
+which acceptable documentation employees must present for Section 2 or Supplement B, Reverification and Rehire.  
+Employees do NOT need to prove their citizenship, immigration status, or national origin when establishing their 
+employment authorization for Form I-9 or E-Verify.  Requesting such proof or any specific document from employees 
+based on their citizenship, immigration status, or national origin, may be illegal.  Similarly, discriminating against 
+employees in hiring, firing, recruitment, or referral for a fee, based on citizenship, immigration status, or national origin 
+may be illegal.  Employers should not reject acceptable documentation due to a future expiration date.  For more 
+information on how to avoid discrimination or how to report it, contact the Immigrant and Employee Rights Section in the 
+Department of Justice's Civil Rights Division at www.justice.gov/ier.
+Definitions
+Employee:  A person who performs labor or services in the United States for an employer in return for wages or other 
+remuneration.  The term “employee” does not include individuals who do not receive any form of remuneration (e.g., 
+volunteers), independent contractors, or those engaged in certain casual domestic employment.
+Employer:  A person or entity, including an agent or anyone acting directly or indirectly in the interest thereof, who 
+engages the services or labor of an employee to be performed in the United States for wages or other remuneration. This 
+includes recruiters and referrers for a fee who are agricultural associations, agricultural employers, or farm labor 
+contractors.
+Authorized Representative:  Any person an employer designates to complete and sign Form I-9 on the employer's 
+behalf.  Employers are liable for any statutory and regulatory violations made in connection with the form or the 
+verification process, including any violations committed by any individual designated to act on the employer's behalf.
+Preparer and/or Translator:  Any individual who helps the employee complete or translates Section 1 for the employee.
+General Instructions
+Form I-9 consists of:
+●  Section 1: Employee Information and Attestation
+●  Section 2: Employer Review and Verification
+●  Lists of Acceptable Documents 
+●  Supplement A, Preparer and/or Translator Certification for Section 1 
+●  Supplement B, Reverification and Rehire (formerly Section 3)
+Filing Fee.  See Form G-1055, available at www.uscis.gov/forms, for specific information about the fees applicable to 
+this form.
+--- page 2 ---
+Page 2 of 8Form I-9 Instructions   01/20/25
+EMPLOYEES
+Employees must complete and sign Section 1 of Form I-9 no later than the first day of employment (i.e., the date the 
+employee begins performing labor or services in the United States in return for wages or other remuneration).  Employees 
+may complete Section 1 before the first day of employment, but cannot complete the form before acceptance of an offer 
+of employment.
+EMPLOYERS
+Employers in the United States, except Puerto Rico, must complete the English-language version of Form I-9.  Only 
+employers located in Puerto Rico may complete the Spanish-language version of Form I-9 instead of the English-language 
+version.  Any employer may use the Spanish-language form and instructions as a translation tool.
+All employers must:
+●  Make the instructions for Form I-9 and Lists of Acceptable Documents available to the employee when completing 
+the Form I-9 and when requesting that the employee present documentation to complete Supplement B, 
+Reverification and Rehire.  See page 5 for more information.
+●  Ensure that the employee completes Section 1.
+●  Complete Section 2 within three business days after the employee's first day of employment.  If you hire an 
+individual for less than three business days, complete Section 2 no later than the first day of employment.
+●  Complete Supplement B, Reverification and Rehire when applicable.
+●  Leave a field blank if it does not apply and allow employees to leave fields blank in Section 1, where appropriate.
+●  Retain completed forms.  You are not required to retain or store the page(s) containing the Lists of Acceptable 
+Documents or the instructions for Form I-9.  Do not mail completed forms to U.S. Citizenship and Immigration 
+Services (USCIS) or Immigration and Customs Enforcement (ICE).
+Additional guidance about how to complete Form I-9 may be found in the Handbook for Employers: Guidance for 
+Completing Form I-9 (M-274) and on I-9 Central.
+Section 1:  Employee Information and Attestation
+Step 1:  Employee completes Section 1 no later than the first day of employment.
+●  All employees must provide their current legal name, complete address, and date of birth.  If other fields do not 
+apply, leave them blank.
+●  When completing the name fields, enter your current legal name and any last names you previously used, including 
+any hyphens or punctuation.  If you only have one name, enter it in the Last Name field and then enter “Unknown” 
+in the First Name field.
+●  Providing your 9-digit Social Security number in the Social Security number field is voluntary, unless your 
+employer participates in E-Verify.  See page 5 for instructions related to E-Verify.  Do not enter an Individual 
+Taxpayer Identification Number (ITIN) as your Social Security number.
+Step 2:  Attest to your citizenship or immigration status.
+You must select one box to attest to your citizenship or immigration status.
+A citizen of the United States.
+A noncitizen national of the United States:  An individual born in American Samoa, certain former citizens of the 
+former Trust Territory of the Pacific Islands, and certain children of noncitizen nationals born abroad.
+A lawful permanent resident:  An individual who is not a U.S. citizen and who resides in the United States under 
+legally recognized and lawfully recorded permanent residence as an immigrant.
+Conditional residents should select this status.  Asylees and refugees should NOT select this status; they should 
+instead select “An alien authorized to work.”  If you select “lawful permanent resident,” enter your 7- to 9-digit 
+USCIS Number (A-Number) in the space provided.
+1.
+2.
+3.
+--- page 3 ---
+Page 3 of 8Form I-9 Instructions   01/20/25
+If you select this box, enter the date that your employment authorization expires, if any, in the space provided.  In 
+most cases, your employment authorization expiration date is found on the documentation evidencing your 
+employment authorization.  If your employment authorization documentation has been automatically extended by the 
+issuing authority, enter the expiration date of the automatic extension in this space.
+●  Refugees, asylees, and certain citizens of the Federated States of Micronesia, the Republic of the Marshall Islands, 
+or Palau, and other aliens authorized to work whose employment authorization does not have an expiration date, 
+should enter N/A in the Expiration Date field.
+Employees who select "an alien authorized to work" must enter one of the following to complete Section 1:
+Your employer may not ask for documentation to verify the information you entered in Section 1.
+(1)  USCIS Number/A-Number (7 to 9 digits);
+(2)  Form I-94 Admission Number (11 digits); or
+(3)  Foreign Passport Number and the Country of Issuance 
+Step 3:  Sign and enter the date you signed Section 1.  Do NOT back-date this field.
+Step 4:  Preparer and/or translator completes a Preparer and/or Translator Certification, if applicable.
+Within three business days after your first day of employment, you, the employee, must present to your employer original, 
+acceptable, and unexpired documentation that establishes your identity and employment authorization.  For example, if 
+you begin employment on Monday, you must present documentation on or before the Thursday of that week.  However, if 
+you were hired to work for less than three business days, you must present documentation no later than the first day of 
+employment.
+Choose which documentation to present to your employer from the Lists of Acceptable Documents.  An employer cannot 
+specify which documentation you may present from the Lists of Acceptable Documents.  You may present either: 1.) one 
+selection from List A or 2.) a combination of one selection from List B and one selection from List C.  In certain cases, you 
+may also present an acceptable receipt for List A, B, or C documents.  For more information on receipts, refer to the M-274.
+Step 5:  Present Form I-9 Documentation
+If a preparer and/or translator assists an employee in completing Section 1, that person must complete a Certification area 
+on Supplement A, Preparer and/or Translator Certification for Section 1, located on Page 3 of Form I-9.  There is no limit 
+to the number of preparers and/or translators an employee may use.  Each preparer and/or translator must complete and 
+sign a separate Certification area.  Employers must ensure that they retain any additional pages with the employee's 
+completed Form I-9.  If the employee does not use a preparer or translator, employers are not required to provide or retain 
+Supplement A.
+●  List A documentations show both identity and employment authorization.  Some documentation must be presented 
+together to be considered acceptable List A documentation.  If you present acceptable List A documentation, you 
+should not be asked to present List B and List C documentation.
+●  List B documentation shows identity only and List C documentation shows employment authorization only.  If you 
+present acceptable List B and List C documentation, you should not be asked to present List A documentation.  
+Guidance is available in the M-274 if you are under the age of 18 or have a disability (special placement) and 
+cannot provide List B documentation.
+Your employer must physically examine the documentation you present to complete Form I-9, or examine them consistent 
+with an alternative procedure authorized by the Secretary of DHS. If your documentation reasonably appears to be 
+genuine and to relate to you, your employer must accept the documentation.  If your documentation does not reasonably 
+appear to be genuine or to relate to you, your employer must reject it and provide you with an opportunity to present other 
+documentation.  Your employer may choose to make copies of your documentation, but must return the original(s) to you. 
+Your employer may not ask for documentation to verify the information you entered in Section 1.
+An alien authorized to work:  An individual who has authorization to work but is not a U.S. citizen, noncitizen 
+national, or lawful permanent resident.
+4.
+--- page 4 ---
+Page 4 of 8Form I-9 Instructions   01/20/25
+You or your authorized representative must complete Section 2 by physically examining evidence of the employee's 
+identity and employment authorization within three business days after the employee's first day of employment.  For 
+example, if an employee begins employment on Monday, you must review the employee's documentation and complete 
+Section 2 on or before the Thursday of that week.  However, if the individual will work for less than three business days, 
+Section 2 must be completed no later than the first day of employment.
+Step 1:  Enter information from the documentation the employee presents.
+You, the employer or authorized representative, must either physically examine, or examine consistent with an alternative 
+procedure authorized by the Secretary of DHS,
+ the original, acceptable, and unexpired documentation the employee 
+presents from the Lists of Acceptable Documents to complete the applicable document fields in Section 2.  You cannot 
+specify which documentation an employee may present from these Lists of Acceptable Documents.  A document is 
+acceptable if it reasonably appears to be genuine and to relate to the person presenting it.  Photocopies, except for certified 
+copies of birth certificates, are not acceptable for Form I-9.  Employees must present one selection from List A or a 
+combination of one selection from List B and one selection from List C.
+You may use common abbreviations for states, document titles, or issuing authorities, such as:  “DL” for driver's license, 
+and “SSA” for Social Security Administration.  Refer to the M-274 for abbreviation suggestions.
+List A documentation shows both identity and employment authorization.
+●
+  Enter the required information from the List A documentation in the first set of document entry fields in the List A 
+column.  Some List A documentation consists of a combination of documents that must be presented together to be 
+considered acceptable List A documentation.  If the employee presents a combination of documents for List A, use 
+the second and third sets of document entry fields in the List A column.  Use the Additional Information space, as 
+necessary, for additional documents.  When entering document information in this space, ensure you record all 
+available document information, such as the document title, issuing authority, document number and expiration 
+date.
+●  If an employee presents acceptable List A documentation, do not ask the employee to present List B and List C 
+documentation.
+List B documentation shows identity only, and List C documentation shows employment authorization only. 
+●   If an employee presents acceptable List B and List C documentation, enter the required information from the 
+documentation under each corresponding column and do not ask the employee to present List A documentation.
+●   If an employee under the age of 18 or with disabilities (special placement) cannot provide List B documentation, 
+see the M-274 for guidance.
+In certain cases, the employee may present an acceptable receipt for List A, B, or C documentation.  For more information 
+on receipts, refer to the Lists of Acceptable Documents and the M-274.
+Photocopies
+●   You may make photocopies of the documentation examined but must return the original documentation to the 
+employee.
+●   You must retain any photocopies you make with Form I-9 in case of an inspection by DHS, the Department of 
+Labor, or the Department of Justice, Civil Rights Division, Immigrant and Employee Rights Section.
+Step 2:  Enter additional information, if necessary.
+Use the Additional Information field to record any additional information required to complete Section 2, or any updates 
+that are necessary once Section 2 is complete.  Initial and date each additional notation.  See the M-274 for more 
+information.  Such notations include, but are not limited to:
+You may designate an authorized representative to act on your behalf to complete Section 2.
+Section 2:  Employer Review and Verification
+Before completing Section 2, you, the employer, should review Section 1.  If you find any errors or missing information 
+in Section 1., the employee must correct the error, and then initial and date the correction.
+--- page 5 ---
+Page 5 of 8Form I-9 Instructions   01/20/25
+Step 4:  Complete the employer certification.
+Employers or their authorized representatives, if applicable, must complete all applicable fields in this area, and sign and 
+date where indicated.
+Reverification and Rehire
+To reverify an employee's work authorization or document an employee's rehire, use Supplement B, Reverification and 
+Rehire (formerly Section 3).  Employers need only complete and retain the supplement page when employment 
+authorization reverification is required.  Employers may choose to document a rehire on the supplement as well.  Enter the 
+employee's name at the top of each supplement page you use.  In the New Name field, record any change the employee 
+reports at the time of reverification or rehire.  Use a new section of the supplement for each instance of a reverification or 
+rehire, sign and date that section when completed, and attach it to the employee's completed Form I-9.  Use additional 
+supplement pages as necessary.  Use the Additional Information fields if the employee's documentation presented for 
+reverification requires future updates.
+Reverifications
+When reverification is required, you must reverify the employee by the earlier of the employment authorization expiration 
+date stated in Section 1 (if any), or the expiration date of the List A or List C employment authorization documentation 
+recorded in Section 2.  Employers should complete any subsequent reverifications, if required, by the expiration date of 
+the List A or List C documentation entered during the employee's most recent reverification.
+For reverification, employees must present acceptable documentation from either List A or List C showing their 
+continuing authorization to work in the United States.  You must allow employees to choose which acceptable 
+documentation to present for reverification.  Employees are not required to show the same type of document they 
+presented previously.  Enter the documentation information in the appropriate fields provided.
+You should not reverify the employment authorization of U.S. citizens and noncitizen nationals, or lawful permanent 
+residents (including conditional residents) who presented a Permanent Resident Card (Form I-551) or other employment 
+authorization documentation that is not subject to reverification (such as an unrestricted Social Security card).  
+Reverification does not apply to List B documentation.  Reverification may not apply to certain aliens. See the M-274 for 
+more information about when reverification may not be required.
+Rehires
+If you rehire an employee within three years from the date the employee's Form I-9 was first completed, you may 
+complete the supplement and attach it to the employee's previously completed Form I-9.  If the employee remains 
+employment-authorized, as indicated on the previously completed Form I-9, record the date of rehire and any name 
+changes.  If the employee's employment authorization or List A or C documents have expired, you must reverify the 
+employee as described above. 
+Alternatively, you may complete a new Form I-9 for rehired employees.  You must complete a new Form I-9 for any 
+employee you rehired more than three years after you originally completed a Form I-9 for that employee.
+You may also enter optional information, such as termination dates, form retention dates, and E-Verify case numbers, if 
+applicable.
+●   Additional documentation that may be presented by certain nonimmigrant employees.
+●   Replacement document information if a receipt was previously presented.
+●   Those required by DHS, such as extensions of employment authorization or a document's expiration date.
+Step 3:  Select the box in the Additional Information area if you used an alternate procedure for document 
+examination authorized by the Secretary of DHS.
+You must select this box if you used an alternative procedure authorized by DHS to examine the documents.  You may 
+refer to the M-274 for guidance on implementing alternative procedures for document examination approved by the 
+Secretary of DHS.
+--- page 6 ---
+Page 6 of 8Form I-9 Instructions   01/20/25
+For E-Verify employers:
+●   Ensure employees enter their Social Security number in Section 1.
+●   You must only accept List B documentation that contains a photograph.  This applies to individuals under the age 
+of 18 and individuals with disabilities.
+●   You must retain photocopies of certain documentation.
+USCIS Forms and Information
+Employers may photocopy or print blank Forms I-9.  To ensure you are using the latest version of this form and 
+corresponding instructions, visit the USCIS website at www.uscis.gov/i-9.  You may order paper forms at www.uscis.gov/
+forms/forms-by-mail or by contacting the USCIS Contact Center at 1-800-375-5283 or 1-800-767-1833 (TTY).
+For additional guidance about Form I-9, employers and employees should refer to the Handbook for Employers: 
+Guidance for Completing Form I-9 (M-274) or USCIS' Form I-9 website at www.uscis.gov/i-9-central.
+You can obtain information about Form I-9 by e-mailing USCIS at I-9Central@uscis.dhs.gov.  Employers may call 
+1-888-464-4218 or 1-877-875-6028 (TTY).  Employees may call the USCIS employee hotline at 1-888-897-7781 or 
+1-877-875-6028 (TTY).
+Retaining Completed Forms I-9
+An employer must retain Form I-9, including any supplement pages, on which the employee and employer (or authorized 
+representative) entered data, as well as any photocopies made of the documentation the employee presented, for as long as 
+the employee works for the employer.  When employment ends, the employer must retain the individual's Form I-9 and all 
+attachments for one year from the date employment ends, or three years after the first day of employment, whichever is 
+later.  In the case of recruiters or referrers for a fee (only applicable to those that are agricultural associations, agricultural 
+employers, or farm labor contractors), the retention period is three years after the first day of employment.
+Completed Forms I-9 and all accompanying documents should be stored in a safe and secure location.  Employers should 
+ensure that the information employees provide on Form I-9 is used only as stated in the DHS Privacy Notice below.
+●   Providing your email address and telephone number in Section 1 will allow you to receive notifications associated 
+with your E-Verify case.
+●   If you present a List B document to your employer, it must contain a photograph.
+If you can present acceptable identity and employment authorization documentation to complete Form I-9, you 
+may begin working while waiting to receive your Social Security number.
+If you have applied for, but have not yet received, your Social Security number, you should leave the field 
+blank until you receive the number.  Update this field once you receive it, and initial and date the notation. 
+●   You must provide your Social Security number in the Social Security number field in Section 1.
+For employees of employers who participate in E-Verify:
+Employee and Employer Instructions Related E-Verify
+E-Verify uses Form I-9 information to confirm employees' employment eligibility.  For more information, go to  
+www.e-verify.gov or contact us at www.e-verify.gov/contact-us. 
+Form I-9 may be generated, signed, and retained electronically, in compliance with Department of Homeland Security 
+regulations at 8 CFR section 274a.2.  Employers creating, modifying, or storing Form I-9 electronically are encouraged to 
+review these and any other relevant standards for electronic signature, and the indexing, security, and documentation of 
+electronic Form I-9 data.
+--- page 7 ---
+Page 7 of 8Form I-9 Instructions   01/20/25
+Employers:  By signing Sections 2 and 3, as applicable, employers attest under penalty of perjury (28 U.S.C. section 1746) 
+that they have physically examined the documentation presented by the employee, that the documentation reasonably appears 
+to be genuine and to relate to the employee named, that to the best of their knowledge the employee is authorized to work in 
+the United States, that the information they enter in Section 2 is complete, true, and correct to the best of their knowledge, 
+and that they are aware that they may face civil or criminal penalties provided by law and may be subject to criminal 
+prosecution for knowingly and willfully making false statements or knowingly accepting false documentation when 
+completing Form I-9.
+DHS Privacy Notice
+AUTHORITIES:  The information requested on this form, and the associated documents, are collected under the 
+Immigration Reform and Control Act of 1986, Pub. L. 99-603 (8 U.S.C. 1324a).
+PURPOSE:  The primary purpose for providing the requested information on this form is for employers to verify your 
+identity and employment authorization.  Consistent with the requirements of the Immigration Reform and Control Act of 
+1986, employers use the Form I-9 to document the verification of the identity and employment authorization for new 
+employees to prevent the unlawful hiring, or recruiting or referring for a fee, of individuals who are not authorized to 
+work in the United States.  This form is completed by both the employer and the employee and is ultimately retained by 
+the employer.
+DISCLOSURE:  The information employees provide is voluntary.  However, failure to provide the requested 
+information, including your Social Security number (if applicable), and any requested evidence, may result in termination 
+of employment.  Failure of the employer to ensure proper completion of this form may result in the imposition of civil or 
+criminal penalties against the employer.  In addition, knowingly employing individuals who are not authorized to work in 
+the United States may subject the employer to civil and/or criminal penalties.
+ROUTINE USES:  This information will be used by employers as a record of their basis for determining eligibility of an 
+individual to work in the United States. The employer must retain this completed form and make it available for 
+inspection by authorized officials of the Department of Homeland Security, Department of Labor, and Department of 
+Justice, Civil Rights Division, Immigrant and Employee Rights Section. USCIS does not store Form I-9 data obtained 
+from external employers or retrieve the information by a personal identifier. DHS may share the information you provide 
+on this form and any additional requested evidence with authorized organizations. DHS follows approved routine uses 
+described in the associated published system of records notice [DHS/USCIS-011 E-Verify, June 18, 2019, 84 FR 28326] 
+and the privacy impact assessments [DHS/USCIS/PIA-036(b) Form I-9 Employment Eligibility Verification Update].  A 
+complete list of the routine uses can be found in the system of records notice associated with this form at http://
+www.dhs.gov/system-records-notices-sorns. DHS may also share this information, as appropriate, for law enforcement 
+purposes or in the interest of national security.
+Employees:  By signing Section 1 of this form, employees attest under penalty of perjury (28 U.S.C. section 1746) that the 
+information they provided, along with the citizenship or immigration status they select, and all information and 
+documentation they provide to their employer, is true and correct, and they are aware that they may face penalties provided 
+by law and may be subject to criminal prosecution for knowingly and willfully making false statements or using false 
+documentation when completing this form.  Further, falsely attesting to U.S. citizenship may subject employees to penalties 
+or removal proceedings, and may adversely affect an employee's ability to seek future immigration benefits.
+Penalties
+Employers may be subject to penalties if Form I-9 is not properly completed or for employment discrimination occurring 
+during the employment eligibility verification process.  See 8 U.S.C. section 1324a and section 1324b, 8 CFR section 
+274a.10 and 28 CFR Part 44.  Individuals may also be prosecuted for knowingly and willfully entering false information, 
+or for presenting fraudulent documentation, to complete Form I-9.
+--- page 8 ---
+Page 8 of 8Form I-9 Instructions   01/20/25
+Paperwork Reduction Act
+An agency may not conduct or sponsor an information collection and a person is not required to respond to a collection of 
+information unless it displays a currently valid OMB control number.  The public reporting burden for this collection of 
+information is estimated at 34 minutes per response, when completing the form manually, and 25 minutes per response 
+when using a computer to aid in completion of the form, including the time for reviewing instructions and completing and 
+retaining the form.  Send comments regarding this burden estimate or any other aspect of this collection of information, 
+including suggestions for reducing this burden, to:  U.S. Citizenship and Immigration Services, Office of Policy and 
+Strategy, Regulatory Coordination Division, 5900 Capital Gateway Drive, Mail Stop Number 2140, Camp Springs, MD 
+20588-0009; OMB No. 1615-0047.  Do not mail your completed Form I-9 to this address.

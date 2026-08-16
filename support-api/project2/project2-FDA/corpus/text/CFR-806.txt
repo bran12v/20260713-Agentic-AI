@@ -1,0 +1,266 @@
+
+21 CFR Part 806 - Medical Devices; Reports of Corrections and Removals
+======================================================================
+
+
+§ 806.2 Definitions.
+--------------------
+
+As used in this part:
+
+(a) Act means the Federal Food, Drug, and Cosmetic Act.
+
+(b) Agency or FDA means the Food and Drug Administration.
+
+(c) Consignee means any person or firm that has received, purchased, or used a device
+subject to correction or removal.
+
+(d) Correction means the repair, modification, adjustment, relabeling, destruction, or
+inspection (including patient monitoring) of a device without its physical removal from its
+point of use to some other location.
+
+(e) Correction or removal report number means the number that uniquely identifies each
+report submitted.
+
+(f) Human cell, tissue, or cellular or tissue-based product (HCT/P) regulated as a device
+means an HCT/P as defined in § 1271.3(d) of this chapter that does not meet the criteria in
+§ 1271.10(a) and that is also regulated as a device.
+
+(g) Importer means, for the purposes of this part, any person who imports a device into the
+United States.
+
+(h) Manufacturer means any person who manufactures, prepares, propagates, compounds,
+assembles, or processes a device by chemical, physical, biological, or other procedures. The
+term includes any person who:
+
+(1) Repackages or otherwise changes the container, wrapper, or labeling of a device in
+furtherance of the distribution of the device from the original place of manufacture to the
+person who makes final delivery or sale to the ultimate user or consumer;
+
+(2) Initiates specifications for devices that are manufactured by a second party for
+subsequent distribution by the person initiating the specifications; or
+
+(3) Manufactures components or accessories which are devices that are ready to be used and
+are intended to be commercially distributed and are intended to be used as is, or are
+processed by a licensed practitioner or other qualified person to meet the needs of a
+particular patient.
+
+(i) Market withdrawal means a correction or removal of a distributed device that involves a
+minor violation of the act that would not be subject to legal action by FDA or that involves
+no violation of the act, e.g., normal stock rotation practices.
+
+(j) Removal means the physical removal of a device from its point of use to some other
+location for repair, modification, adjustment, relabeling, destruction, or inspection.
+
+(k) Risk to health means
+
+(1) A reasonable probability that use of, or exposure to, the product will cause serious
+adverse health consequences or death; or
+
+(2) That use of, or exposure to, the product may cause temporary or medically reversible
+adverse health consequences, or an outcome where the probability of serious adverse health
+consequences is remote.
+
+(l) Routine servicing means any regularly scheduled maintenance of a device, including the
+replacement of parts at the end of their normal life expectancy, e.g., calibration,
+replacement of batteries, and responses to normal wear and tear. Repairs of an unexpected
+nature, replacement of parts earlier than their normal life expectancy, or identical repairs
+or replacements of multiple units of a device are not routine servicing.
+
+(m) Stock recovery means the correction or removal of a device that has not been marketed or
+that has not left the direct control of the manufacturer, i.e., the device is located on the
+premises owned, or under the control of, the manufacturer, and no portion of the lot, model,
+code, or other relevant unit involved in the corrective or removal action has been released
+for sale or use.
+
+(n) Unique device identifier (UDI) means an identifier that adequately identifies a device
+through its distribution and use by meeting the requirements of § 830.20 of this chapter. A
+UDI is composed of:
+
+(1) A device identifier—a mandatory, fixed portion of a UDI that identifies the specific
+version or model of a device and the labeler of that device; and
+
+(2) A production identifier—a conditional, variable portion of a UDI that identifies one or
+more of the following when included on the label of the device:
+
+(i) The lot or batch within which a device was manufactured;
+
+(ii) The serial number of a specific device;
+
+(iii) The expiration date of a specific device;
+
+(iv) The date a specific device was manufactured.
+
+(v) For an HCT/P regulated as a device, the distinct identification code required by §
+1271.290(c) of this chapter.
+
+
+----------------------------------------------------------------------
+
+
+§ 806.10 Reports of corrections and removals.
+---------------------------------------------
+
+(a) Each device manufacturer or importer shall submit a written report to FDA of any
+correction or removal of a device initiated by such manufacturer or importer if the
+correction or removal was initiated:
+
+(1) To reduce a risk to health posed by the device; or
+
+(2) To remedy a violation of the act caused by the device which may present a risk to health
+unless the information has already been provided as set forth in paragraph (f) of this
+section or the corrective or removal action is exempt from the reporting requirements under
+§ 806.1(b).
+
+(b) The manufacturer or importer shall submit any report required by paragraph (a) of this
+section within 10-working days of initiating such correction or removal.
+
+(c) The manufacturer or importer shall include the following information in the report:
+
+(1) The seven digit registration number of the entity responsible for submission of the
+report of corrective or removal action (if applicable), the month, day, and year that the
+report is made, and a sequence number (i.e., 001 for the first report, 002 for the second
+report, 003 etc.), and the report type designation “C” or “R”. For example, the complete
+number for the first correction report submitted on June 1, 1997, will appear as follows for
+a firm with the registration number 1234567: 1234567-6/1/97-001-C. The second correction
+report number submitted by the same firm on July 1, 1997, would be 1234567-7/1/97-002-C etc.
+For removals, the number will appear as follows: 1234567-6/1/97-001-R and
+1234567-7/1/97-002-R, etc. Firms that do not have a seven digit registration number may use
+seven zeros followed by the month, date, year, and sequence number (i.e.
+0000000-6/1/97-001-C for corrections and 0000000-7/1/97-001-R for removals). Reports
+received without a seven digit registration number will be assigned a seven digit central
+file number by the district office reviewing the reports.
+
+(2) The name, address, and telephone number of the manufacturer or importer, and the name,
+title, address, and telephone number of the manufacturer or importer representative
+responsible for conducting the device correction or removal.
+
+(3) The brand name and the common name, classification name, or usual name of the device and
+the intended use of the device.
+
+(4) Marketing status of the device, i.e., any applicable premarket notification number,
+premarket approval number, or indication that the device is a preamendments device, and the
+device listing number. A manufacturer or importer that does not have an FDA establishment
+registration number shall indicate in the report whether it has ever registered with FDA.
+
+(5) The unique device identifier (UDI) that appears on the device label or on the device
+package, or the device identifier, universal product code (UPC), model, catalog, or code
+number of the device and the manufacturing lot or serial number of the device or other
+identification number.
+
+(6) The manufacturer's name, address, telephone number, and contact person if different from
+that of the person submitting the report.
+
+(7) A description of the event(s) giving rise to the information reported and the corrective
+or removal actions that have been, and are expected to be taken.
+
+(8) Any illness or injuries that have occurred with use of the device. If applicable,
+include the medical device report numbers.
+
+(9) The total number of devices manufactured or distributed subject to the correction or
+removal and the number in the same batch, lot, or equivalent unit of production subject to
+the correction or removal.
+
+(10) The date of manufacture or distribution and the device's expiration date or expected
+life.
+
+(11) The names, addresses, and telephone numbers of all domestic and foreign consignees of
+the device and the dates and number of devices distributed to each such consignee.
+
+(12) A copy of all communications regarding the correction or removal and the names and
+addresses of all recipients of the communications not provided in accordance with paragraph
+(c)(11) of this section.
+
+(13) If any required information is not immediately available, a statement as to why it is
+not available and when it will be submitted.
+
+(d) If, after submitting a report under this part, a manufacturer or importer determines
+that the same correction or removal should be extended to additional lots or batches of the
+same device, the manufacturer or importer shall within 10-working days of initiating the
+extension of the correction or removal, amend the report by submitting an amendment citing
+the original report number assigned according to paragraph (c)(1) of this section, all of
+the information required by paragraph (c)(2), and any information required by paragraphs
+(c)(3) through (c)(12) of this section that is different from the information submitted in
+the original report. The manufacturer or importer shall also provide a statement in
+accordance with paragraph (c)(13) of this section for any required information that is not
+readily available.
+
+(e) A report submitted by a manufacturer or importer under this section (and any release by
+FDA of that report or information) does not necessarily reflect a conclusion by the
+manufacturer, importer, or FDA that the report or information constitutes an admission that
+the device caused or contributed to a death or serious injury. A manufacturer or importer
+need not admit, and may deny, that the report or information submitted under this section
+constitutes an admission that the device caused or contributed to a death or serious injury.
+
+(f) No report of correction or removal is required under this part, if a report of the
+correction or removal is required and has been submitted under parts 803 or 1004 of this
+chapter.
+
+
+----------------------------------------------------------------------
+
+
+§ 806.20 Records of corrections and removals not required to be reported.
+-------------------------------------------------------------------------
+
+(a) Each device manufacturer or importer who initiates a correction or removal of a device
+that is not required to be reported to FDA under § 806.10 shall keep a record of such
+correction or removal.
+
+(b) Records of corrections and removals not required to be reported to FDA under § 806.10
+shall contain the following information:
+
+(1) The brand name, common or usual name, classification, name and product code if known,
+and the intended use of the device.
+
+(2) The unique device identifier (UDI) of the device, or the device identifier, universal
+product code (UPC), model, catalog, or code number of the device and the manufacturing lot
+or serial number of the device or other identification number.
+
+(3) A description of the event(s) giving rise to the information reported and the corrective
+or removal action that has been, and is expected to be taken.
+
+(4) Justification for not reporting the correction or removal action to FDA, which shall
+contain conclusions and any followups, and be reviewed and evaluated by a designated person.
+
+(5) A copy of all communications regarding the correction or removal.
+
+(c) The manufacturer or importer shall retain records required under this section for a
+period of 2 years beyond the expected life of the device, even if the manufacturer or
+importer has ceased to manufacture or import the device. Records required to be maintained
+under paragraph (b) of this section must be transferred to the new manufacturer or importer
+of the device and maintained for the required period of time.
+
+
+----------------------------------------------------------------------
+
+
+§ 806.30 FDA access to records.
+-------------------------------
+
+Each device manufacturer or importer required under this part to maintain records and every
+person who is in charge or custody of such records shall, upon request of an officer or
+employee designated by FDA and under section 704(e) of the act, permit such officer or
+employee at all reasonable times to have access to, and to copy and verify, such records and
+reports.
+
+
+----------------------------------------------------------------------
+
+
+§ 806.40 Public availability of reports.
+----------------------------------------
+
+(a) Any report submitted under this part is available for public disclosure in accordance
+with part 20 of this chapter.
+
+(b) Before public disclosure of a report, FDA will delete from the report:
+
+(1) Any information that constitutes trade secret or confidential commercial or financial
+information under § 20.61 of this chapter; and
+
+(2) Any personnel, medical, or similar information, including the serial numbers of
+implanted devices, which would constitute a clearly unwarranted invasion of personal privacy
+under § 20.63 of this chapter or 5 U.S.C. 552(b)(6); provided, that except for the
+information under § 20.61 of this chapter or 5 U.S.C. 552(b)(4), FDA will disclose to a
+patient who requests a report all the information in the report concerning that patient.

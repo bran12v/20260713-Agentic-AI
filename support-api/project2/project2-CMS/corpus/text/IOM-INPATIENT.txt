@@ -1,0 +1,727 @@
+
+--- page 1 ---
+1 – Definition of Inpatient Hospital Services 
+(Rev. 1, 10-01-03) 
+ 
+Inpatient hospital services are defined in Title XVIII of the Social Security Act (the Act) 
+and in the regulations (42 CFR 409.10): 
+ 
+A.  Subject to the conditions, limitations, and exceptions set forth in this subpart, the term 
+"inpatient hospital or inpatient CAH services" means the following services furnished to 
+an inpatient of a participating hospital or of a participating CAH or, in the case of 
+emergency services or services in foreign hospitals, to an inpatient of a qualified hospital: 
+ 
+1.  Bed and board. 
+ 
+2.  Nursing services and other related services. 
+ 
+3.  Use of hospital or CAH facilities. 
+ 
+4.  Medical social services. 
+ 
+5.  Drugs, biologicals, supplies, appliances, and equipment. 
+ 
+6.  Certain other diagnostic or therapeutic services. 
+ 
+7.  Medical or surgical services provided by certain interns or residents-in- 
+training. 
+ 
+8.  Transportation services, including transport by ambulance. 
+ 
+B.  Inpatient hospital services does not include the following types of services: 
+ 
+1.  Posthospital SNF care, as described in 42
+ CFR 409.20, furnished by a hospital 
+or a critical access hospital that has a swing-bed approval. 
+ 
+2.  Nursing facility services, described in 42 CFR 440.155
+ that may be furnished 
+as a Medicaid service under title XIX of the Act in a swing- bed hospital that 
+has an approval to furnish nursing facility services. 
+ 
+3.  Physician services that meet the requirements of 42 CFR 415.102(a)
+ for 
+payment on a fee schedule basis. 
+ 
+4.  Physician assistant services, as defined in §1861(s)(2)(K)(i)
+ of the Act. 
+ 
+5.  Nurse practitioner and clinical nurse specialist services, as defined in 
+§1861(s)(2)(K)(ii)
+ of the Act. 
+ 
+6.  Certified nurse mid-wife services, as defined in §1861(gg)
+ of the Act. 
+--- page 2 ---
+ 
+7.  Qualified psychologist services, as defined in §1861(ii) of the Act. 
+ 
+8.  Services of an anesthetist, as defined in 42 CFR 410.69
+. 
+ 
+10 - Covered Inpatient Hospital Services Covered Under Part A 
+(Rev. 234, Issued: 03-10-17, Effective: 01-01-16, Implementation: 06-12-17) 
+ 
+Patients covered under hospital insurance are entitled to have payment made on their 
+behalf for inpatient hospital services.  (Inpatient hospital services do not include extended 
+care services provided by hospitals pursuant to swing bed approvals.  See Pub. 
+100-02, 
+Chapter 8, §10.3, "Hospital Providers of Extended Care Services.").  However, both 
+inpatient hospital and inpatient SNF benefits are provided under Part A - Hospital 
+Insurance Benefits for the Aged and Disabled, of Title XVIII). 
+ 
+Additional information concerning the following topics can be found in the following 
+chapters of this manual: 
+ 
+• Benefit Period is found in Chapter 3 
+ 
+• Counting Inpatient Days is found in Chapter 3 
+ 
+• Lifetime reserve days is found in Chapter 5 
+ 
+• Related payment information is housed in the Provider Reimbursement Manual 
+ 
+Blood must be furnished on a day which counts as a day of inpatient hospital services to 
+be covered as a Part A service and to count toward the blood deductible.  Thus, blood is 
+not covered under Part A and does not count toward the Part A blood deductible when 
+furnished to an inpatient after the inpatient has exhausted all benefit days in a benefit 
+period, or where the individual has elected not to use lifetime reserve days.  However, 
+where the patient is discharged on their first day of entitlement or on the hospital's first 
+day of participation, the hospital is permitted to submit a billing form with no 
+accommodation charge, but with ancillary charges including blood. 
+ 
+The records for all Medicare hospital inpatient discharges are maintained in CMS for 
+statistical analysis and use in determining future Prospective Payment System (PPS) 
+Diagnosis Related Group (DRG) classifications and rates. 
+ 
+Non-PPS hospitals do not pay for noncovered services generally excluded from coverage 
+in the Medicare Program.  This may result in denial of a part of the billed charges or in 
+denial of the entire admission, depending upon circumstance.  In PPS hospitals, the 
+following are also possible: 
+ 
+--- page 3 ---
+1. In appropriately admitted cases where a noncovered procedure was performed, 
+denied services may result in payment of a different DRG (i.e., one which 
+excludes payment for the noncovered procedure); or  
+ 
+2. In appropriately admitted cases that become cost outlier cases, denied services 
+may lead to denial of some or all of an outlier payment. 
+ 
+The following examples illustrate this principle.  If care is noncovered because a patient 
+does not need to be hospitalized, the A/B MAC Part A denies the admission and makes 
+no Part A (i.e., PPS) payment unless paid under limitation on liability.  Under limitation 
+on liability, Medicare payment may be made when the provider and the beneficiary were 
+not aware the services were not necessary and could not reasonably be expected to know 
+that the services were not necessary.  For detailed instructions, see 
+Pub. 100-04, Medicare 
+Claims Processing Manual, Chapter 30,"Limitation on Liability" section 20.  If a patient 
+is appropriately hospitalized but receives (beyond routine services) only noncovered care, 
+the admission is denied. 
+ 
+NOTE:  The A/B MAC Part A does not deny an admission that includes covered care, 
+even if noncovered care was also rendered.  Under PPS, Medicare assumes that it is 
+paying for only the covered care rendered whenever covered services needed to treat 
+and/or diagnose the illness were in fact provided. 
+ 
+If a noncovered procedure is provided along with covered nonroutine care, a DRG 
+change rather than an admission denial might occur.  If noncovered procedures are 
+elevating costs into the cost outlier category, outlier payment is denied in whole or in 
+part. 
+ 
+When the hospital is included in PPS, most of the subsequent discussion regarding 
+coverage of inpatient hospital services is relevant only in the context of determining the 
+appropriateness of admissions, which DRG, if any, to pay, and the appropriateness of 
+payment for any outlier cases. 
+ 
+If a patient receives items or services in excess of, or more expensive than, those for 
+which payment can be made, payment is made only for the covered items or services or 
+for only the appropriate prospective payment amount.  This provision applies not only to 
+inpatient services, but also to all hospital services under Parts A and B of the program.  If 
+the items or services were requested by the patient, the hospital may charge him or her 
+the difference between the amount customarily charged for the services requested and the 
+amount customarily charged for covered services. 
+ 
+An inpatient is a person who has been admitted to a hospital for bed occupancy for 
+purposes of receiving inpatient hospital services (see §10.2 below).  Generally, a patient 
+is considered an inpatient if formally admitted as inpatient with the expectation that he or 
+she will require hospital care that is expected to span at least two midnights and occupy a 
+bed even though it later develops that the patient can be discharged or transferred to 
+another hospital and not actually use a hospital bed overnight. 
+--- page 4 ---
+ 
+The physician or other practitioner responsible for a patient's care at the hospital is also 
+responsible for deciding whether the patient should be admitted as an inpatient.  
+Physicians should use the expectation of the patient to require hospital care that spans at 
+least two midnights period as a benchmark, i.e., they should order admission for patients 
+who are expected to require a hospital stay that crosses two midnights and the medical 
+record supports that reasonable expectation.  However, the decision to admit a patient is a 
+complex medical judgment which can be made only after the physician has considered a 
+number of factors, including the patient's medical history and current medical needs, the 
+types of facilities available to inpatients and to outpatients, the hospital's by-laws and 
+admissions policies, and the relative appropriateness of treatment in each setting.  Factors 
+to be considered when making the decision to admit include such things as: 
+ 
+• The severity of the signs and symptoms exhibited by the patient; 
+ 
+• The medical predictability of something adverse happening to the patient; 
+ 
+• The need for diagnostic studies that appropriately are outpatient services (i.e., 
+their performance does not ordinarily require the patient to remain at the hospital 
+for 24 hours or more) to assist in assessing whether the patient should be 
+admitted; and  
+ 
+• The availability of diagnostic procedures at the time when and at the location 
+where the patient presents. 
+ 
+Admissions of particular patients are not covered or noncovered solely on the basis of the 
+length of time the patient actually spends in the hospital.  In certain specific situations 
+coverage of services on an inpatient or outpatient basis is determined by the following 
+rules: 
+ 
+Minor Surgery or Other Treatment - When patients with known diagnoses enter a 
+hospital for a specific minor surgical procedure or other treatment that is expected to keep 
+them in the hospital for only a few hours (less than 24), they are considered outpatients 
+for coverage purposes regardless of: the hour they came to the hospital, whether they 
+used a bed, and whether they remained in the hospital past midnight. 
+ 
+Renal Dialysis - Renal dialysis treatments are usually covered only as outpatient services 
+but may under certain circumstances be covered as inpatient services depending on the 
+patient's condition.  Patients staying at home, who are ambulatory, whose conditions are 
+stable and who come to the hospital for routine chronic dialysis treatments, and not for a 
+diagnostic workup or a change in therapy, are considered outpatients.  On the other hand, 
+patients undergoing short-term dialysis until their kidneys recover from an acute illness 
+(acute dialysis), or persons with borderline renal failure who develop acute renal failure 
+every time they have an illness and require dialysis (episodic dialysis) are usually 
+inpatients.  A patient may begin dialysis as an inpatient and then progress to an outpatient 
+status. 
+--- page 5 ---
+ 
+Under original Medicare, the Quality Improvement Organization (QIO), for each hospital 
+is responsible for deciding, during review of inpatient admissions on a case-by-case basis, 
+whether the admission was medically necessary.  Medicare law authorizes the QIO to 
+make these judgments, and the judgments are binding for purposes of Medicare coverage.  
+In making these judgments, however, QIOs consider only the medical evidence which 
+was available to the physician at the time an admission decision had to be made.  They do 
+not take into account other information (e.g., test results) which became available only 
+after admission, except in cases where considering the post-admission information would 
+support a finding that an admission was medically necessary. 
+ 
+Refer to chapters 4 and 7 of Pub. 100-10, Quality Improvement Organization Manual
+ 
+with regard to initial determinations for these services.  The QIO will review the swing 
+bed services in these PPS hospitals as well. 
+ 
+NOTE:  When patients requiring extended care services are admitted to beds in a 
+hospital, they are considered inpatients of the hospital.  In such cases, the services 
+furnished in the hospital will not be considered extended care services, and payment may 
+not be made under the program for such services unless the services are extended care 
+services furnished pursuant to a swing bed agreement granted to the hospital by the 
+Secretary of Health and Human Services. 
+ 
+10.1 - Bed and Board 
+(Rev. 1, 10-01-03) 
+A3-3101.1, HO-210.1 
+ 
+10.1.1 - Accommodations - General 
+(Rev. 1, 10-01-03) 
+A3-3101.1.A, HO-210.1.A 
+ 
+The program will pay the same amount for routine accommodations services whether the 
+patient has a private room not medically necessary, a private room medically necessary 
+(Medicare does not pay for deluxe accommodations in any case), a semiprivate room (2-, 
+3-, or 4-bed accommodations), or ward accommodations, if its ward accommodations are 
+consistent with program purposes (see §10.1.6
+ below). 
+ 
+A provider having both private and semiprivate accommodations may nevertheless 
+charge the patient a differential for a private room if: 
+ 
+• The private room is not medically necessary; and  
+ 
+• The patient (or relative or other person acting on their behalf) has requested the 
+private room, and the provider informs them of the amount of charge at the time 
+of the request. 
+ 
+--- page 6 ---
+The private room differential may not exceed the difference between the customary 
+charge for the accommodations furnished and the most prevalent semiprivate 
+accommodation rate at the time of the patient's admission. 
+ 
+Where the provider bills for a private room as a covered service, i.e., shows the charge 
+for the room as a covered charge on the Form CMS-1450, the A/B MAC (A) will deem 
+the private room to be medically necessary.  Where the provider, on the other hand, 
+shows a private differential as a noncovered charge, the A/B MAC (A) will assume that 
+the private room is not medically necessary. 
+ 
+If the beneficiary (or their representative) protests a charge for the private room on the 
+grounds that the privacy was medically necessary, such protest will, if not in written 
+form, be reduced to writing and forwarded to the A/B MAC (A).  The A/B MAC (A) will 
+then develop the facts and make a specific determination regarding the medical necessity 
+of the private room.  (If an A/B MAC (A) receives many protests of this kind, the 
+provider may need guidance on what constitutes medical necessity for privacy).  If the 
+protest is received after the claim is processed, it will be treated as a request for 
+reconsideration. 
+ 
+If at any time in the course of development (or thereafter within the period when the 
+determination is not administratively final), the provider acknowledges that the private 
+room was medically necessary; the A/B MAC (A) will make an immediate finding to this 
+effect. 
+ 
+Where it is necessary to develop the medical necessity of a private room, the guidelines 
+in subsections §§10.1.2 and 10.1.3
+ below will apply. 
+ 
+10.1.2 - Medical Necessity - Need for Isolation 
+(Rev. 1, 10-01-03) 
+A3-3101.1.B, HO-210.1.B 
+ 
+A private room is medically necessary where isolation of a beneficiary is required to 
+avoid jeopardizing their health or recovery, or that of other patients who are likely to be 
+alarmed or disturbed by the beneficiary's symptoms or treatment or subjected to infection 
+by the beneficiary's communicable disease.  For example, communicable diseases, heart 
+attacks, cerebra-vascular accidents, and psychotic episodes may require isolation of the 
+patient for certain periods.  (See §10.1.3
+ below concerning medical necessity not based 
+on need for isolation). 
+ 
+In establishing the medical necessity for isolation, the date of the physician's written 
+statement is not controlling, nor is the presence of a written statement.  The crucial 
+question is whether a private room was ordered by the physician because it is necessary 
+for the health of the patient himself or herself or of other patients.  In the absence of such 
+an order, a patient who requested the room with knowledge of the amount of the charge 
+may be charged appropriately, even though a physician subsequently submits a statement 
+that the room was medically necessary.  There may be cases in which the physician's 
+--- page 7 ---
+written statement of medical necessity, though dated after admission or even after 
+discharge, merely confirms an order made informally at or before the time the beneficiary 
+was admitted to the private room (e.g., the physician made arrangements by phone for the 
+patient's admission, gave the diagnosis, and stated the beneficiary would need a private 
+room).  In such cases, assuming that the private room was medically necessary, the lack 
+of a written statement by the physician, or the fact that the written statement was prepared 
+after discharge, would not be controlling.  The patient may not be charged. 
+ 
+10.1.3 - Medical Necessity - Admission Required and Only Private 
+Rooms Available 
+(Rev. 1, 10-01-03) 
+A3-3101.1.C, HO-210.1.C 
+ 
+A private room is considered to be medically necessary even though the beneficiary's 
+condition does not require isolation if he/she needs immediate hospitalization (i.e., the 
+beneficiary's medical condition is such that hospitalization cannot be deferred) and the 
+hospital has no semiprivate or ward accommodations available at the time of admission. 
+ 
+It need not be considered whether semiprivate or ward accommodations were available in 
+some other accessible hospital.  Where medical necessity exists, the provider may not 
+charge the beneficiary a private room differential until semiprivate or ward 
+accommodations become available.  Thereafter the provider may transfer the patient to 
+the nonprivate accommodations, or allow them to continue occupancy of the private 
+room, subject to an appropriate differential charge (described in §10.1.1
+ above) if they 
+request the private room with knowledge of the amount of the charge. 
+ 
+If the admission could be deferred until semiprivate or ward accommodations become 
+available, the beneficiary should be informed of the amount of the differential he/she 
+must pay for a private room if he/she wishes to be admitted immediately.  The 
+beneficiary may be charged the specified differential if he/she has been admitted to the 
+private room at their request (or at the request of their representative) with knowledge of 
+the amount of the charge. 
+ 
+10.1.4 - Charges for Deluxe Private Room 
+(Rev. 1, 10-01-03) 
+A3-3101.1.D, HO-210.1.D 
+ 
+Beneficiaries found to need a private room (either because they need isolation for 
+medical reasons or because they need immediate admission when no other 
+accommodations are available) may be assigned to any of the provider's private rooms.  
+They do not have the right to insist on the private room of their choice, but their 
+preferences should be given the same consideration as if they were paying all provider 
+charges themselves.  The program does not, under any circumstances, pay for personal 
+comfort items.  Thus, the program does not pay for deluxe accommodations and/or 
+services.  These would include a suite, or a room substantially more spacious than is 
+required for treatment, or specially equipped or decorated, or serviced for the comfort and 
+--- page 8 ---
+convenience of persons willing to pay a differential for such amenities.  If the beneficiary 
+(or representative) requests such deluxe accommodations, the provider should advise that 
+there will be a charge, not covered by Medicare, of a specified amount per day (not 
+exceeding the differential defined in the next sentence); and may charge the beneficiary 
+that amount for each day he/she occupies the deluxe accommodations.  The maximum 
+amount the provider may charge the beneficiary for such accommodations is the 
+differential between the most prevalent private room rate at the time of admission and the 
+customary charge for the room occupied.  Beneficiaries may not be charged this 
+differential if they (or their representative) do not request the deluxe accommodations. 
+ 
+The beneficiary may not be charged such a differential in private room rates if that 
+differential is based on factors other than personal comfort items.  Such factors might 
+include differences between older and newer wings, proximity to lounge, elevators or 
+nursing stations, desirable view, etc.  Such rooms are standard 1-bed units and not deluxe 
+rooms for purposes of these instructions, even though the provider may call them deluxe 
+and have a higher customary charge for them.  No additional charge may be imposed 
+upon the beneficiary who is assigned to a room that may be somewhat more desirable 
+because of these factors. 
+ 
+10.1.5 - All Private Room Providers 
+(Rev. 1, 10-01-03) 
+A3-3101.E, HO-210.1.E 
+ 
+If the patient is admitted to a provider which has only private accommodations, and no 
+semiprivate or ward accommodations, medical necessity will be deemed to exist for the 
+accommodations furnished.  Beneficiaries may not be subjected to an extra charge for a 
+private room in an all-private room provider. 
+ 
+10.1.6 - Wards 
+(Rev. 1, 10-01-03) 
+A3-3101.1.F, HO-210.1.F 
+ 
+The law contemplates that Medicare patients should not be assigned to ward 
+accommodations except at the patient's request or for a reason consistent with the 
+purposes of the health insurance program. 
+ 
+When ward accommodations are furnished at the patient's request or for a reason 
+determined to be consistent with the program's purposes, payment will be based on the 
+average per diem cost of routine services (see §10.1.1
+ above).  Where ward 
+accommodations are assigned for other reasons, the law provides what may be a 
+substantial penalty.  (See 
+§10.1.6.2 below). 
+ 
+Any request by the patient (or relative or other person responsible for his or her affairs) 
+for ward accommodations must be obtained by the provider in writing and kept in its 
+files. 
+ 
+--- page 9 ---
+10.1.6.1 - Assignment Consistent With Program Purposes 
+(Rev. 1, 10-01-03) 
+A3-3101.1.F.1, HO-210.1.F.1 
+ 
+It is considered to be consistent with the program's purposes to assign the patient to ward 
+accommodations if all semiprivate accommodations are occupied, or the facility has no 
+semiprivate accommodations.  However, the patient must be moved to semiprivate 
+accommodations if they become available during the stay. 
+ 
+Some hospitals have a policy of placing in wards all patients who do not have private 
+physicians.  Such a practice may be consistent with the purposes of the program if the 
+A/B MAC (A) determines that the ward assignment inures to the benefit of the patient.  
+In making this determination, the principal consideration is whether the assignment is 
+likely to result in better medical treatment of the patient (e.g., it facilitates necessary 
+medical and nursing supervision and treatment).  The A/B MAC (A) should ask a 
+provider having this policy to submit a statement describing how the assignments are 
+made, their purpose, and the effect on the care of patients so assigned. 
+ 
+If the A/B MAC (A) makes a favorable determination on a practice affecting all ward 
+assignments of Medicare patients in the institution, a reference should be made on the 
+appropriate billing form for patients to whom the hospital assigned a ward pursuant to 
+such practice. 
+ 
+10.1.6.2 - Assignment Not Consistent With Program Purposes 
+(Rev. 1, 10-01-03) 
+A3-3101.1.F.2, HO-210.1.F.2 
+ 
+It is not consistent with the purposes of the law to assign a patient ward accommodation 
+based on their social or economic status, their national origin, race, or religion, or their 
+entitlement to benefits as a Medicare patient, or any other such discriminatory reason.  It 
+is also inconsistent with the purposes of the law to assign patients to ward 
+accommodations merely for the convenience or financial advantage of the institution.  
+Additionally, under DRGs, there no longer is a reduction to payment or an adjustment to 
+the end of year settlement. 
+ 
+10.1.7 - Charges 
+(Rev. 1, 10-01-03) 
+A3-3101.1.G, HO-210.1.G 
+ 
+Customary charges means amounts which the hospital or skilled nursing facility is 
+uniformly charging patients currently for specific services and accommodations.  The 
+most prevalent rate or charge is the rate that applies to the greatest number of semiprivate 
+or private beds in the institution. 
+ 
+10.2 – Hospital Inpatient Admission Order and Certification 
+(Rev. 234, Issued: 03-10-17, Effective: 01-01-16, Implementation: 06-12-17) 
+--- page 10 ---
+ 
+The order to admit as an inpatient (“practitioner order”) is a critical element in clarifying 
+when an individual is considered an inpatient of a hospital, including a critical access 
+hospital (CAH), and is therefore required for all hospital inpatient cases for hospital 
+inpatient coverage and payment under Part A.  As a condition of payment for hospital 
+inpatient services under Medicare Part A, according to 
+section 1814(a) of the Social 
+Security Act, CMS is requiring, only for long-stay cases and outlier cases, separate 
+physician certification of the medical necessity that such services be provided on an 
+inpatient basis.  The signed physician certification is considered, along with other 
+documentation in the medical record, as evidence that hospital inpatient service(s) were 
+reasonable and necessary. 
+ 
+The following guidance applies to all inpatient hospital and CAH services unless 
+otherwise specified.  For the remainder of this guidance, references to hospitals includes 
+CAHs.  The complete requirements for the physician certification are found in 
+42 CFR 
+Part 424 subpart B, and requirements for admission orders are found at 42 CFR 412.3. 
+ 
+A. Physician Certification.  Physician certification of inpatient services is required 
+for cases that are 20 inpatient days or more (long-stay cases), for outlier cases of 
+hospitals other than inpatient psychiatric facilities and for cases of CAHs.  (See 
+CY 2015 Outpatient Prospective Payment System Final Rule
+, 79 FR 66997 and 
+42 CFR 412 Subpart F, 42 CFR 424.13 and 42 CFR 424.15): 
+ 
+1. Content:  The physician certification includes the following information: 
+ 
+a. Reason for inpatient services:  The physician certifies the reasons for 
+either— (i) Continued hospitalization of the patient for inpatient medical 
+treatment or medically required inpatient diagnostic study; or (ii) Special 
+or unusual services for outlier cases under the applicable prospective 
+payment system for inpatient services.  For example, documentation of an 
+admitting diagnosis could fulfill this part of the certification requirement. 
+ 
+b. The estimated (or actual) time the beneficiary requires or required in the 
+hospital:  The physician certifies the estimated time in the hospital the 
+beneficiary requires (if the certification is completed prior to discharge) or 
+the actual time in the hospital (if the certification is completed at 
+discharge).  Estimated or actual length of stay is most commonly reflected 
+in the progress notes where the practitioner discusses the assessment and 
+plan.  For the purposes of meeting the requirement for certification, 
+expected or actual length of stay may be documented in the order or a 
+separate certification or recertification form, but it is also acceptable if 
+discussed in the progress notes assessment and plan or as part of routine 
+discharge planning. 
+ 
+If the reason an inpatient is still in the hospital is that they are waiting for 
+availability of a skilled nursing facility (SNF) bed, the regulations at 
+42 
+--- page 11 ---
+CFR 424.13(c) and 424.14(e) provide that a beneficiary who is already 
+appropriately an inpatient can be kept in the hospital as an inpatient if the 
+only reason they remain in the hospital is they are waiting for a post-acute 
+SNF bed.  The physician may certify the need for continued inpatient 
+admission on this basis. 
+ 
+c. The plans for posthospital care, if appropriate, and as provided in 42 CFR 
+424.13. 
+ 
+d. For inpatient CAH services only, the physician must certify that the 
+beneficiary may reasonably be expected to be discharged or transferred to 
+a hospital within 96 hours after admission to the CAH. 
+ 
+Time as an outpatient at the CAH does not count towards the 96 hour 
+certification requirement.  The clock for the 96 hour certification 
+requirement only begins once the individual is admitted to the CAH as an 
+inpatient.  Time in a CAH swing-bed also does not count towards the 96 
+hour certification requirement. 
+ 
+The 96-hour certification requirement is based on an expectation at the 
+time of admission.  If a physician certifies in good faith that an individual 
+may reasonably be expected to be discharged or transferred to a hospital 
+within 96 hours after admission to the CAH, and something unforeseen 
+occurs that causes the individual to stay longer at the CAH, the CAH 
+would be paid for that unforeseen extended inpatient stay as long as that 
+individual’s stay does not cause the CAH to exceed its 96-hour annual 
+average condition of participation requirement.  However, if a physician 
+cannot in good faith certify that an individual may reasonably be expected 
+to be discharged or transferred within 96 hours after admission to the 
+CAH, the CAH will not receive Medicare reimbursement for any portion 
+of that individual’s inpatient stay.  This would be determined based on a 
+medical review of the case. 
+ 
+All certification requirements must be completed, signed, and documented 
+in the medical record no later than 1 day before the date on which the 
+claim for payment for the inpatient CAH service is submitted, as provided 
+in the FY15 IPPS Final Rule and 42 CFR 424.11 and 42 CFR 424.15
+. 
+ 
+e. Inpatient Rehabilitation Facilities (IRFs):  The documentation that IRFs 
+are already required to complete to meet the IRF coverage requirements 
+(such as the preadmission screening (including the physician review and 
+concurrence), the post-admission physician evaluation, and the required 
+admission orders) may be used to satisfy the certification and 
+recertification statement requirements. 
+ 
+--- page 12 ---
+2. Timing:  Outlier cases must be certified and recertified as provided in 42 CFR 
+424.13.  Under extenuating circumstances, delayed initial certification or 
+recertification of an outlier case may be acceptable as long as it does not 
+extend past discharge.  For all other long stay cases, the certification must be 
+signed and documented no later than 20 days into the inpatient portion of the 
+hospital stay. 
+ 
+3. Authorization to sign the certification:  The certification or recertification 
+may be signed only by one of the following: 
+ 
+(1) A physician who is a doctor of medicine or osteopathy. 
+(2) A dentist in the circumstances specified in 42 CFR 424.13(d)
+. 
+(3) A doctor of podiatric medicine if his or her certification is consistent 
+with the functions he or she is authorized to perform under state law. 
+ 
+Certifications and recertifications must be signed by the physician responsible 
+for the case, or by another physician who has knowledge of the case and who 
+is authorized to do so by the responsible physician or by the hospital’s 
+medical staff (or by the dentist as provided in 42 CFR 424.11 and 
+42 CFR 
+424.13).  CMS considers only the following physicians, podiatrists or dentists 
+to have sufficient knowledge of the case to serve as the certifying physician:  
+the admitting physician of record (“attending”) or a physician on call for him 
+or her; a surgeon responsible for a major surgical procedure on the beneficiary 
+or a surgeon on call for him or her; a dentist functioning as the admitting 
+physician of record or as the surgeon responsible for a major dental procedure; 
+and, in the specific case of a non‐physician non‐dentist admitting practitioner 
+who is licensed by the state and has been granted privileges by the facility, a 
+physician member of the hospital staff (such as a physician member of the 
+utilization review committee) who has reviewed the case and who also enters 
+into the record a complete certification statement that specifically contains all 
+of the content elements discussed above.  The admitting physician of record 
+may be an emergency department physician or hospitalist.  CMS does not 
+require the certifying physician to have inpatient admission privileges at the 
+hospital. 
+ 
+4. Format:  As specified in 42 CFR 424.11, no specific procedures or forms are 
+required for certification and recertification statements.  The provider may 
+adopt any method that permits verification.  The certification and 
+recertification statements may be entered on forms, notes, or records that the 
+appropriate individual signs, or on a special separate form.  Except as 
+provided for delayed certifications, there must be a separate signed statement 
+for each certification or recertification.  If all the required information is 
+included in progress notes, the physician's statement could indicate that the 
+individual's medical record contains the information required and that hospital 
+inpatient services are or continue to be medically necessary. 
+ 
+--- page 13 ---
+B. Inpatient Order:  A Medicare beneficiary is considered an inpatient of a hospital 
+if formally admitted as an inpatient pursuant to an order for inpatient admission 
+by an ordering practitioner.  As stated in the FY 2014 IPPS Final Rule
+, 78 FR 
+50908 and 50941, and as conveyed in 42 CFR 482.24, if the order is not properly 
+documented in the medical record prior to discharge, the hospital should not 
+submit a claim for Part A payment.  Meeting the two midnight benchmark does 
+not, in itself, render a beneficiary an inpatient or serve to qualify them for 
+payment under Part A.  Rather, as provided in Medicare regulations, a beneficiary 
+is considered an inpatient (and Part A payment may only be made) if they are 
+formally admitted as such pursuant to an order for inpatient admission by an 
+ordering practitioner. 
+ 
+With regard to the time of discharge, a Medicare beneficiary is considered a 
+patient of the hospital until the effectuation of activities typically specified by the 
+ordering practitioner as having to occur prior to discharge (e.g., “discharge after 
+supper” or “discharge after voids”).  Thus, discharge itself can but does not 
+always coincide exactly with the time that the discharge order is written, rather it 
+occurs when the ordering practitioner’s order for discharge is effectuated. 
+ 
+1. Content:  The ordering practitioner’s order contains the instruction that the 
+beneficiary should be formally admitted for hospital inpatient care.  The order 
+must specify admission for inpatient services.  Inpatient rehabilitation 
+facilities (IRFs) must adhere to the admission requirements specified in 
+42 
+CFR 412.622.  The two midnight benchmark does not apply in IRFs. 
+ 
+2. Qualifications of the ordering/admitting practitioner:  The order must be 
+furnished by a physician or other practitioner (“ordering practitioner”) who is:  
+(a) licensed by the state to admit inpatients to hospitals, (b) granted privileges 
+by the hospital to admit inpatients to that specific facility, and (c) 
+knowledgeable about the patient’s hospital course, medical plan of care, and 
+current condition at the time of admission.  See section (B)(3) for a discussion 
+of the requirements to be knowledgeable about the patient’s hospital course.  
+The ordering practitioner makes the determination of medical necessity for 
+inpatient care and renders the admission decision.  The ordering practitioner is 
+not required to write the order but must authenticate (sign, or in the case of an 
+initial order (under (B)(2)(a)) or a verbal order (under (B)(2)(b)), countersign) 
+the order reflecting that he or she has made the decision to admit the patient 
+for inpatient services. 
+ 
+The admission decision (order) may not be delegated to another individual 
+who is not authorized by the state to admit patients, or has not been granted 
+admitting privileges by the hospital's medical staff.  However, a medical 
+resident, physician assistant, nurse practitioner, or other non-physician 
+practitioner may act as a proxy for the ordering practitioner provided they are 
+authorized under state law to admit patients and the requirements outlined 
+below are met (FY 14 IPPS Final Rule and 42 CFR 412.3(b)
+). 
+--- page 14 ---
+ 
+a. Residents and non-physician practitioners authorized to make initial 
+admission decisions - Certain non-physician practitioners and residents 
+working within their residency program are authorized by the state in 
+which the hospital is located to admit inpatients, and are allowed by 
+hospital by-laws or policies to do the same.  The ordering practitioner may 
+allow these individuals to write inpatient admission orders on his or her 
+behalf, if the ordering practitioner approves and accepts responsibility for 
+the admission decision by authenticating (countersigning) the order prior 
+to discharge.  (See (A)(2) for guidance regarding the definition of 
+discharge time and (B)(3) for more guidance regarding knowledge of a 
+patient’s hospital course).  In authenticating (countersigning) the order, the 
+ordering practitioner approves and accepts responsibility for the admission 
+decision.  This process may also be used for practitioners (such as 
+emergency department physicians) who do not have admitting privileges 
+but are authorized by the hospital to issue temporary or “bridge” inpatient 
+admission orders. 
+ 
+b. Verbal orders- At some hospitals, individuals who lack the authority to 
+admit inpatients under state laws and hospital by‐laws (such as a 
+registered nurse) may nonetheless enter the inpatient admission order as a 
+verbal order.  In these cases, the ordering practitioner directly 
+communicates the inpatient admission order to staff as a verbal (not 
+standing) order, and the ordering practitioner need not separately record 
+the order to admit.  Following discussion with and at the direction of the 
+ordering practitioner, a verbal order for inpatient admission may be 
+documented by an individual who is not qualified to admit patients in his 
+or her own right, as long as that documentation (transcription) of the order 
+for inpatient admission is in accordance with state law including; scope‐
+of‐practice laws, hospital policies, and medical staff bylaws, rules, and 
+regulations.  In this case, the staff receiving the verbal order must 
+document the verbal order in the medical record at the time it is received.  
+The order must identify the ordering practitioner and must be 
+authenticated (countersigned) by the ordering practitioner promptly and 
+prior to discharge.  Example:  “Admit to inpatient per Dr. Smith” would 
+be considered an acceptable method of identifying the ordering 
+practitioner and would meet the verbal order requirement if the verbal 
+order (1) is appropriately documented in the medical record by the 
+individual receiving the verbal order when the order is received; and (2) is 
+authenticated (countersigned) by Dr. Smith promptly, prior to discharge. 
+ 
+c. Standing orders and protocols - The inpatient admission order cannot be 
+a standing order.  While Medicare’s rules do not prohibit use of a protocol 
+or algorithm that is part of a protocol, only the ordering practitioner, or a 
+resident or other practitioner acting on his or her behalf under section 
+--- page 15 ---
+(B)(2)(a) can make and take responsibility for the inpatient admission 
+decision. 
+ 
+d. Commencement of inpatient status - Inpatient status begins at the time 
+of formal admission by the hospital pursuant to the order, including an 
+initial order (under (B)(2)(a)) or a verbal order (under (B)(2)(b)) that is 
+authenticated (countersigned) timely, by authorized individuals, as 
+required in this section.  If the practitioner responsible for authenticating 
+(countersigning) an initial order or verbal order does not agree that 
+inpatient admission was appropriate or valid (including an unauthorized 
+verbal order), he or she should not authenticate (countersign) the order and 
+the beneficiary is not considered to be an inpatient.  The hospital stay may 
+be billed to Part B as a hospital outpatient encounter. 
+ 
+3. Knowledge of the patient’s hospital course: CMS considers only the 
+following practitioners to have sufficient knowledge about the beneficiary’s 
+hospital course, medical plan of care, and current condition to serve as the 
+ordering practitioner: the admitting physician of record (“attending”) or a 
+physician on call for him or her, primary or covering hospitalists caring for the 
+patient in the hospital, the beneficiary’s primary care practitioner or a 
+physician on call for the primary care practitioner, a surgeon responsible for a 
+major surgical procedure on the beneficiary or a surgeon on call for him or 
+her, emergency or clinic practitioners caring for the beneficiary at the point of 
+inpatient admission, and other practitioners qualified to admit inpatients and 
+actively treating the beneficiary at the point of the inpatient admission 
+decision.  A utilization review committee physician functioning in that role 
+does not have direct responsibility for the care of the patient and is therefore 
+not considered to be sufficiently knowledgeable to order the inpatient 
+admission.  The order must be written by one of the above practitioners 
+directly involved with the care of the beneficiary, and a utilization committee 
+physician may only write the order to admit if he or she is not acting in a 
+utilization review capacity and fulfills one of the direct patient care roles, such 
+as the attending physician.  Utilization review may not be conducted by any 
+individual who was professionally involved in the care of the patient whose 
+case is being reviewed (42 CFR 482.30(d)(3)
+). 
+ 
+4. Timing:  The order must be furnished at or before the time of the inpatient 
+admission.  The order can be written in advance of the formal admission (e.g., 
+for a pre‐scheduled surgery), but the inpatient admission does not occur until 
+hospital care services are provided to the beneficiary.  Conversely, in the 
+unusual case in which a patient is admitted as an inpatient prior to an order to 
+admit and there is no documented verbal order, the inpatient stay should not 
+be considered to commence until the inpatient admission order is documented.  
+CMS does not permit retroactive orders.  Authentication by the ordering 
+practitioner of the order (either by signature or, in the case of an initial order 

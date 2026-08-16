@@ -1,0 +1,125 @@
+{
+  "project": "Attestor",
+  "author": "U.S. Department of Homeland Security and U.S. Department of Justice",
+  "footer": "This document is an excerpt of federal public-domain material, reproduced as a training artifact for the Attestor exercise. It is not a current or authoritative source and is not legal or immigration guidance. Consult the published source for the governing text.",
+  "ecfr_issue_date": "2026-08-04",
+  "documents": [
+    {
+      "doc_id": "CFR-274A",
+      "title": "8 CFR Part 274a - Control of Employment of Aliens",
+      "doc_type": "regulation",
+      "kind": "ecfr",
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/{issue_date}/title-8.xml?part=274a",
+      "cite_url": "https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a",
+      "sections": ["274a.1", "274a.2", "274a.10", "274a.13"],
+      "backs": ["R1", "R2", "R3", "R4"]
+    },
+    {
+      "doc_id": "M-274",
+      "title": "USCIS Handbook for Employers M-274 - Guidance for Completing Form I-9",
+      "doc_type": "handbook",
+      "kind": "html_pages",
+      "url_template": "https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-employers-m-274/{slug}",
+      "cite_url": "https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-employers-m-274",
+      "cache_prefix": "M274",
+      "content_selectors": ["field--name-body", "field_body", "node__content"],
+      "boilerplate_stop": "Return to top",
+      "min_paragraph_chars": 45,
+      "items": [
+        {"label": "4.4", "slug": "40-completing-section-2-employer-review-and-verification/44-acceptable-receipts", "title": "Acceptable Receipts", "resolves": "A receipt stands in for a document for 90 days, but only for a replacement of a lost, stolen or damaged document", "backs": ["R3"]},
+        {"label": "5.1", "slug": "50-automatic-extensions-of-employment-authorization-andor-employment-authorization-documents-eads-in/51-automatic-extensions-based-on-a-timely-filed-application-to-renew-employment-authorization", "title": "Automatic Extensions Based on a Timely Filed Application to Renew Employment Authorization", "resolves": "Which EAD renewal filings still carry an automatic extension and how the extended date is computed", "backs": ["R2"]},
+        {"label": "6.1", "slug": "60-completing-supplement-b-reverification-and-rehire-of-form-i-9/61-reverifying-employment-authorization-for-current-employees", "title": "Reverifying Employment Authorization for Current Employees", "resolves": "Which documents must never be reverified even after their face date passes", "backs": ["R2"]},
+        {"label": "7.1", "slug": "70-evidence-of-employment-authorization-for-certain-categories/71-lawful-permanent-residents-lpr", "title": "Lawful Permanent Residents", "resolves": "Permanent residence does not lapse when the Permanent Resident Card expires", "backs": ["R2"]},
+        {"label": "9.0", "slug": "90-correcting-errors-or-missing-information-on-form-i-9", "title": "Correcting Errors or Missing Information on Form I-9", "resolves": "How a defect is corrected, and what correction cannot cure", "backs": ["R1"]},
+        {"label": "10.0", "slug": "100-retaining-form-i-9", "title": "Retaining Form I-9", "resolves": "The retention period runs from the later of two dates, not from hire", "backs": ["R4"]},
+        {"label": "11.2", "slug": "110-unlawful-discrimination-and-penalties-for-prohibited-practices/112-types-of-employment-discrimination-prohibited-under-the-ina", "title": "Types of Employment Discrimination Prohibited Under the INA", "resolves": "Specifying or rejecting documents is an unfair documentary practice, independent of whether the I-9 is otherwise correct", "backs": []},
+        {"label": "13.2", "slug": "130-acceptable-documents-for-verifying-employment-authorization-and-identity/132-list-b-documents-that-establish-identity", "title": "List B Documents That Establish Identity", "resolves": "List B establishes identity only, so it never carries an employment-authorization expiration", "backs": ["R3"]}
+      ]
+    },
+    {
+      "doc_id": "I9-INSTR",
+      "title": "Instructions for Form I-9, Employment Eligibility Verification",
+      "doc_type": "instructions",
+      "kind": "pdf_pages",
+      "url": "https://www.uscis.gov/sites/default/files/document/forms/i-9instr.pdf",
+      "cite_url": "https://www.uscis.gov/i-9",
+      "edition_date": "2025-01-20",
+      "page_offset": 0,
+      "excerpts": [
+        {"section_path": "instructions", "label": "Complete instructions for Form I-9, including the reverification rules and the do-not-reverify list", "printed_pages": "1-8", "pdf_pages": [1, 8]}
+      ],
+      "backs": ["R1", "R2", "R3", "R4"]
+    },
+    {
+      "doc_id": "FR-EAD",
+      "title": "90 FR 48800 - Removal of the Automatic Extension of Employment Authorization Documents",
+      "doc_type": "preamble",
+      "kind": "pdf_pages",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2025-10-30/pdf/2025-19702.pdf",
+      "cite_url": "https://www.federalregister.gov/documents/2025/10/30/2025-19702",
+      "publication_date": "2025-10-30",
+      "citation": "90 FR 48800",
+      "page_offset": 48798,
+      "excerpts": [
+        {"section_path": "preamble", "label": "Legal framework, the history of the automatic extension, the discussion of this interim final rule, and the description of regulatory changes", "printed_pages": "48800-48812", "pdf_pages": [2, 14]}
+      ],
+      "backs": ["R2"]
+    },
+    {
+      "doc_id": "IER-PACK",
+      "title": "Department of Justice Immigrant and Employee Rights Section - Guidance on the Form I-9 Process",
+      "doc_type": "interpretation",
+      "kind": "html_pages",
+      "url_template": "https://www.justice.gov/crt/{slug}",
+      "cite_url": "https://www.justice.gov/crt/immigrant-and-employee-rights-section",
+      "cache_prefix": "IER",
+      "content_selectors": ["field_body", "field--name-body", "node__content"],
+      "boilerplate_stop": "Updated ",
+      "min_paragraph_chars": 45,
+      "title_segment": -1,
+      "items": [
+        {"label": "LPR", "slug": "lawful-permanent-residents-employment-rights-under-immigration-and-nationality-act", "title": "Lawful Permanent Residents' Employment Rights Under the Immigration and Nationality Act", "resolves": "Reverifying a Permanent Resident Card may itself violate the anti-discrimination provision", "backs": ["R2"]},
+        {"label": "I9-EV", "slug": "form-i-9-and-e-verify", "title": "Form I-9 and E-Verify", "resolves": "What the employer may and may not require during verification", "backs": []},
+        {"label": "FAQ", "slug": "iers-frequently-asked-questions-faqs", "title": "IER's Frequently Asked Questions", "resolves": "Edge cases the regulation and the handbook leave open", "backs": []},
+        {"label": "WORKER", "slug": "worker-information", "title": "Worker Information", "resolves": "The employee's side of the documentary-practice rules", "backs": []}
+      ]
+    },
+    {
+      "doc_id": "FORM-I9",
+      "title": "Form I-9, Employment Eligibility Verification, with the Lists of Acceptable Documents",
+      "doc_type": "form",
+      "kind": "pdf_pages",
+      "url": "https://www.uscis.gov/sites/default/files/document/forms/i-9.pdf",
+      "cite_url": "https://www.uscis.gov/i-9",
+      "edition_date": "2025-01-20",
+      "page_offset": 0,
+      "excerpts": [
+        {"section_path": "form", "label": "Form I-9 Section 1 and Section 2", "printed_pages": "1", "pdf_pages": [1, 1]},
+        {"section_path": "lists", "label": "Lists of Acceptable Documents - Lists A, B and C in three columns", "printed_pages": "2", "pdf_pages": [2, 2]},
+        {"section_path": "supp-a", "label": "Supplement A, Preparer and/or Translator Certification", "printed_pages": "3", "pdf_pages": [3, 3]},
+        {"section_path": "supp-b", "label": "Supplement B, Reverification and Rehire", "printed_pages": "4", "pdf_pages": [4, 4]}
+      ],
+      "backs": ["R2", "R3"]
+    }
+  ],
+  "verification": {
+    "distractors": ["reverif", "expired", "540 days", "list b"],
+    "out_of_corpus": [
+      "minimum wage",
+      "family and medical leave",
+      "workers compensation",
+      "unemployment insurance",
+      "occupational safety",
+      "prevailing wage",
+      "child labor",
+      "drug testing",
+      "sexual harassment",
+      "non-compete",
+      "wage garnishment",
+      "GDPR",
+      "Sarbanes-Oxley",
+      "HIPAA"
+    ],
+    "near_miss": ["conditional resident", "temporary protected status", "asylee", "Supplement B"]
+  }
+}

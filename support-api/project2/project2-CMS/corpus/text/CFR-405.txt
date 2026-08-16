@@ -1,0 +1,815 @@
+
+42 CFR Part 405 Subpart I - Determinations, Redeterminations, Reconsiderations, and Appeals
+===========================================================================================
+
+
+§ 405.904 Medicare initial determinations, redeterminations and appeals: General description.
+---------------------------------------------------------------------------------------------
+
+(a) General overview—(1) Entitlement appeals. The SSA makes an initial determination on an
+application for Medicare benefits and/or entitlement of an individual to receive Medicare
+benefits. A beneficiary who is dissatisfied with the initial determination may request, and
+SSA will perform, a reconsideration in accordance with 20 CFR part 404, subpart J if the
+requirements for obtaining a reconsideration are met. Following the reconsideration, the
+beneficiary may request a hearing before an ALJ under this subpart (42 CFR part 405, subpart
+I). If the beneficiary obtains a hearing before an ALJ and is dissatisfied with the decision
+of the ALJ, or if the beneficiary requests a hearing and no hearing is conducted, and the
+beneficiary is dissatisfied with the decision of an ALJ or an attorney adjudicator, he or
+she may request the Council to review the case. Following the action of the Council, the
+beneficiary may be entitled to file suit in Federal district court.
+
+(2) Claim appeals. The Medicare contractor makes an initial determination when a claim for
+Medicare benefits under Part A or Part B is submitted. A beneficiary who is dissatisfied
+with the initial determination may request that the contractor perform a redetermination of
+the claim if the requirements for obtaining a redetermination are met. Following the
+contractor's redetermination, the beneficiary may request, and the Qualified Independent
+Contractor (QIC) will perform, a reconsideration of the claim if the requirements for
+obtaining a reconsideration are met. Following the reconsideration, the beneficiary may
+request a hearing before an ALJ. If the beneficiary obtains a hearing before the ALJ and is
+dissatisfied with the decision of the ALJ, or if the beneficiary requests a hearing and no
+hearing is conducted, and the beneficiary is dissatisfied with the decision of an ALJ or
+attorney adjudicator, he or she may request the Council to review the case. If the Council
+reviews the case and issues a decision, and the beneficiary is dissatisfied with the
+decision, the beneficiary may file suit in Federal district court if the amount remaining in
+controversy and the other requirements for judicial review are met.
+
+(b) Non-beneficiary appellants. In general, the procedures described in paragraph (a) of
+this section are also available to parties other than beneficiaries either directly or
+through a representative acting on a party's behalf, consistent with the requirements of
+this subpart I. A provider generally has the right to judicial review only as provided under
+section 1879(d) of the Act; that is, when a determination involves a finding that services
+are not covered because—
+
+(1) They were custodial care (see § 411.15(g) of this chapter); they were not reasonable and
+necessary (see § 411.15(k) of this chapter); they did not qualify as covered home health
+services because the beneficiary was not confined to the home or did not need skilled
+nursing care on an intermittent basis (see § 409.42(a) and (c)(1) of this chapter); or they
+were hospice services provided to a non-terminally ill individual (see § 418.22 of this
+chapter); and
+
+(2) Either the provider or the beneficiary, or both, knew or could reasonably be expected to
+know that those services were not covered under Medicare.
+
+
+----------------------------------------------------------------------
+
+
+§ 405.921 Notice of initial determination.
+------------------------------------------
+
+(a) Notice of initial determination sent to the beneficiary. (1) The notice must be written
+in a manner calculated to be understood by the beneficiary, and sent to the last known
+address of the beneficiary.
+
+(2) Content of the notice. The notice of initial determination must contain all of the
+following:
+
+(i) The reasons for the determination, including whether a local medical review policy, a
+local coverage determination, or national coverage determination was applied.
+
+(ii) The procedures for obtaining additional information concerning the contractor's
+determination, such as a specific provision of the policy, manual, law or regulation used in
+making the determination.
+
+(iii) Information on the right to a redetermination if the beneficiary is dissatisfied with
+the outcome of the initial determination and instructions on how to request a
+redetermination.
+
+(iv) Any other requirements specified by CMS.
+
+(b) Notice of initial determination sent to providers and suppliers. (1) An electronic or
+paper remittance advice (RA) notice is the notice of initial determination sent to providers
+and suppliers that accept assignment.
+
+(i) The electronic RA must comply with the format and content requirements of the standard
+adopted for national use by covered entities under the Health Insurance Portability and
+Accountability Act (HIPAA) and related CMS manual instructions.
+
+(ii) When a paper RA is mailed, it must comply with CMS manual instructions that parallel
+the HIPAA data content and coding requirements.
+
+(2) The notice of initial determination must contain all of the following:
+
+(i) The basis for any full or partial denial determination of services or items on the
+claim.
+
+(ii) Information on the right to a redetermination if the provider or supplier is
+dissatisfied with the outcome of the initial determination.
+
+(iii) All applicable claim adjustment reason and remark codes to explain the determination.
+
+(iv) The source of the RA and who may be contacted if the provider or supplier requires
+further information.
+
+(v) All content requirements of the standard adopted for national use by covered entities
+under HIPAA.
+
+(vi) Any other requirements specified by CMS.
+
+(c) Notice of initial determination sent to an applicable plan—(1) Content of the notice.
+The notice of initial determination under § 405.924(b)(16) must contain all of the
+following:
+
+(i) The reasons for the determination.
+
+(ii) The procedures for obtaining additional information concerning the contractor's
+determination, such as a specific provision of the policy, manual, law or regulation used in
+making the determination.
+
+(iii) Information on the right to a redetermination if the liability insurance (including
+self-insurance), no-fault insurance, or workers' compensation law or plan is dissatisfied
+with the outcome of the initial determination and instructions on how to request a
+redetermination.
+
+(iv) Any other requirements specified by CMS.
+
+(2) [Reserved]
+
+
+----------------------------------------------------------------------
+
+
+§ 405.924 Actions that are initial determinations.
+--------------------------------------------------
+
+(a) Applications and entitlement of individuals. SSA makes initial determinations and
+processes reconsiderations with respect to an individual on the following:
+
+(1) A determination with respect to entitlement to hospital insurance or supplementary
+medical insurance under Medicare.
+
+(2) A disallowance of an individual's application for entitlement to hospital or
+supplementary medical insurance, if the individual fails to submit evidence requested by SSA
+to support the application. (SSA specifies in the initial determination the conditions of
+entitlement that the applicant failed to establish by not submitting the requested
+evidence).
+
+(3) A denial of a request for withdrawal of an application for hospital or supplementary
+medical insurance, or a denial of a request for cancellation of a request for withdrawal.
+
+(4) A determination as to whether an individual, previously determined as entitled to
+hospital or supplementary medical insurance, is no longer entitled to those benefits,
+including a determination based on nonpayment of premiums.
+
+(5) An adjustment of premium for hospital or supplementary medical insurance as outlined in
+§§ 406.32(d), 408.20(e), and 408.22 of this chapter, and 20 CFR 418.1301.
+
+(b) Claims made by or on behalf of beneficiaries. The Medicare contractor makes initial
+determinations regarding claims for benefits under Medicare Part A and Part B. A finding
+that a request for payment or other submission does not meet the requirements for a Medicare
+claim as defined in § 424.32 of this chapter, is not considered an initial determination. An
+initial determination for purposes of this subpart includes, but is not limited to,
+determinations with respect to any of the following:
+
+(1) If the items and/or services furnished are covered under title XVIII.
+
+(2) In the case of determinations on the basis of section 1879(b) or (c) of the Act, if the
+beneficiary, or supplier who accepts assignment under § 424.55 of this chapter knew, or
+could reasonably have expected to know at the time the items or services were furnished,
+that the items or services were not covered.
+
+(3) In the case of determinations on the basis of section 1842(l)(1) of the Act, if the
+beneficiary or physician knew, or could reasonably have expected to know at the time the
+services were furnished, that the services were not covered.
+
+(4) Whether the deductible is met.
+
+(5) The computation of the coinsurance amount.
+
+(6) The number of days used for inpatient hospital, psychiatric hospital, or post-hospital
+extended care.
+
+(7) Periods of hospice care used.
+
+(8) Requirements for certification and plan of treatment for physician services, durable
+medical equipment, therapies, inpatient hospitalization, skilled nursing care, home health,
+hospice, and partial hospitalization services.
+
+(9) The beginning and ending of a spell of illness, including a determination made under the
+presumptions established under § 409.60(c)(2) of this chapter, and as specified in §
+409.60(c)(4) of this chapter.
+
+(10) The medical necessity of services, or the reasonableness or appropriateness of
+placement of an individual at an acute level of patient care made by the Quality Improvement
+Organization (QIO) on behalf of the contractor in accordance with § 476.86(c)(1) of this
+chapter.
+
+(11) Any other issues having a present or potential effect on the amount of benefits to be
+paid under Part A or Part B of Medicare, including a determination as to whether there was
+an underpayment of benefits paid under Part A or Part B, and if so, the amount thereof.
+
+(12) If a waiver of adjustment or recovery under sections 1870(b) and (c) of the Act is
+appropriate—
+
+(i) When an overpayment of hospital insurance benefits or supplementary medical insurance
+benefits (including a payment under section 1814(e) of the Act) was made for an individual;
+or
+
+(ii) For a Medicare Secondary Payer recovery claim against a beneficiary or against a
+provider or supplier.
+
+(13) If a particular claim is not payable by Medicare based upon the application of the
+Medicare Secondary Payer provisions of section 1862(b) of the Act.
+
+(14) Under the Medicare Secondary Payer provisions of sections 1862(b) of the Act that
+Medicare has a recovery claim against a provider, supplier, or beneficiary for services or
+items that were already paid by the Medicare program, except when the Medicare Secondary
+Payer recovery claim against the provider or supplier is based upon failure to file a proper
+claim as defined in part 411 of this chapter because this action is a reopening.
+
+(15) A claim not payable to a beneficiary for the services of a physician who has opted-out.
+
+(16) Under the Medicare Secondary Payer provisions of section 1862(b) of the Act that
+Medicare has a recovery claim if Medicare is pursuing recovery directly from an applicable
+plan. That is, there is an initial determination with respect to the amount and existence of
+the recovery claim.
+
+(c) Determinations by QIOs. An initial determination for purposes of this subpart also
+includes a determination made by a QIO that:
+
+(1) A provider can terminate services provided to an individual when a physician certified
+that failure to continue the provision of those services is likely to place the individual's
+health at significant risk; or
+
+(2) A provider can discharge an individual from the provider of services.
+
+
+----------------------------------------------------------------------
+
+
+§ 405.926 Actions that are not initial determinations.
+------------------------------------------------------
+
+Actions that are not initial determinations and are not appealable under this subpart
+include, but are not limited to the following:
+
+(a) Any determination for which CMS has sole responsibility, for example one of the
+following:
+
+(1) If an entity meets the conditions for participation in the program.
+
+(2) If an independent laboratory meets the conditions for coverage of services.
+
+(3) Determination under the Medicare Secondary Payer provisions of section 1862(b) of the
+Act of the debtor for a particular recovery claim.
+
+(b) The coinsurance amounts prescribed by regulation for outpatient services under the
+prospective payment system.
+
+(c) Any issue regarding the computation of the payment amount of program reimbursement of
+general applicability for which CMS or a carrier has sole responsibility under Part B such
+as the establishment of a fee schedule set forth in part 414 of this chapter, or an inherent
+reasonableness adjustment pursuant to § 405.502(g), and any issue regarding the cost report
+settlement process under Part A.
+
+(d) Whether an individual's appeal meets the qualifications for expedited access to judicial
+review provided in § 405.990.
+
+(e) Any determination regarding whether a Medicare overpayment claim must be compromised, or
+collection action terminated or suspended under the Federal Claims Collection Act of 1966,
+as amended.
+
+(f) Determinations regarding the transfer or discharge of residents of skilled nursing
+facilities in accordance with § 483.5 definition of `transfer and discharge' and § 483.15 of
+this chapter.
+
+(g) Determinations regarding the readmission screening and annual resident review processes
+required by subparts C and E of part 483 of this chapter.
+
+(h) Determinations for a waiver of Medicare Secondary Payer recovery under section 1862(b)
+of the Act.
+
+(i) Determinations for a waiver of interest.
+
+(j) Determinations for a finding regarding the general applicability of the Medicare
+Secondary Payer provisions (as opposed to the application of these provisions to a
+particular claim or claims for Medicare payment for benefits).
+
+(k) Except as specified in § 405.924(b)(16), determinations under the Medicare Secondary
+Payer provisions of section 1862(b) of the Act that Medicare has a recovery against an
+entity that was or is required or responsible (directly, as an insurer or self-insurer; as a
+third party administrator; as an employer that sponsors, contributes to or facilitates a
+group health plan or a large group health plan; or otherwise) to make payment for services
+or items that were already reimbursed by the Medicare program.
+
+(l) A contractor's, QIC's, ALJ's or attorney adjudicator's, or Council's determination or
+decision to reopen or not to reopen an initial determination, redetermination,
+reconsideration, decision, or review decision.
+
+(m) Determinations that CMS or its contractors may participate in the proceedings on a
+request for an ALJ hearing or act as parties in an ALJ hearing or Council review.
+
+(n) Determinations that a provider or supplier failed to submit a claim timely or failed to
+submit a timely claim despite being requested to do so by the beneficiary or the
+beneficiary's subrogee.
+
+(o) Determinations with respect to whether an entity qualifies for an exception to the
+electronic claims submission requirement under part 424 of this chapter.
+
+(p) Determinations by the Secretary of sustained or high levels of payment errors in
+accordance with section 1893(f)(3)(A) of the Act.
+
+(q) A contractor's prior determination related to coverage of physicians' services.
+
+(r) Requests for anticipated payment under the home health prospective payment system under
+§ 409.43(c)(ii)(2) of this chapter.
+
+(s) Claim submissions on forms or formats that are incomplete, invalid, or do not meet the
+requirements for a Medicare claim and returned or rejected to the provider or supplier.
+
+(t) A contractor's prior authorization determination with regard to—
+
+(1) Durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS)); and
+
+(2) Hospital outpatient department (OPD) services.
+
+(u) Issuance of notice to an individual entitled to Medicare benefits under Title XVIII of
+the Act when such individual received observation services as an outpatient for more than 24
+hours, as specified under § 489.20(y) of this chapter.
+
+
+----------------------------------------------------------------------
+
+
+§ 405.940 Right to a redetermination.
+-------------------------------------
+
+A person or entity that may be a party to a redetermination in accordance with § 405.906(b)
+and that is dissatisfied with an initial determination may request a redetermination by a
+contractor in accordance with § 405.940 through § 405.958, regardless of the amount in
+controversy.
+
+
+----------------------------------------------------------------------
+
+
+§ 405.942 Time frame for filing a request for a redetermination.
+----------------------------------------------------------------
+
+(a) Time frame for filing a request. Except as provided in paragraph (b) of this section,
+any request for redetermination must be filed within 120 calendar days from the date a party
+receives the notice of the initial determination.
+
+(1) For purposes of this section, the date of receipt of the initial determination will be
+presumed to be 5 calendar days after the date of the notice of initial determination, unless
+there is evidence to the contrary.
+
+(2) The request is considered as filed on the date it is received by the contractor.
+
+(b) Extending the time frame for filing a request. General rule. If the 120 calendar day
+period in which to file a request for a redetermination has expired and a party shows good
+cause, the contractor may extend the time frame for filing a request for redetermination.
+
+(1) How to request an extension. A party may file a request for an extension of time for
+filing a request for a redetermination with the contractor. The party should include any
+evidence supporting the request for extension. The request for redetermination extension
+must—
+
+(i) Be in writing;
+
+(ii) State why the request for redetermination was not filed within the required time frame;
+and
+
+(iii) Meet the requirements of § 405.944.
+
+(2) How the contractor determines if good cause exists. In determining if a party has good
+cause for missing a deadline to request a redetermination, the contractor considers—
+
+(i) The circumstances that kept the party from making the request on time;
+
+(ii) If the contractor's action(s) misled the party; and
+
+(iii) If the party had or has any physical, mental, educational, or linguistic limitations,
+including any lack of facility with the English language, that prevented the party from
+filing a timely request or from understanding or knowing about the need to file a timely
+request.
+
+(3) Examples of good cause. Examples of circumstances when good cause may be found to exist
+include, but are not limited to, the following situations:
+
+(i) The party was prevented by serious illness from contacting the contractor in person, in
+writing, or through a friend, relative, or other person; or
+
+(ii) The party had a death or serious illness in his or her immediate family; or
+
+(iii) Important records of the party were destroyed or damaged by fire or other accidental
+cause; or
+
+(iv) The contractor gave the party incorrect or incomplete information about when and how to
+request a redetermination; or
+
+(v) The party did not receive notice of the determination or decision; or
+
+(vi) The party sent the request to a Government agency in good faith within the time limit,
+and the request did not reach the appropriate contractor until after the time period to file
+a request expired.
+
+
+----------------------------------------------------------------------
+
+
+§ 405.946 Evidence to be submitted with the redetermination request.
+--------------------------------------------------------------------
+
+(a) Evidence submitted with the request. When filing the request for redetermination, a
+party must explain why it disagrees with the contractor's determination and should include
+any evidence that the party believes should be considered by the contractor in making its
+redetermination.
+
+(b) Evidence submitted after the request. When a party submits additional evidence after
+filing the request for redetermination, the contractor's 60 calendar day decision-making
+time frame is automatically extended for up to 14 calendar days for each submission.
+
+
+----------------------------------------------------------------------
+
+
+§ 405.948 Conduct of a redetermination.
+---------------------------------------
+
+A redetermination consists of an independent review of an initial determination. In
+conducting a redetermination, the contractor reviews the evidence and findings upon which
+the initial determination was based, and any additional evidence the parties submit or the
+contractor obtains on its own. An individual who was not involved in making the initial
+determination must make a redetermination. The contractor may raise and develop new issues
+that are relevant to the claims in the particular case.
+
+
+----------------------------------------------------------------------
+
+
+§ 405.960 Right to a reconsideration.
+-------------------------------------
+
+A person or entity that is a party to a redetermination made by a contractor as described
+under § 405.940 through § 405.958, and is dissatisfied with that determination, may request
+a reconsideration by a QIC in accordance with § 405.962 through § 405.966, regardless of the
+amount in controversy.
+
+
+----------------------------------------------------------------------
+
+
+§ 405.962 Timeframe for filing a request for a reconsideration.
+---------------------------------------------------------------
+
+(a) Timeframe for filing a request. Except as provided in paragraph (b) of this section and
+in § 405.974(b)(1), regarding a request for QIC reconsideration of a contractor's dismissal
+of a redetermination request, any request for a reconsideration must be filed within 180
+calendar days from the date the party receives the notice of the redetermination.
+
+(1) For purposes of this section, the date of receipt of the redetermination will be
+presumed to be 5 calendar days after the date of the notice of redetermination, unless there
+is evidence to the contrary.
+
+(2) For purposes of meeting the 180 calendar day filing deadline, the request is considered
+as filed on the date it is received by the QIC.
+
+(b) Extending the time for filing a request—(1) General rule. A QIC may extend the 180
+calendar day timeframe for filing a request for reconsideration for good cause.
+
+(2) How to request an extension. A party to the redetermination must file its request for an
+extension of the time for filing the reconsideration request with its request for
+reconsideration. A party should include evidence to support the request for extension. The
+request for reconsideration and request for extension must—
+
+(i) Be in writing;
+
+(ii) State why the request for reconsideration was not filed within the required timeframe;
+and
+
+(iii) Meet the requirements of § 405.964.
+
+(3) How the QIC determines whether good cause exists. In determining whether a party has
+good cause for missing a deadline to request reconsideration, the QIC applies the good cause
+provisions contained in § 405.942(b)(2) and (b)(3).
+
+
+----------------------------------------------------------------------
+
+
+§ 405.966 Evidence to be submitted with the reconsideration request.
+--------------------------------------------------------------------
+
+(a) Evidence submitted with the request. When filing a request for reconsideration, a party
+should present evidence and allegations of fact or law related to the issue in dispute and
+explain why it disagrees with the initial determination, including the redetermination.
+
+(1) This evidence must include any missing documentation identified in the notice of
+redetermination, consistent with § 405.956(b)(6).
+
+(2) Absent good cause, failure to submit all evidence, including documentation requested in
+the notice of redetermination prior to the issuance of the notice of reconsideration
+precludes subsequent consideration of that evidence.
+
+(b) Evidence submitted after the request. Each time a party submits additional evidence
+after filing the request for reconsideration, the QIC's 60 calendar day decisionmaking
+timeframe is automatically extended by up to 14 calendar days for each submission. This
+extension does not apply to timely submissions of documentation specifically requested by a
+QIC, unless the documentation was originally requested in the notice of redetermination.
+
+(c) Exception for beneficiaries and State Medicaid Agencies that file reconsideration
+requests. (1) Beneficiaries and State Medicaid Agencies that file requests for
+reconsideration are not required to comply with the requirements of paragraph (a) of this
+section. However, the automatic 14 calendar day extension described in paragraph (b) of this
+section applies to each evidence submission made after the request for reconsideration is
+filed.
+
+(2) Beneficiaries who are represented by providers or suppliers must comply with the
+requirements of paragraph (a) of this section.
+
+
+----------------------------------------------------------------------
+
+
+§ 405.968 Conduct of a reconsideration.
+---------------------------------------
+
+(a) General rules. (1) A reconsideration consists of an independent, on-the-record review of
+an initial determination, including the redetermination and all issues related to payment of
+the claim. In conducting a reconsideration, the QIC reviews the evidence and findings upon
+which the initial determination, including the redetermination, was based, and any
+additional evidence the parties submit or that the QIC obtains on its own. If the initial
+determination involves a finding on whether an item or service is reasonable and necessary
+for the diagnosis or treatment of illness or injury (under section 1862(a)(1)(A) of the
+Act), a QIC's reconsideration must involve consideration by a panel of physicians or other
+appropriate health care professionals, and be based on clinical experience, the patient's
+medical records, and medical, technical, and scientific evidence of record to the extent
+applicable.
+
+(b) Authority of the QIC. (1) National coverage determinations (NCDs), CMS Rulings, Council
+decisions designated by the Chair of the Departmental Appeals Board as having precedential
+effect under § 401.109 of this chapter, and applicable laws and regulations are binding on
+the QIC.
+
+(2) QICs are not bound by LCDs, LMRPs, or CMS program guidance, such as program memoranda
+and manual instructions, but give substantial deference to these policies if they are
+applicable to a particular case. A QIC may decline to follow a policy, if the QIC
+determines, either at a party's request or at its own discretion, that the policy does not
+apply to the facts of the particular case.
+
+(3) If a QIC declines to follow a policy in a particular case, the QIC's reconsideration
+explains the reasons why the policy was not followed.
+
+(4) A QIC's decision to decline to follow a policy under this section applies only to the
+specific claim being reconsidered and does not have precedential effect.
+
+(5) A QIC may raise and develop new issues that are relevant to the claims in a particular
+case provided that the contractor rendered a redetermination with respect to the claims.
+
+(c) Qualifications of the QIC's panel members. (1) Members of a QIC's panel who conduct
+reconsiderations must have sufficient medical, legal, and other expertise, including
+knowledge of the Medicare program.
+
+(2) When a redetermination is made with respect to whether an item or service is reasonable
+and necessary (section 1862(a)(1)(A) of the Act), the QIC designates a panel of physicians
+or other appropriate health care professionals to consider the facts and circumstances of
+the redetermination.
+
+(3) Where a claim pertains to the furnishing of treatment by a physician, or the provision
+of items or services by a physician, a reviewing professional must be a physician.
+
+(d) Disqualification of a QIC panel member. No physician or health care professional
+employed by or otherwise working for a QIC may review determinations regarding—
+
+(1) Health care services furnished to a patient if that physician or health care
+professional was directly responsible for furnishing those services; or
+
+(2) Health care services provided in or by an institution, organization, or agency, if that
+physician or health care professional or any member of the physician's family or health care
+professional's family has, directly or indirectly, a significant financial interest in that
+institution, organization, or agency (see the term family member as defined in § 405.902).
+
+
+----------------------------------------------------------------------
+
+
+§ 405.970 Timeframe for making a reconsideration following a contractor redetermination.
+----------------------------------------------------------------------------------------
+
+(a) General rule. Within 60 calendar days of the date the QIC receives a timely filed
+request for reconsideration following a contractor redetermination or any additional time
+provided by paragraph (b) of this section, the QIC mails, or otherwise transmits to the
+parties at their last known addresses, written notice of—
+
+(1) The reconsideration;
+
+(2) Its inability to complete its review within 60 calendar days in accordance with
+paragraphs (c) through (e) of this section; or
+
+(3) Dismissal.
+
+(b) Exceptions. (1) If a QIC grants an appellant's request for an extension of the 180
+calendar day filing deadline made in accordance with § 405.962(b), the QIC's 60 calendar day
+decision-making timeframe begins on the date the QIC receives the late filed request for
+reconsideration following a contractor redetermination, or when the request for an extension
+that meets the requirements of § 405.962(b) is granted, whichever is later.
+
+(2) If a QIC receives timely requests for reconsideration following a contractor
+redetermination from multiple parties, consistent with § 405.964(c), the QIC must issue a
+reconsideration, notice that it cannot complete its review, or dismissal within 60 calendar
+days for each submission of the latest filed request.
+
+(3) Each time a party submits additional evidence after the request for reconsideration
+following a contractor redetermination is filed, the QIC's 60 calendar day decisionmaking
+timeframe is extended by up to 14 calendar days for each submission, consistent with §
+405.966(b).
+
+(c) Responsibilities of the QIC. Within 60 calendar days of receiving a request for a
+reconsideration following a contractor redetermination, or any additional time provided for
+under paragraph (b) of this section, a QIC must take one of the following actions:
+
+(1) Notify all parties of its reconsideration, consistent with § 405.976.
+
+(2) Notify the parties that it cannot complete the reconsideration by the deadline specified
+in paragraph (b) of this section and offer the appellant the opportunity to escalate the
+appeal to OMHA. The QIC continues to process the reconsideration unless it receives a
+written request from the appellant to escalate the case to OMHA after the adjudication
+period has expired.
+
+(d) Responsibilities of the appellant. If an appellant wishes to exercise the option of
+escalating the case to OMHA, the appellant must notify the QIC in writing.
+
+(e) Actions following appellant's notice. (1) If the appellant fails to notify the QIC, or
+notifies the QIC that the appellant does not choose to escalate the case, the QIC completes
+its reconsideration following a contractor redetermination and notifies the appellant of its
+action consistent with § 405.972 or § 405.976.
+
+(2) If the appellant notifies the QIC that the appellant wishes to escalate the case, the
+QIC must take one of the following actions within 5 calendar days of receipt of the notice
+or 5 calendar days from the end of the applicable adjudication period under paragraph (a) or
+(b) of this section:
+
+(i) Complete its reconsideration following a contractor redetermination and notify all
+parties of its decision consistent with § 405.972 or § 405.976.
+
+(ii) Acknowledge the escalation notice in writing and forward the case file to OMHA.
+
+
+----------------------------------------------------------------------
+
+
+§ 405.1002 Right to an ALJ hearing.
+-----------------------------------
+
+(a) A party to a QIC reconsideration has a right to a hearing before an ALJ if—
+
+(1) The party files a written request for an ALJ hearing within 60 calendar days after
+receipt of the notice of the QIC's reconsideration.
+
+(2) The party meets the amount in controversy requirements of § 405.1006.
+
+(3) For purposes of this section, the date of receipt of the reconsideration is presumed to
+be 5 calendar days after the date of the reconsideration, unless there is evidence to the
+contrary.
+
+(4) For purposes of meeting the 60 calendar day filing deadline, the request is considered
+as filed on the date it is received by the office specified in the QIC's reconsideration.
+
+(b) A party who files a timely appeal before a QIC and whose appeal continues to be pending
+before a QIC at the end of the period described in § 405.970 has a right to a hearing before
+an ALJ if—
+
+(1) The party files a written request with the QIC to escalate the appeal for a hearing
+before an ALJ after the period described in § 405.970(a) and (b) has expired and the party
+files the request in accordance with § 405.970(d);
+
+(2) The QIC does not issue a decision or dismissal order within 5 calendar days of receiving
+the request for escalation in accordance with § 405.970(e)(2); and
+
+(3) The party has an amount remaining in controversy specified in § 405.1006.
+
+
+----------------------------------------------------------------------
+
+
+§ 405.1006 Amount in controversy required for an ALJ hearing and judicial review.
+---------------------------------------------------------------------------------
+
+(a) Definitions. For the purposes of aggregating claims to meet the amount in controversy
+requirement for an ALJ hearing or judicial review:
+
+(1) “Common issues of law and fact” means the claims sought to be aggregated are denied, or
+payment is reduced, for similar reasons and arise from a similar fact pattern material to
+the reason the claims are denied or payment is reduced.
+
+(2) “Delivery of similar or related services” means like or coordinated services or items
+provided to one or more beneficiaries.
+
+(b) ALJ review. To be entitled to a hearing before an ALJ, the party must meet the amount in
+controversy requirements of this section.
+
+(1) For ALJ hearing requests, the required amount remaining in controversy must be $100
+increased by the percentage increase in the medical care component of the consumer price
+index for all urban consumers (U.S. city average) as measured from July 2003 to the July
+preceding the current year involved.
+
+(2) If the figure in paragraph (b)(1) of this section is not a multiple of $10, then it is
+rounded to the nearest multiple of $10. The Secretary will publish changes to the amount in
+controversy requirement in the Federal Register when necessary.
+
+(c) Judicial review. To be entitled to judicial review, a party must meet the amount in
+controversy requirements of this subpart at the time it requests judicial review.
+
+(1) For review requests, the required amount remaining in controversy must be $1,000 or
+more, adjusted as specified in paragraphs (b)(1) and (b)(2) of this section.
+
+(2) [Reserved]
+
+(d) Calculating the amount remaining in controversy—(1) In general. The amount remaining in
+controversy is computed as the actual amount charged the individual for the items and
+services in the disputed claim, reduced by—
+
+(i) Any Medicare payments already made or awarded for the items or services; and
+
+(ii) Any deductible and/or coinsurance amounts that may be collected for the items or
+services.
+
+(2) Limitation on liability. Notwithstanding paragraph (d)(1) of this section, when payment
+is made for items or services under section 1879 of the Act or § 411.400 of this chapter, or
+the liability of the beneficiary for those services is limited under § 411.402 of this
+chapter, the amount in controversy is computed as the amount the beneficiary would have been
+charged for the items or services in question if those expenses were not paid under §
+411.400 of this chapter or if that liability was not limited under § 411.402 of this
+chapter, reduced by any deductible and/or coinsurance amounts that may be collected for the
+items or services.
+
+(3) Item or service terminations. When a matter involves a provider or supplier termination
+of Medicare-covered items or services that is disputed by a beneficiary, and the beneficiary
+did not elect to continue receiving the items or services, the amount in controversy is
+calculated in accordance with paragraph (d)(1) of this section, except that the amount
+charged to the individual and any deductible and coinsurance that may be collected for the
+items or services are calculated using the amount the beneficiary would have been charged if
+the beneficiary had received the items or services the beneficiary asserts should have been
+covered based on the beneficiary's current condition, and Medicare payment were not made for
+the items or services.
+
+(4) Overpayments. Notwithstanding paragraph (d)(1) of this section, when an appeal involves
+an identified overpayment, the amount in controversy is the amount of the overpayment
+specified in the demand letter, or the amount of the revised overpayment if the amount
+originally demanded changes as a result of a subsequent determination or appeal, for the
+items or services in the disputed claim. When an appeal involves an estimated overpayment
+amount determined through the use of statistical sampling and extrapolation, the amount in
+controversy is the total amount of the estimated overpayment determined through
+extrapolation, as specified in the demand letter, or as subsequently revised.
+
+(5) Coinsurance and deductible challenges. Notwithstanding paragraph (d)(1) of this section,
+for appeals filed by beneficiaries challenging only the computation of a coinsurance amount
+or the amount of a remaining deductible, the amount in controversy is the difference between
+the amount of the coinsurance or remaining deductible, as determined by the contractor, and
+the amount of the coinsurance or remaining deductible the beneficiary believes is correct.
+
+(6) Fee schedule or contractor price challenges. Notwithstanding paragraph (d)(1) of this
+section, for appeals of claims where the allowable amount has been paid in full and the
+appellant is challenging only the validity of the allowable amount, as reflected on the
+published fee schedule or in the published contractor-priced amount applicable to the items
+or services in the disputed claim, the amount in controversy is the difference between the
+amount the appellant argues should have been the allowable amount for the items or services
+in the disputed claim in the applicable jurisdiction and place of service, and the published
+allowable amount for the items or services.
+
+(e) Aggregating claims to meet the amount in controversy—(1) Aggregating claims in appeals
+of QIC reconsiderations for an ALJ hearing. Either an individual appellant or multiple
+appellants may aggregate two or more claims to meet the amount in controversy for an ALJ
+hearing if—
+
+(i) The claims were previously reconsidered by a QIC;
+
+(ii) The appellant(s) requests aggregation of claims appealed in the same request for ALJ
+hearing, or in multiple requests for an ALJ hearing filed with the same request for
+aggregation, and the request is filed within 60 calendar days after receipt of all of the
+reconsiderations being appealed; and
+
+(iii) The claims that a single appellant seeks to aggregate involve the delivery of similar
+or related services, or the claims that multiple appellants seek to aggregate involve common
+issues of law and fact, as determined by an ALJ or attorney adjudicator. Only an ALJ may
+determine the claims that a single appellant seeks to aggregate do not involve the delivery
+of similar or related services, or the claims that multiple appellants seek to aggregate do
+not involve common issues of law and fact. Part A and Part B claims may be combined to meet
+the amount in controversy requirements.
+
+(2) Aggregating claims that are escalated from the QIC level for an ALJ hearing. Either an
+individual appellant or multiple appellants may aggregate two or more claims to meet the
+amount in controversy for an ALJ hearing if—
+
+(i) The claims were pending before the QIC in conjunction with the same request for
+reconsideration;
+
+(ii) The appellant(s) requests aggregation of the claims for an ALJ hearing in the same
+request for escalation; and
+
+(iii) The claims that a single appellant seeks to aggregate involve the delivery of similar
+or related services, or the claims that multiple appellants seek to aggregate involve common
+issues of law and fact, as determined by an ALJ or attorney adjudicator. Only an ALJ may
+determine the claims that a single appellant seeks to aggregate do not involve the delivery
+of similar or related services, or the claims that multiple appellants seek to aggregate do
+not involve common issues of law and fact. Part A and Part B claims may be combined to meet
+the amount in controversy requirements.
+
+(f) Content of request for aggregation. When an appellant(s) seeks to aggregate claims in a
+request for an ALJ hearing, the appellant(s) must—
+
+(1) Specify all of the claims the appellant(s) seeks to aggregate; and
+
+(2) State why the appellant(s) believes that the claims involve common issues of law and
+fact or delivery of similar or related services.

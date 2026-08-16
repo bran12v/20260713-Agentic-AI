@@ -1,0 +1,617 @@
+
+--- page 1 ---
+1 
+ 
+  
+[26 CFR 601.401] Employment Taxes 
+    (Also: Sections 3102, 3111, 3301, 3403, 31.3102-1, 31.3111-4, 31.3301-1, 31.3403-
+1) 
+ 
+ 
+ 
+Rev. Proc. 2025-10 
+ 
+ 
+SECTION 1. PURPOSE 
+.01 The purpose of this revenue procedure is to provide updated guidance 
+regarding the implementation of section 530 of the Revenue Act of 1978, Pub. L. No. 
+95-600, 92 Stat. 2763, as amended (section 530) (addressing controversies involving 
+whether individuals are employees for purposes of employment taxes).
+1This revenue 
+procedure modifies and supersedes Revenue Procedure 85-18, 1985-1 CB 518.  
+.02 This revenue procedure clarifies the provisions of Rev. Proc. 85-18 with 
+respect to the definition of employee, the section 530 requirement for the filing of 
+required returns, and the reasonable basis safe harbor rules.  This revenue procedure 
+also amplifies the guidelines set forth in section 3.03 of Rev. Proc. 85-18 (interpreting 
+the word “treat” for purposes of determining whether a taxpayer did not treat an 
+individual as an employee for purposes of section 530(a)). 
+.03 This revenue procedure includes new provisions that reflect statutory 
+changes made to section 530 since 1986 that added sections 530(d), (e), and (f).
+2  
+ 
+1 The uncodified statutory language of section 530 is included as Attachment 1 of this revenue procedure. 
+The statutory language of section 530 can also usually be found in the publisher’s notes following 
+§ 3401(a). 
+2 Section 530(d) was added by the Tax Reform Act of 1986, Pub. L. No. 99-514, Title XVII, § 1706(a), 100 
+ 
+--- page 2 ---
+2 
+ 
+Section 530(d) is discussed in section 3.09.  Section 530(f) is discussed in section 3.10.  
+Section 530(e) is discussed throughout this revenue procedure. 
+.04 The provisions in Rev. Proc. 85-18 that explained how refunds, credits, 
+abatements, and handling of claims applied to taxpayers who were under audit or 
+otherwise involved in administrative or judicial processes with the Internal Revenue 
+Service (IRS) at the time of enactment of section 530 are no longer applicable and have 
+been omitted from this revenue procedure.  
+.05 Section 530 relief remains available at any stage in the administrative or 
+judicial process if the requirements for relief are met. 
+SECTION 2. BACKGROUND 
+.01 Section 530 (entitled “Controversies Involving Whether Individuals are 
+Employees for Purposes of Employment Taxes”) was originally enacted as a temporary 
+measure3 to provide relief for taxpayers who were involved in employment status 
+(worker classification) disputes with the IRS, and who faced large employment tax 
+assessments as a result of the IRS’s proposed reclassifications of workers.  Section 530 
+was extended indefinitely by the Tax Equity and Fiscal Responsibility Act of 1982.
+4  
+Section 530 is not part of the Internal Revenue Code (Code). 
+.02 Section 530 provides that a taxpayer will not be liable for federal employment 
+ 
+Stat. 2085.  Section 530(e) was added by the Small Business Job Protection Act of 1996, Pub. L. No. 
+104-188, Title I, § 1122(a), 110 Stat. 1755, 1766.  Section 530(f) was added by the Pension Protection 
+Act of 2006, Pub. L. No. 109-280, Title VIII, § 864(a), 120 Stat. 780, 1024. 
+3 H.R. Rep. No. 95-1748, 95th Cong., 2nd Sess. 4 (1978), 1978-3 C.B. (Vol. 1) 629 at 632, notes that, in 
+general, the bill was intended to provide an interim solution for controversies between the Internal 
+Revenue Service and taxpayers. 
+4 Pub. L. No. 97-248, Title II, § 269(c)(1), (2), 96 Stat. 324, 552. 
+--- page 3 ---
+3 
+ 
+taxes, with respect to an individual or class of workers if certain statutory requirements 
+are met.  Under section 530, the taxpayer, not the individual worker5, is eligible for relief 
+from the employment tax liability that would otherwise apply under subtitle C of the 
+Code, and any related interest or penalties attributable to that employment tax liability. 
+The taxes imposed by subtitle C include the Federal Insurance Contributions Act (FICA) 
+taxes, the Railroad Retirement Tax Act (RRTA) taxes,6 the Federal Unemployment Tax 
+Act (FUTA) taxes, and the collection of income tax at source on wages (income tax 
+withholding). 
+.03 Section 530(a) generally provides that if, for purposes of the employment 
+taxes under subtitle C of the Code, a taxpayer did not treat an individual as an 
+employee for any period, then the individual will be deemed not to be an employee for 
+that period, unless the taxpayer had no reasonable basis for not treating the individual 
+as an employee.  For any period after December 31, 1978, the relief applies only if, 
+pursuant to section 530(a)(1)(B), all federal tax returns (including information returns) 
+required to be filed by the taxpayer with respect to the individual for the period are filed 
+on a basis consistent with the taxpayer's treatment of the individual as not being an 
+employee, and, pursuant to section 530(a)(3), the taxpayer has not treated any 
+individual holding a substantially similar position as an employee for purposes of 
+employment taxes for any period beginning after December 31, 1977.    
+ 
+5 Section 530 relief does not extend to individual workers who remain liable for their personal employment 
+taxes.  
+6 For purposes of simplicity, discussion of the RRTA is not included in this revenue procedure.  However, 
+the same rules discussed in this revenue procedure apply for purposes of the RRTA.  
+--- page 4 ---
+4 
+ 
+.04  Section 530(a)(1)(A) provides that a taxpayer is entitled to relief if the 
+taxpayer “did not treat an individual as an employee” for purposes of employment taxes 
+(emphasis added).  The legislative history demonstrates that section 530 applies 
+exclusively to taxpayers involved in employment status controversies with the IRS.  
+Specifically, the legislative history explains that the relief measure was for taxpayers 
+that were “involved in employment tax status controversies” and explains that the 
+legislation prevents the IRS from reclassifying certain individuals as employees whom 
+the taxpayer has treated as independent contractors.  S. Rep. No. 95-1263, at 210 
+(1978).  Likewise, the Joint Committee on Taxation report on section 530 explains that 
+“the Act provides relief from employment tax liability to certain taxpayers involved in 
+employment tax status controversies with the Internal Revenue Service as a result of 
+the Service’s proposed reclassification of workers, whom taxpayers have considered as 
+having independent contractor status.”  Staff of Joint Committee on Taxation, 95th 
+Cong., General Explanation of the Revenue Act of 1978, at 301 (Comm. Print 1979) 
+(emphasis added). 
+.05 Section 530 relief applies only if the taxpayer did not treat the individual as an 
+employee for federal employment tax purposes for the period at issue and meets each 
+of the following requirements for such period: 
+(1) The taxpayer filed all required federal tax returns, including information 
+returns, on a basis that is consistent with the taxpayer’s treatment of the 
+individual as not being an employee (reporting consistency requirement); 
+(2) The taxpayer did not treat the individual or any individual holding a 
+--- page 5 ---
+5 
+ 
+substantially similar position as an employee (substantive consistency 
+requirement); and 
+(3) The taxpayer had a reasonable basis for not treating the individual as 
+an employee (reasonable basis requirement).  A taxpayer shall be treated as 
+having a reasonable basis if the taxpayer's treatment was in reasonable reliance 
+on any of the following: 
+(a)  judicial precedent, published rulings, technical advice with 
+respect to the taxpayer, or a letter ruling to the taxpayer (judicial 
+precedent); 
+(b) a past IRS audit of the taxpayer in which there was no 
+assessment attributable to the treatment (for employment tax purposes) of 
+the individuals holding substantially similar positions (prior audit); 
+(c) long-standing recognized practice of a significant segment of the 
+industry in which that individual was engaged (industry practice); or 
+(d) If the taxpayer had some other reasonable basis for not treating 
+the individual as an employee.  
+.06 Section 530(b) prohibits the Department of the Treasury from publishing 
+regulations or revenue rulings “with respect to the employment status of any individual 
+for purposes of the employment taxes.”  This revenue procedure, like Rev. Proc. 85-18, 
+does not violate that prohibition because it only provides guidance clarifying the 
+application of section 530.  Furthermore, this guidance is neither a regulation nor a 
+revenue ruling that addresses the classification of any individual or category of worker.   
+--- page 6 ---
+6 
+ 
+SECTION 3. APPLICATION AND SCOPE OF SECTION 530 
+.01 Worker Classification Controversies.  Section 530 applies only when a 
+taxpayer did not treat an individual as an employee for employment tax purposes, and 
+the IRS is proposing to reclassify the individual from a non-employee to an employee.  
+Thus, section 530 relates solely to worker classification controversies involving the 
+employment status of an individual as an employee or as an independent contractor (or 
+other non-employee).   
+.02 Employee.  For purposes of section 530, the term “employee”7 includes: 
+(1) an officer of a corporation under §§ 3121(d)(1), 3306(i), or 3401(c)8 of 
+the Code; 
+(2) an individual, who under the common law rules, has the status of an 
+employee under §§ 3121(d)(2) or 3306(i);  
+(3) agent-drivers, commission-drivers, full-time life insurance 
+salespersons, home workers or traveling or city salespersons under 
+§§ 3121(d)(3) (statutory employees) or 3306(i); 
+(4) an individual who performs services that are included under an 
+ 
+7 Although the definition of “employment status” in section 530(c)(2) and the legislative history to section 
+530 suggests that the provision was meant to address controversies involving the status of individuals 
+under the usual common law rules applicable in determining the employer-employee relationship as an 
+employee or independent contractor, the IRS has long taken a broader view of the definition of employee 
+with respect to whom the relief may potentially apply, both in published guidance and in litigati on.  
+Compare S. Rep. No. 95-1263, at 210 (1978), and Staff of Joint Committee on Taxation, 95th Cong., 
+General Explanation of the Revenue Act of 1978, at 301 (Comm. Print 1979), with Rev. Rul. 82- 83, 1982-
+1 CB 151. 
+8 Contrary to the decision in Joseph M. Grey Public Accountant, P.C. v. Commissioner, 119 T.C. 121 
+(2002), it is the IRS’s longstanding position that relief under section 530 with respect to corporate officers 
+may be available if the requirements of section 530 are met.  
+--- page 7 ---
+7 
+ 
+agreement pursuant to Section 218 or Section 218A9 of the Social Security Act 
+(218 Agreement) under § 3121(d)(4) of the Code; and 
+(5) an officer, employee or elected official of a State, or any political 
+subdivision thereof, or the District of Columbia, or any agency or instrumentality 
+of the foregoing under § 3401(c). 10 
+.03 Treatment of an Individual as an Employee11.  The IRS applies the following 
+guidelines when determining whether there was “treatment” of an individual as an 
+employee for a period within the meaning of section 530(a)(1): 
+(1) The withholding of income tax or FICA taxes from any payments made 
+to an individual, whether or not the tax is paid to the IRS, indicates “treatment” of 
+the individual as an employee. 
+(2) Except as provided in paragraphs (6) and (7) below, the filing of an 
+original or amended employment tax return (including a Form 940 “Employer’s 
+Annual Federal Unemployment Tax Return,” 941 “Employer’s Quarterly Federal 
+Tax Return,” 943 “Employer’s Annual Tax Return for Agricultural Employees,” or 
+944 “Employer's ANNUAL Federal Tax Return”), with respect to an individual, 
+whether or not tax was withheld from the payments made to the individual, 
+ 
+9 Pursuant to the Tribal Social Security Fairness Act of 2018, Pub. L. No. 115-243, 132 Stat. 2894, 
+federally recognized Indian Tribes may enter into 218A agreements extending voluntary Social Security 
+coverage to Indian Tribal Council members, and § 3121(d)(4) of the Code includes within the definition of 
+“employee” any individual who performs services that are included under a 218A agreement.   
+10 The IRS interprets section 530(a) as allowing a state or local government to obtain section 530 relief for 
+both FICA and federal income tax withholding purposes, provided that the requirements of section 530 
+are met.  See Chief Counsel Memorandum 20203810.
+ 
+11 See section 3.08 for a discussion on the treatment of dual status workers.  
+--- page 8 ---
+8 
+ 
+indicates “treatment” of the individual as an employee. 
+(3) The filing of Schedule H (Form 1040), Household Employment Taxes, 
+with respect to an individual, whether or not tax was withheld from the payments 
+made to the individual, indicates “treatment” of the individual as an employee. 
+(4) The filing of a Form W-2 “Wage and Tax Statement” with respect to an 
+individual, or the furnishing of a Form W-2 to an individual, whether or not tax 
+was withheld from the payments made to the individual, indicates “treatment” of 
+the individual as an employee. 
+(5) Contracting with a third party to perform acts required of employers 
+with respect to an individual, whether or not tax is withheld or paid to the IRS or 
+the third party otherwise satisfies the terms of the contract, indicates “treatment” 
+of the individual as an employee. 
+(6) The filing of a delinquent or amended employment tax return for a 
+particular tax period with respect to an individual as a result of IRS collection or 
+examination activities or other compliance procedures, does not indicate 
+“treatment” of the individual as an employee for that period.  IRS correspondence 
+that merely advises the taxpayer that no return has been filed and requests 
+information from the taxpayer is not a compliance procedure.  However, if the 
+taxpayer takes any of the actions identified in section 3.03 with respect to those 
+individuals in a later period (for example, the taxpayer withholds employment 
+taxes or files employment tax returns with respect to those individuals for the 
+periods following the period audited), those actions indicate “treatment” of the 
+--- page 9 ---
+9 
+ 
+individuals as employees for those later periods. 
+(7) A return prepared by the IRS under § 6020(b) for a period is not 
+“treatment” of an individual as an employee for that period. 
+.04 Notice of Section 530 Relief.  In accordance with section 530(e)(1), the IRS 
+will provide written notice of the availability of section 530 treatment before or at the 
+start of any employment tax audit inquiry relating to the employment status of one or 
+more individuals who perform services for the taxpayer or when it appears that a 
+determination concerning worker classification will be made. 
+.05 Consideration of Section 530 Relief.  In accordance with section 530(e)(3), in 
+any employment tax audit of a taxpayer relating to the employment status of any 
+individual who performs services for the taxpayer, the IRS will first consider whether the 
+taxpayer has satisfied the requirements of section 530 before analyzing whether the 
+individuals are employees.
+12 
+.06 Payment Characterizations do not Qualify for Section 530 Relief.  Based on 
+the language of section 530(a)(1) and the legislative history of section 530, the IRS 
+considers the relief to apply only to matters involving the status of an individual as an 
+employee or non-employee and not to matters involving the proper characterization of 
+payments to that individual.  Specifically, section 530 does not apply to controversies 
+ 
+12 Section 530(e)(3) provides that for purposes of the availability of the safe harbors in section 530(a) 
+“[n]othing in this section shall be construed to provide that subsection (a) only applies where the individual 
+involved is otherwise an employee of the taxpayer.”  The legislative history explains that section 530(e)(3) 
+was added solely to reverse the IRS’s prior position that a worker classification determination must be 
+performed prior to consideration of whether a taxpayer is entitled to section 530 reli ef.  H.R. Rep. No. 
+104-737, at 199-204 (1996) (Conf. Rep.).  Thus, section 530(e)(3) does not act to extend relief to disputes  
+involving whether a payment is wages or whether performance of services is employment.  
+--- page 10 ---
+10 
+ 
+concerning whether a particular type of payment made to an employee constitutes 
+“wages” as defined under the FICA, FUTA, or income tax withholding provisions.  Nor 
+does section 530 apply to the issue of whether services performed by an employee 
+constitute “employment” as defined under the FICA, FUTA, or income tax withholding 
+provisions.  Matters involving exceptions from “wages” and “employment” involve the 
+proper characterization of payments made to employees, or services provided by 
+employees, as defined under the FICA, FUTA, or income tax withholding provisions.  
+Section 530 is not applicable to these matters because they do not involve an issue 
+concerning whether the individual is an employee or non-employee.  These matters 
+involve the issue of whether the payment made to an employee is exempt from 
+employment taxes under a particular provision of the Code (because the payment is not 
+wages or the services are not employment).
+  
+Accordingly, in determining if section 530 applies, the IRS will first determine 
+whether the matter involves the proper classification of an individual as an employee, or 
+the proper characterization of a payment as “wages,” or of services as “employment.”   
+.07 Dual Status Workers.  In unusual cases, an individual may perform services 
+for a taxpayer that are completely separate and distinct from the services giving rise to 
+the employment relationship, and the individual may be separately compensated for 
+those services.  For the services performed outside of the employment relationship to 
+be completely separate and distinct from the services performed within the employment 
+relationship, there must be no interrelation as to duties or remuneration in each 
+--- page 11 ---
+11 
+ 
+capacity.13  In circumstances where an individual performs services for a taxpayer in 
+separate and distinct capacities, the status of the individual as an employee or non-
+employee, and the application of section 530, will be considered separately with respect 
+to each distinct relationship under which the separate services are provided. 
+.08 Treatment of Dual Status Workers.  In the circumstances described in section 
+3.07, a taxpayer may have treated an individual as an employee in one distinct 
+relationship but may assert that section 530 applies to another distinct relationship 
+(referred to here as the “second relationship”) because the individual was being 
+compensated for performing other services separate from the services the individual 
+performed as an employee.  As in all cases, with respect to the second relationship, the 
+IRS will first determine whether the matter involves the issue of the proper classification 
+of an individual as an employee, or the proper characterization of a payment as 
+“wages,” or of services as “employment” (consistent with section 3.06) before analyzing 
+whether the taxpayer is entitled to relief under section 530. 
+.09 Treatment of Certain Technical Personnel. Section 530(d) provides that 
+section 530 does not apply in the case of an individual who, through an arrangement 
+between the taxpayer and another person, provides services for the other person as an 
+engineer, designer, drafter, computer programmer, systems analyst, or other similarly 
+ 
+13 See Rev. Rul. 58-505, 1958-2 CB 728 (finding that officers, President and Secretary, of a company 
+were dual status workers because the services they performed as officers and as salesmen were not 
+interrelated and that they were performing services in two separate and unrelated capacities; holding that 
+these individuals were employees for federal employment tax purposes with respect to duties performed 
+by them as officers of the company, but were not employees for such purposes with respect to their 
+selling activities).   
+--- page 12 ---
+12 
+ 
+skilled worker engaged in a similar line of work.  Thus, whether an individual retained by 
+a taxpayer to provide technical services to a client is an employee of the taxpayer for 
+purposes of liability for employment taxes will be determined under the usual common 
+law rules without applying section 530. 
+.10 Treatment of Test Room Supervisors and Proctors. Section 530(f) provides 
+that, for periods after December 31, 2006, section 530 relief may apply to services 
+performed by an individual as a test proctor or room supervisor who assists in the 
+administration of college entrance or placement examinations for a § 501(c) 
+organization, exempt from tax under § 501(a) of the Code, regardless of whether the 
+§ 501(c) organization previously treated the individual, or an individual holding a 
+substantially similar position, as an employee. 
+.11 Federal Agencies.  Section 530 relief is not available to taxpayers that are 
+federal agencies.   
+.12 Abatement and Refund.  If a taxpayer is relieved of liability for employment 
+taxes under section 530, the IRS will abate any assessed liability and refund any 
+payment of the assessed tax related to the worker reclassification issue, including 
+applicable penalties and interest for any tax periods for which the period of limitations 
+has not expired.  
+SECTION 4. REPORTING CONSISTENCY REQUIREMENT 
+.01 To obtain section 530 relief, a taxpayer must satisfy the reporting consistency 
+requirement in section 530(a)(1)(B).  The reporting consistency requirement is intended 
+to ensure that the taxpayer acted in good faith in treating the individuals as non-
+--- page 13 ---
+13 
+ 
+employees.  S. Rep. No. 95-1263, at 210 (1978). 
+.02 Reporting consistency requires a taxpayer to file all required federal tax 
+returns with respect to an individual for the period, on a basis consistent with the good 
+faith treatment of the individual by the taxpayer as a non-employee.  Section 
+530(a)(1)(B).  See also Rev. Rul. 81-224, 1981-2 CB 197.  For example, if a taxpayer’s 
+position is that an individual was an independent contractor for a taxable period, the 
+taxpayer must have filed all required Forms 1099 consistent with its position that the 
+individual was an independent contractor for the period, reporting the payments for 
+services for which the taxpayer is treated as a non-employee.  All relevant returns will 
+be considered in determining whether the taxpayer satisfies the requirement that all 
+required returns be filed on a basis consistent with good faith treatment by the taxpayer 
+of an individual as a non-employee.
+14  
+.03 Reporting consistency must be satisfied on a period-by-period basis.  A 
+taxpayer that filed information returns for one period but that did not file information 
+returns for a prior or subsequent period may satisfy the reporting consistency 
+requirement only for the period for which it filed information returns.  For example, if a 
+taxpayer whose position is that an individual was an independent contractor did not file 
+Forms 1099-NEC “Nonemployee Compensation”, in year 1, but did file Forms 1099-
+ 
+14 In no event will a return filed after the date on which the IRS first contacts the taxpayer concerning an 
+examination of the period to which the return relates be considered as filed on a basis consistent with 
+good faith treatment by the taxpayer of an individual as a non-employee. Additionally, section 530 relief is 
+not available for any year and for any worker for whom the taxpayer did not file the required returns. See, 
+e.g., Bruecher Foundation Services, Inc. v. US 383 Fed.Appx. 381 (5th Cir. 2010), holding that a taxpayer 
+filing returns after assessment is not entitled to use Section 530 as a defense in a subsequent judicial 
+proceeding. 
+--- page 14 ---
+14 
+ 
+NEC in year 2, the taxpayer is not entitled to section 530 relief in year 1 but may be 
+entitled to section 530 relief for year 2 if it otherwise meets the requirements for section 
+530 relief for that year. 
+.04 Reporting consistency must be satisfied on an individual-by-individual basis.  
+A taxpayer that filed information returns for some individuals but that did not file 
+information returns for other individuals may satisfy the reporting consistency 
+requirement only for the individuals for whom it filed information returns.  For example, if 
+a taxpayer whose position is that an individual was an independent contractor filed 
+Forms 1099-NEC for individual workers A, B, and C in year 1, but did not file Forms 
+1099-NEC for individual workers D, E, and F in year 1, the taxpayer is not entitled to 
+section 530 relief for individuals D, E, and F for year 1. The taxpayer may be entitled to 
+section 530 relief for individual workers A, B, and C in year 1 if it otherwise meets the 
+requirements for section 530 relief for that year.  If the taxpayer files Forms 1099-NEC 
+for all the individuals in year 2, the taxpayer may be entitled to section 530 relief for all 
+the individuals in year 2 if it otherwise meets the requirements for section 530 relief for 
+that year. 
+.05 A taxpayer will not fail the reporting consistency requirement if the taxpayer, 
+in good faith, mistakenly files the wrong type of information return or, as long as the 
+return demonstrates a good faith attempt to accurately report the amount paid, reports 
+an inaccurate amount paid.  Moreover, a taxpayer will not fail the reporting consistency 
+requirement if the taxpayer was not required to file an information return because, for 
+example, the taxpayer paid the individual less than the threshold amount required to file 
+--- page 15 ---
+15 
+ 
+a Form 1099.   
+SECTION 5. SUBSTANTIVE CONSISTENCY REQUIREMENT 
+.01 To obtain section 530 relief, a taxpayer must satisfy the substantive 
+consistency requirement in section 530(a)(3).  The substantive consistency requirement 
+is intended to ensure that section 530 relief applies only to a taxpayer that has 
+consistently treated all individuals holding substantially similar positions as non-
+employees. It prevents a taxpayer from changing its treatment of employees to non-
+employees to qualify for section 530 relief, including through reincorporation, 
+reorganization, name change, or otherwise.  H.R. Rept. 95-1748 (1978), reprinted in 
+1978-3 (Vol. 1) C.B. 629.  
+.02 Substantive consistency requires that a taxpayer or a predecessor not have 
+treated an individual, or any individual holding a substantially similar position, as an 
+employee for any period beginning after December 31, 1977.  Pursuant to section 
+530(e)(6), the determination of whether an individual holds a position substantially 
+similar to a position held by another individual includes consideration of the relationship 
+between the taxpayer and the individual.  Accordingly, a substantially similar position 
+exists if the job functions, duties, and responsibilities are substantially similar and the 
+control and supervision of those duties and responsibilities are substantially similar.  
+.03 In determining if a taxpayer has treated an individual, or any individual 
+holding a substantially similar position, as an employee for purposes of the substantive 
+consistency requirement, the IRS will apply the same guidelines as described in section 
+3.03.   
+--- page 16 ---
+16 
+ 
+.04 Treatment of an individual, or an individual holding a substantially similar 
+position, as an employee in a period subsequent to the period under audit will not cause 
+a taxpayer to fail the substantive consistency requirement for the period under audit or 
+prior periods under audit. 
+.05 Entering into a Classification Settlement Program (CSP) or Voluntary 
+Classification Settlement Program (VCSP) agreement with the IRS with respect to an 
+individual will be considered treatment of the individual as an employee for substantive 
+consistency purposes from the effective date of the agreement. 
+SECTION 6. REASONABLE BASIS REQUIREMENT 
+.01 To obtain section 530 relief with respect to an individual, a taxpayer must 
+satisfy the reasonable basis requirement provided in sections 530(a)(1)(B) and (e).  The 
+reasonable basis requirement is intended to ensure that the taxpayer reasonably 
+considered the worker classification status of the individual as an employee or non-
+employee prior to making the classification decision. 
+.02 Reasonable basis requires a taxpayer to demonstrate that it reasonably 
+relied on one of the safe harbors in section 530(a)(2), or it had another reasonable basis 
+for treating the individual as a non-employee, before it treated the individual as a non-
+employee for the period under audit. 
+.03 Section 530(a)(2) provides that for purposes of satisfying section 530(a)(1), a 
+taxpayer shall in any case be treated as having a reasonable basis for not treating an 
+individual as an employee for a period if the taxpayer's treatment of such individual for 
+such period was in reasonable reliance on any of the safe harbors listed in section 
+--- page 17 ---
+17 
+ 
+2.05(3)(a), (b), and (c).  The IRS considers the following when determining whether 
+there was reasonable reliance on a safe harbor: 
+(1) Judicial precedent or published rulings, whether or not relating to the 
+particular industry or business in which the taxpayer is engaged, or technical 
+advice, a letter ruling, or a determination letter issued to the taxpayer under audit.   
+(a)  Reliance on judicial precedent or published rulings requires that 
+the taxpayer reasonably relied upon the judicial precedent or published 
+rulings at the time it began treating the individual as a non-employee for 
+the tax period under audit. 
+(b)  Thus, a taxpayer does not meet this safe harbor if the judicial 
+precedent that the taxpayer relied on was issued after the tax period for 
+which the taxpayer treated the individual as a non-employee. 
+(2) A past IRS audit that resulted in no assessment of employment taxes 
+attributable to the employment status reclassification of individuals holding 
+positions substantially similar to the position held by the individual. 
+(a) If a taxpayer is relying on the results of an audit that began 
+before 1997, the audit does not have to have been an audit of whether the 
+same individuals, or individuals holding substantially similar positions, 
+should have been treated as employees of the taxpayer, so long as the 
+prior audit did not result in an assessment of employment taxes 
+attributable to the IRS’s reclassification of the same individuals, or 
+individuals holding substantially similar positions. 
+--- page 18 ---
+18 
+ 
+(b)  If a taxpayer is relying on the results of an audit that began 
+after 1996, the audit must have been an employment tax examination of 
+the same individuals, or individuals holding substantially similar positions, 
+that did not result in a reclassification of the same individuals or individuals 
+holding substantially similar positions. 
+(c)  A taxpayer does not meet this safe harbor if, in the conduct of 
+the prior audit, a proposed assessment attributable to the IRS’s 
+reclassification of the individual was offset by other claims asserted by the 
+taxpayer. 
+(d) A taxpayer does not meet this safe harbor if the relationship 
+between the taxpayer and the individuals during the period under audit is 
+different from that which existed at the time of the prior audit. 
+(e) A taxpayer does not meet this safe harbor if the prior audit 
+began after 1996 and was only for purposes of determining a taxpayer’s 
+liability for failure to subject a reportable payment to backup withholding, 
+as required by § 3406 of the Code and accompanying regulations, if the 
+workers’ underlying worker classification was not examined, since the 
+imposition of backup withholding liabilities does not involve the 
+reclassification of workers by the IRS.       
+(3) A long-standing recognized practice of a significant segment of the 
+industry in which the individual was engaged.   
+(a) Reliance on industry practice requires that the taxpayer 
+--- page 19 ---
+19 
+ 
+reasonably relied upon the industry practice at the time it began treating 
+the individual as a non-employee for the tax period under audit. 
+(b) An industry generally consists of businesses located in the 
+same geographic or metropolitan area that compete for the same 
+customers.  However, if the area includes only one or a few businesses in 
+the same industry, or if the business competes in regional or national 
+markets, the geographic area may be expanded. 
+(c) 25 percent of the taxpayer’s industry (determined by not taking 
+into account the taxpayer) is deemed to be a significant segment of the 
+industry.  A lower percentage may be a significant segment, depending on 
+the facts and circumstances.   
+(d) A practice that has existed for 10 years is deemed to be long-
+standing.  A shorter period may be long-standing, depending on the 
+facts and circumstances.   
+.04 A taxpayer that does not meet any of the three safe harbors enumerated in 
+section 2.05(3)(a), (b), or (c), may still satisfy the reasonable basis requirement in 
+section 2.05(3)(d) if the taxpayer can demonstrate by facts and circumstances that it 
+relied on another reasonable basis for treating the individual as a non-employee.   
+.05 The legislative history of section 530 states that the reasonable basis 
+requirement should be construed liberally in favor of the taxpayer.  H.R. Rept. 95-1748 
+(1978), reprinted in 1978-3 (Vol. 1) C.B. 629, 633.  Liberal construction of the 
+reasonable basis requirement does not mean that the reporting consistency and 
+--- page 20 ---
+20 
+ 
+substantive consistency requirements for obtaining section 530 relief should be liberally 
+construed.  Rather, the Congressional direction to liberally construe the reasonable 
+basis requirement means the facts that indicate whether the taxpayer reasonably relied 
+on one of the safe harbors in section 530(a)(2) are to be viewed liberally in favor of the 
+taxpayer.  Failure to satisfy the reporting consistency or substantive consistency 
+requirements for section 530 relief is not cured by the application of liberal construction 
+of the reasonable basis requirement. 
+.06 Consistent with the legislative history of section 530, a taxpayer is not 
+considered to have a reasonable basis for its treatment of individuals as non-employees 
+if the facts and circumstances indicate negligence, intentional disregard of rules and 
+regulations, or fraud.  S. Rep. No. 95-1263, at 211 (1978).   
+.07 When considering whether a taxpayer had a reasonable basis to treat an 
+individual as a non-employee for employment tax purposes, if the taxpayer cannot 
+demonstrate reasonable reliance on any of the safe harbors listed in 2.05(3)(a), (b), and 
+(c), then, if factually relevant, the IRS may consider and the taxpayer may raise facts 
+demonstrating whether the taxpayer considered the individual as an employee for other 
+purposes, including whether the taxpayer during the years under audit: 
+(1) claimed income tax deductions, or treated payments made to or on 
+behalf of the individual as excludable from income, under provisions of the Code 
+that are applicable only to employees, including under §§ 62(a)(2)(A), 105, 106, 
+117(d), 119, 127, 129, 132 (portions thereof), or 137 of the Code; 
+(2) claimed employer credits such as credits for paid sick and/or family 
+--- page 21 ---
+21 
+ 
+leave under sections 7001 and/or 7003 of the Families First Coronavirus 
+Response Act or §§ 3131 through 3133 of the Code, the Employee Retention 
+Credit under either § 2301 of the Coronavirus Aid, Relief, and Economic Security 
+Act  or § 3134 of the Code, or any other credits specified in future guidance that 
+are calculated with respect to wages or compensation paid to an employee; 
+(3) complied with federal or state labor law including minimum wage and 
+overtime pay rules with respect to the individual that are applicable to employees 
+or treated workers as employees for purposes of state or non-tax federal laws; 
+(4) treated the individual as an employee for purposes of collectively 
+bargained agreements entered into by the taxpayer; 
+(5) permitted participation of the individual in any qualified pension, profit-
+sharing, or stock bonus plan; 
+(6) permitted participation of the individual in any nonqualified deferred 
+compensation plan if such participation is limited to employees of the taxpayer; 
+(7) provided state unemployment insurance or worker’s compensation 
+insurance coverage for such individual if the requirements for obtaining such 
+state unemployment or worker’s compensation insurance is that coverage is 
+limited to individuals performing services for the taxpayer as common law 
+employees under the common law rules or persons that would qualify as 
+employees for federal employment tax purposes.  
+SECTION 7. BURDEN OF PROOF 
+.01 In accordance with section 530(e)(4), if a taxpayer establishes a prima facie 
+--- page 22 ---
+22 
+ 
+case that it had a reasonable basis for not treating an individual as an employee for 530 
+purposes --  in other words, it meets the reporting consistency requirement, the 
+substantive consistency requirement, and one of the reasonable basis safe harbors 
+enumerated in section 530(a)(2)(A), (B), and (C) -- and the taxpayer has fully 
+cooperated with reasonable requests from the IRS, then the burden of proof with 
+respect to that treatment will shift to the IRS.  
+.02 The shift in the burden of proof does not apply with respect to the reasonable 
+basis requirement if the taxpayer relied on some other reasonable basis for treating the 
+individual as a non-employee.  See section 530(e)(4)(B); H.R. Rep. No. 104-737, at 
+203-04 (1996) (Conf. Rep.). 
+SECTION 8. STATUS OF INDIVIDUALS 
+.01 Section 530 does not change the status, liabilities, and rights of the individual 
+whose classification is at issue.  It does not convert individuals from employees to self-
+employed individuals. 
+.02 If a taxpayer receives section 530 relief for a class of workers, that taxpayer 
+is relieved from having to withhold income tax and withhold and pay FICA taxes from 
+payments made to members of that class of workers.  However, if any individual 
+member or members of that class of workers is otherwise determined to be an 
+employee of the taxpayer, each such employee remains liable for their employee share 
+of FICA tax pursuant to § 31.3102-1(d) of the Employment Tax regulations.
+15  
+ 
+15 A worker or a firm can file a Form SS-8 to request a worker status determination under the common law 
+ 
+--- page 23 ---
+23 
+ 
+Employees who incorrectly paid the self-employment tax may file a claim for refund if 
+the period of limitations has not expired; however, the amount of any refund may be 
+offset by the amount of the employee’s share of FICA tax as a result of the application 
+of § 31.3102-1(d).  If the period of limitations to claim a refund of self-employment tax 
+has expired, § 6521 of the Code may authorize a credit against the employee share of 
+FICA tax owed in the amount of self-employment tax that was erroneously paid.  
+SECTION 9. EFFECT ON OTHER DOCUMENTS 
+Rev. Proc. 85-18, 1985-1 CB 518, is modified and superseded. 
+ 
+SECTION 10. EFFECTIVE DATE 
+This revenue procedure is effective when published in the Internal Revenue Bulletin. 
+SECTION 11. DRAFTING INFORMATION 
+The principal author of this revenue procedure is Kelli Cacciotti of the Office of 
+Associate Chief Counsel (Employee Benefits, Exempt Organizations and Employment 
+Taxes).  For further information regarding this revenue procedure, contact Ms. Cacciotti 
+at (202) 317-6798 (not a toll-free call). 
+  
+ 
+rules for purposes of federal employment taxes and income tax withholding.  For additional information on 
+the Form SS-8, see www.irs.gov/forms-pubs/about-form-ss-8. 

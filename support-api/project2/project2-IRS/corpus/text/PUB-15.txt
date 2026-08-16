@@ -1,0 +1,891 @@
+
+--- page 1 ---
+Page 31 of 59  Fileid: … ication-15/2026/a/xml/cycle09/source 12:33 - 15-Dec-2025
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+recognized religious sect opposed to insurance. This ex-
+emption is available only if both the employee and the em-
+ployer are members of the sect. For more information, see 
+Pub. 517, Social Security and Other Information for Mem-
+bers of the Clergy and Religious Workers.
+Foreign persons treated as American employers. Un-
+der section 3121(z), a foreign person who meets both of 
+the following conditions is generally treated as an Ameri-
+can employer for purposes of paying FICA taxes on wages 
+paid to an employee who is a U.S. citizen or resident.
+1. The foreign person is a member of a domestically 
+controlled group of entities.
+2. The employee of the foreign person performs services 
+in connection with a contract between the U.S. Gov-
+ernment (or an instrumentality of the U.S. Govern-
+ment) and any member of the domestically controlled 
+group of entities. Ownership of more than 50% consti-
+tutes control.
+Part-Time Workers
+Part-time workers and workers hired for short periods of 
+time are treated the same as full -time employees for fed-
+eral income tax withholding and social security, Medicare, 
+and FUTA tax purposes.
+Generally, it doesn’t matter whether the part -time 
+worker or worker hired for a short period of time has an-
+other job or has the maximum amount of social security 
+tax withheld by another employer. See Successor em-
+ployer, earlier in this section, for an exception to this rule.
+Income tax withholding may be figured the same way 
+as for full -time workers or it may be figured by the 
+part-year employment method explained in section 6 of 
+Pub. 15-T .
+10. Required Notice to 
+Employees About the Earned 
+Income Credit (EIC)
+Y ou must notify employees, except for employees in 
+American Samoa, Guam, Puerto Rico, the CNMI, and the 
+USVI, who have no federal income tax withheld that they 
+may be able to claim a tax refund because of the EIC. Al-
+though you don’t have to notify employees who claim ex-
+emption from withholding on Form W -4 about the EIC, 
+you’re encouraged to notify any employees whose wages 
+for 2025 were less than $61,555 ($68,675 if married filing 
+jointly) that they may be eligible to claim the credit for 
+2025. This is because eligible employees may get a re-
+fund of the amount of the EIC that is more than the tax 
+they owe.
+Y ou’ll meet this notification requirement if you issue the 
+employee Form W -2 with the EIC notice on the back of 
+Copy B, or a substitute Form W -2 with the same state-
+ment. Y ou’ll also meet the requirement by providing Notice 
+797, Possible Federal T ax Refund Due to the Earned In-
+come Credit (EIC), or your own statement that contains 
+the same wording.
+If a substitute for Form W-2 is given to the employee on 
+time but doesn’t have the required statement, you must 
+notify the employee within 1 week of the date the substi-
+tute for Form W-2 is given. If Form W-2 is required but isn’t 
+given on time, you must give the employee Notice 797 or 
+your written statement by the date Form W-2 is required to 
+be given. If Form W -2 isn’t required, you must notify the 
+employee by February 9, 2026.
+11. Depositing Taxes
+Generally, you must deposit federal income tax withheld 
+and both the employer and employee social security and 
+Medicare taxes. Y ou must use EFT to make all federal tax 
+deposits. See How T o Deposit, later in this section, for in-
+formation on electronic deposit requirements.
+Payment with return.  Y ou may make a payment with a 
+timely filed Form 941, Form 943, Form 944, or Form 945 
+instead of depositing, without incurring a penalty, if one of 
+the following applies.
+• Y ou’re a monthly schedule depositor (defined later) 
+and make a payment in accordance with the accuracy 
+of deposits rule, discussed later in this section. This 
+payment may be $2,500 or more.
+• Y our Form 941 total tax liability (Form 941, line 12) for 
+either the current quarter or the prior quarter is less 
+than $2,500, and you didn’t incur a $100,000 next-day 
+deposit obligation during the current quarter. However, 
+if you’re unsure that your total tax liability for the cur-
+rent quarter will be less than $2,500 (and your liability 
+for the prior quarter wasn’t less than $2,500), make 
+deposits using the semiweekly or monthly rules so you 
+won’t be subject to an FTD penalty.
+• Y our Form 943 total tax liability (Form 943, line 13) for 
+the year is less than $2,500. However, if you’re unsure 
+that you will report less than $2,500, deposit under the 
+rules explained in this section so that you won’t be 
+subject to an FTD penalty.
+• Y our Form 944 total tax liability for the year (Form 944, 
+line 9) is less than $2,500, or your Form 944 total tax 
+liability for the year (Form 944, line 9) is $2,500 or 
+more and you already deposited the taxes you owed 
+for the first, second, and third quarters of the year; 
+your net tax for the fourth quarter is less than $2,500; 
+and you’re paying, in full, the tax you owe for the fourth 
+quarter with a timely filed return.
+• Y our Form 945 total tax liability (Form 945, line 3) for 
+the year is less than $2,500. However, if you’re unsure 
+that you will report less than $2,500, deposit under the 
+rules explained in this section so that you won’t be 
+subject to an FTD penalty.
+Separate deposit requirements for nonpayroll (Form 
+945) tax liabilities.  Separate deposits are required for 
+Publication 15 (2026) 31
+--- page 2 ---
+Page 32 of 59  Fileid: … ication-15/2026/a/xml/cycle09/source 12:33 - 15-Dec-2025
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+nonpayroll and payroll income tax withholding. Don’t com-
+bine deposits for Forms 941 (or Form 943 or Form 944) 
+and Form 945 tax liabilities. Generally, the deposit rules 
+for nonpayroll liabilities are the same as discussed next, 
+except the rules apply to an annual rather than a quarterly 
+return period. If the total amount of tax for the year repor-
+ted on Form 945 is less than $2,500, you’re not required to 
+make deposits during the year. See the separate Instruc-
+tions for Form 945 for more information.
+Separate deposit requirements for employers of both 
+farm and nonfarm workers.  If you employ both farm 
+and nonfarm workers, you must treat employment taxes 
+for the farmworkers (Form 943 taxes) separately from em-
+ployment taxes for the nonfarm workers (Form 941/944 
+taxes). Form 943 taxes and Form 941/944 taxes aren’t 
+combined for purposes of applying any of the deposit 
+schedule rules. If a deposit is due, deposit the Form 
+941/944 taxes and the Form 943 taxes by making sepa-
+rate deposits. For example, if you’re a monthly schedule 
+depositor for both Form 941/944 taxes and Form 943 
+taxes and your tax liability at the end of April is $1,500 re-
+portable on Form 941/944 and $1,200 reportable on Form 
+943, deposit both amounts by May 15. Use one transac-
+tion to deposit the $1,500 of Form 941/944 taxes and an-
+other transaction to deposit the $1,200 of Form 943 taxes.
+When To Deposit
+There are two deposit schedules —monthly and semi-
+weekly—for determining when you deposit social security, 
+Medicare, and withheld federal income taxes. These 
+schedules tell you when a deposit is due after a tax liability 
+arises. Y our tax liability is based on the dates payments 
+were made or wages were paid. For taxable noncash 
+fringe benefits, see When taxable fringe benefits are trea-
+ted as paid in section 5. Before the beginning of each cal-
+endar year, you must determine which of the two deposit 
+schedules you’re required to use. The deposit schedule 
+you must use is based on the total tax liability you reported 
+on Forms 941, line 12; Form 943, line 13; Form 944, line 9; 
+or Form 945, line 3, during a lookback period, discussed 
+next. Y our deposit schedule isn’t determined by how often 
+you pay your employees or make deposits. See special 
+rules for Form 943, Form 944, and Form 945, later in this 
+section. Also see Application of Monthly and Semiweekly 
+Schedules, later in this section.
+Caution:  These rules don’t apply to FUTA tax. See 
+section 14 for information on depositing FUTA tax.
+Lookback period.  If you’re a Form 941 filer, your deposit 
+schedule for a calendar year is determined from the total 
+taxes reported on Forms 941, line 12, in a 4 -quarter look-
+back period. The lookback period begins July 1 and ends 
+June 30 as shown next in T able 1. If you reported $50,000 
+or less of taxes for the lookback period, you’re a monthly 
+schedule depositor; if you reported more than $50,000, 
+you’re a semiweekly schedule depositor.
+T able 1. Lookback Period for Calendar Year 
+2026*
+July 1, 2024, Oct. 1, 2024, Jan. 1, 2025, Apr. 1, 2025,
+through through through through
+Sept. 30, 2024 Dec. 31, 2024 Mar. 31, 2025 June 30, 2025
+* The lookback period for a 2026 Form 941 filer who filed Form 944 in either 
+2024 or 2025 is calendar year 2024.
+If you’re a Form 943 or Form 944 filer for the current 
+year or either of the preceding 2 years, your deposit 
+schedule for a calendar year is determined from the total 
+taxes reported during the second preceding calendar year 
+(either on your Forms 941 for all 4 quarters of that year, 
+your Form 943 for that year, or your Form 944 for that 
+year). The lookback period for 2026 for a Form 943 or 
+Form 944 filer is calendar year 2024. If you reported 
+$50,000 or less of taxes for the lookback period, you’re a 
+monthly schedule depositor; if you reported more than 
+$50,000, you’re a semiweekly schedule depositor.
+If you’re a Form 945 filer, your deposit schedule for a 
+calendar year is determined from the total taxes reported 
+on line 3 of your Form 945 for the second preceding calen-
+dar year. The lookback period for 2026 for a Form 945 filer 
+is calendar year 2024.
+Adjustments and the lookback rule.  Adjustments 
+made on Form 941-X, Form 943-X, Form 944-X, and Form 
+945-X don’t affect the amount of tax liability for previous 
+periods for purposes of the lookback rule.
+Example.  An employer originally reported a tax liabil-
+ity of $45,000 for the lookback period. The employer dis-
+covered, during January 2026, that the tax reported for 
+one of the lookback period quarters was understated by 
+$10,000 and corrected this error by filing Form 941-X. This 
+employer is a monthly schedule depositor for 2026 be-
+cause the lookback period tax liabilities are based on the 
+amounts originally reported, and they were $50,000 or 
+less. The $10,000 adjustment is also not treated as part of 
+the 2026 taxes.
+Deposit period.  The term “deposit period” refers to the 
+period during which tax liabilities are accumulated for 
+each required deposit due date. For monthly schedule de-
+positors, the deposit period is a calendar month. The de-
+posit periods for semiweekly schedule depositors are 
+Wednesday through Friday and Saturday through T ues-
+day.
+Tip:  If you’re an agent with an approved Form 2678, 
+the deposit rules apply to you based on the total employ-
+ment taxes accumulated by you for your own employees 
+and on behalf of all employers for whom you’re authorized 
+to act. For more information on an agent with an approved 
+Form 2678, see Revenue Procedure 2013 -39, 2013 -52 
+I.R.B. 830, available at IRS.gov/irb/
+2013-52_IRB#RP-2013-39.
+32 Publication 15 (2026)
+--- page 3 ---
+Page 33 of 59  Fileid: … ication-15/2026/a/xml/cycle09/source 12:33 - 15-Dec-2025
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Monthly Deposit Schedule
+For Form 941 filers, you’re a monthly schedule depositor 
+for a calendar year if the total taxes on Forms 941, line 12, 
+for the 4 quarters in your lookback period were $50,000 or 
+less. For Form 943, Form 944, or Form 945 filers, you’re a 
+monthly schedule depositor for a calendar year if the total 
+taxes on Form 943, line 13; Form 944, line 9; or Form 945, 
+line 3, during your lookback period were $50,000 or less. 
+Under the monthly deposit schedule, deposit employment 
+taxes on payments made during a month by the 15th day 
+of the following month. See also Deposits Due on Busi-
+ness Days Only  and $100,000 Next -Day Deposit Rule , 
+later in this section. Monthly schedule depositors 
+shouldn’t file Form 941, Form 943, Form 944, or Form 945 
+on a monthly basis.
+New employers.  For Form 941 filers, your tax liability for 
+any quarter in the lookback period before you started or 
+acquired your business is considered to be zero. There-
+fore, you’re a monthly schedule depositor for the first cal-
+endar year of your business. For Form 943, Form 944, or 
+Form 945 filers, your tax liability in the lookback period be-
+fore you started or acquired your business is considered 
+to be zero. Therefore, you’re a monthly schedule depositor 
+for the first and second calendar years of your business. 
+However, see $100,000 Next -Day Deposit Rule , later in 
+this section.
+Semiweekly Deposit Schedule
+For Form 941 filers, you’re a semiweekly schedule deposi-
+tor for a calendar year if the total taxes on Forms 941, 
+line 12, during your lookback period were more than 
+$50,000. For Form 943, Form 944, or Form 945 filers, 
+you’re a semiweekly schedule depositor for a calendar 
+year if the total taxes on Form 943, line 13; Form 944, 
+line 9; or Form 945, line 3, during your lookback period 
+were more than $50,000. Under the semiweekly deposit 
+schedule, deposit employment taxes for payments made 
+on Wednesday, Thursday, and/or Friday by the following 
+Wednesday. Deposit taxes for payments made on Satur-
+day, Sunday, Monday, and/or T uesday by the following Fri-
+day. See also Deposits Due on Business Days Only , later 
+in this section.
+Caution:  Semiweekly schedule depositors must com-
+plete Schedule B (Form 941), Report of T ax Liability for 
+Semiweekly Schedule Depositors, and submit it with Form 
+941. If you file Form 943 and are a semiweekly schedule 
+depositor, complete Form 943 -A, Agricultural Employer’s 
+Record of Federal T ax Liability, and submit it with Form 
+943. If you file Form 944 or Form 945 and are a semi-
+weekly schedule depositor, complete Form 945-A, Annual 
+Record of Federal T ax Liability, and submit it with your re-
+turn.
+T able 2. Semiweekly Deposit Schedule
+IF the payday falls on a... THEN deposit taxes by the 
+following...
+Wednesday, Thursday,and/or 
+Friday
+Wednesday.
+Saturday, Sunday, Monday, and/or 
+T uesday
+Friday.
+Semiweekly deposit period spanning 2 quarters 
+(Form 941 filers). If you have more than 1 pay date dur-
+ing a semiweekly period and the pay dates fall in different 
+calendar quarters, you’ll need to make separate depos-
+its for the separate liabilities.
+Example.  If you have a pay date on Wednesday, Sep-
+tember 30, 2026 (third quarter), and another pay date on 
+Friday, October 2, 2026 (fourth quarter), two separate de-
+posits would be required even though the pay dates fall 
+within the same semiweekly period. Both deposits would 
+be due on Wednesday, October 7, 2026.
+Semiweekly deposit period spanning 2 return peri-
+ods (Form 943, Form 944, or Form 945 filers). The pe-
+riod covered by a return is the return period. The return 
+period for annual Form 943, Form 944, and Form 945 is a 
+calendar year. If you have more than 1 pay date during a 
+semiweekly period and the pay dates fall in different return 
+periods, you’ll need to make separate deposits for the 
+separate liabilities. For example, if a return period ends on 
+Thursday, taxes accumulated on Wednesday and Thurs-
+day are subject to one deposit obligation, and taxes accu-
+mulated on Friday are subject to a separate obligation. 
+Separate deposits are required because 2 different return 
+periods are affected.
+Summary of Steps To Determine Your Deposit Schedule
+1. Identify your lookback period (see Lookback period, earlier in 
+this section).
+2. Add the total taxes you reported on Forms 941, line 12; Form 
+943, line 13; Form 944, line 9; or Form 945, line 3, during the 
+lookback period.
+3. Determine if you’re a monthly or semiweekly schedule 
+depositor:
+IF the total taxes you 
+reported in the lookback 
+period were...
+THEN you’re a...
+$50,000 or less monthly schedule depositor.
+more than $50,000 semiweekly schedule 
+depositor.
+Example of Monthly and Semiweekly 
+Schedules
+Rose Co. reported Form 941 taxes as follows.
+Publication 15 (2026) 33
+--- page 4 ---
+Page 34 of 59  Fileid: … ication-15/2026/a/xml/cycle09/source 12:33 - 15-Dec-2025
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+2025 Lookback period 2026 Lookback period
+3rd Quarter 2023  $12,000 3rd Quarter 2024  $12,000
+4th Quarter 2023  12,000 4th Quarter 2024  12,000
+1st Quarter 2024  12,000 1st Quarter 2025  12,000
+2nd Quarter 2024  12,000 2nd Quarter 2025 15,000
+ $48,000  $51,000
+Rose Co. is a monthly schedule depositor for 2025 be-
+cause its tax liability for the 4 quarters in its lookback pe-
+riod (third quarter 2023 through second quarter 2024) 
+wasn’t more than $50,000. However, for 2026, Rose Co. 
+will be a semiweekly schedule depositor because the total 
+taxes exceeded $50,000 for the 4 quarters in its lookback 
+period (third quarter 2024 through second quarter 2025).
+Example for employers of farmworkers.  Red Co. re-
+ported taxes on its 2024 Form 943, line 13, of $48,000. On 
+its 2025 Form 943, line 13, it reported taxes of $60,000.
+Red Co. is a monthly schedule depositor for 2026 be-
+cause its taxes for its lookback period ($48,000 for calen-
+dar year 2024) weren’t more than $50,000. However, for 
+2027, Red Co. will be a semiweekly schedule depositor 
+because the total taxes for its lookback period ($60,000 
+for calendar year 2025) exceeded $50,000.
+Deposits Due on Business Days Only
+If a deposit is required to be made on a day that isn’t a 
+business day, the deposit is considered timely if it is made 
+by the close of the next business day. A business day is 
+any day other than a Saturday, Sunday, or legal holiday. 
+For example, if a deposit is required to be made on a Fri-
+day and Friday is a legal holiday, the deposit will be con-
+sidered timely if it is made by the following Monday (if that 
+Monday is a business day).
+Semiweekly schedule depositors  have at least 3 
+business days following the close of the semiweekly pe-
+riod to make a deposit. If any of the 3 weekdays after the 
+end of a semiweekly period is a legal holiday, you’ll have 
+an additional day for each day that is a legal holiday to 
+make the required deposit. For example, if a semiweekly 
+schedule depositor accumulated taxes for payments 
+made on Friday and the following Monday is a legal holi-
+day, the deposit normally due on Wednesday may be 
+made on Thursday (this allows 3 business days to make 
+the deposit).
+Legal holiday.  The term “legal holiday” means any legal 
+holiday in the District of Columbia. For purposes of the de-
+posit rules, the term “legal holiday” doesn’t include other 
+statewide legal holidays. Legal holidays for 2026 are listed 
+next.
+• January 1—New Y ear’s Day
+• January 19—Birthday of Martin Luther King, Jr.
+• February 16—Washington’s Birthday
+• April 16—District of Columbia Emancipation Day
+• May 25—Memorial Day
+• June 19—Juneteenth National Independence Day
+• July 3—Independence Day (observed)
+• September 7—Labor Day
+• October 12—Indigenous Peoples’ Day (Columbus 
+Day)
+• November 11—Veterans Day
+• November 26—Thanksgiving Day
+• December 25—Christmas Day
+Application of Monthly and Semiweekly 
+Schedules
+The terms “monthly schedule depositor” and “semiweekly 
+schedule depositor” don’t refer to how often your business 
+pays its employees or even how often you’re required to 
+make deposits. The terms identify which set of deposit 
+rules you must follow when an employment tax liability ari-
+ses. The deposit rules are based on the dates when wa-
+ges are paid (cash basis), not on when tax liabilities are 
+accrued for accounting purposes.
+Monthly schedule example.  Spruce Co. is a monthly 
+schedule depositor with seasonal employees. It paid wa-
+ges each Friday during March but didn’t pay any wages 
+during April. Under the monthly deposit schedule, Spruce 
+Co. must deposit the combined tax liabilities for the March 
+paydays by April 15. Spruce Co. doesn’t have a deposit 
+requirement for April (due by May 15) because no wages 
+were paid and, therefore, it didn’t have a tax liability for 
+April.
+Semiweekly schedule example.  Green, Inc., is a semi-
+weekly schedule depositor and pays wages once each 
+month on the last Friday of the month. Although Green, 
+Inc., has a semiweekly deposit schedule, it will deposit 
+just once a month because it pays wages only once a 
+month. The deposit, however, will be made under the 
+semiweekly deposit schedule as follows: Green, Inc.’s tax 
+liability for the May 29, 2026 (Friday), payday must be de-
+posited by June 3, 2026 (Wednesday). Under the semi-
+weekly deposit schedule, liabilities for wages paid on 
+Wednesday through Friday must be deposited by the fol-
+lowing Wednesday.
+$100,000 Next-Day Deposit Rule
+If you accumulate $100,000 or more in taxes on any day 
+during a monthly or semiweekly deposit period (see De-
+posit period, earlier in this section), you must deposit the 
+tax by the next business day, whether you’re a monthly or 
+semiweekly schedule depositor. The $100,000 tax liability 
+threshold requiring a next -day deposit is determined be-
+fore you consider any reduction of your liability for nonre-
+fundable credits.
+For purposes of the $100,000 rule, don’t continue accu-
+mulating a tax liability after the end of a deposit period. 
+For example, if a semiweekly schedule depositor has ac-
+cumulated a liability of $95,000 on a T uesday (of a Satur-
+day-through-T uesday deposit period) and accumulated a 
+$10,000 liability on Wednesday, the $100,000 next -day 
+34 Publication 15 (2026)
+--- page 5 ---
+Page 35 of 59  Fileid: … ication-15/2026/a/xml/cycle09/source 12:33 - 15-Dec-2025
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+deposit rule doesn’t apply because the $10,000 is accu-
+mulated in the next deposit period. Thus, $95,000 must be 
+deposited by Friday and $10,000 must be deposited by 
+the following Wednesday.
+However, once you accumulate at least $100,000 in a 
+deposit period, stop accumulating at the end of that day 
+and begin to accumulate anew on the next day. For exam-
+ple, Fir Co. is a semiweekly schedule depositor. On Mon-
+day, Fir Co. accumulates taxes of $110,000 and must de-
+posit this amount on T uesday, the next business day. On 
+T uesday, Fir Co. accumulates additional taxes of $30,000. 
+Because the $30,000 isn’t added to the previous 
+$110,000 and is less than $100,000, Fir Co. must deposit 
+the $30,000 by Friday (following the semiweekly deposit 
+schedule).
+Caution:  If you’re a monthly schedule depositor and 
+accumulate a $100,000 tax liability on any day during the 
+deposit period, you become a semiweekly schedule de-
+positor on the next day and remain so for at least the rest 
+of the calendar year and for the following calendar year.
+Example.  Elm, Inc., started its business on May 4, 
+2026. On Wednesday, May 6, it paid wages for the first 
+time and accumulated a tax liability of $40,000. On Friday, 
+May 8, Elm, Inc., paid wages and accumulated a liability of 
+$60,000, bringing its total accumulated tax liability to 
+$100,000. Because this was the first year of its business, 
+the tax liability for its lookback period is considered to be 
+zero, and it would be a monthly schedule depositor based 
+on the lookback rules. However, because Elm, Inc., accu-
+mulated a $100,000 liability on May 8, it became a semi-
+weekly schedule depositor on May 9. It will be a semi-
+weekly schedule depositor for the remainder of 2026 and 
+for 2027. Elm, Inc., is required to deposit the $100,000 by 
+Monday, May 11, the next business day.
+Accuracy of Deposits Rule
+Y ou’re required to deposit 100% of your tax liability on or 
+before the deposit due date. However, penalties won’t be 
+applied for depositing less than 100% if both of the follow-
+ing conditions are met.
+• Any deposit shortfall doesn’t exceed the greater of 
+$100 or 2% of the amount of taxes otherwise required 
+to be deposited.
+• The deposit shortfall is paid or deposited by the short-
+fall makeup date as described next.
+Makeup Date for Deposit Shortfall 
+1. Monthly schedule depositor. Deposit the shortfall 
+or pay it with your return by the due date of your return 
+for the return period in which the shortfall occurred. 
+Y ou may pay the shortfall with your return even if the 
+amount is $2,500 or more.
+2. Semiweekly schedule depositor. Deposit by the 
+earlier of:
+a. The first Wednesday or Friday (whichever comes 
+first) that falls on or after the 15th day of the month 
+following the month in which the shortfall occurred, 
+or
+b. The due date of your return (for the return period 
+of the tax liability).
+For example, if a semiweekly schedule depositor has a 
+deposit shortfall during April 2026, the shortfall makeup 
+date is May 15, 2026 (Friday). However, if the shortfall oc-
+curred on the required July 1, 2026 (Wednesday), deposit 
+due date for the June 26, 2026 (Friday), pay date, the re-
+turn due date for the June 26 pay date (July 31, 2026) 
+would come before the August 19, 2026 (Wednesday), 
+shortfall makeup date. In this case, the shortfall must be 
+deposited by July 31, 2026.
+How To Deposit
+Y ou must deposit employment taxes, including Form 945 
+taxes, by EFT . See Payment with return, earlier in this sec-
+tion, for exceptions explaining when taxes may be paid 
+with the tax return instead of being deposited.
+Electronic deposit requirement.  Y ou must use EFT to 
+make all federal tax deposits. An EFT can be made using 
+EFTPS, IRS Direct Pay, or your IRS business tax account. 
+If you don’t want to use one of these methods, you can ar-
+range for your tax professional, financial institution, payroll 
+service, or other trusted third party to make electronic de-
+posits on your behalf. EFTPS is a free service provided by 
+the Department of the T reasury. Payments made using 
+IRS Direct Pay or through your IRS business tax account 
+are also free. For more information about IRS Direct Pay 
+and making payments through your IRS business tax ac-
+count, go to IRS.gov/Pay. T o get more information about 
+EFTPS or to enroll in EFTPS, go to EFTPS.gov or call 
+800-555-4477, 800-244-4829 (Spanish), or 303-967-5916 
+(toll call). T o contact EFTPS using TRS for people who are 
+deaf, hard of hearing, or have a speech disability, dial 711 
+and then provide the TRS assistant the 800 -555-4477 
+number or 800 -733-4829. Additional information about 
+EFTPS is also available in Pub. 966.
+When you receive your EIN.  If you’re a new em-
+ployer that indicated a federal tax obligation when re-
+questing an EIN, you’ll be pre-enrolled in EFTPS. Y ou’ll re-
+ceive information about Express Enrollment in your 
+Employer Identification Number (EIN) Package and an ad-
+ditional mailing containing your EFTPS personal identifi-
+cation number (PIN) and instructions for activating your 
+PIN. Call the toll-free number located in your “How to Acti-
+vate Y our Enrollment” brochure to activate your enrollment 
+and begin making your payroll tax deposits. If you out-
+source any of your payroll and related tax duties to a 
+third-party payer, such as a payroll service provider (PSP) 
+or reporting agent, be sure to tell them about your EFTPS 
+enrollment.
+Deposit record.  For your records, an EFT T race 
+Number will be provided with each successful payment. 
+The number can be used as a receipt or to trace the pay-
+ment.
+Publication 15 (2026) 35
+--- page 6 ---
+Page 36 of 59  Fileid: … ication-15/2026/a/xml/cycle09/source 12:33 - 15-Dec-2025
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Depositing on time.  EFTPS accepts same day pay-
+ments of $1 million or less if the payment is submitted be-
+fore 3:00 p.m. Eastern time on a business day. If your pay-
+ment is more than $1 million, you must submit the deposit 
+by 8:00 p.m. Eastern time the day before the date the de-
+posit is due. If you use a third party to make a deposit on 
+your behalf, they may have different cutoff times.
+Same-day wire payment option.  If you fail to submit 
+a timely deposit transaction on EFTPS, you can still make 
+your deposit on time by using the Federal T ax Collection 
+Service (FTCS) to make a same-day wire payment. T o use 
+the same-day wire payment method, you’ll need to make 
+arrangements with your financial institution ahead of time. 
+Check with your financial institution regarding availability, 
+deadlines, and costs. Y our financial institution may charge 
+you a fee for payments made this way. T o learn more 
+about the information you’ll need to give to your financial 
+institution to make a same -day wire payment, go to 
+IRS.gov/SameDayWire.
+How to claim credit for overpayments.  If you depos-
+ited more than the right amount of taxes for a quarter, you 
+can choose on Form 941 for that quarter (or on Form 943, 
+Form 944, or Form 945 for that year) to have the overpay-
+ment refunded or applied as a credit to your next return. 
+Don’t ask EFTPS to request a refund from the IRS for you.
+Deposit Penalties
+Although the deposit penalties information provided next 
+refers specifically to Form 941, these rules also apply to 
+Form 943, Form 944, and Form 945. The penalties won’t 
+apply if the employer qualifies for the exceptions to the de-
+posit requirements discussed under Payment with return , 
+earlier, in this section.
+Penalties may apply if you don’t make required deposits 
+on time or if you make deposits for less than the required 
+amount. The penalties don’t apply if any failure to make a 
+proper and timely deposit was due to reasonable cause 
+and not to willful neglect. If you receive a penalty notice, 
+you can provide an explanation of why you believe reason-
+able cause exists.
+If you timely filed your employment tax return, the IRS 
+may also waive deposit penalties if you inadvertently failed 
+to deposit and it was the first quarter that you were re-
+quired to deposit any employment tax, or if you inadver-
+tently failed to deposit the first time after your deposit fre-
+quency changed. Y ou must also meet the net worth and 
+size limitations applicable to awards of administrative and 
+litigation costs under section 7430; for individuals, this 
+means that your net worth can’t exceed $2 million, and for 
+businesses, your net worth can’t exceed $7 million and 
+you also can’t have more than 500 employees.
+The IRS may also waive the deposit penalty the first 
+time you’re required to make a deposit if you inadvertently 
+send the payment to the IRS rather than deposit it by EFT .
+For amounts not properly or timely deposited, the pen-
+alty rates are as follows.
+Penalty Charged for...
+2% Deposits made 1 to 5 days late.
+5% Deposits made 6 to 15 days late.
+10% Deposits made 16 or more days late, but before 10 days from 
+the date of the first notice the IRS sent asking for the tax due.
+10% Amounts that should have been deposited, but instead were 
+paid directly to the IRS, or paid with your tax return. But see 
+Payment with return, earlier in this section, for exceptions.
+15% Amounts still unpaid more than 10 days after the date of the 
+first notice the IRS sent asking for the tax due or the day on 
+which you received notice and demand for immediate 
+payment, whichever is earlier.
+Late deposit penalty amounts are determined using 
+calendar days, starting from the due date of the liability.
+Special rule for former Form 944 filers.  If you filed 
+Form 944 for the prior year and file Forms 941 for the cur-
+rent year, the FTD penalty won’t apply to a late deposit of 
+employment taxes for January of the current year if the 
+taxes are deposited in full by March 15 of the current year.
+Order in which deposits are applied.  Deposits are 
+generally applied to the most recent tax liability within the 
+quarter. If you receive an FTD penalty notice, you may 
+designate how your deposits are to be applied in order to 
+minimize the amount of the penalty if you do so within 90 
+days of the date of the notice. Follow the instructions on 
+the penalty notice you receive. For more information on 
+designating deposits, see Revenue Procedure 2001 -58. 
+Y ou can find Revenue Procedure 2001-58 on page 579 of 
+Internal Revenue Bulletin 2001 -50 at IRS.gov/pub/irs-irbs/
+irb01-50.pdf.
+Example.  Cedar, Inc., is required to make a deposit of 
+$1,000 on April 15 and $1,500 on May 15. It doesn’t make 
+the deposit on April 15. On May 15, Cedar, Inc., deposits 
+$2,000. Under the deposits rule, which applies deposits to 
+the most recent tax liability, $1,500 of the deposit is ap-
+plied to the May 15 deposit and the remaining $500 is ap-
+plied to the April deposit. Accordingly, $500 of the April 15 
+liability remains undeposited. The penalty on this under-
+deposit will apply as explained earlier.
+Trust fund recovery penalty.  If federal income, social 
+security, or Medicare tax that must be withheld (that is, 
+trust fund taxes) aren’t withheld or aren’t deposited or paid 
+to the U.S. T reasury, the trust fund recovery penalty may 
+apply. The penalty is 100% of the unpaid trust fund tax. If 
+these unpaid taxes can’t be immediately collected from 
+the employer or business, the trust fund recovery penalty 
+may be imposed on all persons who are determined by 
+the IRS to be responsible for collecting, accounting for, or 
+paying over these taxes, and who acted willfully in not do-
+ing so. The trust fund recovery penalty won’t apply to any 
+amount of trust fund taxes an employer holds back in an-
+ticipation of any credits they are entitled to.
+A responsible person can be an officer or employee 
+of a corporation, a partner or employee of a partnership, 
+an accountant, a volunteer director/trustee, or an em-
+ployee of a sole proprietorship, or any other person or 
+36 Publication 15 (2026)
+--- page 7 ---
+Page 37 of 59  Fileid: … ication-15/2026/a/xml/cycle09/source 12:33 - 15-Dec-2025
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+entity that is responsible for collecting, accounting for, or 
+paying over trust fund taxes. A responsible person may 
+also include one who signs checks for the business or oth-
+erwise has authority to cause the spending of business 
+funds.
+Willfully means voluntarily, consciously, and intention-
+ally. A responsible person acts willfully if the person knows 
+the required actions of collecting, accounting for, or paying 
+over trust fund taxes aren’t taking place, or recklessly dis-
+regards obvious and known risks to the government’s right 
+to receive trust fund taxes.
+Separate accounting when deposits aren’t made or 
+withheld taxes aren’t paid.  Separate accounting may 
+be required if you don’t pay over withheld employee social 
+security, Medicare, or income tax; deposit required taxes; 
+make required payments; or file tax returns. In this case, 
+you would receive written notice from the IRS requiring 
+you to deposit taxes into a special trust account for the 
+U.S. Government. Y ou may be charged with criminal pen-
+alties if you don’t comply with the special bank deposit re-
+quirements for the special trust account for the U.S. Gov-
+ernment.
+“Averaged” FTD penalty.  The IRS may assess an 
+“averaged” FTD penalty of 2% to 10% if you’re a monthly 
+schedule depositor and didn’t properly complete Form 
+941, line 16; Form 943, line 17; Form 944, line 13; or Form 
+945, line 7, when your tax liability shown on Form 941, 
+line 12; Form 943, line 13; Form 944, line 9; or Form 945, 
+line 3, equaled or exceeded $2,500.
+The IRS may also assess an “averaged” FTD penalty of 
+2% to 10% if you’re a semiweekly schedule depositor and 
+your tax liability shown on Form 941, line 12; Form 943, 
+line 13; Form 944, line 9; or Form 945, line 3, equaled or 
+exceeded $2,500 and you:
+• Completed Form 941, line 16, instead of Schedule B 
+(Form 941); Form 943, line 17, instead of Form 943-A; 
+Form 944, line 13, instead of Form 945-A; or Form 
+945, line 7, instead of Form 945-A;
+• Failed to attach a properly completed Schedule B 
+(Form 941), Form 943-A, or Form 945-A, as applica-
+ble; or
+• Improperly completed Schedule B (Form 941), Form 
+943-A, or Form 945-A by, for example, entering tax de-
+posits instead of tax liabilities in the numbered 
+spaces.
+The FTD penalty is figured by distributing your total tax 
+liability shown on Form 941, line 12; Form 943, line 13; 
+Form 944, line 9; or Form 945, line 3, equally throughout 
+the tax period. Then we apply your deposits and pay-
+ments to the averaged liabilities in the date order we re-
+ceived your deposits. We figure the penalty on any tax not 
+deposited, deposited late, or not deposited in the correct 
+amounts. Y our deposits and payments may not be coun-
+ted as timely because the actual dates of your tax liabili-
+ties can’t be accurately determined.
+Y ou can avoid an “averaged” FTD penalty by reviewing 
+your return before you file it. Follow these steps before 
+submitting your Form 941, Form 943, Form 944, or Form 
+945.
+• If you’re a monthly schedule depositor, report your tax 
+liabilities (not your deposits) in the monthly entry 
+spaces on Form 941, line 16; Form 943, line 17; Form 
+944, line 13; or Form 945, line 7.
+• If you’re a semiweekly schedule depositor, report your 
+tax liabilities (not your deposits) on Schedule B (Form 
+941), Form 943-A, or Form 945-A, as applicable, on 
+the lines that represent the dates your employees 
+were paid.
+• Verify that your total liability shown on Form 941, 
+line 16, or the bottom of Schedule B (Form 941) 
+equals your tax liability shown on Form 941, line 12.
+• Verify that your total liability shown on Form 943, 
+line 17, or Form 943-A, line M, equals your tax liability 
+shown on Form 943, line 13.
+• Verify that your total liability shown on Form 944, 
+line 13, or Form 945-A, line M, equals your tax liability 
+shown on Form 944, line 9.
+• Verify that your total liability shown on Form 945, 
+line 7, or Form 945-A, line M, equals your tax liability 
+shown on Form 945, line 3.
+• Don’t show negative amounts on Form 941, line 16, or 
+Schedule B (Form 941); Form 943, line 17, or Form 
+943-A; Form 944, line 13, or Form 945-A; or Form 945, 
+line 7, or Form 945-A.
+• For prior-period errors, don’t adjust your tax liabilities 
+reported on Form 941, line 16, or Schedule B (Form 
+941); Form 943, line 17, or Form 943-A; Form 944, 
+line 13, or Form 945-A; or Form 945, line 7, or Form 
+945-A. Instead, file an adjusted return (Form 941-X, 
+943-X, 944-X, or 945-X) if you’re also adjusting your 
+tax liability. If you’re only adjusting your deposits in re-
+sponse to an FTD penalty notice, see the Instructions 
+for Schedule B (Form 941), the Instructions for Form 
+943-A (for Form 943), or the Instructions for Form 
+945-A (for Forms 944 and 945).
+Caution:  In addition to civil penalties, you may be 
+subject to criminal prosecution (brought to trial) for will-
+fully:
+• Evading tax;
+• Failing to collect or truthfully account for and pay over 
+tax;
+• Failing to file a return, supply information, or pay any 
+tax due;
+• Furnishing false or fraudulent Forms W-2 to employ-
+ees or failing to furnish Forms W-2;
+• Committing fraud and providing false statements;
+• Preparing and filing a fraudulent return; or
+• Committing identity theft.
+Publication 15 (2026) 37
+--- page 8 ---
+Page 38 of 59  Fileid: … ication-15/2026/a/xml/cycle09/source 12:33 - 15-Dec-2025
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+12. Filing Forms 941, Form 943, 
+Form 944, or Form 945
+Form 941.  If you paid wages subject to federal income 
+tax withholding (including withholding on sick pay and 
+supplemental unemployment benefits) or social security 
+and Medicare taxes, you must file Form 941 quarterly 
+even if you have no taxes to report, unless you filed a final 
+return, you receive an IRS notification that you’re eligible 
+to file Form 944, or the exceptions discussed later apply. 
+Also, if you’re required to file Forms 941 but believe your 
+employment taxes for the calendar year will be $1,000 or 
+less, and you would like to file Form 944 instead of Forms 
+941, you must contact the IRS during the first calendar 
+quarter of the tax year to request to file Form 944. Y ou 
+must receive written notice from the IRS to file Form 944 
+instead of Forms 941 before you may file this form. For 
+more information on requesting to file Form 944, including 
+the methods and deadlines for making a request, see the 
+Instructions for Form 944. Form 941 must be filed by the 
+last day of the month that follows the end of the quarter. 
+However, if you made timely deposits in full payment of 
+your taxes for the quarter, you may file by the 10th day of 
+the 2nd month that follows the end of the quarter. See Cal-
+endar, earlier.
+Form 943.  Y ou must file Form 943 for each calendar 
+year beginning with the first year that you pay $2,500 or 
+more for farmwork or you employ a farmworker who meets 
+the $150 test explained under Social Security and Medi-
+care T axes in section 9. Don’t report these wages on Form 
+941, Form 944, or Form 945. File your 2025 Form 943 by 
+February 2, 2026. However, if you made timely deposits in 
+full payment of your taxes for the year, you may file by 
+February 10, 2026.
+Form 944.  If you receive written notification that you 
+qualify for the Form 944 program, you must file Form 944 
+instead of Forms 941. Y ou must file Form 944 even if you 
+have no taxes to report (or you have taxes in excess of 
+$1,000 to report) unless you filed a final return for the prior 
+year. If you received notification to file Form 944, but pre-
+fer to file Forms 941, you can request to have your filing 
+requirement changed to Forms 941 during the first calen-
+dar quarter of the tax year. For more information on re-
+questing to file Forms 941, including the methods and 
+deadlines for making a request, see the Instructions for 
+Form 944. File your 2025 Form 944 by February 2, 2026. 
+However, if you made timely deposits in full payment of 
+your taxes for the year, you may file by February 10, 2026.
+Form 945.  If you withhold or are required to withhold fed-
+eral income tax (including backup withholding) from non-
+payroll payments, you must file Form 945. All federal in-
+come tax withholding from nonpayroll payments that is 
+reported on Forms 1099 or Form W -2G must be included 
+on Form 945 and not on another form such as Form 
+1040-ES, Estimated T ax for Individuals. Don’t report on 
+Form 945 withholding that is required to be reported on 
+Form 1042, Annual Withholding T ax Return for U.S. 
+Source Income of Foreign Persons. Y ou don’t have to file 
+Form 945 for those years in which you don’t have a non-
+payroll tax liability. File your 2025 Form 945 by February 2, 
+2026. However, if you made timely deposits in full pay-
+ment of your taxes for the year, you may file by February 
+10, 2026.
+Exceptions.  The following exceptions apply to the filing 
+requirements for Form 941 and Form 944.
+• Seasonal employers who don’t have to file Forms 
+941 for quarters when they have no tax liability 
+because they have paid no wages. T o alert the IRS 
+you won’t have to file a return for 1 or more quarters 
+during the year, check the “Seasonal employer” box 
+on Form 941, line 18. When you fill out Form 941, be 
+sure to check the box on the top of the form that corre-
+sponds to the quarter reported. Generally, the IRS 
+won’t inquire about unfiled returns if at least one taxa-
+ble return is filed each year. However, you must check 
+the “Seasonal employer” box on every Form 941 you 
+file. Otherwise, the IRS will expect a return to be filed 
+for each quarter.
+• Household employers reporting social security 
+and Medicare taxes and/or withheld income tax. If 
+you file Form 941, Form 943, or Form 944 for business 
+employees, you may include taxes for household em-
+ployees on your Form 941, Form 943, or Form 944. 
+Otherwise, report social security and Medicare taxes 
+and income tax withholding for household employees 
+on Schedule H (Form 1040). See Pub. 926 for more 
+information.
+• Agricultural employers reporting social security, 
+Medicare, and withheld income taxes. Report 
+these taxes on Form 943.
+Railroad employers.  Employers that pay Railroad 
+Retirement T ax Act (RRTA) taxes use Form CT-1 to report 
+employment taxes imposed by the RRTA, and Form 941 
+or Form 944 to report federal income taxes withheld from 
+their employees’ wages and other compensation.
+E-file.  The IRS e-file program allows a taxpayer to elec-
+tronically file Form 941, Form 943, Form 944, and Form 
+945. For more information, go to IRS.gov/EmploymentEfile 
+or call 866-255-0654.
+Electronic filing by reporting agents. Reporting agents 
+filing Form 941, Form 943, Form 944, or Form 945 for 
+groups of taxpayers can file them electronically. For de-
+tails, see Pub. 3112, IRS e-file Application and Participa-
+tion. For information on electronic filing, see Revenue Pro-
+cedure 2007 -40, 2007 -26 I.R.B. 1488, available at 
+IRS.gov/irb/2007-26_IRB#RP-2007-40. For information on 
+the different types of third -party payer arrangements, see 
+section 16.
+Electronic filing by CPEOs.  With the exception of the 
+first quarter (Form 941 only) for which a CPEO is certified, 
+CPEOs are required to electronically file Form 941 with 
+Schedule R (Form 941), or, if applicable, Form 943 with 
+38 Publication 15 (2026)

@@ -1,0 +1,1067 @@
+
+--- page 1 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Suspicious Activity Report (FinCEN SAR) 
+79 
+ Disclosure of SAR information to certain governmental authorities or other examining 
+authorities that are otherwise entitled by law to receive SAR information or to examine 
+for or investigate suspicious activity;  
+ Disclosure of the underlying facts, transactions, and documents upon which a FinCEN 
+SAR is based; and  
+ For those institutions regulated by a Federal functional regulator (Federal bank 
+regulatory agencies, the Securities and Exchange Commission (SEC), and the 
+Commodity Futures Trading Commission (CFTC)), the sharing of SAR information 
+within an institution’s corporate organizational structure, for purposes that are 
+consistent with the Bank Secrecy Act, as determined by regulation or guidance. 
+ 
+Prohibition on Disclosures by Government Authorities: 
+ 
+Federal law (31 U.S.C. 5318(g)(2)) also provides that an officer or employee of any Federal, state, 
+local, tribal, or territorial government within the United States who has knowledge that such 
+report was made, may not disclose to any person involved in the transaction that the 
+transaction has been reported, other than as necessary to fulfill the official duties of such officer 
+of employee. FinCEN’s regulations clarify that “official duties” must be consistent with Title II 
+of the Bank Secrecy Act and shall not include the disclosure of a SAR, or any information that 
+would reveal the existence of a SAR, in response to a request for disclosure of non-public 
+information or a request for use in a private legal proceeding, including a request pursuant to 
+31 CFR § 1.11. 
+ 
+FinCEN SAR 
+Filing Instructions: 
+ 
+1. Who Must File: Certain financial intuitions operating in the United States shall file with 
+FinCEN, to the extent and in the manner required by 31 CFR Chapter X and 12 CFR §§ 21.11, 
+163.180, 208.62, 353.3, and 748.1, a report of any suspicious transaction relevant to a possible 
+violation of law or regulation. The following financial institutions are required to file a FinCEN 
+SAR: Banks (31 CFR §1020.320) including Bank and Financial Holding Companies (12 CFR § 
+225.4); Casinos and Card Clubs (31 CFR § 1021.320); Money Services Businesses (31 CFR § 
+1022.320); Brokers or Dealers in Securities (31 CFR § 1023.320); Mutual Funds (31 CFR § 
+1024.320); Insurance Companies (31 CFR § 1025.320); Futures Commission Merchants and 
+Introducing Brokers in Commodities (31 CFR § 1026.320); and 
+Residential Mortgage Lenders 
+and Originators (31 CFR § 1029.320).  
+ 
+2. Filing Deadlines: A FinCEN SAR shall be filed no later than 30 calendar days after the date 
+of the initial detection by the reporting financial institution of facts that may constitute a basis 
+for filing a report. If no suspect is identified on the date of such initial detection, a financial 
+institution may delay filing a FinCEN SAR for an additional 30 calendar days to identify a 
+suspect, but in no case shall reporting be delayed more than 60 calendar days after the date of 
+such initial detection. In situations involving violations that require immediate attention, such 
+as terrorist financing or ongoing money laundering schemes, the financial institution shall 
+--- page 2 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Suspicious Activity Report (FinCEN SAR) 
+80 
+immediately notify by telephone an appropriate law enforcement authority in addition to filing 
+timely a FinCEN SAR. Financial institutions wishing voluntarily to report suspicious 
+transactions that may relate to terrorist activity may call FinCEN’s Financial Institutions Hotline 
+at 1-866-556-3974 in addition to filing timely a FinCEN SAR. 
+ 
+3
+. Filing Requirements for Financial Institutions:  A financial institution must report any 
+transaction that requires reporting under the terms of 31 CFR Chapter X if the transaction is 
+conducted or attempted by, at, or through the financial institution and involves or aggregates at 
+least $5,000 ($2,000 for money services businesses, except as provided in Section 6 of this 
+document) and the financial institution knows, suspects, or has reason to suspect that the 
+transaction or pattern of transactions of which the transaction is a part: 
+ 
+ Involves funds derived from illegal activity or is intended or conducted in order to hide 
+or disguise funds or assets derived from illegal activity (including, without limitation, 
+the ownership, nature, source, location, or control of such funds or assets) as part of a 
+plan to violate or evade any Federal law or regulation or to avoid any transaction 
+reporting requirement under Federal law or regulation; 
+ 
+ Is designed, whether through structuring or other means, to evade any requirement of 
+31 CFR Chapter X or any other regulation promulgated under the Bank Secrecy Act, 
+Public Law 91-508, as amended, codified at 12 U.S.C 1829b, 12 U.S.C. 1951-1959, and 31 
+U.S.C. 5311-5332; 
+ 
+ Has no business or apparent lawful purpose or is not the sort in which the particular 
+customer would normally be expected to engage, and the financial institution knows of 
+no reasonable explanation for the transaction after examining the available facts, 
+including the background and possible purpose of the transaction, or 
+ 
+ Involves the use of the financial institution to facilitate criminal activity. 
+ 
+4. Additional Filing Instructions for Banks: 
+In addition to the above requirements, a bank (as 
+defined in 31 CFR § 1010.100) must file a FinCEN SAR for activity (as required by 31 CFR § 
+1020.320 and 12 CFR §§ 21.11, 163.180, 208.62, 353.3, and 748.1) involving:   
+ 
+ Insider abuse involving any amount. Whenever the bank detects any known or 
+suspected Federal criminal violations, or pattern of criminal violations, committed or 
+attempted against the financial institution or involving a transaction or transactions 
+conducted through the financial institution, where the bank believes that it was either an 
+actual or potential victim of a criminal violation, or series of criminal violations, or that 
+the bank was used to facilitate a criminal transaction, and the bank has a substantial 
+basis for identifying one of its directors, officers, employees, agents or other institution-
+affiliated parties as having committed or aided in the commission of a criminal act 
+regardless of the amount involved in the violation. 
+--- page 3 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Suspicious Activity Report (FinCEN SAR) 
+81 
+ 
+ Violations aggregating $5,000 or more where a suspect can be identified. Whenever 
+the bank detects any known or suspected Federal criminal violation, or pattern of 
+criminal violations, committed or attempted against the bank or involving a transaction 
+or transactions conducted through the bank and involving or aggregating $5,000 or 
+more in funds or other assets, where the bank believes that it was either an actual or 
+potential victim of a criminal violation, or series of criminal violations, or that the bank 
+was used to facilitate a criminal transaction, and the bank has a substantial basis for 
+identifying a possible suspect or group of suspects. If it is determined prior to filing this 
+report that the identified suspect or group of suspects has used an “alias,” then 
+information regarding the true identity of the suspect or group of suspects, as well as 
+alias identifiers, such as drivers’ licenses or social security numbers, addresses and 
+telephone numbers, must be reported. 
+ 
+ Violations aggregating $25,000 or more regardless of a potential suspect. Whenever the 
+bank detects any known or suspected Federal criminal violation, or pattern of criminal 
+violations, committed or attempted against the bank or involving a transaction or 
+transactions conducted through the bank and involving or aggregating $25,000 or more 
+in funds or other assets, where the bank believes that it was either an actual or potential 
+victim of a criminal violation, or series of criminal violations, or that the bank was used 
+to facilitate a criminal transaction, even though there is no substantial basis for 
+identifying a possible suspect or group of suspects. 
+ 
+5. Voluntary FinCEN SAR Filings: 
+Financial institutions may also file with FinCEN a report of 
+any suspicious transaction that it believes is relevant to the possible violation of any law or 
+regulation but whose reporting is not required by 31 CFR Chapter X. A voluntary filing does 
+not relieve a financial institution from the responsibility of complying with any other reporting 
+requirements imposed by the SEC, the CFTC, a self-regulatory organization (SRO) (as defined 
+in section 3(a)(26) of the Securities Exchange Act of 1934, 15 U.S.C. 78c (a)(26)), or any 
+Registered Futures Association (RFA) or Registered Entity (RE) (as these terms are defined in 
+the Commodity Exchange Act, 7 U.S.C. 21 and 7 U.S.C. 1a(29)).  
+ 
+6. Exceptions: The following are exceptions to the FinCEN SAR reporting requirements:  
+ 
+ A bank, casino, broker or dealer in securities (BD), futures commission merchant (FCM), 
+or introducing broker in commodities (IB-C) is not required to file a FinCEN SAR for a 
+robbery or burglary committed or attempted against the financial institution when the 
+robbery or burglary is reported to appropriate law enforcement authorities. 
+ 
+ A FinCEN SAR 
+is not required to be filed for lost, missing, counterfeit, or stolen 
+securities that are reported pursuant to the requirements of 17 CFR § 240.17f-1. 
+ 
+--- page 4 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Suspicious Activity Report (FinCEN SAR) 
+82 
+ A BD is not required to file a FinCEN SAR on violations of any of the Federal securities 
+laws or the rules of a SRO by the BD or any of its officers, directors, employees or other 
+registered representatives, other than a violation of 17 CFR § 240.17a-8 or 17 CFR § 405.4, 
+so long as such violation is appropriately reported to the SEC or an SRO. 
+ 
+ An FCM or an IB-C, or any of its officers, directors, employees or associated persons, is 
+not required to file a FinCEN SAR for a violation of the Commodity Exchange Act (7 
+U.S.C. 1 et seq.), the regulations of the CFTC (17 CFR Chapter 1), or the rules of any RFA 
+or RE (as those terms are defined in the Commodity Exchange Act, 7 U.S.C. 21 and 7 
+U.S.C. 1a(29)), as long as such violation is appropriately reported to the CFTC, an RFA, 
+or RE. This exception does not apply to violations of 17 CFR § 42.2. 
+ 
+ An insurance company is not required to report the submission to it of false or 
+fraudulent information to obtain a policy or make a claim, unless the company has 
+reason to believe that that the false or fraudulent submission relates to money 
+laundering or terrorist financing. 
+ 
+ An issuer of money orders or traveler’s checks is not required to report a transaction or 
+pattern of transactions when the transactions were identified through a review of 
+clearance records or other similar records and the transaction amount or aggregated 
+transaction amount involves funds or other assets of less than $5,000.  
+ 
+7. Additional Reporting: 
+The Bank Secrecy Act requires financial institutions to file a Currency 
+Transaction Report (CTR) in accordance with the Department of the Treasury’s implementing 
+regulations (31 CFR § 1010.310) whenever a currency transaction exceeds $10,000. If a currency 
+transaction exceeds $10,000 and is otherwise reportable as suspicious activity, the institution 
+must file both a CTR (reporting the currency transaction) and a FinCEN SAR (reporting the 
+suspicious activity). If a currency transaction is $10,000 or less and is otherwise reportable as a 
+suspicious activity, the institution should only file a FinCEN SAR. Appropriate records must be 
+maintained in each case. Residential Mortgage Lenders and Originators are required to file 
+Form 8300, Report of Cash Payments Over $10,000 Received in a Trade or Business, instead of a 
+CTR. 
+ 
+FinCEN SAR 
+Electronic Filing Instructions 
+ 
+General Instructions: 
+ 
+1. Filing Reports: This report should be E-filed through the Financial Crime Enforcement 
+Network (FinCEN) BSA E-Filing System. Go to http://bsaefiling.fincen.treas.gov to register if 
+not already registered. Financial institutions that file reports individually will use FinCEN’s 
+discrete FinCEN Suspicious Activity Report (FinCEN SAR) to file their reports. Financial 
+institutions that use batch filing or system-to-system filing to transmit multiple reports must 
+transmit files that conform to the requirements of FinCEN’s “General Specifications for 
+--- page 5 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Suspicious Activity Report (FinCEN SAR) 
+83 
+Electronic Filing of Bank Secrecy Act (BSA) Reports” (General Specifications) and “FinCEN 
+Suspicious Activity Report (FinCEN SAR) Electronic Filing Requirements.” 
+ 
+2. Recording Information: Complete each FinCEN SAR by providing as much information as 
+possible. Although all items should be completed fully and accurately, items marked with an 
+asterisk (*) must be completed even when the required data are unknown.  Filers must follow 
+the electronic filing instructions for these items by providing the required data or, if instructions 
+permit, by checking the box “
+Unknown” to indicate that the required data was unknown. Items 
+that do not begin with an asterisk must be completed if the data are known and will be left 
+blank if the data are unknown. If an item’s instructions differ from this general instruction, the 
+item instructions must be followed. 
+These instructions supersede all prior SAR instructions and 
+FinCEN guidance on use of special responses in SAR items when the data are unknown or not 
+available in an electronic filing. Therefore, the use of special responses such as “UNKNOWN,” 
+“NONE,” “NOT APPLICABLE,” or “XX” and their variants is prohibited in the FinCEN SAR.  
+ 
+NOTE:  Throughout these instructions the phrase “check box” and similar wording is used to 
+denote checking an appropriate box in certain data items on the discrete FinCEN SAR. 
+This is 
+deemed equivalent to instructions in the Electronic Filing Requirements to enter appropriate 
+codes in the same data items in transmission files. For example, 
+the requirement to check box 1 
+“Initial report” in the discrete FinCEN SAR is the equivalent of entering code “A” in “Type of 
+Filing” in the Electronic Filing Requirements Suspicious Activity Information (3A) Record. In 
+some discrete FinCEN SAR data items check boxes have been replaced by drop-down lists.  
+ 
+NOTE:  Throughout these instructions there are requirements to complete items multiple times 
+in a discrete FinCEN SAR if the filer has multiple entries for that item. This is deemed 
+equivalent to completing multiple records for that item in the Electronic Filing Requirements. 
+For example, these instructions direct filers to complete multiple Item 6 “Alternate name” fields 
+if the filer has knowledge of multiple alternate names for a subject. This is equivalent to a batch 
+filer completing multiple Subject Alternative Name (4D) Records for the same subject.  
+ 
+3
+. Corrected/Amended Reports:  A corrected report on a previously-filed FinCEN SAR or prior 
+SAR versions must be filed whenever errors are discovered in the data reported in that FinCEN 
+SAR. An amended report must be filed on a previously-filed FinCEN SAR or prior SAR 
+versions whenever new data about a reported suspicious activity is discovered and 
+circumstances will not justify filing a continuing report (see General Instruction 4). Both 
+corrected and amended reports must be completed in their entirety, with the necessary 
+corrections or amendments made to the data. 
+In both cases box 1b “Correct/Amend prior 
+report” must be checked. If known, the prior report’s Document Control Number (DCN) or BSA 
+Identifier (BSA ID) must be entered in field 1e. If the prior report’s DCN or BSA ID is unknown, 
+field 1e should be zero-filled. All corrections or amendments must be described completely at 
+the beginning of the Part V Suspicious Activity Information – Narrative section. If a FinCEN 
+SAR is filed to correct or amend a prior SAR version, the FinCEN SAR must be completed in its 
+entirety. This includes FinCEN SAR items that apply to the suspicious activity but were not 
+--- page 6 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Suspicious Activity Report (FinCEN SAR) 
+84 
+present on the prior SAR version. FinCEN SAR items not on the prior SAR version need not be 
+described in the narrative.  BSA IDs, which replaced DCNs, are provided in acknowledgement 
+records sent to member financial institutions by the BSA E-Filing System.  
+ 
+4. Continuing Reports:  A continuing report should be filed on suspicious activity that 
+continues after an initial FinCEN SAR is filed. Financial institutions with SAR requirements 
+may file SARs for continuing activity after a 90 day review with the filing deadline being 120 
+days after the date of the previously related SAR filing. Financial institutions may also file SARs 
+on continuing activity earlier than the 120 day deadline if the institution believes the activity 
+warrants earlier review by law enforcement. 
+Continuing reports must be completed in their 
+entirety, including the information about all subjects involved in the suspicious activity and all 
+financial institutions where the activity occurred. The continuing report Part V narrative should 
+include all details of the suspicious activity for the 90-day period encompassed by the report, 
+and only such data from prior reports as is necessary to understand the activity. Do not 
+reproduce the narratives from prior reports in the continuing report. Provide both the dollar 
+amount involved in the suspicious activity for the 90-day period in Item 26 and the cumulative 
+dollar amount for the current and all prior related reports in Item 28. If continuing losses are 
+involved for any financial institution recorded in Part III, record the 90-day loss in Item 63 and 
+the cumulative loss in Part V. 
+ 
+5
+. Joint Report:  A FinCEN SAR may be jointly filed when two or more distinct financial 
+institutions collaborate in filing a single FinCEN SAR on suspicious activity involving all of the 
+collaborating financial institutions. Financial institutions are “distinct” for this purpose when 
+they are different legal entities; a financial institution is not distinct from its own branches. Joint 
+filing of a single FinCEN SAR is prohibited when any of the Part I “Subject Information” 
+subjects of the would-be jointly filed FinCEN SAR have a box in Item 21 checked that identifies 
+the subject as a director, employee, officer, or owner/controlling shareholder of the filing 
+institution or a would-be joint filer. In that case separate FinCEN SARs must be filed by each 
+institution. To be a jointly-filed FinCEN SAR, box 1d “Joint report” must be checked. 
+In 
+addition, the filing institution listed in Part IV “Filing Institution Contact Information” must 
+identify in Part V “Suspicious Activity Information – Narrative” which Part III “Information 
+about Financial Institution Where Activity Occurred” institutions are joint filers. The filing 
+institution must include joint filer contact information in Part V, along with a description of the 
+information provided by each joint filer. Record joint filer information in Part III Items 47 
+through 63 and joint filer branch information in Part III Items 64 through 77. Filing a joint 
+FinCEN SAR does not relieve joint filers of the responsibility to report information about the 
+suspicious activity that was not included in the joint filing. A filing institution cannot designate 
+another institution as a joint filer unless the designated joint filer is aware of and approves the 
+FinCEN SAR filing in its entirety. A filer that designates another institution as a joint filer 
+without gaining that institution’s agreement to the joint filing and approval of the contents of 
+the joint filing may have committed a willful violation of the Bank Secrecy Act, if the improper 
+designation leads to the disclosure of the SAR filing to a person not entitled to information 
+--- page 7 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Suspicious Activity Report (FinCEN SAR) 
+85 
+about the filing. Both filers and joint filers are required to keep copies of the FinCEN SAR and 
+their own supporting documentation for five (5) years after the date of filing. 
+ 
+6. Supporting Documentation:  Filers can include a single Microsoft Excel compatible comma 
+separated values (CSV) file with no more than one megabyte of data as an attachment to the 
+FinCEN SAR. The contents of this file must be described in Part V. This file would be most 
+suitable for documenting transaction records that are too numerous to record in Part V. Do not 
+include any other supporting documentation with the FinCEN SAR. Instead, describe in Part V 
+other supporting documentation not included in the file. Filers must retain all supporting 
+documentation or a business record equivalent for five (5) years from the date of the report (31 
+CFR § 
+1010.430). All supporting documentation (such as copies of instruments; receipts; sale, 
+transaction or clearing records; photographs; and surveillance audio or video recordings) must 
+be made available to appropriate authorities upon request. See Attachment D for information 
+on attaching comma separated (.CSV) files to a FinCEN SAR filing. 
+ 
+7. Addresses:   For addresses in the U.S., Canada, or Mexico enter the permanent street address, 
+city, two or three letter state/territory/province code, ZIP Code or foreign postal code, and two 
+letter country code for the individual or entity recorded in Part I, Part III, or Part IV. Provide the 
+apartment number or suite number, if known, following the street address. A non-location 
+address such as a post office box or rural route number should be used only if no other street 
+address information is available. ZIP Codes must be five or nine digits. ZIP Codes and foreign 
+postal codes must be entered without formatting or special characters such as spaces or 
+hyphens. For example, the ZIP Code 12354-6120 would be entered as 123546120. The foreign 
+postal code HKW  702 would be entered HKW702. For other foreign addresses enter the street 
+address, city, postal code, and two letter country code or address equivalent. If a foreign 
+address contains other address information that does not conform to the FinCEN SAR address 
+format, record equivalent address information in the FinCEN SAR address items and the full 
+address in Part V. Complete any address item that is known, even if the complete address is 
+unknown. No abbreviations are permitted in city names, which must be completely spelled out. 
+A U.S. city name must match the city name used by the U.S. Postal Service for the associated 
+state and ZIP Code. For U.S. address use only the authorized U.S. Postal Service state, territory, 
+or military address abbreviations found at 
+https://www.usps.com/ship/official-
+abbreviations.htm.  For Canadian provinces and territories use the Canada Post Corporation 
+codes found at http://www.canadapost.ca/tools/pg/manual/PGaddress-e.asp#1380608.  For 
+Mexican states and territories use the ISO 3166-2 three-letter codes found at 
+http://www.commondatahub.com/live/geography/state_province_region/iso_3166_2_state_code
+s.  For all countries use the ISO 3166-1 two-letter country codes found at 
+http://www.iso.org/iso/country_names_and_code_elements. Note:  The ISO 3166-1 country list 
+includes entries for all U.S. territories.  Do not use these U.S. territory entries, which match the 
+U.S. Postal Service abbreviations required in state fields, in any country field. 
+  
+8. Telephone Numbers: Record all telephone numbers, both foreign and domestic, as a single 
+number string without formatting or special characters such as parentheses or hyphens. For 
+--- page 8 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Suspicious Activity Report (FinCEN SAR) 
+86 
+example, a number in the format (NNN) NNN-NNNN would be recorded as 
+NNNNNNNNNN. Indicate the type of telephone number provided (home, work, mobile, or 
+fax) by checking the appropriate box. Provide the telephone extension number if known. 
+Telephone numbers that are part of the North American Numbering Plan used by the U.S., 
+Canada, many Caribbean countries, and current/former U.S. Pacific island protectorates must 
+consist of an area code and seven-digit telephone number. Other foreign telephone numbers 
+should include the country number code. If only a partial telephone number is known record 
+that number in the phone number item and explain in Part V that the entry is a partial number. 
+ 
+9
+. Identifying Numbers: Enter all identifying numbers as a single text string without 
+formatting or special characters such as hyphens or periods. An identifying number in the 
+format NNN-NN-NNNN would be entered as NNNNNNNNN. Such numbers include alien 
+registration, CRD, CUSIP®, driver’s license, state identification, EIN, IARD, ITIN, passport, 
+RSSD, SEC ID, and SSN. 
+ 
+10. Monetary Amounts: Record all monetary amounts in U.S. Dollars rounded up to the next 
+whole dollar. 
+The amount $5,265.25 would be recorded as $5,266. If the amount involves a 
+foreign currency, record the currency name, amount, and country of origin in Part V. When 
+converting a foreign currency to U.S. Dollars use an exchange rate for the date or dates the 
+foreign currency was involved in the suspicious activity. 
+ 
+11. Prohibited Words and Phrases: 
+Do not use the following words or variations of these words 
+in text fields, other than in Part V:  
+ 
+a. AKA 
+b. COMPUTER GENERATED 
+c. CUSTOMER 
+d. DBA 
+e. NON CUSTOMER 
+f. NONE 
+g. NOT APPLICABLE 
+h. OTHER 
+i. SAME 
+j. SAME AS ABOVE 
+k. SEE ABOVE 
+l. SEE NARRATIVE 
+m. SIGNATURE CARD 
+n. T/A 
+o. UNKNOWN 
+p. VARIOUS 
+q. XX 
+ 
+--- page 9 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Suspicious Activity Report (FinCEN SAR) 
+87 
+12. Name Editing Instructions: Because many names do not consist of a single first name, 
+middle name, and last name, care must be taken to ensure these names are entered properly in 
+the BSA SAR. This is especially important when there are separate fields for the last name, first 
+name, and middle name. Some names have multiple surnames (family names) or multiple given 
+names that do not include a middle name. Others may not be written in [first name] [middle 
+name] [last name] order. Multiple surnames must be entered in the last name field. For 
+example, Hispanic names may be written in the order of given name, father's last name, and 
+mother's last name, e.g., “Juan Vega Santiago.” 
+ Thus the surname “VEGA SANTIAGO” would 
+be entered in the last name field with “JUAN” entered in the first name field. Some Hispanic 
+surnames consist of three names (e.g., father’s last name, mother’s last name, and husband’s 
+father’s last name in the case of a married woman). 
+ In that case all three would be entered in a 
+last name field. Hispanic names do not have middle names, so a multiple Hispanic given name 
+such as “Rosa Maria” would be recorded in the first name field. In some cultures names consist 
+of multiple first names and a single family name, not necessarily in (first name) (last name) 
+order. For example, the Korean name “Kim, Chun Nam” consists of the family name “Kim” and 
+the first name “Chun Nam” separated by a comma and space. There is no middle name. In this 
+case “KIM” would be entered in the last name field and “CHUN NAM” would be entered in 
+the first name field. Nothing is entered in the middle name field. When an individual name is 
+entered in a single name field it should be entered in [first name] [middle name] [last name] 
+order regardless of any foreign naming conventions. Thus, “Kim, Chun Nam” would be entered 
+as “CHUN NAM KIM” in a single name field. Punctuation and special characters should be 
+used in names only when they are part of the name. 
+ For example, the period in “Expedia.Com” 
+should be included because it is part of the name.  Placing a period after a middle initial would 
+be prohibited because the period is not part of the middle name. Abbreviations in names are 
+prohibited unless an abbreviation is part of a legal name.  Entry of middle initials is permitted 
+when a middle name is unknown.  A name suffix may be abbreviated, i.e. Junior can be JR, 
+Senior can be SR, the Third can be III, etc. 
+ 
+Item Instructions 
+ 
+NOTE: Critical fields are identified with the * symbol in front of the data element number.  
+ 
+-------------------------------------------------- Type of Filing --------------------------------------------- 
+* 1. Check all that apply: 
+ a. Initial report 
+ b. Correct/Amend prior report 
+ c. Continuing activity report 
+ d. Joint report 
+ e. Prior report Document Control Number/BSA Identifier if items 1b or 1c are checked 
+ 
+Item *1 Type of Filing: Check box 1a "Initial report" if this is the first report filed on the 
+suspicious activity. FinCEN SARs filed as a result of a historical or other review of past 
+transactional activity, either directed by a regulating authority or conducted as a financial 
+--- page 10 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Suspicious Activity Report (FinCEN SAR) 
+88 
+institution initiative, must always be initial reports. Check box 1b "Correct/Amend prior report" 
+if the report corrects or amends a previously-filed report. Check box 1c "Continuing activity 
+report" if this report involves suspicious activity reported on one or more previous reports. 
+Continuing reports should be filed at least every 90 days on continuing suspicious activity. If 
+this report is being jointly filed with another financial institution, check the appropriate box 1a, 
+1b, or 1c and box 1d "Joint report." Filers must clearly identify in Part V which Part III financial 
+institutions are the joint filers on the FinCEN SAR. If box 1b or 1c is checked, enter in field 1e 
+the Document Control Number (DCN) or the BSA Identifier (BSA ID) assigned to the previous 
+SAR by FinCEN. If the DCN or BSA ID is unknown, enter zeros in place of the unknown 
+number. See General Instructions 3 through 5 for additional information on Type of Filing. 
+ 
+-------------------------------------------- Part I: Subject Information --------------------------------------- 
+ 
+Part I Subject Information: Complete a Part I section on each known subject involved in the 
+suspicious activity. Persons who are victims of the suspicious activity are not subjects and 
+should not be recorded in a Part I section. Victim information, if necessary for a complete 
+description of the suspicious activity, should be recorded in Part V. 
+If the subject is or all 
+subjects are unknown, complete a single Part I record with box 2b checked to show that all 
+subject information was unavailable for critical Items 3, 4, 8, 9, 10, 11, 12, 13, 15, and 16. These 
+critical items (denoted with an asterisk “*”) except Item 24 must be blank. Record the nature of 
+the unknown subject(s) in Part V.  If the suspicious activity involves known and unknown 
+subjects, complete a Part I section on each known subject and record the nature of the unknown 
+subject(s) in Part V. Do not complete Part I records on the unknown subjects when there are 
+known subjects.  
+ 
+2. Check: 
+ a. if entity 
+ b. if all critical* subject information is unavailable (does not include item 24) 
+ 
+Item 2a Check if entity: Check box 2a if the person described in Part I is an entity and not an 
+individual. 
+Item 2b 
+Check if all critical subject information is unavailable: Check box 2b if the information 
+in Part I is unavailable for all critical subject items except Item 24. These critical items (3, 4, 8, 9, 
+10, 11, 12, 13, 15, and 16) and their associated “Unknown” fields must be left blank.  
+ 
+* 3
+. Individual’s last name or entity’s legal name 
+ a. (check if)  unknown 
+ 
+Item *3 Individual's last name or entity's legal name: Enter the individual's last name or the 
+entity's legal name. The legal name is the name on the articles of incorporation or other 
+document that established the entity. Do not abbreviate names unless an 
+abbreviation is part of 
+the legal name. Item 3 and box 3 “Unknown” must be blank if box 2b is checked. Leave item 3 
+--- page 11 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Suspicious Activity Report (FinCEN SAR) 
+89 
+blank and check box 3 “Unknown” if the individual's last name or the entity's legal name is 
+unknown and box 2b is not checked. 
+ 
+* 4. First name 
+ a. (check if)  unknown 
+ 
+Item *4 First name: Enter the individual's first name. If the first name is unknown leave item 4 
+blank and check box 4 “Unknown.”  Leave Item 4 and box 4
+ “Unknown” blank if box 2a or 2b is 
+checked. 
+ 
+5
+. Middle name/initial 
+ 
+Item 5 Middle name/initial: Enter the individual's middle name or initial. Leave this item blank 
+if the middle name or initial is unknown or box 2a is checked. 
+ 
+5. Suffix name 
+ 
+Item 5 Suffix name: Enter the individual’s suffix such as JR, SR, III, etc. Leave this item blank if 
+the suffix is unknown or the individual’s legal name does not include a suffix. 
+ 
+5. Gender 
+ a. (Check if)  
+Male 
+ b. (Check if) Female 
+ c. (Check if)  Unknown 
+ 
+Item 5 Gender: Select options 5a Male or 5b Female if individual’s gender is known. 
+Select 
+option 5c “Unknown” if the individual’s gender is unknown. Leave Item 5 blank if the subject is 
+an entity. Item 5 (Gender) does not create an obligation for a financial institution to collect this 
+data when such collection would be in conflict with the financial institution’s obligations under 
+any other federal law. 
+ 
+6
+. Alternate name, e.g. AKA - Individual or DBA - Entity  
+ 
+Item 6 Alternate name: Enter the individual's also known as (AKA) name or the entity's doing 
+business as (DBA) name if different from the name entered in Items 3-5. Do not include the 
+acronyms AKA or DBA with the name. Multiple Item 6 fields may be completed if multiple 
+subject alternate names are known. 
+ 
+7
+. Occupation or type of business 
+ a. NAICS Code 
+ 
+Item 7 Occupation or type of business: Record the occupation, profession, or type of business of 
+the individual or entity recorded in Part I. Use specific descriptions such as doctor, carpenter, 
+--- page 12 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Suspicious Activity Report (FinCEN SAR) 
+90 
+attorney, used car dealership, plumber, truck driver, hardware store, etc. Do not use non-
+descriptive items such as businessman, merchant, retailer, retired, or self-employed. If words 
+like self-employed, unemployed, or retired are used, add the current or former profession if 
+known (e.g. self-employed building contractor, retired teacher, or unemployed carpenter). If the 
+occupation or business activity can be described in more detail, include the additional 
+information in Part V. 
+ 
+Item 7a NAICS Code:  Select from the FinCEN-approved list the North American Industry 
+Classification System (NAICS) code for the occupation or type of business entered in Item 7. 
+Access the NAICS Code list from the BSA E-Filing Web Site 
+(http://bsaefiling.fincen.treas.gov/main.html). 
+ 
+* 8
+. Address 
+ a. (check if)  unknown 
+ 
+Items *8 - *12 Subject address items: Enter the subject's permanent street address, city, two or 
+three letter state/territory/province code (U.S./Canada/Mexico only), ZIP Code or foreign postal 
+code, and two letter country code. Complete any address item that is known, even if the 
+complete address is unknown. If an address item is unknown, leave that item blank and check 
+box 8 "Unknown."  If box 2b is checked all address items and check boxes must be blank. See 
+General Instruction 7 for additional information on entering addresses. Multiple sets of address 
+fields may be completed if multiple present and past subject addresses are known. 
+ 
+* 9
+. City 
+ a. (check if)  unknown 
+ 
+* 10. State 
+ a. (check if)  
+unknown 
+ 
+* 11. ZIP/Postal Code 
+ a. (check if)  unknown 
+ 
+* 12. Country Code 
+ a. (check if)  
+unknown 
+ 
+* 13. TIN (enter number in space provided and check appropriate type below)  
+ a. (check if)  
+unknown 
+ 
+Item *13 TIN: Enter the subject's U.S. taxpayer identification number (TIN) or foreign equivalent 
+without formatting or punctuation. If the number is unknown, check box 13 "Unknown" and 
+leave Item 13 blank. Leave item 13 and box 13 “Unknown” 
+blank if box 2b is checked. See 
+General Instruction 9 for information on entering identifying numbers. 
+ 
+--- page 13 ---
+  Financial Crimes Enforcement Network 
+ 
+Electronic Filing Requirements for the FinCEN Currency Transaction Report (FinCEN CTR) 
+  ii 
+Table of Contents 
+Revision History iv 
+Purpose 1 
+Electronic Filing 1 
+File Organization 2 
+Record Layouts 4 
+Transmitter (1A) Record – Required 4 
+Parent Financial Institution Information (2A) Record – Required 6 
+Financial Institution Where Transaction(s) Take Place (2B) Record – Required 8 
+Transaction Summary (3A) Record – Required 11 
+Foreign Cash-in (3B) Record 16 
+Foreign Cash-out (3C) Record 17 
+Person Involved in Transaction(s) (4A) Record – Required 18 
+Account Number (Cash-in) (4B) Record 23 
+Account Number (Cash-out) (4C) Record 24 
+Financial Institution Where Transaction(s) Takes Place Summary (9A) Record – Required 25 
+Parent Financial Institution Information Summary (9B) Record – Required 26 
+File Summary (9Z) Record – Required 27 
+Acknowledgement Record Formats 28 
+Acknowledgement Transmitter (1A) Record 28 
+Acknowledgement Parent Financial Institution (2A) Record 29 
+Acknowledgement Financial Institution Where Transaction(s) Take Place (2B) Record 29 
+Acknowledgement Transaction Summary (3A) Record 30 
+Acknowledgement Foreign Cash-in (3B) Record 31 
+Acknowledgement Foreign Cash-out (3C) Record 31 
+Acknowledgement Person Involved in Transaction(s) (4A) Record 32 
+Acknowledgement Account Number (Cash-in) (4B) Record 33 
+Acknowledgement Account Number (Cash-out) (4C) Record 33 
+Acknowledgement Trailer for Transmitter (9Z) Record 34 
+Attachment A – Error Code List 35 
+--- page 14 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Currency Transaction Report (FinCEN CTR) 
+iii 
+Attachment B – Error Correction Instructions 45 
+Attachment C – Electronic Filing Instructions 47 
+Secure Data Transfer Mode Users 67 
+ 
+ 
+  
+--- page 15 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Currency Transaction Report (FinCEN CTR) 
+iv 
+Revision History 
+Version 
+Number 
+Date Reason for Change 
+1.0 03/22/12 Updates electronic specification document title from “BSA Electronic 
+Requirements for Bank Secrecy Act Currency Transaction Report (BSA 
+CTR)” to “FinCEN Currency Transaction Report (FinCEN CTR) Electronic 
+Filing Requirements.” All references to “BSA CTR” have been changed to 
+“FinCEN CTR.” 
+Updates Date of birth (Item 17) instructions, located in Attachment C – 
+Electronic Filing Instructions, to include language that explains how to 
+enter dates on a discrete file vs. a batch file (i.e. MM/DD/CCYY for discrete 
+files; MMDDCCYY for batch files). 
+Updates Date of transaction (Item 23) instructions, located in Attachment 
+C – Electronic Filing Instructions, to include language that explains how to 
+enter dates on a discrete file vs. a batch file (i.e. MM/DD/CCYY for discrete 
+files; MMDDCCYY for batch files). 
+Updates Date Filed (Item 42) instructions, located in Attachment C – 
+Electronic Filing Instructions, to the following: “Item 42 Date filed: Enter 
+the date a batch filed FinCEN CTR is filed in MMDDCCYY format where 
+MM = month, DD = day, CC = century, and YY = year. Single digit days or 
+months must be prefaced by a zero.  This date will automatically be added 
+to a discrete FinCEN CTR when a filer signs the FinCEN CTR.” 
+Updates Financial Institution ID Number Type (Item 39) Description and 
+Remarks to include the full description for each identification type (e.g. 
+“CRD number” changed to “Central Registration Depository (CRD) 
+number”) 
+Updates TIN Type (Item 16) Description and Remarks to refer the filer to 
+“Item 16 instructions in Attachment C for information on entering the 
+“TIN Type” when “TIN Unknown” contains “X.””  
+Updates the Account Number (Cash-in) (4B) Record introductory 
+paragraph to include the following statement: “There will be no 4B record 
+associated with a FinCEN CTR in the file if there is no account number 
+associated with the cash-in transaction(s) or no amount recorded in “Cash-
+In Amount” in the Person involved in Transaction(s) (4A) Record.” 
+Updates the Account Number (Cash-out) (4C) Record introductory 
+paragraph to include the following statement: “There will be no 4C record 
+associated with a FinCEN CTR in the file if there is no account number 
+associated with the cash-out transaction(s) or no amount recorded in 
+“Cash-out Amount” in the Person involved in Transaction(s) (4A) 
+Record.”  
+Updates error code C414* in Attachment A – Error Code List to include the 
+following explanation as to why the TIN entry is invalid: “Person TIN is 
+an invalid number string such as all zeros, all nines, 123456789, or a U.S. 
+TIN and not nine digits.” 
+--- page 16 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Currency Transaction Report (FinCEN CTR) 
+v 
+Version 
+Number 
+Date Reason for Change 
+Removes the phrase “or person state unknown” from error code C430 in 
+Attachment A – Error Code List and replaces the reference to Field 
+Position “732a” with “786-787.” 
+Replaces the reference to “F07” error code with “F18” from the Error 
+Categories introductory paragraph, located in Attachment B –Error Code 
+Instructions.  
+Added the following clarifying language to the Error Codes Description 
+and Remarks (Acknowledgement Transmitter (1A) Record, pos. 30-119): 
+“…Error codes associated with this record begin with a “T,” are 3 
+alphanumeric characters in length, and are left-justified…” 
+Updates Total cash-in (Item 25) instructions, located in Attachment C – 
+Electronic Filing Instructions, to include the following statement: “The 
+total cash in will be automatically computed in BSA E-Filing discrete 
+FinCEN CTR from the entries in 25a through 25i and 25z.” 
+Deletes Attachment C – Field Editing Instructions and the data 
+incorporated as General Instructions “15. Prohibited words and phrases” 
+and “16. Name editing instructions” in Attachment D – Electronic Filing 
+Instructions.  Attachment D was then re-named Attachment C in all 
+references to that attachment in the document. 
+Updates Total cash-out (Item 27) instructions, located in Attachment C – 
+Electronic Filing Instructions, to include the following statement: “The 
+total cash out will be automatically computed in BSA E-Filing discrete 
+FinCEN CTR from the entries in 27a through 27j and 27z.” 
+Removes “Identification” from Financial Institution ID Number (Item 39) 
+RSSD list option description, located in Attachment C – Electronic Filing 
+Instructions (i.e. Item 39d is now “Research, Statistics, Supervision, and 
+Discount (RSSD) number”)  
+Updates error code F88 in Attachment A – Error Code List to remove the 
+reference to “code” at the end of the error description. The updated 
+description for F88 is now “The Transmitter Control Code (TCC) specified 
+in the file is not a valid production TCC.” 
+Removes reference to BSA E-Filing website for ISO information from the 
+“Address” instructions located in Attachment C – Electronic Filing 
+Instructions, as no such information is posted to the BSA E-Filing site at 
+this time.  
+Removes “alphanumeric” as an invalid form of entry for the Transmitter 
+TIN in the 1A record, position 483-507. 
+Removes error code C430 “Person state contains an entry and the person 
+country code is not equal to CA, MX, or US” associated with Item 20 ID 
+issuing state. 
+Updates the location of the approved list of NAICS codes (Item 9) to 
+http://bsaefiling.fincen.treas.gov/main.html. The change can be seen in the 
+4A record, position 449-454, as well as Attachment C – Electronic Filing 
+Instructions. 
+--- page 17 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Currency Transaction Report (FinCEN CTR) 
+vi 
+Version 
+Number 
+Date Reason for Change 
+Updates the Description and Remarks associated with the ID Issuing State 
+(Item 20) in the 4A record (position 783-785) to the following: “REQUIRED 
+(conditional).  Enter the appropriate two or three character code when the 
+identification was issued by a known state, province, or territory of the 
+United States, Canada, or Mexico.  See General Instruction 10 in 
+Attachment D for information about the codes to be entered.  Left justify 
+and space-fill the entry.  Space-fill this field if “ID Issuing Country” 
+contains a country code other than “US,” “CA,” or “MX,” or if “ID Type” 
+contains “A.”” 
+Adds the following lead sentence to the General Instructions “16. Name 
+Editing Instructions” of Attachment C – Electronic Filing Instructions: 
+“When recording the name of an individual, a filer should enter the last 
+name/family name or equivalent in a last name field, the first name or 
+equivalent in the first name field, middle name or equivalent in the middle 
+name field, and name suffix (such as JR, SR, III, etc) in the suffix field 
+whenever these fields are provided.” 
+Updates Attachment C – Electronic Filing Instructions for Item 2 to include 
+the following changes: “…Select option 2d if the transaction(s) were 
+conducted by the agent of a private courier service such as an armored car 
+company engaged by the person(s) involved in the transaction(s) and not 
+by the reporting financial institution. In that case the information on the 
+courier service’s agent will be recorded in Part I (see FIN-2009-R002). 
+Boxes 2a, 2b, and 2d cannot be checked if box 4b “If entity” is checked.”  
+Adds the following to General Instructions, located in Attachment C – 
+Electronic Filing Instructions: “Items that do not begin with an asterisk 
+must be completed if the data are known and will be left blank if the data 
+are unknown. If an item’s instructions differ from this general instruction, 
+the item instructions must be followed.” 
+ 
+Updates the General Instructions associated with “9. Corrected or 
+Amended Reports”, located in Attachment C – Electronic Filing 
+Instructions:  
+ Changed “FinCEN Form 110” to “FinCEN Form 104.” 
+ Revised the fifth sentence to state, “Field 1d must contain the 
+Document Control Number (DCN) or BSA Identifier (BSA ID) 
+assigned to the prior filing.” 
+ Added this sentence to the end of General Instruction 9, “BSA IDs, 
+which replaced DCNs, are provided in acknowledgement records 
+sent to member financial institutions by the BSA E-Filing System.” 
+ 
+Updates the following Item Instructions, located in Attachment C – 
+Electronic Filing Instructions: 
+ Added to Item 1 “/BSA Identifier” to “d. Document Control 
+Number.”   
+ Added the following sentences to the end of the Item 1 instructions: 
+“Enter all zeros if the prior report DCN or BSA ID is unknown. The 
+BSA ID is replacing the DCN in all future electronic filings.” 
+ Added a note to the instructions for Item 2 that states as follows: 
+--- page 18 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Currency Transaction Report (FinCEN CTR) 
+vii 
+Version 
+Number 
+Date Reason for Change 
+“NOTE:  If more than one Item 2 option applies to a person involved 
+in the transaction(s), complete only one Part I on that person.  If 
+multiple options that include 2d “Courier service” apply, check the 
+“Courier service” box. Check the box “Person conducting transaction 
+on own behalf” if options 2a, 2b, and 2c or options 2a and 2c apply.  If 
+options 2b and 2c apply, check the box “Person conducting 
+transaction for another.”” 
+ In the Item 28 instructions changed all references to “26a” to “28a.” 
+ 
+1.1 09/19/2012 General Updates: 
+ Financial Institution Where Transaction(s) Take Place (2B) Record   
+ The maximum number of 2B records that can be associated with a 
+single currency transaction report has been increased from 99 to 999. 
+ Person Involved in Transaction(s) (4A) Record  
+ The maximum number of 4A records that can be associated with a 
+single currency transaction report has been increased from 99 to 999. 
+ FinCEN CTR “report” 
+ Replaces the reference to the FinCEN CTR as a “form” with “report” 
+throughout the document. 
+ Acknowledgement File Format  
+ Updates the acknowledgement file format to include User Field 
+values from incoming records.  
+Updates to File Organization: 
+ Financial Institution Where Transaction(s) Take Place (2B) Record  
+ Replaces “99” with “999” in the following sentence: “Filers are 
+permitted to associate up to 999 2B records for a single currency 
+transaction report.” 
+ Person Involved in Transaction(s) (4A) Record  
+ Replaces “99” with “999” in the following sentence: “Filers are 
+permitted to associate up to 999 4A records for a single currency 
+transaction report.” 
+Updates to Record Layouts: 
+ Transmitter ZIP/Postal Code, Institution ZIP Code, and Items: 36/13 
+Updates the Description and Remarks to add the statement “or four 
+nines” to the following sentence: “A nine-digit entry cannot end with 
+four zeros or four nines …” 
+ Financial Institution Where Transaction(s) Take Place (2B) Record  
+Updates to the introductory paragraph to add the following bold text: 
+"The number of 2B records is dependent on the number of branches 
+the Parent FI is reporting on the file; however, there can be no more 
+the 999 2B records associated with a single CTR reported in the 
+file." 
+ Primary Federal Regulator (Item 2) 
+ Updates the Description and Remarks to remove "where 
+transaction(s) occurred."   
+ Alternate name, e.g., trade name, DBA (Item 31) 
+ Updates the Description and Remarks to add "Do not include “AKA” 
+--- page 19 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Currency Transaction Report (FinCEN CTR) 
+viii 
+Version 
+Number 
+Date Reason for Change 
+or “DBA” with the alternate name." 
+ EIN (Item 32) 
+ Updates the Description and Remarks to replace "filer" with 
+"financial institution" in the second sentence. 
+ Transaction Type (Item 24) 
+ Updates the Description and Remarks by replacing "Check all that 
+apply" with "Multiple codes may be entered" and adding the sentence 
+"See the Item 24 instructions in Attachment C for information on 
+when to enter these codes." 
+ Middle Name and Name Suffix (Item 6) 
+ Updates the Description and Remarks by adding the following 
+statement (in bold): "Space-fill if no entry or if "Person Involved is 
+Entity" contains "X"." 
+ TIN (Item 15) 
+ Updates the Description and Remarks by adding the following 
+statement (in bold): “Foreign TINs may be as long as 25-digits, with 
+no formatting such as spaces, hyphens, or periods." 
+ ID Issuing State (Item 20) 
+Updates the Description and Remarks by adding the following (in 
+bold): "Space-fill this field if “ID Issuing Country” contains a country 
+code other than “US,” “CA,” or “MX;” if the “ID Issuing State” is 
+unknown; or if “ID Type” contains “A.”” 
+ ID Issuing Country (Item 20) 
+Updates the Description and Remarks by replacing the last sentence 
+with the following: "Space-fill if “ID Type” contains “A” or if the “ID 
+Issuing Country” is unknown." 
+ ID Number (Item 20) 
+ Updates the Description and Remarks by replacing the last sentence 
+with the following: "Space-fill if “ID Type” contains “A” or if the “ID 
+Number” is unknown." 
+Attachment A – Error Code List: 
+ Field Positions and Form Field Number 
+ Updates the Field Positions column and Form Field Number column 
+for the following error codes to include the "Unknown" fields as part 
+of the validation: C402, C404, C405, C407, C408, C411, C413, C417. 
+Also updates the Field Name Item number associated with the fields 
+unknown option to include an "a" for the following fields: 4, 5, 10, 11, 
+12, 13, 14, 15, 17.    
+Attachment B – Error Code List: 
+ Error Categories 
+ Replaces the statement “fatal errors that result” with “format errors 
+that may result” in the first sentence of the section. 
+ Correction Requirements 
+Adds the word “format” between “fatal” and “errors” in the first 
+sentence of the section.  Adds the phrase “from a rejected batch file” 
+between “FinCEN CTRs” and “as corrected reports” in the last 
+sentence of the first paragraph in the section. 
+--- page 20 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Currency Transaction Report (FinCEN CTR) 
+ix 
+Version 
+Number 
+Date Reason for Change 
+Attachment C - Electronic Filing Instructions: 
+ General Instructions (Item 16 Name Editing Instructions) 
+ Updates “16. Name Editing Instructions” to match the instructions in 
+the FinCEN SAR and FinCEN DOEP. 
+ Item Instructions (Item *1 Type of filing) 
+Updates the following sentences to replace the reference to "FinCEN 
+CTR" with "CTR": "Correct/amend prior report" if the report corrects 
+or amends a previously-filed CTR. See General Instruction 9 for 
+additional instructions on filing corrected or amended CTRs." Also, 
+updates the second to last sentence to state, “Enter all zeros if the 
+prior report DCN or BSA ID is unknown, for example when the prior 
+report was a paper filing.” 
+ Item Instructions (Item 24) 
+ Updates the instructions for Item 24 as follows (see bold text): "Check 
+box 24e “Aggregated transactions” if the financial institution did not 
+identify any of the transactor(s) because the FinCEN CTR reports 
+aggregated transactions, all of which were below the reporting 
+requirement, and at least one of the aggregated transactions was a 
+teller transaction." 
+ Item Instructions (Items 25 Total cash in, and 27 Total cash out) 
+Updates the instructions for Item 25 and 27 by inserting “total or” 
+between “and” and “subtotals” in the second sentence. 
+ Secure Data Transfer Mode Users  
+Updates the instructions to include a section describing the naming 
+convention information related to SDTM/System to System filers. 
+1.2 05/16/2013 Attachment C – Electronic Filing Instructions: 
+ Item Instructions (Item 2)  
+Adds the statement “Option 2b also cannot be selected if box 4b “If 
+entity” is checked.” Updates the instructions for option 2d to 
+reference updated guidance on Armored Car Service (ACS). Updates 
+the NOTE to include the following scenario: Select option 2a when 
+options 2a and 2b apply.  
+ Item Instructions (Part III Financial Institution Where 
+Transaction(s) Takes Place)  
+Adds batch file examples displaying sample batch file layouts based 
+on different scenarios. 
+Updates to Record Layouts: 
+ Total Cash-in (Item 25) 
+Updates the Description and Remarks to include as a new third 
+sentence, “The amount must match the total of all amounts entered in 
+Items 25a-z.” 
+ Cash-in (Items 25a-z) 
+Updates the Description and Remarks to begin with “Required 
+(conditional) and inserts the phrase “included in this report” between 
+“amount” and “for” in the first sentence.  
+ Total Cash-out (Item 27) 
+Updates the Description and Remarks to include as a new third 
+--- page 21 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Currency Transaction Report (FinCEN CTR) 
+x 
+Version 
+Number 
+Date Reason for Change 
+sentence, “The amount must match the total of all amounts entered in 
+Items 27a-z.” 
+ Cash-out (Items 27a-z) 
+Updates the Description and Remarks to begin with “Required 
+(conditional) and inserts the phrase “included in this report” between 
+“amount” and “for” in the first sentence. 
+--- page 22 ---
+  Financial Crimes Enforcement Network 
+ 
+Electronic Filing Requirements for the FinCEN Currency Transaction Report (FinCEN CTR) 
+  1 
+Purpose 
+The purpose of this document is to provide the requirements and conditions for electronically 
+filing the FinCEN Currency Transaction Report (FinCEN CTR). Electronic filing of this report 
+will be through the BSA E‐Filing System operated by the Financial Crimes Enforcement 
+Network (FinCEN). For more information on the BSA E‐Filing System and to register, please go 
+to http://bsaefiling.fincen.treas.gov. This document should be used in conjunction with the 
+“General Specifications for Electronic Filing of Bank Secrecy Act (BSA) Reports” (General 
+Specifications) available at http://www.fincen.gov/forms/files/e-filing_GENspecs.pdf. It is 
+recommended that you refer to the General Specifications first, and then the specific 
+information contained in this document. If the General Specifications conflict with any specific 
+requirement found in this document, the specific requirement should be followed. Additional 
+instructions concerning the data to be entered in the electronic file are found in Attachment C – 
+Electronic Filing Instructions. 
+Electronic Filing 
+The BSA E‐Filing System Batch File Testing Procedures are detailed in a separate document that 
+can be accessed on the BSA E‐Filing System web site at http://bsaefiling.fincen.treas.gov under 
+Quick Links. For purposes of this document, the filer is the organization responsible for filing 
+the FinCEN CTR and the transmitter is the organization responsible for preparing the electronic 
+files. The filer and transmitter may be the same or different organizations. Filers are required to 
+retain a copy of the FinCEN CTR data and all original supporting documentation or business 
+record equivalent for five years from the date of the report. All supporting documentation must 
+be made available to appropriate authorities upon request. 
+  
+--- page 23 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Currency Transaction Report (FinCEN CTR) 
+2 
+File Organization 
+The following data controls must be followed or the FinCEN CTR electronic file will be rejected. 
+The data records must be in the following sequence: 
+Transmitter (1A) Record – Required 
+There can only be one of this record type and it must be the first record on the file. 
+Parent Financial Institution Information (2A) Record – Required 
+There must be one of this record type for each Parent Financial Institution (FI) on the file. This 
+record type immediately precedes all records related to the Parent FI.  
+Financial Institution Where Transaction(s) Take Place (2B) Record – Required  
+There must be at least one of this record type for each financial institution reporting under the 
+Parent Financial Institution Information (2A) Record. This record type precedes all transaction 
+records for the financial institution. Filers are permitted to associate up to 999 2B records for a 
+single currency transaction report. Multiple 2B records must be grouped together prior to the 
+associated Transaction Summary (3A) Record(s)  
+Transaction Summary (3A) Record – Required 
+There can only be one of this record type for each currency transaction or aggregated 
+transactions being reported for the financial institution(s) identified in the associated 2B 
+record(s). Filers are permitted to associate more than one currency transaction report with a 
+single 2B record or a set of 2B records—assuming each financial institution where transaction(s) 
+take place is the same for all associated currency transaction reports that follow. Foreign Cash-
+in (3B) Record and/or Foreign Cash-out (3C) Record will follow the 3A record if needed. 
+Foreign Cash-in (3B) Record 
+One or more of this record type may follow a Transaction Summary (3A) Record when one or 
+more types of foreign (cash-in) currency are involved in the currency transaction. A maximum 
+of 99 3B records may be associated with a single currency transaction report. 
+Foreign Cash-out (3C) Record 
+One or more of this record type may follow a Transaction Summary (3A) Record or Foreign 
+Cash-in (3B) Record when one or more types of foreign (cash-out) currency are involved in the 
+currency transaction. A maximum of 99 3C records may be associated with a single currency 
+transaction report. 
+  
+--- page 24 ---
+  Financial Crimes Enforcement Network 
+Electronic Filing Requirements for the FinCEN Currency Transaction Report (FinCEN CTR) 
+3 
+Person Involved in Transaction(s) (4A) Record – Required 
+There must be one of this record type for each person involved in the currency transaction(s). 
+Filers are permitted to associate up to 999 4A records for a single currency transaction report. 
+An Account Number (Cash-in) (4B) Record and/or Account Number (Cash-out) (4C) Record 
+will follow the associated 4A record if needed. 
+Account Number (Cash-in) (4B) Record 
+One or more of this record type may follow the Person Involved in Transaction(s) (4A) Record 
+when one or more account numbers are included in the cash-in for the person involved in the 
+currency transaction(s). A maximum of 99 4B records may be associated with a Person Involved 
+in Transaction(s) (4A) Record. 
+Account Number (Cash-out) (4C) Record 
+One or more of this record type may follow the Person Involved in Transaction(s) (4A) Record 
+or Account Number (Cash-in) (4B) Record when one or more account numbers are included in 
+the cash-out for the person involved in the currency transaction(s). A maximum of 99 4C 
+records may be associated with a Person Involved in Transaction(s) (4A) Record. 
+Financial Institution Where Transaction(s) Take Place Summary (9A) Record – Required  
+There must be one 9A record for all Transaction Summary (3A) Records associated with one or 
+more Financial Institution Where Transaction(s) Take Place (2B) Records. 
+Parent Financial Institution Information Summary (9B) Record – Required  
+There must be one of this record type for each Parent FI 2A record reported on the file. 
+File Summary (9Z) Record – Required 
+There must be one of this record type on the file and it must be the last record. 
+  

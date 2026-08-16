@@ -1,0 +1,556 @@
+
+--- page 1 ---
+1
+Department of the Treasury
+Financial Crimes Enforcement Network
+Ruling
+FIN-2020-R001
+Issued: February 10, 2020
+Subject: FinCEN CTR (Form 112) Reporting of Certain Currency Transactions for Sole
+ 
+Proprietorships and Legal Entities Operating Under a “Doing Business As” (“DBA”) Name
+Effective April 6, 2020, 1
+1. The effective date for BSA E-Filing batch filers is September 1, 2020.
+  this ruling replaces and rescinds two rulings: FIN-2006-R003 and  
+FIN-2008-R001. 2
+2. FIN-2006-R003, Currency Transaction Reports on Sole Proprietorships, Feb. 10, 2006, and FIN-2008-R001, Reporting 
+of Certain Currency Transactions for Sole Proprietorships and Legal Entities Operating Under a “Doing Business As” 
+(”DBA”) Name, Jan. 25, 2008.
+  The rescinded rulings were based on the now obsolete FinCEN Form 104.  The 
+Financial Crimes Enforcement Network (“FinCEN”) is issuing this administrative ruling to clarify 
+the Currency Transaction Report (“CTR”), FinCEN Form 112 filing obligations when reporting 
+transactions involving sole proprietorships. 
+In an effort to both enhance regulatory efficiency and provide complete and accurate CTR data to 
+law enforcement, we are clarifying the requirements of financial institutions reporting on currency 
+transactions involving sole proprietorships and legal entities operating under a “doing business 
+as” (“DBA”) name when filing the current CTR FinCEN Form 112.
+3
+3.  See 31 CFR § 1010.716(a)(3).
+Sole Proprietorship
+A sole proprietorship is a business in which one person, operat
+ing in his or her own personal 
+capacity, owns all of the business’s assets and is responsible for all of the business’s liabilities. 4
+4. Black’s Law Dictionary (11th ed. 2019). The owner of a business who acts alone and has no partners. This definition 
+excludes a single member limited liability company (“LLC”), even one operating under the same tax identification 
+number as its member, because the member operates the LLC in its capacity as a separate legal entity and the LLC, 
+not the member, is responsible for its liabilities.
+  
+Consistent with the definition of “person” in the Bank Secrecy Act’s implementing regulations, 5
+5. 31 CFR § 1010.100(mm).
+  
+a sole proprietorship is not a separate legal person from its individual owner.  Thus, when a 
+CTR FinCEN Form 112 is prepared on transactions involving a sole proprietorship, a financial 
+institution should complete a single Part I “Person Involved in Transaction” section with the 
+individual owner’s name in Items 4 through 6, gender in Item 7, and date of birth in Item 17.
+6
+6. In states with community property laws that allow a husband and wife to operate an unincorporated business as a 
+sole proprietorship, the sole proprietorship’s proprietor, for purposes of CTR reporting, will be the spouse whose 
+social security number is attached to the sole proprietorship.
+ If 
+--- page 2 ---
+2
+the individual owner is doing business in his or her own name, then the rest of Part I should be 
+completed reflecting the individual owner’s information.  If the individual owner is operating 
+the business under a different name (a “doing business as” or “DBA” name), then such name 
+should appear in Item 8 “ Alternate name,” and the rest of Part I (other than Items 4-6, 7, and 
+17 identifying the individual owner) be completed with reference to the DBA name.
+7
+7. Enter only one “ Alternate name” for item 8. If there are multiple alternate names involved in the transactions, 
+additional Part I’s are required to record the additional alternate names. 
+  If the
+ 
+individual owner operates under multiple DBAs, then a separate Part I section should be 
+completed for each different DBA involved in the transactions.  The amount and account 
+number(s) entered in Item 21 “Cash in amount…” or Item 22 “Cash out amount…” will be 
+the amount and account number(s) associated with the specific location corresponding to the 
+reported transaction.
+Legal Entity
+When a CTR is prepared on a legal entity such as a partnership, incorporated business, or
+ 
+limited liability company, a Part I section should be prepared containing the home office/
+headquarters data (address, telephone number, identification number, etc.) of the entity.  When 
+multiple entity locations are involved in an aggregated CTR, a separate Part I section should be 
+prepared for each location involved.  Each additional Part I section should include the entity’s 
+legal name in Item 4 and alternate name, if any, in Item 8.  Each additional Part I section will 
+include the location’s address along with all other location or entity data applicable to that 
+location.  The amount and account number(s) entered in Item 21 “Cash in amount…” or Item 
+22 “Cash out amount…” will be the amount and account number(s) associated with the specific 
+location.  The initial Part I section on the entity home office/headquarters will show the total 
+amount and all account numbers involved in Item 21 or 22.  When there are multiple DBA 
+names involved in the transaction, Item 8 “ Alternate name” should be left blank in the entity 
+home office Part I section.  When the entity home office address is the same as the transaction 
+location, only a home office Part I section should be prepared.
+--- page 3 ---
+1
+RULING
+FIN-2018-R002
+Issued: May 16, 2018 
+Subject:	 Beneficial	Ownership	Requirements	for	Legal	Entity	Customers	of	Certain	
+Financial	Products	and	Services	with	Automatic	Rollovers	or	Renewals
+The Financial Crimes Enforcement Network (FinCEN) is issuing this ruling to 
+provide a 90-day limited exceptive relief to covered financial institutions from the 
+obligations of the Beneficial Ownership Requirements for Legal Entity Customers 
+(31 CFR § 1010.230) (Beneficial Ownership Rule) with respect to certain financial 
+products and services that automatically rollover or renew (i.e., certificate of deposit 
+(CD) or loan accounts) and were established before the Beneficial Ownership Rule’s 
+Applicability Date, May 11, 2018.  This exception begins, retroactively, on May 11, 
+2018, and will expire on August 9, 2018.  During this time, FinCEN will determine 
+whether and to what extent additional exceptive relief may be appropriate for such 
+financial products and services that were established before May 11, 2018, but are 
+expected to rollover or renew after such date.
+Consistent with the definition of “account” in the Customer Identification Program 
+(CIP) rules and subsequent interagency guidance, 1 
+1. See “Interagency Interpretive Guidance on Customer Identification Program Requirements under 
+Section 326 of the USA PATRIOT Act, FAQS: Final CIP Rule,” p. 8 (April 28, 2005).
+each time a loan is renewed or 
+a certificate of deposit is rolled over, the bank establishes another formal banking 
+relationship and a new account is created.  As clarified in the Customer Due 
+Diligence Frequently Asked Questions (CDD FAQs) published on April 3, 2018, 
+covered financial institutions are required to obtain information on the beneficial 
+owners of a legal entity that opens a new account for each new formal banking 
+relationship established, even if the legal entity is an existing customer.   FinCEN 
+understands that some covered institutions have not treated such rollovers or 
+renewals as new accounts and have established automatic processes to continue the 
+--- page 4 ---
+FINCEN RULING
+2
+2. See CDD FAQ, Q.12, at p.9 (https://www.fincen.gov/sites/default/files/2018-04/FinCEN_Guidance_
+CDD_FAQ_FINAL_508_2.pdf ).  The response to Q.12 provides, in pertinent part, consistent with
+the definition of “account” in the CIP rules and subsequent interagency guidance, each time a loan
+is renewed or a certificate of deposit is rolled over, the bank establishes another formal banking
+relationship and a new account is established. Covered financial institutions are required to obtain
+information on the beneficial owners of a legal entity that opens a new account, meaning (in the
+case of a bank) for each new formal banking relationship established, even if the legal entity is
+an existing customer. For financial services or products established before May 11, 2018, covered
+financial institutions must obtain certified beneficial ownership information of the legal entity
+customers of such products and services at the time of the first renewal following that date. At
+the time of each subsequent renewal, to the extent that the legal entity customer and the financial
+service or product (e.g., loan or CD) remains the same, the customer certifies or confirms that
+the beneficial ownership information previously obtained is accurate and up-to-date, and the
+institution has no knowledge of facts that would reasonably call into question the reliability of
+the information, the financial institution would not be required to collect the beneficial ownership
+information again. In the case of a loan renewal or CD rollover, because we understand that
+these products are not generally treated as new accounts by the industry and the risk of money
+laundering is very low, if at the time the customer certifies its beneficial ownership information, it
+also agrees to notify the financial institution of any change in such information, such agreement can
+be considered the certification or confirmation from the customer and should be documented and
+maintained as such, so long as the loan or CD is outstanding.
+banking relationsh ip with the customer. 2  These cover ed financial institutions have 
+expressed concern regarding their a bility to comply w ith the Beneficia l Ownership 
+Rule with respect to such accounts.
+FinCEN believes tha t further consider ation of this issu e is appropriate an d is, 
+therefore, granting this temporary exception with respe ct to collecting be neficial 
+ownership on certa in financial produ cts and services (i.e., CD and loan accounts) 
+that automatically r ollover or renew and were established before the Ben eficial 
+Ownership Rule’s Applicability Date . 
+Exceptive Relief
+Under 31 U.S.C. § 5318(a)(5) and 3 1 CFR § 1010.970, FinCEN has the author ity to 
+make exceptions to the requirements of 31 CFR Chapter  X.  Such exceptions may be 
+either condition al or unconditional and may apply to particular persons or classes 
+of persons.  Fin CEN may extend, modify or revoke exceptions at its discretion.
+For the reasons discussed above, FinCEN grants an exception to covered fin ancial 
+institutions for 90 days, up to and including August 9, 2018,  from the Beneficial 
+Ownership Rule’s requirements to ide ntify and verify ben eficial ownership 
+information for  rollover or renew al of certain fin ancial products a nd services (i.e., 
+CD and loan accou nts) that were established before Ma y 11, 2018.  
+*****
+For questions concer ning this ruling, pl ease contact FinCEN’s Regulatory Helpline  at 
+(800) 949-2732.
+--- page 5 ---
+FinCEN Ruling 2001-1
+July, 26 2001
+Dear [     ]:
+This responds to your letter dated February 25, 2000, on behalf [     ] (the “Bank”), to the
+Financial Crimes Enforcement Network (“FinCEN”).  In that letter, you requested a ruling on the
+application of the rules relating to the filing of a currency transaction report (“CTR”), as
+authorized under the Bank Secrecy Act and its implementing regulations, to the facts outlined
+below.
+FACTS
+Bank A and Bank B are subsidiaries of the same bank holding company.  A customer
+maintains an account at Bank A, but not at Bank B.  The customer makes a cash deposit of
+$12,000 at Bank B for credit to his account at Bank A.  Pursuant to an agency agreement
+between the banks, Bank B processes the cash deposit and sends the appropriate transaction
+information to Bank A.  Bank A credits the customer’s account in the amount of the cash
+deposit.  The two banks settle through an internal account procedure without any physical
+transfer of cash between the banks.
+QUESTIONS
+Your letter correctly acknowledges that the cash deposit of $12,000 by Customer X must
+be reported on a CTR.  You then ask the following two questions:
+1.  Which bank is responsible for filing the CTR, the bank receiving the cash, the bank that
+maintains the account and receives the cash deposit slip, or both banks?
+2.  If the bank that holds the customer’s account is responsible for filing the CTR, must the bank
+also aggregate the customer’s transactions made through its agent bank even though the
+transactions made through the agent are done manually and not through the bank holding the
+account electronic system in conformity with § 103.22(c)(2) aggregation rules?
+--- page 6 ---
+[     ]
+Page 2
+ANALYSIS
+A financial institution’s obligation to file a CTR is described in 31 CFR 103.22(b), which
+provides that:
+Each financial institution other than a casino shall file a report of each deposit,
+withdrawal, exchange of currency or other payment or transfer, by, through, or to such
+financial institution which involves a transaction in currency of more than $10,000 . . . .
+For purposes of the CTR requirement, a “financial institution” includes a bank, as well as any
+agent of a bank.  31 CFR 103.11(n).
+According to the facts outlined above, the customer’s cash deposit occurs “by, through,
+or to” Bank B, because Bank B is the financial institution that physically receives the cash.
+Thus, Bank B has an obligation to file a CTR.  The customer’s cash deposit also can be said to
+occur “by, through, or to” Bank A, because the cash deposit is conducted at one of its agents.
+Thus, both Bank A and Bank B are technically required to file a CTR;
+1 however, to avoid
+unnecessary duplicative reporting, FinCEN would require that only one report actually be filed
+(in the manner set forth in the following paragraph) with respect to the same transaction.  Thus,
+for example, Bank A would not need to file a CTR with respect to the customer’s $12,000 cash
+deposit so long as it knows for a fact that Bank B filed a CTR with respect to that transaction,
+and vice-versa.
+2
+If Bank A files a CTR with respect to the customer’s $12,000 deposit, then Bank A
+should fill out Part III of the CTR form with its own information.  In addition, the accounts
+affected by the deposit should be listed below Box 35 (“Account Number(s) Affected (if any):”)
+and the phrase “Affiliate Transaction(s)” should be written in below Box 36 (“Other (specify):”).
+Conversely, if Bank B chooses to file a CTR with respect to the $12,000 deposit, then Bank B
+should fill out Part III of the CTR form with its own information.  Further, the accounts affected
+by the deposit (even if those accounts are not held at Bank B) should be listed below Box 35 and
+the phrase “Affiliate transaction(s)” should be written in below Box 36.  Completing the CTR in
+this fashion will serve to notify law enforcement that the reported transaction may not have been
+physically conducted at the filing financial institution and/or that the account affected by the
+transaction is not held at the filing institution.
+With respect to aggregation, Bank A would need to aggregate multiple cash transactions
+conducted at Bank B, acting as Bank A’s agent with respect to those transactions, to the extent
+that Bank A “has knowledge that [the transactions] are by or on behalf of any person and result
+in either cash in or cash out totaling more than $10,000 during any one business day …”  31 CFR
+103.22(c)(2).  Knowledge, in this context, means knowledge on the part of a partner, director,
+                                                          
+1  The terms of Administrative Ruling 88-5 (August 2, 1988), 31 CFR Part 103 Appendix, are not inapposite to this
+conclusion.  In that ruling, Treasury held that a financial institution has an obligation to file a CTR to the extent that
+it uses an armored car service as its agent to collect, transport and process a customer’s cash deposits.  The ruling
+did not discuss whether, under those circumstances, the agent itself also has an obligation to file a CTR.
+2   A bank that relies on its affiliate to file a CTR should retain in its own files a copy of the filed CTR for
+examination purposes.
+--- page 7 ---
+[     ]
+Page 3
+officer or employee of Bank A or on the part of any existing computer or manual system at Bank
+A that permits it to aggregate transactions.  If Bank A does not have knowledge that multiple
+cash transactions have been conducted by or on behalf of the same person on the same business
+day at Bank B, then Bank A is not required to aggregate those transactions.  It should be noted
+that Bank B also would have an obligation to aggregate multiple cash transactions conducted
+through it (although only one report must be filed with respect to the same transactions), to the
+extent that Bank B has knowledge that the transactions are conducted by or on behalf of the same
+person on the same business day.
+We appreciate your willingness to comply with the requirements of the Bank Secrecy Act
+to the fullest extent, and apologize for the delay in responding to your request.  Should you have
+any questions about this letter, please contact David K. Gilles at (202) 354-6400.
+Sincerely,
+Christine E. Carnavos
+Executive Associate Director
+Office of Compliance and Regulatory Enforcement
+--- page 8 ---
+ 
+ 
+ 
+FinCEN Ruling 2003-8 – Definition of Money Transmitter (Merchant Payment 
+Processor) 
+ 
+     Nove mber 19, 2003 
+Dear [     ]: 
+ 
+ 
+This letter responds to your letter dated February 5, 2003, requesting an 
+administrative ruling with respect to whether [     ] is required to register with FinCEN as 
+a Money Services Business in accordance with 31 CFR 103.41 by virtue of operating  
+[     ].  Based on the representations contained in your letter, FinCEN has determined that 
+[     ] is not a Money Services Business as defined in 31 CFR 103.11(uu), by virtue of the 
+ACH processing services provided by [     ], and is therefore not required to register with 
+FinCEN. 
+ 
+According to your letter, [     ] operates a service called [     ] that provides third-
+party origination services for Automated Clearing House (“ACH”) transactions on behalf 
+of merchants.  Through [     ], merchants can accept customer payments for purchases 
+made through a merchant’s web site, or by telephone, in the form of a checking account 
+debit.  [     ]’s merchant customers obtain payment instructions to debit a customer’s 
+checking account and submit these payment instructions to [     ] through [     ].  [     ] 
+batches and submits the debit information to [     ]’s bank for processing through the ACH 
+system.  Once [     ]’s bank initiates the ACH, the depository institution at which the 
+merchant’s customer maintains a checking account debits the account of the customer, 
+and sends a credit instruction through ACH to [     ]’s bank, which then credits the 
+amount to an operating account maintained at the bank by [     ].  After a temporary 
+holding period to ensure that the transaction initiated by the merchant is not returned,  
+[     ] remits the funds to the merchant.  Through [     ], merchants are also able to initiate 
+credits to provide refunds to customers.  You have asked whether [     ] would be deemed 
+a money transmitter in accordance with 31 CFR 103.11(uu)(5) by virtue of providing this 
+service.  
+ 
+The definition of money transmitter for purposes of BSA regulations found at  
+31 CFR 103.11(uu)(5) includes: 
+ 
+(A) [a]ny person, whether or not licensed or required to be licensed, who 
+engages as a business in accepting currency, or funds denominated in 
+currency, and transmits the currency or funds, or the value of the currency 
+or funds, by any means through a financial agency or institution, a Federal 
+Reserve Bank or other facility of one or more Federal Reserve Banks, the 
+--- page 9 ---
+Board of Governors of the Federal Reserve System, or both, or an 
+electronic funds transfer network; or  
+ 
+(B) [a]ny other person engaged as a business in the transfer of funds. 
+ 
+FinCEN does not currently interpret the definition of money transmitter to include the 
+third-party origination service that is described in your letter.  The nature of the 
+transactions you describe is the transfer of funds through the ACH system from a 
+customer to a merchant as payment for goods and services.  [     ]’s role in the 
+transactions is to provide merchants with a portal to a financial institution that has access 
+to the ACH system.  [     ] acts on behalf of merchants receiving payments rather than on 
+behalf of customers making payments.  For these reasons, the service that [     ] provides 
+through [     ] more closely resembles payment processing/settlement than money 
+transmission.  Therefore, to the extent that the role of [     ] in such transactions is limited 
+to submitting payment instructions obtained from a merchant to a bank for ACH 
+processing, and remitting the funds received through the ACH process to the merchant 
+(or in some cases, refunding money to the merchant’s customer through an ACH 
+transaction), FinCEN would not deem [     ] a money transmitter for purposes of 31 CFR 
+103.11(uu)(5).  
+ 
+In arriving at our decision in this matter, FinCEN relied upon the accuracy and 
+completeness of the representations made in your February 5, 2003 letter.  Nothing 
+precludes FinCEN from seeking further action should any of this information prove 
+inaccurate or incomplete.  Finally, we note that you have requested that certain 
+information contained in your letter be held in confidence and exempt from disclosure 
+under the Freedom of Information Act, 5 U.S.C. 552.  FinCEN reserves the right to 
+publish this letter as guidance to financial institutions with all identifying information 
+about you, [     ], [     ], and [     ], redacted.  You will have 14 days after the date of this 
+letter to identify any other information you believe should be redacted and the legal basis 
+for the redaction.  Should you have any questions, please telephone Christine Del Toro of 
+my staff at (703) 905-3590. 
+ 
+Sincerely, 
+ 
+      //sign ed// 
+      
+      J udith R. Starr 
+Chief Counsel 
+ 
+cc: David M. Vogt, Executive Associate Director, Office of Regulatory Programs 
+          Deborah Silberman, Chief, MSB/Casinos/IRS Programs 
+ 2
+--- page 10 ---
+   
+ 
+ 
+ 
+ 
+FinCEN Ruling 2004-4 – Definition of Money Services Business 
+(Debt Management Company) 
+ 
+November 24, 2004 
+ 
+Dear [  ]: 
+ 
+This letter responds to your letter dated June 16, 2004, requesting a determination 
+as to whether your client, [the business], is a money services business (“MSB”) for 
+purposes of regulations promulgated by the Financial Crimes Enforcement Network 
+(“FinCEN”), under the Bank Secrecy Act (“BSA”).  In response to our subsequent 
+request, you provided additional information about [the business] by letter dated 
+October12, 2004.  Pursuant to 31 CFR § 103.85 governing FinCEN’s authority to issue 
+administrative rulings, FinCEN has determined, based on the representations in your 
+letters, that [the business] is not an MSB as defined in 31 C.F.R. § 103.11(uu).   
+ 
+You have represented that [the business] proposes to enter into business as a debt 
+management company.  In general, a debt management company holds itself out as 
+providing services to debtors in the management of their debts.  Debt management 
+companies contract with a debtor for a fee to (i) effect the adjustment, compromise, or 
+discharge of debts, and (ii) receive funds from debtors, and to remit such funds to 
+creditors on a debtor’s behalf.1  Creditors that accept payments from debt management 
+companies grant benefits to their client debtors, such as interest rate reductions, waiver of 
+late charges, and reduction in monthly payment amounts.  [The business] would make 
+monthly payments to creditors on behalf of its client debtors.  [The business] also 
+provides debtors with access to educational resources to assist in budget planning, such as 
+newsletters, online educational content, and financial counseling support.   
+ 
+A debtor client of [the business] would make a monthly payment consisting of the 
+payment to be made to creditors on the debtor’s behalf by [the business], and a fee for 
+[the business].  Debtors’ funds would be transmitted to [the business] either via ACH 
+debits to debtors’ checking accounts by [the business]’s financial institution, or money 
+order made payable to [the business].  [The business] would deposit the funds into one or 
+more trust accounts established by [the business] at a national banking association.  [The 
+business] would distribute the funds to creditors either via Mastercard’s Remote Payment 
+and Presentment Service, or by paper check drawn on [the business]’s account.  While 
+the majority of creditors that accept payments by [the business] on behalf of debtors are 
+                                                 
+1 See, e.g., S.D. Codified Laws § 22-47-1 (2004). 
+--- page 11 ---
+ 
+ 
+credit card companies, a small number of medical services providers and utility 
+companies also participate.  [The business] requests a determination whether FinCEN 
+would deem it an MSB by virtue of the debt management service it would provide. 
+ 
+Money services businesses, a category of financial institution for purposes of 
+regulations implementing the BSA, are defined at 31 CFR § 103.11(uu) and include 
+currency dealers and exchangers, check cashers, issuers, sellers, and redeemers of 
+traveler’s checks, money orders, or stored value, money transmitters, and the United 
+States Postal Service.  MSBs must comply with various reporting and record-keeping 
+requirements, and must implement anti-money laundering programs.  In addition, certain 
+MSBs are subject to the requirement to register with FinCEN.  The only MSB category 
+into which [the business]’s business would possibly fall is money transmitter.  The 
+definition of money transmitter for purposes of BSA regulations found at 31 CFR 
+103.11(uu)(5) includes: 
+ 
+(A) [a]ny person, whether or not licensed or required to be licensed, who 
+engages as a business in accepting currency, or funds denominated in 
+currency, and transmits the currency or funds, or the value of the currency 
+or funds, by any means through a financial agency or institution, a Federal 
+Reserve Bank or other facility of one or more Federal Reserve Banks, the 
+Board of Governors of the Federal Reserve System, or both, or an 
+electronic funds transfer network; or  
+ 
+(B) [a]ny other person engaged as a business in the transfer of funds. 
+ 
+Whether a person is a money transmitter for BSA purposes is a matter of facts and 
+circumstances.  Based on the information contained in your letters, we conclude that [the 
+business]’s debt management service does not constitute money transmission.  As set 
+forth in 103.11(uu)(5)(ii), FinCEN will generally not treat as a money transmitter a 
+person engaged in the acceptance and transmission of funds “as an integral part of the 
+execution and settlement of a transaction other than the funds transmission itself.…”  The 
+general service that [the business] provides is to help debtors create a plan for payment 
+and/or adjustment of their debts, and to obtain the agreement of creditors to accept 
+payment under that plan.  FinCEN views the money transmission that [the business] 
+conducts as ancillary to the debt management service that [the business] provides, and 
+incidental to a debtor’s primary purpose in using the services of [the business].  To the 
+extent that the money transmission conducted by [the business] is limited to submitting 
+payments to creditors on behalf of debtors in conjunction with a debt management plan, 
+FinCEN would not deem [the business] a money transmitter for purposes of 31 CFR 
+103.11(uu)(5). 
+ 
+In arriving at our decision, FinCEN relied upon the accuracy and completeness of 
+the representations made in your letters and submissions.  Nothing precludes FinCEN 
+from seeking further action should any of this information prove inaccurate or 
+incomplete.  FinCEN reserves the right to publish this letter as guidance to financial 
+institutions with information redacted in accordance with your request under 31 CFR § 
+ 2
+--- page 12 ---
+ 
+ 
+103.81(a)(5), and as indicated in your June 16, 2004 letter.  You will have 14 days after 
+the date of this letter to identify any other information you believe should be redacted and 
+the legal basis for the redaction.  Should you have any questions, please telephone Anna 
+Fotias, Senior Regulatory Compliance Specialist, at 202-354-6413.   
+ 
+Sincerely, 
+ 
+      //sign ed// 
+       
+William D. Langford, Jr.,  
+Associate Director  
+Regulatory Policy and Programs Division 
+ 
+ 
+ 3
+--- page 13 ---
+  
+    
+Subject:   Instructions for Backfiling and Amending Currency Transaction Reports   
+Issued:   March 05, 2018  
+  
+  
+     Beginning June 1, 2018, financial institutions are required to file the updated Currency 
+Transaction Report (FinCEN CTR), which adheres to the changes defined in the Federal Register 
+notice posted on February 20, 2016.1   
+      After May 31, 2018, Version 1.2 of the Currency Transaction Report will not be accepted and 
+amendments to these reports must be submitted using the most recent updated FinCEN CTR 
+(version 1.3 or later).  Reports must be filed within 60 calendar days of receipt of FinCEN’s 
+determination, unless otherwise instructed.  When submitting the reports, the financial institution 
+must follow the instructions that correspond with the appropriate filing method, as follows:  
+  
+I. Discrete BSA E-Filing of FinCEN CTRs:   
+     The financial institution is required to submit FinCEN CTRs through the BSA E-Filing 
+System in accordance with BSA electronic filing requirements.2   Filers must ensure that the 
+electronic file submission includes:   
+• For Backfiling CTRs, select Item 1 “FinCEN directed Backfiling”; or   
+• For Amending CTRs, select Item 1 “Correct/amend prior report” and complete the BSA 
+Identifier (“BSA Identifier,” or “BSA ID”) field.   
+     After the financial institution has filed the FinCEN CTRs, it must send a letter confirming that 
+the reports have been backfiled and/or amended. The letter should be addressed to FinCEN, with 
+copies sent to the federal and state agencies that examine the financial institution’s Bank Secrecy 
+Act/Anti-Money Laundering Compliance Program.  Please see section IV of this document for 
+instructions outlining the information that must be included in the letter.   
+ 
+ 
+1 https://www.federalregister.gov/documents/2016/02/02/2016-01825/proposed-collection-comment-
+requestbank-secrecy-act-currency-transaction-report-bctr-revised-layout  
+2 http://bsaefiling.fincen.treas.gov/docs/XMLUserGuide_FinCENCTR.pdf  
+
+--- page 14 ---
+II. Batch BSA E-Filing of FinCEN CTRs:   
+     The financial institution is required to submit FinCEN CTRs through the BSA E-Filing 
+System.  The FinCEN CTRs must be filed in accordance with BSA electronic filing 
+requirements.3  The financial institution should ensure that the electronic file submission includes:  
+• For Backfiling Batch CTRs, record the element “FinCENDirectBackFileIndicator” with a 
+“Y” value; or  
+• For Amending Batch CTRs, record the element “CorrectsAmendsPriorReportIndicator” 
+with a “Y” value, and record the element “EFilingPriorDocumentNumberenter” with the 
+previously assigned BSA Identifier as the value.  
+       After the financial institution has filed the FinCEN CTRs, it must send a letter confirming 
+that the reports have been backfiled and/or amended. The letter should be addressed to FinCEN 
+with copies sent to the federal and state agencies that examine the financial institution’s Bank 
+Secrecy Act/Anti-Money Laundering Compliance Program.  Please see section IV of this 
+document for instructions explaining the information that must be included in the letter.    
+ 
+III. BSA E-Filing of FinCEN Designation of Exempt Person (FinCEN DOEP):   
+     In the event that FinCEN has granted regulatory relief for a bank to file a FinCEN DOEP in 
+lieu of backfiling or amending FinCEN CTRs and the bank chooses to exempt an eligible 
+customer, the bank is required to file a FinCEN DOEP through the BSA E-Filing System.  The 
+FinCEN DOEP must be completed in accordance with the BSA electronic filing requirements.4 
+     After the bank has filed the FinCEN DOEP, it must send a letter to FinCEN, with copies sent 
+to the federal and state agencies that examine the financial institution’s Bank Secrecy Act/Anti-
+Money Laundering Compliance Program.  The letter must include the assigned 14-digit BSA ID 
+number of the FinCEN DOEP that was filed.  
+  
+IV . Notifying FinCEN of Backfiled and Amended FinCEN CTRs:   
+     All correspondence relating to a CTR backfiling/amending request or determination should be 
+emailed to fincenreports@fincen.gov. You must encrypt your email and send the password in a 
+separate email.  When encrypting your email, the password must be at least eight characters long, 
+include at least one lowercase, one uppercase, one numeric, and one special character.  Please 
+note, FinCEN will not access emails sent through third-party email encryption services that 
+require the recipient to establish an account.   
+     Financial institutions must send notification to FinCEN in the form of a letter, confirming that 
+FinCEN CTRs have been backfiled and/or amended using the discrete or batch e-filing method 
+indicated above or that a FinCEN DOEP was submitted.  The letter to FinCEN must be sent via 
+an encrypted email as outlined above within 60 calendar days of receipt of FinCEN’s 
+ 
+3 http://bsaefiling.fincen.treas.gov/docs/XMLUserGuide_FinCENCTR.pdf  
+4 http://bsaefiling.fincen.treas.gov/news/FinCENDOEPElectronicFilingRequirements.pdf  
+     
+--- page 15 ---
+determination, unless otherwise instructed.  Do not include copies of completed FinCEN CTRs 
+or DOEPs with the letter.  The following information must be included in the letter to FinCEN:   
+1. Legal name of the financial institution that filed the report(s)  
+2. Address of the financial institution that filed the report(s)  
+3. Name of the institution’s Primary Federal regulator (if none, Primary State regulator)  
+4. Name, phone number, and email address of the financial institution contact person  
+5. The date of the transaction (the business day that the reportable transaction occurred)  
+6. The total cash-in/cash-out dollar amount of the report  
+7. The 14-digit BSA IDs of the original and amended CTRs.5    
+8. A brief statement explaining the errors or issues that prompted the requirement for CTRs 
+to be backfiled or amended, and any actions taken to correct those issues going forward.  
+    Upon receiving the financial institution’s letter and confirming completion of the 
+backfiling/amending process, FinCEN will send the financial institution an email which will 
+serve as acknowledgement that the FinCEN CTR backfiling/amending process has been 
+completed, requiring no further action.  This acknowledgement will only be sent by email, 
+therefore the letter must include a valid email address in order to receive this final 
+communication.    
+  
+Questions:     
+     If you have general questions regarding backfiling or amending FinCEN CTRs, please 
+contact FinCEN’s Resource Center at FRC@fincen.gov. If you have questions related to BSA 
+E- Filing or would like assistance in enrolling in BSA E-Filing, please contact the BSA E-
+Filing Help Desk at BSAEFilingHelp@fincen.gov.   
+     If you have questions about a specific DOEP and/or CTR backfiling or amending 
+determination request that you submitted, please email your inquiry to 
+fincenreports@fincen.gov.   
+ 
+5 In 2-3 business days after filing CTRs, the BSA ID numbers are sent to the email address associated with your BSA E-filing System 
+account and will be available in the “Track Status” option within your BSA E-filing System account.  If you are backfiling CTRs, you must 
+supply the BSA ID number for each report that you have backfiled (e.g., 310000123456). If you are amending CTRs, you must supply both 
+the BSA ID of the initial report (e.g., 310000123456) and the BSA ID of the amending CTR (e.g., 310000987654)  
+ 

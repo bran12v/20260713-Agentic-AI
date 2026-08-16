@@ -1,0 +1,972 @@
+
+49 CFR Part 395 - Hours of Service of Drivers
+=============================================
+
+
+§ 395.1 Scope of rules in this part.
+------------------------------------
+
+(a) General. (1) The rules in this part apply to all motor carriers and drivers, except as
+provided in paragraphs (b) through (x) of this section.
+
+(2) The exceptions from Federal requirements contained in paragraphs (l) and (m) of this
+section do not preempt State laws and regulations governing the safe operation of commercial
+motor vehicles.
+
+(b) Driving conditions—(1) Adverse driving conditions. Except as provided in paragraph
+(h)(3) of this section, a driver who encounters adverse driving conditions, as defined in §
+395.2, and cannot, because of those conditions, safely complete the run within the maximum
+driving time or duty time during which driving is permitted under § 395.3(a) or § 395.5(a)
+may drive and be permitted or required to drive a commercial motor vehicle for not more than
+two additional hours beyond the maximum allowable hours permitted under § 395.3(a) or §
+395.5(a) to complete that run or to reach a place offering safety for the occupants of the
+commercial motor vehicle and security for the commercial motor vehicle and its cargo.
+
+(2) Emergency conditions. In case of any emergency, a driver may complete his/her run
+without being in violation of the provisions of the regulations in this part, if such run
+reasonably could have been completed absent the emergency.
+
+(c) Driver-salesperson. The provisions of § 395.3(b) shall not apply to any driver-
+salesperson whose total driving time does not exceed 40 hours in any period of 7 consecutive
+days.
+
+(d) Oilfield operations. (1) In the instance of drivers of commercial motor vehicles used
+exclusively in the transportation of oilfield equipment, including the stringing and picking
+up of pipe used in pipelines, and servicing of the field operations of the natural gas and
+oil industry, any period of 8 consecutive days may end with the beginning of any off-duty
+period of 24 or more successive hours.
+
+(2) In the case of specially trained drivers of commercial motor vehicles that are specially
+constructed to service oil wells, on-duty time shall not include waiting time at a natural
+gas or oil well site. Such waiting time shall be recorded as “off duty” for purposes of §
+395.8, with remarks or annotations to indicate the specific off-duty periods that are
+waiting time, or on a separate “waiting time” line on the record of duty status to show that
+off-duty time is also waiting time. Waiting time shall not be included in calculating the
+14-hour period in § 395.3(a)(2). Specially trained drivers of such commercial motor vehicles
+are not eligible to use the provisions of paragraph (e)(1) of this section.
+
+(e) Short-haul operations—(1) 150 air-mile radius driver. A driver is exempt from the
+requirements of §§ 395.8 and 395.11 if:
+
+(i) The driver operates within a 150 air-mile radius (172.6 statute miles) of the normal
+work reporting location;
+
+(ii) The driver, except a driver-salesperson, returns to the work reporting location and is
+released from work within 14 consecutive hours;
+
+(iii)(A) A property-carrying commercial motor vehicle driver has at least 10 consecutive
+hours off-duty separating each 14 hours on-duty;
+
+(B) A passenger-carrying commercial motor vehicle driver has at least 8 consecutive hours
+off-duty separating each 14 hours on-duty; and
+
+(iv) The motor carrier that employs the driver maintains and retains for a period of 6
+months accurate and true time records showing:
+
+(A) The time the driver reports for duty each day;
+
+(B) The total number of hours the driver is on-duty each day;
+
+(C) The time the driver is released from duty each day; and
+
+(D) The total time for the preceding 7 days in accordance with § 395.8(j)(2) for drivers
+used for the first time or intermittently.
+
+(2) Operators of property-carrying commercial motor vehicles not requiring a commercial
+driver's license. Except as provided in this paragraph, a driver is exempt from the
+requirements of §§ 395.3(a)(2), 395.8, and 395.11 and ineligible to use the provisions of §
+395.1(e)(1), (g), and (o) if:
+
+(i) The driver operates a property-carrying commercial motor vehicle for which a commercial
+driver's license is not required under part 383 of this subchapter;
+
+(ii) The driver operates within a 150 air-mile radius of the location where the driver
+reports to and is released from work, i.e., the normal work reporting location;
+
+(iii) The driver returns to the normal work reporting location at the end of each duty tour;
+
+(iv) The driver does not drive:
+
+(A) After the 14th hour after coming on duty on 5 days of any period of 7 consecutive days;
+and
+
+(B) After the 16th hour after coming on duty on 2 days of any period of 7 consecutive days;
+
+(v) The motor carrier that employs the driver maintains and retains for a period of 6 months
+accurate and true time records showing:
+
+(A) The time the driver reports for duty each day;
+
+(B) The total number of hours the driver is on duty each day;
+
+(C) The time the driver is released from duty each day;
+
+(D) The total time for the preceding 7 days in accordance with § 395.8(j)(2) for drivers
+used for the first time or intermittently.
+
+(f) Retail store deliveries. The provisions of § 395.3 (a) and (b) shall not apply with
+respect to drivers of commercial motor vehicles engaged solely in making local deliveries
+from retail stores and/or retail catalog businesses to the ultimate consumer, when driving
+solely within a 100-air mile radius of the driver's work-reporting location, during the
+period from December 10 to December 25, both inclusive, of each year.
+
+(g) Sleeper berths—(1) Property-carrying commercial motor vehicle—(i) General. A driver who
+operates a property-carrying commercial motor vehicle equipped with a sleeper berth, as
+defined in § 395.2, and uses the sleeper berth to obtain the off-duty time required by §
+395.3(a)(1) must accumulate:
+
+(A) At least 10 consecutive hours off-duty;
+
+(B) At least 10 consecutive hours of sleeper berth time;
+
+(C) A combination of consecutive sleeper berth and off-duty time amounting to at least 10
+hours;
+
+(D) A combination of sleeper berth time of at least 7 consecutive hours and up to 3 hours
+riding in the passenger seat of the vehicle while the vehicle is moving on the highway,
+either immediately before or after the sleeper berth time, amounting to at least 10
+consecutive hours; or
+
+(E) The equivalent of at least 10 consecutive hours off-duty calculated under paragraphs
+(g)(1)(ii) and (iii) of this section.
+
+(ii) Sleeper berth. A driver may accumulate the equivalent of at least 10 consecutive hours
+off-duty by taking not more than two periods of either sleeper berth time or a combination
+of off-duty time and sleeper berth time if:
+
+(A) Neither rest period is shorter than 2 consecutive hours;
+
+(B) One rest period is at least 7 consecutive hours in the sleeper berth;
+
+(C) The total of the two periods is at least 10 hours; and
+
+(D) Driving time in the period immediately before and after each rest period, when added
+together:
+
+(1) Does not exceed 11 hours under § 395.3(a)(3); and
+
+(2) Does not violate the 14-hour duty-period limit under § 395.3(a)(2).
+
+(iii) Calculation—(A) In general. The driving time limit and the 14-hour duty-period limit
+must be re-calculated from the end of the first of the two periods used to comply with
+paragraph (g)(1)(i)(E) of this section.
+
+(B) 14-hour period. The 14-hour driving window for purposes of § 395.3(a)(2) does not
+include qualifying rest periods under paragraph (g)(1)(ii) of this section.
+
+(2) Specially trained driver of a specially constructed oil well servicing commercial motor
+vehicle at a natural gas or oil well location. A specially trained driver who operates a
+commercial motor vehicle specially constructed to service natural gas or oil wells that is
+equipped with a sleeper berth, as defined in §§ 395.2 and 393.76 of this subchapter, or who
+is off duty at a natural gas or oil well location, may accumulate the equivalent of 10
+consecutive hours off duty time by taking a combination of at least 10 consecutive hours of
+off-duty time, sleeper-berth time, or time in other sleeping accommodations at a natural gas
+or oil well location; or by taking two periods of rest in a sleeper berth, or other sleeping
+accommodation at a natural gas or oil well location, providing:
+
+(i) Neither rest period is shorter than 2 hours;
+
+(ii) The driving time in the period immediately before and after each rest period, when
+added together, does not exceed the limit specified in § 395.3(a)(3);
+
+(iii) The driver does not drive after the 14th hour after coming on duty following 10 hours
+off duty, where the 14th hour is calculated:
+
+(A) By excluding any sleeper berth or other sleeping accommodation period of at least 2
+hours which, when added to a subsequent sleeper berth or other sleeping accommodation
+period, totals at least 10 hours, and
+
+(B) By including all on-duty time, all off-duty time not spent in the sleeper berth or other
+sleeping accommodations, all such periods of less than 2 hours, and any period not described
+in paragraph (g)(2)(iii)(A) of this section; and
+
+(iv) The driver may not return to driving subject to the normal limits under § 395.3 without
+taking at least 10 consecutive hours off duty, at least 10 consecutive hours in the sleeper
+berth or other sleeping accommodations, or a combination of at least 10 consecutive hours
+off duty, sleeper berth time, or time in other sleeping accommodations.
+
+(3) Passenger-carrying commercial motor vehicles. A driver who is driving a passenger-
+carrying commercial motor vehicle that is equipped with a sleeper berth, as defined in §§
+395.2 and 393.76 of this subchapter, may accumulate the equivalent of 8 consecutive hours of
+off-duty time by taking a combination of at least 8 consecutive hours off-duty and sleeper
+berth time; or by taking two periods of rest in the sleeper berth, providing:
+
+(i) Neither rest period is shorter than two hours;
+
+(ii) The driving time in the period immediately before and after each rest period, when
+added together, does not exceed 10 hours;
+
+(iii) The on-duty time in the period immediately before and after each rest period, when
+added together, does not include any driving time after the 15th hour; and
+
+(iv) The driver may not return to driving subject to the normal limits under § 395.5 without
+taking at least 8 consecutive hours off duty, at least 8 consecutive hours in the sleeper
+berth, or a combination of at least 8 consecutive hours off duty and sleeper berth time.
+
+(h) State of Alaska—(1) Property-carrying commercial motor vehicle—(i) In general. The
+provisions of § 395.3(a) and (b) do not apply to any driver who is driving a commercial
+motor vehicle in the State of Alaska. A driver who is driving a property-carrying commercial
+motor vehicle in the State of Alaska must not drive or be required or permitted to drive:
+
+(A) More than 15 hours following 10 consecutive hours off-duty;
+
+(B) After being on-duty for 20 hours or more following 10 consecutive hours off-duty;
+
+(C) After having been on-duty for 70 hours in any period of 7 consecutive days, if the motor
+carrier for which the driver drives does not operate every day in the week; or
+
+(D) After having been on-duty for 80 hours in any period of 8 consecutive days, if the motor
+carrier for which the driver drives operates every day in the week.
+
+(ii) Off-duty periods. Before driving, a driver who operates a property-carrying commercial
+motor vehicle equipped with a sleeper berth, as defined in § 395.2, and uses the sleeper
+berth to obtain the required off-duty time in the State of Alaska, must accumulate:
+
+(A) At least 10 consecutive hours off-duty;
+
+(B) At least 10 consecutive hours of sleeper berth time;
+
+(C) A combination of consecutive sleeper berth and off-duty time amounting to at least 10
+hours;
+
+(D) A combination of consecutive sleeper berth time and up to 3 hours riding in the
+passenger seat of the vehicle while the vehicle is moving on a highway, either immediately
+before or after a period of at least 7, but less than 10, consecutive hours in the sleeper
+berth; or
+
+(E) The equivalent of at least 10 consecutive hours off-duty calculated under paragraph
+(h)(1)(iii) of this section.
+
+(iii) Sleeper berth. A driver who uses a sleeper berth to comply with the hours of service
+regulations may accumulate the equivalent of at least 10 consecutive hours off-duty by
+taking not more than two periods of either sleeper berth time or a combination of off-duty
+time and sleeper berth time if:
+
+(A) Neither rest period is shorter than 2 consecutive hours;
+
+(B) One rest period is at least 7 consecutive hours in the sleeper berth;
+
+(C) The total of the two periods is at least 10 hours; and
+
+(D) Driving time in the period immediately before and after each rest period, when added
+together:
+
+(1) Does not exceed 15 hours; and
+
+(2) Does not violate the 20-hour duty period under paragraph (h)(1)(i)(B) of this section.
+
+(iv) Calculation—(A) In general. The driving time limit and the 20-hour duty-period limit
+must be re-calculated from the end of the first of the two periods used to comply with
+paragraph (h)(1)(ii)(E) of this section.
+
+(B) 20-hour period. The 20-hour duty period under paragraph (h)(1)(i)(B) does not include
+off-duty or sleeper berth time.
+
+(2) Passenger-carrying commercial motor vehicle. The provisions of § 395.5 do not apply to
+any driver who is driving a passenger-carrying commercial motor vehicle in the State of
+Alaska. A driver who is driving a passenger-carrying commercial motor vehicle in the State
+of Alaska must not drive or be required or permitted to drive—
+
+(i) More than 15 hours following 8 consecutive hours off-duty;
+
+(ii) After being on-duty for 20 hours or more following 8 consecutive hours off-duty;
+
+(iii) After having been on-duty for 70 hours in any period of 7 consecutive days, if the
+motor carrier for which the driver drives does not operate every day in the week; or
+
+(iv) After having been on-duty for 80 hours in any period of 8 consecutive days, if the
+motor carrier for which the driver drives operates every day in the week.
+
+(3) Adverse driving conditions. (i) A driver who is driving a commercial motor vehicle in
+the State of Alaska and who encounters adverse driving conditions (as defined in § 395.2)
+may drive and be permitted or required to drive a commercial motor vehicle for the period of
+time needed to complete the run.
+
+(ii) After a property-carrying commercial motor vehicle driver completes the run, that
+driver must be off-duty for at least 10 consecutive hours before he/she drives again; and
+
+(iii) After a passenger-carrying commercial motor vehicle driver completes the run, that
+driver must be off-duty for at least 8 consecutive hours before he/she drives again.
+
+(i) State of Hawaii. The rules in § 395.8 do not apply to a driver who drives a commercial
+motor vehicle in the State of Hawaii, if the motor carrier who employs the driver maintains
+and retains for a period of 6 months accurate and true records showing—
+
+(1) The total number of hours the driver is on duty each day; and
+
+(2) The time at which the driver reports for, and is released from, duty each day.
+
+(j) Travel time—(1) When a property-carrying commercial motor vehicle driver at the
+direction of the motor carrier is traveling, but not driving or assuming any other
+responsibility to the carrier, such time must be counted as on-duty time unless the driver
+is afforded at least 10 consecutive hours off duty when arriving at destination, in which
+case he/she must be considered off duty for the entire period.
+
+(2) When a passenger-carrying commercial motor vehicle driver at the direction of the motor
+carrier is traveling, but not driving or assuming any other responsibility to the carrier,
+such time must be counted as on-duty time unless the driver is afforded at least 8
+consecutive hours off duty when arriving at destination, in which case he/she must be
+considered off duty for the entire period.
+
+(k) Agricultural operations. The provisions of this part shall not apply during planting and
+harvesting periods, as determined by each State, to drivers transporting
+
+(1) Agricultural commodities from the source of the agricultural commodities to a location
+within a 150 air-mile radius from the source;
+
+(2) Farm supplies for agricultural purposes from a wholesale or retail distribution point of
+the farm supplies to a farm or other location where the farm supplies are intended to be
+used within a 150 air-mile radius from the distribution point;
+
+(3) Farm supplies for agricultural purposes from a wholesale distribution point of the farm
+supplies to a retail distribution point of the farm supplies within a 150 air-mile radius
+from the wholesale distribution point; or
+
+(4) Livestock (as defined in section 602 of the Emergency Livestock Feed Assistance Act of
+1988 (7 U.S.C. 1471) including insects)) within a 150 air-mile radius from the final
+destination of the livestock.
+
+(l) Ground water well drilling operations. In the instance of a driver of a commercial motor
+vehicle who is used primarily in the transportation and operations of a ground water well
+drilling rig, any period of 7 or 8 consecutive days may end with the beginning of any off-
+duty period of 24 or more successive hours.
+
+(m) Construction materials and equipment. In the instance of a driver of a commercial motor
+vehicle who is used primarily in the transportation of construction materials and equipment,
+any period of 7 or 8 consecutive days may end with the beginning of any off-duty period of
+24 or more successive hours.
+
+(n) Utility service vehicles. The provisions of this part shall not apply to a driver of a
+utility service vehicle as defined in § 395.2.
+
+(o) Property-carrying driver. A property-carrying driver is exempt from the requirements of
+§ 395.3(a)(2) if:
+
+(1) The driver has returned to the driver's normal work reporting location and the carrier
+released the driver from duty at that location for the previous five duty tours the driver
+has worked;
+
+(2) The driver has returned to the normal work reporting location and the carrier releases
+the driver from duty within 16 hours after coming on duty following 10 consecutive hours off
+duty; and
+
+(3) The driver has not taken this exemption within the previous 6 consecutive days, except
+when the driver has begun a new 7- or 8-consecutive day period with the beginning of any
+off-duty period of 34 or more consecutive hours as allowed by § 395.3(c).
+
+(p) Commercial motor vehicle transportation to or from a motion picture production site. A
+driver of a commercial motor vehicle providing transportation of property or passengers to
+or from a theatrical or television motion picture production site is exempt from the
+requirements of § 395.3(a) if the driver operates within a 100 air-mile radius of the
+location where the driver reports to and is released from work, i.e., the normal work-
+reporting location. With respect to the maximum daily hours of service, such a driver may
+not drive—
+
+(1) More than 10 hours following 8 consecutive hours off duty;
+
+(2) For any period after having been on duty 15 hours following 8 consecutive hours off
+duty.
+
+(3) If a driver of a commercial motor vehicle providing transportation of property or
+passengers to or from a theatrical or television motion picture production site operates
+beyond a 100 air-mile radius of the normal work-reporting location, the driver is subject to
+§ 395.3(a), and paragraphs (p)(1) and (2) of this section do not apply.
+
+(q) Attendance on commercial motor vehicles containing Division 1.1, 1.2, or 1.3 explosives.
+Operators who are required by 49 CFR 397.5 to be in attendance on commercial motor vehicles
+containing Division 1.1, 1.2, or 1.3 explosives are on duty at all times while performing
+attendance functions or any other work for a motor carrier. Operators of commercial motor
+vehicles containing Division 1.1, 1.2, or 1.3 explosives subject to the requirements for a
+30-minute rest break in § 395.3(a)(3)(ii) may use 30 minutes or more of attendance time to
+meet the requirement for a rest break, providing they perform no other work during the
+break. Such drivers must record the rest break as on-duty time in their record of duty
+status with remarks or annotations to indicate the specific on-duty periods that are used to
+meet the requirement for break.
+
+(r) Railroad signal employees. The provisions of this part shall not apply to a signal
+employee, as defined in § 395.2, who operates a commercial motor vehicle, is engaged in
+installing, repairing, or maintaining signal systems, is employed by a railroad carrier or a
+contractor or subcontractor to a railroad carrier, while regulated by the Federal Railroad
+Administration.
+
+(s) Covered farm vehicles. The rules in this part do not apply to drivers of “covered farm
+vehicles,” as defined in 49 CFR 390.5.
+
+(t) Ready-mixed concrete delivery vehicle. A driver of a ready-mixed concrete delivery
+vehicle subject to the requirement for a 30-minute rest break in § 395.3(a)(3)(ii) may use
+30-minutes or more of time spent while waiting with the commercial motor vehicle at a job
+site or terminal to meet the requirement for the 30-minute rest break, providing the driver
+performs no other work during the break.
+
+(u) Transport of commercial bees. The provisions of § 395.3(a)(3)(ii), requiring a 30-minute
+rest break, do not apply to a driver engaged in the interstate transportation of bees by
+commercial motor vehicle as long as the bees are on the vehicle.
+
+(v) Transport of livestock. The provisions of § 395.3(a)(3)(ii), requiring a 30-minute rest
+break, do not apply to a driver engaged in the interstate transportation of livestock by
+commercial motor vehicle while the livestock are on the vehicle.
+
+(w) Hi-rail vehicles. For the driver of a hi-rail vehicle, the maximum on duty time under §
+395.3 shall not include time in transportation to or from a duty assignment if such time in
+transportation—
+
+(1) Does not exceed 2 hours per calendar day or a total of 30 hours per calendar month; and
+
+(2) Is fully and accurately accounted for in records to be maintained by the motor carrier
+and such records are made available upon request of the Federal Motor Carrier Safety
+Administration or the Federal Railroad Administration.
+
+(x) Pipeline welding trucks. The rules in this part do not apply to drivers of “pipeline
+welding trucks,” as defined in 49 CFR 390.38(b).
+
+
+----------------------------------------------------------------------
+
+
+§ 395.2 Definitions.
+--------------------
+
+As used in this part, the following words and terms are construed to mean:
+
+Adverse driving conditions means snow, ice, sleet, fog, or other adverse weather conditions
+or unusual road or traffic conditions that were not known, or could not reasonably be known,
+to a driver immediately prior to beginning the duty day or immediately before beginning
+driving after a qualifying rest break or sleeper berth period, or to a motor carrier
+immediately prior to dispatching the driver.
+
+Agricultural commodity means:
+
+(1) Any agricultural commodity, non-processed food, feed, fiber, or livestock as defined in
+this section.
+
+(2) As used in this definition, the term “any agricultural commodity” means horticultural
+products at risk of perishing, or degrading in quality, during transport by commercial motor
+vehicle, including plants, sod, flowers, shrubs, ornamentals, seedlings, live trees, and
+Christmas trees.
+
+Driver-salesperson means any employee who is employed solely as such by a private carrier of
+property by commercial motor vehicle, who is engaged both in selling goods, services, or the
+use of goods, and in delivering by commercial motor vehicle the goods sold or provided or
+upon which the services are performed, who does so entirely within a radius of 100 miles of
+the point at which he/she reports for duty, who devotes not more than 50 percent of his/her
+hours on duty to driving time. The term selling goods for purposes of this section shall
+include in all cases solicitation or obtaining of reorders or new accounts, and may also
+include other selling or merchandising activities designed to retain the customer or to
+increase the sale of goods or services, in addition to solicitation or obtaining of reorders
+or new accounts.
+
+Driving time means all time spent at the driving controls of a commercial motor vehicle in
+operation.
+
+Eight consecutive days means the period of 8 consecutive days beginning on any day at the
+time designated by the motor carrier for a 24-hour period.
+
+Electronic logging device (ELD) means a device or technology that automatically records a
+driver's driving time and facilitates the accurate recording of the driver's hours of
+service, and that meets the requirements of subpart B of this part.
+
+ELD record means a record of duty status, recorded on an ELD, that reflects the data
+elements that an ELD must capture.
+
+Farm supplies for agricultural purposes means products directly related to the growing or
+harvesting of agricultural commodities during the planting and harvesting seasons within
+each State, as determined by the State, and livestock feed at any time of the year.
+
+Ground water well drilling rig means any vehicle, machine, tractor, trailer, semi-trailer,
+or specialized mobile equipment propelled or drawn by mechanical power and used on highways
+to transport water well field operating equipment, including water well drilling and pump
+service rigs equipped to access ground water.
+
+Hi-rail vehicle means an internal rail flaw detection vehicle equipped with flange hi-rails.
+
+Livestock means livestock as defined in sec. 602 of the Emergency Livestock Feed Assistance
+Act of 1988 [7 U.S.C. 1471], as amended, insects, and all other living animals cultivated,
+grown, or raised for commercial purposes, including aquatic animals.
+
+Multiple stops means all stops made in any one village, town, or city may be computed as
+one.
+
+Non-processed food means food commodities in a raw or natural state and not subjected to
+significant post-harvest changes to enhance shelf life, such as canning, jarring, freezing,
+or drying. The term “non-processed food” includes fresh fruits and vegetables, and cereal
+and oilseed crops which have been minimally processed by cleaning, cooling, trimming,
+cutting, chopping, shucking, bagging, or packaging to facilitate transport by commercial
+motor vehicle.
+
+On-duty time means all time from the time a driver begins to work or is required to be in
+readiness to work until the time the driver is relieved from work and all responsibility for
+performing work. On-duty time shall include:
+
+(1) All time at a plant, terminal, facility, or other property of a motor carrier or
+shipper, or on any public property, waiting to be dispatched, unless the driver has been
+relieved from duty by the motor carrier;
+
+(2) All time inspecting, servicing, or conditioning any commercial motor vehicle at any
+time;
+
+(3) All driving time as defined in the term driving time;
+
+(4) All time in or on a commercial motor vehicle, other than:
+
+(i) Time spent resting in or on a parked vehicle, except as otherwise provided in § 397.5 of
+this subchapter;
+
+(ii) Time spent resting in a sleeper berth; or
+
+(iii) Up to 3 hours riding in the passenger seat of a property-carrying vehicle moving on
+the highway immediately before or after a period of at least 7 consecutive hours in the
+sleeper berth;
+
+(5) All time loading or unloading a commercial motor vehicle, supervising, or assisting in
+the loading or unloading, attending a commercial motor vehicle being loaded or unloaded,
+remaining in readiness to operate the commercial motor vehicle, or in giving or receiving
+receipts for shipments loaded or unloaded;
+
+(6) All time repairing, obtaining assistance, or remaining in attendance upon a disabled
+commercial motor vehicle;
+
+(7) All time spent providing a breath sample or urine specimen, including travel time to and
+from the collection site, to comply with the random, reasonable suspicion, post-crash, or
+follow-up testing required by part 382 of this subchapter when directed by a motor carrier;
+
+(8) Performing any other work in the capacity, employ, or service of, a motor carrier; and
+
+(9) Performing any compensated work for a person who is not a motor carrier.
+
+Ready-mixed concrete delivery vehicle means a vehicle designed to deliver ready-mixed
+concrete on a daily basis and equipped with a mechanism under which the vehicle's propulsion
+engine provides the power to operate a mixer drum to agitate and mix the product en route to
+the delivery site.
+
+Seven consecutive days means the period of 7 consecutive days beginning on any day at the
+time designated by the motor carrier for a 24-hour period.
+
+Signal employee, as defined in 49 U.S.C. 21101(4), means an individual who is engaged in
+installing, repairing, or maintaining signal systems.
+
+Sleeper berth means a berth conforming to the requirements of § 393.76 of this chapter.
+
+Supporting document means a document, in any medium, generated or received by a motor
+carrier in the normal course of business as described in § 395.11 that can be used, as
+produced or with additional identifying information, by the motor carrier and enforcement
+officials to verify the accuracy of a driver's record of duty status.
+
+Transportation of construction material and equipment means the transportation of
+construction and pavement materials, construction equipment, and construction maintenance
+vehicles, by a driver to or from an active construction site (a construction site between
+mobilization of equipment and materials to the site to the final completion of the
+construction project) within a 75 air mile radius of the normal work reporting location of
+the driver, except that a State, upon notice to the Administrator, may establish a different
+air mile radius limitation for purposes of this definition if such limitation is between 50
+and 75 air miles and applies only to movements that take place entirely within the State.
+This paragraph does not apply to the transportation of material found by the Secretary to be
+hazardous under 49 U.S.C. 5103 in a quantity requiring placarding under regulations issued
+to carry out such section.
+
+Twenty-four-hour period means any 24-consecutive-hour period beginning at the time
+designated by the motor carrier for the terminal from which the driver is normally
+dispatched.
+
+Utility service vehicle means any commercial motor vehicle:
+
+(1) Used in the furtherance of repairing, maintaining, or operating any structures or any
+other physical facilities necessary for the delivery of public utility services, including
+the furnishing of electric, gas, water, sanitary sewer, telephone, television cable or
+community antenna service, and broadband-internet and cellular telephone operations;
+
+(2) While engaged in any activity necessarily related to the ultimate delivery of such
+public utility services to consumers, including travel or movement to, from, upon, or
+between activity sites (including occasional travel or movement outside the service area
+necessitated by any utility emergency as determined by the utility provider); and
+
+(3) Except for any occasional emergency use, operated primarily within the service area of a
+utility's subscribers or consumers, without regard to whether the vehicle is owned, leased,
+or rented by the utility.
+
+
+----------------------------------------------------------------------
+
+
+§ 395.3 Maximum driving time for property-carrying vehicles.
+------------------------------------------------------------
+
+(a) Except as otherwise provided in § 395.1, no motor carrier shall permit or require any
+driver used by it to drive a property-carrying commercial motor vehicle, nor shall any such
+driver drive a property-carrying commercial motor vehicle, regardless of the number of motor
+carriers using the driver's services, unless the driver complies with the following
+requirements:
+
+(1) Start of work shift. A driver may not drive without first taking 10 consecutive hours
+off duty;
+
+(2) 14-hour period. A driver may not drive after a period of 14 consecutive hours after
+coming on-duty following 10 consecutive hours off-duty.
+
+(3) Driving time and interruptions of driving periods—(i) Driving time. A driver may drive a
+total of 11 hours during the period specified in paragraph (a)(2) of this section.
+
+(ii) Interruption of driving time. Except for drivers who qualify for either of the short-
+haul exceptions in § 395.1(e)(1) or (2), driving is not permitted if more than 8 hours of
+driving time have passed without at least a consecutive 30-minute interruption in driving
+status. A consecutive 30-minute interruption of driving status may be satisfied either by
+off-duty, sleeper berth or on-duty not driving time or by a combination of off-duty, sleeper
+berth and on-duty not driving time.
+
+(b) No motor carrier shall permit or require a driver of a property-carrying commercial
+motor vehicle to drive, nor shall any driver drive a property-carrying commercial motor
+vehicle, regardless of the number of motor carriers using the driver's services, for any
+period after—
+
+(1) Having been on duty 60 hours in any period of 7 consecutive days if the employing motor
+carrier does not operate commercial motor vehicles every day of the week; or
+
+(2) Having been on duty 70 hours in any period of 8 consecutive days if the employing motor
+carrier operates commercial motor vehicles every day of the week.
+
+(c)(1) Any period of 7 consecutive days may end with the beginning of an off-duty period of
+34 or more consecutive hours.
+
+(2) Any period of 8 consecutive days may end with the beginning of an off-duty period of 34
+or more consecutive hours.
+
+
+----------------------------------------------------------------------
+
+
+§ 395.5 Maximum driving time for passenger-carrying vehicles.
+-------------------------------------------------------------
+
+Subject to the exceptions and exemptions in § 395.1:
+
+(a) No motor carrier shall permit or require any driver used by it to drive a passenger-
+carrying commercial motor vehicle, nor shall any such driver drive a passenger-carrying
+commercial motor vehicle:
+
+(1) More than 10 hours following 8 consecutive hours off duty; or
+
+(2) For any period after having been on duty 15 hours following 8 consecutive hours off
+duty.
+
+(b) No motor carrier shall permit or require a driver of a passenger-carrying commercial
+motor vehicle to drive, nor shall any driver drive a passenger-carrying commercial motor
+vehicle, regardless of the number of motor carriers using the driver's services, for any
+period after—
+
+(1) Having been on duty 60 hours in any 7 consecutive days if the employing motor carrier
+does not operate commercial motor vehicles every day of the week; or
+
+(2) Having been on duty 70 hours in any period of 8 consecutive days if the employing motor
+carrier operates commercial motor vehicles every day of the week.
+
+
+----------------------------------------------------------------------
+
+
+§ 395.8 Driver's record of duty status.
+---------------------------------------
+
+(a)(1) Except for a private motor carrier of passengers (nonbusiness), as defined in § 390.5
+of this subchapter, a motor carrier subject to the requirements of this part must require
+each driver used by the motor carrier to record the driver's duty status for each 24-hour
+period using the method prescribed in paragraphs (a)(1)(i) through (iii) of this section, as
+applicable.
+
+(i) Subject to paragraph (a)(1)(ii) of this section, a motor carrier operating commercial
+motor vehicles must install and require each of its drivers to use an ELD to record the
+driver's duty status in accordance with subpart B of this part no later than December 18,
+2017.
+
+(ii)(A) A motor carrier may require a driver to record the driver's duty status manually in
+accordance with this section, rather than require the use of an ELD, if the driver is
+operating a commercial motor vehicle:
+
+(1) In a manner requiring completion of a record of duty status on not more than 8 days
+within any 30-day period;
+
+(2) In a driveaway-towaway operation in which the vehicle being driven is part of the
+shipment being delivered;
+
+(3) In a driveaway-towaway operation in which the vehicle being transported is a motor home
+or a recreation vehicle trailer; or
+
+(4) That was manufactured before model year 2000, as reflected in the vehicle identification
+number as shown on the vehicle's registration.
+
+(B) The record of duty status must be recorded in duplicate for each 24-hour period for
+which recording is required. The duty status shall be recorded on a specified grid, as shown
+in paragraph (g) of this section. The grid and the requirements of paragraph (d) of this
+section may be combined with any company form.
+
+(iii) Subject to paragraphs (a)(1)(i) and (ii) of this section, until December 18, 2017, a
+motor carrier operating commercial motor vehicles shall require each of its drivers to
+record the driver's record of duty status:
+
+(A) Using an ELD that meets the requirements of subpart B of this part; or
+
+(B) Manually, recorded on a specified grid as shown in paragraph (g) of this section. The
+grid and the requirements of paragraph (d) of this section may be combined with any company
+form. The record of duty status must be recorded in duplicate for each 24-hour period for
+which recording is required.
+
+(2) A driver operating a commercial motor vehicle must:
+
+(i) Record the driver's duty status using one of the methods under paragraph (a)(1) of this
+section; and
+
+(ii) Submit the driver's record of duty status to the motor carrier within 13 days of the
+24-hour period to which the record pertains.
+
+(b) The duty status shall be recorded as follows:
+
+(1) “Off duty” or “OFF.”
+
+(2) “Sleeper berth” or “SB” (only if a sleeper berth used).
+
+(3) “Driving” or “D.”
+
+(4) “On-duty not driving” or “ON.”
+
+(c) For each change of duty status (e.g., the place of reporting for work, starting to
+drive, on-duty not driving and where released from work), the name of the city, town, or
+village, with State abbreviation, shall be recorded.
+
+If a change of duty status occurs at a location other than a city, town, or village, show
+one of the following: (1) The highway number and nearest milepost followed by the name of
+the nearest city, town, or village and State abbreviation, (2) the highway number and the
+name of the service plaza followed by the name of the nearest city, town, or village and
+State abbreviation, or (3) the highway numbers of the nearest two intersecting roadways
+followed by the name of the nearest city, town, or village and State abbreviation.
+
+(d) The following information must be included on the form in addition to the grid:
+
+(1) Date;
+
+(2) Total miles driving today;
+
+(3) Truck or tractor and trailer number;
+
+(4) Name of carrier;
+
+(5) Driver's signature/certification;
+
+(6) 24-hour period starting time (e.g. midnight, 9:00 a.m., noon, 3:00 p.m.);
+
+(7) Main office address;
+
+(8) Remarks;
+
+(9) Name of co-driver;
+
+(10) Total hours (far right edge of grid);
+
+(11) Shipping document number(s), or name of shipper and commodity;
+
+(e)(1) No driver or motor carrier may make a false report in connection with a duty status.
+
+(2) No driver or motor carrier may disable, deactivate, disengage, jam, or otherwise block
+or degrade a signal transmission or reception, or reengineer, reprogram, or otherwise tamper
+with an ELD so that the device does not accurately record and retain required data.
+
+(3) No driver or motor carrier may permit or require another person to disable, deactivate,
+disengage, jam, or otherwise block or degrade a signal transmission or reception, or
+reengineer, reprogram, or otherwise tamper with an ELD so that the device does not
+accurately record and retain required data.
+
+(f) The driver's activities shall be recorded in accordance with the following provisions:
+
+(1) Entries to be current. Drivers shall keep their records of duty status current to the
+time shown for the last change of duty status.
+
+(2) Entries made by driver only. All entries relating to a driver's duty status must be
+legible and made by the driver.
+
+(3) Date. The month, day and year for the beginning of each 24-hour period shall be shown on
+the form containing the driver's duty status record.
+
+(4) Total miles driving today. Total mileage driven during the 24-hour period shall be
+recorded on the form containing the driver's duty status record.
+
+(5) Commercial motor vehicle identification. The driver shall show the number assigned by
+the motor carrier, or the license number and licensing State of each commercial motor
+vehicle operated during each 24-hour period on his/her record of duty status. The driver of
+an articulated (combination) commercial motor vehicle shall show the number assigned by the
+motor carrier, or the license number and licensing State of each motor vehicle used in each
+commercial motor vehicle combination operated during that 24-hour period on his/her record
+of duty status.
+
+(6) Name of motor carrier. The name(s) of the motor carrier(s) for which work is performed
+shall be shown on the form containing the driver's record of duty status. When work is
+performed for more than one motor carrier during the same 24-hour period, the beginning and
+finishing time, showing a.m. or p.m., worked for each motor carrier shall be shown after
+each motor carrier's name. Drivers of leased commercial motor vehicles shall show the name
+of the motor carrier performing the transportation.
+
+(7) Signature/certification. The driver shall certify to the correctness of all entries by
+signing the form containing the driver's duty status record with his/her legal name or name
+of record. The driver's signature certifies that all entries required by this section made
+by the driver are true and correct.
+
+(8) Time base to be used. (i) The driver's duty status record shall be prepared, maintained,
+and submitted using the time standard in effect at the driver's home terminal, for a 24-hour
+period beginning with the time specified by the motor carrier for that driver's home
+terminal.
+
+(ii) The term “7 or 8 consecutive days” means the 7 or 8 consecutive 24-hour periods as
+designated by the carrier for the driver's home terminal.
+
+(iii) The 24-hour period starting time must be identified on the driver's duty status
+record. One-hour increments must appear on the graph, be identified, and preprinted. The
+words “Midnight” and “Noon” must appear above or beside the appropriate one-hour increment.
+
+(9) Main office address. The motor carrier's main office address shall be shown on the form
+containing the driver's duty status record.
+
+(10) Recording days off duty. Two or more consecutive 24-hour periods off duty may be
+recorded on one duty status record.
+
+(11) Total hours. The total hours in each duty status: off duty other than in a sleeper
+berth; off duty in a sleeper berth; driving, and on duty not driving, shall be entered to
+the right of the grid, the total of such entries shall equal 24 hours.
+
+(12) Shipping document number(s) or name of shipper and commodity shall be shown on the
+driver's record of duty status.
+
+(g) Graph grid. The following graph grid must be incorporated into a motor carrier
+recordkeeping system which must also contain the information required in paragraph (d) of
+this section.
+
+(h) Graph grid preparation. The graph grid may be used horizontally or vertically and shall
+be completed as follows:
+
+(1) Off duty. Except for time spent resting in a sleeper berth, a continuous line shall be
+drawn between the appropriate time markers to record the period(s) of time when the driver
+is not on duty, is not required to be in readiness to work, or is not under any
+responsibility for performing work.
+
+(2) Sleeper berth. A continuous line shall be drawn between the appropriate time markers to
+record the period(s) of time off duty resting in a sleeper berth, as defined in § 395.2. (If
+a non-sleeper berth operation, sleeper berth need not be shown on the grid.)
+
+(3) Driving. A continuous line shall be drawn between the appropriate time markers to record
+the period(s) of driving time, as defined in § 395.2.
+
+(4) On duty not driving. A continuous line shall be drawn between the appropriate time
+markers to record the period(s) of time on duty not driving specified in § 395.2.
+
+(5) Location—remarks. The name of the city, town, or village, with State abbreviation where
+each change of duty status occurs shall be recorded.
+
+If a change of duty status occurs at a location other than a city, town, or village, show
+one of the following: (1) The highway number and nearest milepost followed by the name of
+the nearest city, town, or village and State abbreviation, (2) the highway number and the
+name of the service plaza followed by the name of the nearest city, town, or village and
+State abbreviation, or (3) the highway numbers of the nearest two intersecting roadways
+followed by the name of the nearest city, town, or village and State abbreviation.
+
+(i) [Reserved]
+
+(j) Drivers used by more than one motor carrier. (1) When the services of a driver are used
+by more than one motor carrier during any 24-hour period in effect at the driver's home
+terminal, the driver shall submit a copy of the record of duty status to each motor carrier.
+The record shall include:
+
+(i) All duty time for the entire 24-hour period;
+
+(ii) The name of each motor carrier served by the driver during that period; and
+
+(iii) The beginning and finishing time, including a.m. or p.m., worked for each carrier.
+
+(2) Motor carriers, when using a driver for the first time or intermittently, shall obtain
+from the driver a signed statement giving the total time on duty during the immediately
+preceding 7 days and the time at which the driver was last relieved from duty prior to
+beginning work for the motor carriers.
+
+(k) Retention of driver's record of duty status and supporting documents. (1) A motor
+carrier shall retain records of duty status and supporting documents required under this
+part for each of its drivers for a period of not less than 6 months from the date of
+receipt.
+
+(2) The driver shall retain a copy of each record of duty status for the previous 7
+consecutive days which shall be in his/her possession and available for inspection while on
+duty.
+
+Driver's Record of Duty Status.
+
+The graph grid, when incorporated as part of any form used by a motor carrier, must be of
+sufficient size to be legible. The following executed specimen grid illustrates how a
+driver's duty status should be recorded for a trip from Richmond, Virginia, to Newark, New
+Jersey. The grid reflects the midnight to midnight 24 hour period.
+
+Graph Grid (Midnight to Midnight Operation) The driver in this instance reported for duty at
+the motor carrier's terminal. The driver reported for work at 6 a.m., helped load, checked
+with dispatch, made a pretrip inspection, and performed other duties until 7:30 a.m. when
+the driver began driving. At 9 a.m. the driver had a minor accident in Fredericksburg,
+Virginia, and spent one half hour handling details with the local police. The driver arrived
+at the company's Baltimore, Maryland, terminal at noon and went to lunch while minor repairs
+were made to the tractor. At 1 p.m. the driver resumed the trip and made a delivery in
+Philadelphia, Pennsylvania, between 3 p.m. and 3:30 p.m. at which time the driver started
+driving again. Upon arrival at Cherry Hill, New Jersey, at 4 p.m., the driver entered the
+sleeper berth for a rest break until 5:45 p.m. at which time the driver resumed driving
+again. At 7 p.m. the driver arrived at the company's terminal in Newark, New Jersey. Between
+7 p.m. and 8 p.m. the driver prepared the required paperwork including completing the
+driver's record of duty status, driver vehicle inspection report, insurance report for the
+Fredericksburg, Virginia accident, checked for the next day's dispatch, etc. At 8 p.m., the
+driver went off duty.
+
+
+----------------------------------------------------------------------
+
+
+§ 395.13 Drivers ordered out of service.
+----------------------------------------
+
+(a) Authority to order drivers out of service. Every special agent of the Federal Motor
+Carrier Safety Administration (as defined in appendix B to part 390 of this chapter) is
+authorized to order a driver out of service and to notify the motor carrier of that order,
+upon finding at the time and place of examination that the driver has violated the out-of-
+service criteria as set forth in paragraph (b) of this section.
+
+(b) Out of service criteria. (1) No driver shall drive after being on duty in excess of the
+maximum periods permitted by this part.
+
+(2) No driver required to maintain a record of duty status under § 395.8 shall fail to have
+a record of duty status current on the day of examination and for the prior seven
+consecutive days.
+
+(3) Exception. A driver failing only to have possession of a record of duty status current
+on the day of examination and the prior day, but has completed records of duty status up to
+that time (previous 6 days), will be given the opportunity to make the duty status record
+current.
+
+(c) Responsibilities of motor carriers. (1) No motor carrier shall:
+
+(i) Require or permit a driver who has been ordered out of service to operate a commercial
+motor vehicle until that driver may lawfully do so under the rules in this part.
+
+(ii) Require a driver who has been ordered out of service for failure to prepare a record of
+duty status to operate a commercial motor vehicle until that driver has been off duty for
+the appropriate number of consecutive hours required by this part and is in compliance with
+this section. The appropriate consecutive hours off duty may include sleeper berth time.
+
+(2) A motor carrier shall complete the “Motor Carrier Certification of Action Taken” portion
+of the form “Driver/Vehicle Examination Report” and deliver the copy of the form either
+personally or by mail to the Division Administrator or State Director Federal Motor Carrier
+Safety Administration, at the address specified upon the form within 15 days following the
+date of examination. If the motor carrier mails the form, delivery is made on the date it is
+postmarked.
+
+(d) Responsibilities of the driver. (1) No driver who has been ordered out of service shall
+operate a commercial motor vehicle until that driver may lawfully do so under the rules of
+this part.
+
+(2) No driver who has been ordered out of service, for failing to prepare a record of duty
+status, shall operate a commercial motor vehicle until the driver has been off duty for the
+appropriate number of consecutive hours required by this part and is in compliance with this
+section.
+
+(3) A driver to whom a form has been tendered ordering the driver out of service shall
+within 24 hours thereafter deliver or mail the copy to a person or place designated by the
+motor carrier to receive it.
+
+(4) Section 395.13 does not alter the hazardous materials requirements prescribed in § 397.5
+pertaining to attendance and surveillance of commercial motor vehicles.

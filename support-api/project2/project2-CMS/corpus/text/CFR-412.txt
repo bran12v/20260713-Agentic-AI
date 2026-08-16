@@ -1,0 +1,563 @@
+
+42 CFR Part 412 - Prospective Payment Systems for Inpatient Hospital Services
+=============================================================================
+
+
+§ 412.1 Scope of part.
+----------------------
+
+(a) Purpose. (1) This part implements sections 1886(d) and (g) of the Act by establishing a
+prospective payment system for the operating costs of inpatient hospital services furnished
+to Medicare beneficiaries in cost reporting periods beginning on or after October 1, 1983,
+and a prospective payment system for the capital-related costs of inpatient hospital
+services furnished to Medicare beneficiaries in cost reporting periods beginning on or after
+October 1, 1991.
+
+(i) Under these prospective payment systems, payment for the operating and capital-related
+costs of inpatient hospital services furnished by hospitals subject to the systems
+(generally, short-term, acute-care hospitals) is made on the basis of prospectively
+determined rates and applied on a per discharge basis.
+
+(ii) Payment for other costs related to inpatient hospital services is made on a reasonable
+cost basis as follows:
+
+(A) Organ acquisition costs incurred by hospitals with approved organ transplant programs.
+
+(B) The costs of qualified nonphysician anesthetist's services, as described in §
+412.113(c).
+
+(C) Direct costs of approved nursing and allied health educational programs.
+
+(D) Costs related to hematopoietic stem cell acquisition for the purpose of an allogeneic
+hematopoietic stem cell transplant as described in § 412.113(e).
+
+(iii) Payment for the direct costs of graduate medical education is made on a per resident
+amount basis in accordance with §§ 413.75 through 413.83 of this chapter.
+
+(iv) Additional payments are made for outlier cases, bad debts, indirect medical education
+costs, for serving a disproportionate share of low-income patients, for the additional
+resource costs of domestic National Institute for Occupational Safety and Health approved
+surgical N95 respirators, and for the additional resource costs for small, independent
+hospitals to establish and maintain access to buffer stocks of essential medicines.
+
+(v) Under either prospective payment system, a hospital may keep the difference between its
+prospective payment rate and its operating or capital-related costs incurred in furnishing
+inpatient services, and the hospital is at risk for inpatient operating or inpatient
+capital-related costs that exceed its payment rate.
+
+(2) This part implements section 124 of Public Law 106-113 by establishing a per diem
+prospective payment system for the inpatient operating and capital costs of hospital
+inpatient services furnished to Medicare beneficiaries by a psychiatric facility that meets
+the conditions of subpart N of this part.
+
+(3) This part implements section 1886(j) of the Act by establishing a prospective payment
+system for the inpatient operating and capital costs of inpatient hospital services
+furnished to Medicare beneficiaries by a rehabilitation hospital or rehabilitation unit that
+meets the conditions of § 412.604.
+
+(4) This part implements the following regarding long-term care hospitals—
+
+(i) Section 123 of Public Law 106-113, which provides for the establishment of a prospective
+payment system for the costs of inpatient hospital services furnished to Medicare
+beneficiaries by long-term care hospitals described in section 1886(d)(1)(B)(iv) of the Act,
+for cost reporting periods beginning on or after October 1, 2002.
+
+(ii) The provisions of section 307(b) of Public Law 106-554, which state that the Secretary
+shall examine and may provide for appropriate adjustments to the long-term care hospital
+prospective payment system, including adjustments to diagnosis-related group (DRG) weights,
+area wage adjustments, geographic reclassification, outlier adjustments, updates, and
+disproportionate share adjustments consistent with section 1886(d)(5)(F) of the Act.
+
+(iii) Section 114 of Public Law 110-173, which contains several provisions regarding long-
+term care hospitals, including the—
+
+(A) Amendment of section 1886 of the Act to add a new subsection (m) that references section
+123 of Public Law 106-113 and section 307(b) of Public Law 106-554 for the establishment and
+implementation of a prospective payment system for payments under title XVIII for inpatient
+hospital services furnished by a long-term care hospital described in section
+1886(d)(1)(B)(iv) of the Act.
+
+(B) Revision of the standard Federal rate for RY 2008.
+
+(5) This part implements section 1886(q) of the Act, which provides that, effective for
+discharges from an “applicable hospital” beginning on or after October 1, 2012, payments to
+those hospitals under section 1886(d) of the Act will be reduced to account for certain
+excess readmissions, under the Hospital Readmissions Reduction Program. This reduction will
+be made through an adjustment to the hospital's base operating DRG payment amounts under the
+prospective payment system for inpatient operating costs.
+
+(6) This part implements section 1886(o)(1)(B) of the Act, which directs the Secretary to
+begin to make value-based incentive payments under the Hospital Value-Based Purchasing
+Program to hospitals for discharges occurring on or after October 1, 2012, through an
+adjustment to the base operating DRG payment amounts under the prospective payment system
+for inpatient operating costs.
+
+(7) This part implements section 1866(k) of the Act, which directs hospitals described in
+section 1886(d)(1)(B)(v) of the Act to submit data on quality measures to the Secretary.
+
+(b) Summary of content. (1) This subpart describes the basis of payment for inpatient
+hospital services under the prospective payment systems specified in paragraph (a)(1) of
+this section and sets forth the general basis of these systems.
+
+(2) Subpart B of this part sets forth all of the following:
+
+(i)(A) The classifications of hospitals that are included in and excluded from the
+prospective payment systems specified in paragraph (a)(1) of this section.
+
+(B) Requirements governing the inclusion or exclusion of hospitals in the systems as a
+result of changes in their classification.
+
+(ii) Requirements for the PPS-Exempt Cancer Hospital Quality Reporting (PCHQR) Program.
+
+(3) Subpart C sets forth certain conditions that must be met for a hospital to receive
+payment under the prospective payment systems specified in paragraph (a)(1) of this section.
+
+(4) Subpart D sets forth the basic methodology by which prospective payment rates for
+inpatient operating costs are determined under the prospective payment system specified in
+paragraph (a)(1) of this section.
+
+(5) Subpart E describes the transition ratesetting methods that are used to determine
+transition payment rates for inpatient operating costs during the first 4 years of the
+prospective payment system specified in paragraph (a)(1) of this section.
+
+(6) Subpart F sets forth the methodology for determining payments for outlier cases under
+the prospective payment system specified in paragraph (a)(1) of this section.
+
+(7) Subpart G sets forth rules for special treatment of certain facilities under the
+prospective payment system specified in paragraph (a)(1) of this section for inpatient
+operating costs.
+
+(8) Subpart H describes the types, amounts, and methods of payment to hospitals under the
+prospective payment system specified in paragraph (a)(1) of this section for inpatient
+operating costs.
+
+(9) Subpart K describes how the prospective payment system specified in paragraph (a)(1) of
+this section for inpatient operating costs is implemented for hospitals located in Puerto
+Rico.
+
+(10) Subpart L sets forth the procedures and criteria concerning applications from hospitals
+to the Medicare Geographic Classification Review Board for geographic redesignation under
+the prospective payment systems specified in paragraph (a)(1) of this section.
+
+(11) Subpart M describes how the prospective payment system specified in paragraph (a)(1) of
+this section for inpatient capital-related costs is implemented effective with reporting
+periods beginning on or after October 1, 1991.
+
+(12) Subpart N describes the prospective payment system specified in paragraph (a)(2) of
+this section for inpatient psychiatric facilities and sets forth the general methodology for
+paying the operating and capital-related costs of inpatient hospital services furnished by
+inpatient psychiatric facilities effective with cost reporting periods beginning on or after
+January 1, 2005.
+
+(13) Subpart O of this part describes the prospective payment system specified in paragraph
+(a)(4) of this section for long-term care hospitals and sets forth the general methodology
+for paying for the operating and capital-related costs of inpatient hospital services
+furnished by long-term care hospitals, effective with cost reporting periods beginning on or
+after October 1, 2002.
+
+(14) Subpart P describes the prospective payment system specified in paragraph (a)(3) of
+this section for rehabilitation hospitals and rehabilitation units and sets forth the
+general methodology for paying for the operating and capital-related costs of inpatient
+hospital services furnished by rehabilitation hospitals and rehabilitation units effective
+with cost reporting periods beginning on or after January 1, 2002.
+
+
+----------------------------------------------------------------------
+
+
+§ 412.2 Basis of payment.
+-------------------------
+
+(a) Payment on a per discharge basis. Under both the inpatient operating and inpatient
+capital-related prospective payment systems, hospitals are paid a predetermined amount per
+discharge for inpatient hospital services furnished to Medicare beneficiaries. The
+prospective payment rate for each discharge (as defined in § 412.4) is determined according
+to the methodology described in subpart D, E, or G of this part, as appropriate, for
+operating costs, and according to the methodology described in subpart M of this part for
+capital-related costs. An additional payment is made for both inpatient operating and
+inpatient capital-related costs, in accordance with subpart F of this part, for cases that
+are extraordinarily costly to treat.
+
+(b) Payment in full. (1) The prospective payment amount paid for inpatient hospital services
+is the total Medicare payment for the inpatient operating costs (as described in paragraph
+(c) of this section) and the inpatient capital-related costs (as described in paragraph (d)
+of this section) incurred in furnishing services covered by the Medicare program.
+
+(2) The full prospective payment amount, as determined under subpart D, E, or G and under
+subpart M of this part, is made for each stay during which there is at least one Medicare
+payable day of care. Payable days of care, for purposes of this paragraph include the
+following:
+
+(i) Limitation of liability days payable under the payment procedures for custodial care and
+services that are not reasonable and necessary as specified in § 411.400 of this chapter.
+
+(ii) Guarantee of payment days, as authorized under § 409.68 of this chapter, for inpatient
+hospital services furnished to an individual whom the hospital has reason to believe is
+entitled to Medicare benefits at the time of admission.
+
+(3) If a patient is admitted to an acute care hospital and then the acute care hospital
+meets the criteria at § 412.23(e) to be paid as a LTCH, during the course of the patient's
+hospitalization, Medicare considers all the days of the patient stay in the facility (days
+prior to and after the designation of LTCH status) to be a single episode of LTCH care.
+Medicare will not make payment under subpart H for any part of the hospitalization. Payment
+for the entire patient stay (days prior to and after the designation of LTCH status) will be
+made in accordance with the requirements specified in § 412.521. The requirements of this
+paragraph (b)(3) apply only to a patient stay in which a patient is in an acute care
+hospital and that hospital is designated as a LTCH on or after October 1, 2004.
+
+(c) Inpatient operating costs. The prospective payment system provides a payment amount for
+inpatient operating costs, including—
+
+(1) Operating costs for routine services (as described in § 413.53(b) of this chapter), such
+as the costs of room, board, and routine nursing services;
+
+(2) Operating costs for ancillary services, such as radiology and laboratory services
+furnished to hospital inpatients;
+
+(3) Special care unit operating costs (intensive care type unit services, as described in §
+413.53(b) of this chapter);
+
+(4) Malpractice insurance costs related to services furnished to inpatients; and
+
+(5) Preadmission services otherwise payable under Medicare Part B furnished to a beneficiary
+on the date of the beneficiary's admission to the hospital and during the 3 calendar days
+immediately preceding the date of the beneficiary's admission to the hospital that meet the
+condition specified in paragraph (c)(5)(i) of this section and at least one of the
+conditions specified in paragraphs (c)(5)(ii) through (c)(5)(iv).
+
+(i) The services are furnished by the hospital or by an entity wholly owned or operated by
+the hospital. An entity is wholly owned by the hospital if the hospital is the sole owner of
+the entity. An entity is wholly operated by a hospital if the hospital has exclusive
+responsibility for conducting and overseeing the entity's routine operations, regardless of
+whether the hospital also has policymaking authority over the entity.
+
+(ii) For services furnished after January 1, 1991, the services are diagnostic (including
+clinical diagnostic laboratory tests).
+
+(iii) For services furnished on or after October 1, 1991, through June 24, 2010, the
+services are furnished in connection with the principal diagnosis that requires the
+beneficiary to be admitted as an inpatient and are not the following:
+
+(A) Ambulance services.
+
+(B) Maintenance renal dialysis.
+
+(iv) Nondiagnostic services furnished on or after June 25, 2010, other than ambulance
+services and maintenance renal dialysis services, that are furnished on the date of the
+beneficiary's inpatient admission or on the first, second, or third calendar day immediately
+preceding the date of the beneficiary's inpatient admission and the hospital does not attest
+that such services are unrelated to the beneficiary's inpatient admission.
+
+(d) Inpatient capital-related costs. For cost reporting periods beginning on or after
+October 1, 1991, the capital prospective payment system provides a payment amount for
+inpatient hospital capital-related costs as described in part 413, subpart G of this
+chapter.
+
+(e) Excluded costs. The following inpatient hospital costs are excluded from the prospective
+payment amounts and are paid for on a reasonable cost basis:
+
+(1) Capital-related costs for cost reporting periods beginning before October 1, 1991, and
+an allowance for return on equity, as described in §§ 413.130 and 413.157, respectively, of
+this chapter.
+
+(2) Direct medical education costs for approved nursing and allied health education programs
+as described in § 413.85 of this chapter.
+
+(3) Costs for direct medical and surgical services of physicians in teaching hospitals
+exercising the election in § 405.521 of this chapter.
+
+(4) The acquisition costs of hearts, kidneys, livers, lungs, pancreas, and intestines (or
+multivisceral organs) incurred by approved transplant programs.
+
+(5) The costs of qualified nonphysician anesthetists' services, as described in §
+412.113(c).
+
+(6) For cost reporting periods beginning on or after October 1, 2020, the costs of allogenic
+hematopoietic stem cell acquisition, as described in § 412.113(e), for the purpose of an
+allogeneic hematopoietic stem cell transplant.
+
+(f) Additional payments to hospitals. In addition to payments based on the prospective
+payment system rates for inpatient operating and inpatient capital-related costs, hospitals
+receive payments for the following:
+
+(1) Outlier cases, as described in subpart F of this part.
+
+(2) The indirect costs of graduate medical education, as specified in subparts F and G of
+this part and in § 412.105 for inpatient operating costs and in § 412.322 for inpatient
+capital-related costs.
+
+(3) Costs excluded from the prospective payment rates under paragraph (e) of this section,
+as provided in § 412.115.
+
+(4) Bad debts of Medicare beneficiaries, as provided in § 412.115(a).
+
+(5) ESRD beneficiary discharges if such discharges are ten percent or more of the hospital's
+total Medicare discharges, as provided in § 412.104.
+
+(6) Serving a disproportionate share of low-income patients, as provided in § 412.106 for
+inpatient operating costs and § 412.320 for inpatient capital-related costs.
+
+(7) The direct graduate medical education costs for approved residency programs in medicine,
+osteopathy, dentistry, and podiatry as described in §§ 413.75-413.83 of this chapter.
+
+(8) For discharges on or after June 19, 1990, and before October 1, 1994, and for discharges
+on or after October 1, 1997, a payment amount per unit for blood clotting factor provided to
+Medicare inpatients who have hemophilia. For discharges occurring on or after October 1,
+2005, the additional payment is made based on the average sales price methodology specified
+in subpart K, part 414 of this subchapter and the furnishing fee specified in § 410.63 of
+this subchapter.
+
+(9) Special additional payment for certain new technology as specified in §§ 412.87 and
+412.88 of subpart F.
+
+(10) A payment adjustment for the additional resource costs of domestic National Institute
+for Occupational Safety and Health approved surgical N95 respirators as specified in §
+412.113.
+
+(11) A payment adjustment for small, independent hospitals for the additional resource costs
+of establishing and maintaining access to buffer stocks of essential medicines as specified
+in § 412.113.
+
+(g) Payment adjustment for certain replaced devices. CMS makes a payment adjustment for
+certain replaced devices, as provided under § 412.89.
+
+
+----------------------------------------------------------------------
+
+
+§ 412.3 Admissions.
+-------------------
+
+(a) For purposes of payment under Medicare Part A, an individual is considered an inpatient
+of a hospital, including a critical access hospital, if formally admitted as an inpatient
+pursuant to an order for inpatient admission by a physician or other qualified practitioner
+in accordance with this section and §§ 482.24(c), 482.12(c), and 485.638(a)(4)(iii) of this
+chapter for a critical access hospital. In addition, inpatient rehabilitation facilities
+also must adhere to the admission requirements specified in § 412.622.
+
+(b) The order must be furnished by a qualified and licensed practitioner who has admitting
+privileges at the hospital as permitted by State law, and who is knowledgeable about the
+patient's hospital course, medical plan of care, and current condition. The practitioner may
+not delegate the decision (order) to another individual who is not authorized by the State
+to admit patients, or has not been granted admitting privileges applicable to that patient
+by the hospital's medical staff.
+
+(c) The physician order must be furnished at or before the time of the inpatient admission.
+
+(d)(1) Except as specified in paragraphs (d)(2) and (3) of this section, an inpatient
+admission is generally appropriate for payment under Medicare Part A when the admitting
+physician expects the patient to require hospital care that crosses two midnights.
+
+(i) The expectation of the physician should be based on such complex medical factors as
+patient history and comorbidities, the severity of signs and symptoms, current medical
+needs, and the risk of an adverse event. The factors that lead to a particular clinical
+expectation must be documented in the medical record in order to be granted consideration.
+
+(ii) If an unforeseen circumstance, such as a beneficiary's death or transfer, results in a
+shorter beneficiary stay than the physician's expectation of at least 2 midnights, the
+patient may be considered to be appropriately treated on an inpatient basis, and payment for
+an inpatient hospital stay may be made under Medicare Part A.
+
+(2) An inpatient admission for a surgical procedure specified by Medicare as inpatient only
+under § 419.22(n) of this chapter is generally appropriate for payment under Medicare Part A
+regardless of the expected duration of care. Procedures no longer specified as inpatient
+only under § 419.22(n) of this chapter are appropriate for payment under Medicare Part A in
+accordance with paragraph (d)(1) or (3) of this section. Claims for services and procedures
+removed from the inpatient only list under § 419.22 of this chapter on or after January 1,
+2021 are exempt from certain medical review activities until the Secretary determines that
+the service or procedure is more commonly performed in the outpatient setting than the
+inpatient setting.
+
+(3) Where the admitting physician expects a patient to require hospital care for only a
+limited period of time that does not cross 2 midnights, an inpatient admission may be
+appropriate for payment under Medicare Part A based on the clinical judgment of the
+admitting physician and medical record support for that determination. The physician's
+decision should be based on such complex medical factors as patient history and
+comorbidities, the severity of signs and symptoms, current medical needs, and the risk of an
+adverse event. In these cases, the factors that lead to the decision to admit the patient as
+an inpatient must be supported by the medical record in order to be granted consideration.
+
+
+----------------------------------------------------------------------
+
+
+§ 412.4 Discharges and transfers.
+---------------------------------
+
+(a) Discharges. Subject to the provisions of paragraphs (b) and (c) of this section, a
+hospital inpatient is considered discharged from a hospital paid under the prospective
+payment system when—
+
+(1) The patient is formally released from the hospital; or
+
+(2) The patient dies in the hospital.
+
+(b) Acute care transfers. A discharge of a hospital inpatient is considered to be a transfer
+for purposes of payment under this part if the patient is readmitted the same day (unless
+the readmission is unrelated to the initial discharge) to another hospital that is—
+
+(1) Paid under the prospective payment system described in subparts A through M of this
+part;
+
+(2) Excluded from being paid under the prospective payment system described in subparts A
+through M of this part because of participation in an approved statewide cost control
+program as described in subpart C of part 403 of this chapter;
+
+(3) An acute care hospital that would otherwise be eligible to be paid under the IPPS, but
+does not have an agreement to participate in the Medicare program; or
+
+(4) A critical access hospital.
+
+(c) Postacute care transfers. A discharge of a hospital inpatient is considered to be a
+transfer for purposes of this part when the patient's discharge is assigned, as described in
+§ 412.60(c), to one of the qualifying diagnosis-related groups (DRGs) listed in paragraph
+(d) of this section and the discharge is made under any of the following circumstances:
+
+(1) To a hospital or distinct part hospital unit excluded from the prospective payment
+system described in subparts A through M of this part under subpart B of this part.
+
+(2) To a skilled nursing facility.
+
+(3) To home under a written plan of care for the provision of home health services from a
+home health agency and those services begin within 3 days after the date of discharge.
+
+(4) For discharges occurring on or after October 1, 2018, to hospice care provided by a
+hospice program.
+
+(d) Qualifying DRGs. (1) For a fiscal year prior to FY 2006, for purposes of paragraph (c)
+of this section, and subject to the provisions of paragraph (d)(2) of this section, the
+qualifying DRGs must meet the following criteria for both of the 2 most recent years for
+which data are available:
+
+(i) The DRG must have a geometric mean length of stay of at least 3 days.
+
+(ii) The DRG must have at least 14,000 cases identified as postacute care transfer cases.
+
+(iii) The DRG must have at least 10 percent of the postacute care transfers occurring before
+the geometric mean length of stay for the DRG.
+
+(iv) If the DRG is one of a paired DRG based on the presence or absence of a comorbidity or
+complication, one of the DRGs meets the criteria specified under paragraphs (d)(1)(i)
+through (d)(1)(iii) of this section.
+
+(v) To initially qualify, the DRG must meet the criteria specified in paragraphs (d)(1)(i)
+through (d)(1)(iv) of this section and must have a decline in the geometric mean length of
+stay for the DRG during the most recent 5 years of at least 7 percent. Once a DRG initially
+qualifies, the DRG is subject to the criteria specified in paragraphs (d)(1)(i) through
+(d)(1)(iv) of this section for each subsequent fiscal year.
+
+(2) For purposes of paragraph (c), a discharge is also considered to be a transfer if it
+meets the following conditions:
+
+(i) The discharge is assigned to a DRG that contains only cases that were assigned to a DRG
+that qualified under this paragraph within the previous 2 years; and
+
+(ii) The latter DRG was split or otherwise modified within the previous 2 fiscal years.
+
+(3) For fiscal years beginning with FY 2006, for purposes of paragraph (c) of this section—
+
+(i) The qualifying DRGs must meet the following criteria using data from the March 2005
+update of the FY 2004 MedPAR file and Version 23.0 of the DRG Definitions Manual (FY 2006):
+
+(A) The DRG has at least 2,050 total postacute care transfer cases;
+
+(B) At least 5.5 percent of the cases in the DRG are discharged to postacute care prior to
+the geometric mean length of stay for the DRG;
+
+(C) The DRG must have a geometric mean length of stay greater than 3 days;
+
+(D) The DRG is paired with a DRG based on the presence or absence of a comorbidity or
+complication or major cardiovascular condition that, it meets the criteria specified in
+paragraphs (d)(3)(i)(A) and (d)(3)(ii)(B) of this section.
+
+(ii) If a DRG did not exist in Version 23.0 of the DRG Definitions Manual or a DRG included
+in Version 23.0 of the DRG Definitions Manual is revised, the DRG will be a qualifying DRG
+if it meets the following criteria based on the version of the DRG Definitions Manual in use
+when the new or revised DRG first becomes effective, using the most recent complete year of
+MedPAR data:
+
+(A) The total number of discharges to postacute care in the DRG must equal or exceed the
+55th percentile for all DRGs;
+
+(B) The proportion of short-stay discharges to postacute care to total discharges in the DRG
+exceeds the 55th percentile for all DRGs;
+
+(C) The DRG is paired with a DRG based on the presence or absence of a comorbidity or a
+complication or major cardiovascular condition that meets the criteria specified under
+paragraphs (d)(3)(ii)(A) and (d)(3)(ii)(B) of this section; and
+
+(D) In the case of MS-DRGs that share the same base MS-DRG, if one MS-DRG meets the criteria
+specified under paragraph (d)(3)(ii)(B) of this section, every MS-DRG that shares the same
+base MS-DRG is a qualifying DRG.
+
+(e) Payment for discharges. The hospital discharging an inpatient (under paragraph (a) of
+this section) is paid in full, in accordance with § 412.2(b).
+
+(f) Payment for transfers—(1) General rule. Except as provided in paragraph (f)(2) or (f)(3)
+of this section, a hospital that transfers an inpatient under the circumstances described in
+paragraph (b) or (c) of this section, is paid a graduated per diem rate for each day of the
+patient's stay in that hospital, not to exceed the amount that would have been paid under
+subparts D and M of this part if the patient had been discharged to another setting. The per
+diem rate is determined by dividing the appropriate prospective payment rate (as determined
+under subparts D and M of this part) by the geometric mean length of stay for the specific
+DRG to which the case is assigned. Payment is graduated by paying twice the per diem amount
+for the first day of the stay, and the per diem amount for each subsequent day, up to the
+full DRG payment.
+
+(2) Special rule for DRGs 209, 210, and 211 for fiscal years prior to FY 2006. For fiscal
+years prior to FY 2006, a hospital that transfers an inpatient under the circumstances
+described in paragraph (c) of this section and the transfer is assigned to DRGs 209, 210, or
+211 is paid as follows:
+
+(i) 50 percent of the appropriate prospective payment rate (as determined under subparts D
+and M of this part) for the first day of the stay; and
+
+(ii) 50 percent of the amount calculated under paragraph (f)(1) of this section for each day
+of the stay, up to the full DRG payment.
+
+(3) Transfer assigned to DRG for newborns that die or are transferred to another hospital.
+If a transfer is classified into CMS DRG 385 (Neonates, Died or Transferred) prior to
+October 1, 2007, or into MS-DRG 789 (Neonates, Died or Transferred to Another Acute Care
+Facility) on or after October 1, 2007, the transferring hospital is paid in accordance with
+§ 412.2(b).
+
+(4) Outliers. Effective with discharges occurring on or after October 1, 1984, a
+transferring hospital may qualify for an additional payment for extraordinarily high-cost
+cases that meet the criteria for cost outliers as described in subpart F of this part.
+
+(5) Special rule for DRGs meeting specific criteria. For discharges occurring on or after
+October 1, 2005, and prior to October 1, 2007, a hospital that transfers an inpatient under
+the circumstances described in paragraph (c) of this section is paid using the provisions of
+paragraphs (f)(2)(i) and (f)(2)(ii) of this section if the transfer case is assigned to one
+of the DRGs meeting the following criteria:
+
+(i) The DRG meets the criteria specified in paragraph (d)(3)(i) or (d)(3)(ii) of this
+section.
+
+(ii) The average charges of the 1-day discharge cases in the DRG must be at least 50 percent
+of the average charges for all cases in the DRG; and
+
+(iii) The geometric mean length of stay for the DRG is greater than 4 days; and
+
+(iv) If a DRG is paired with a DRG based on the presence or absence of a comorbidity or
+complication or a major cardiovascular complication that meets the criteria specified in
+paragraphs (f)(5)(i) through (f)(5)(iii) of this section, that DRG will also be paid under
+the provisions of paragraphs (f)(2)(i) and (f)(2)(ii) of this section.
+
+(6) Special rule for DRGs meeting specific criteria. For discharges occurring on or after
+October 1, 2007, a hospital that transfers an inpatient under the circumstances described in
+paragraph (c) of this section is paid using the provisions of paragraphs (f)(2)(i) and
+(f)(2)(ii) of this section if the transfer case is assigned to one of the DRGs meeting the
+following criteria:
+
+(i) The DRG meets the criteria specified in paragraph (d)(3)(i) or (d)(3)(ii) of this
+section;
+
+(ii) The average charges of the 1-day discharge cases in the DRG must be at least 50 percent
+of the average charges for all cases in the DRG; and
+
+(iii) The geometric mean length of stay for the DRG is greater than 4 days.
+
+(iv) If a DRG is part of an MS-DRG group that meets the criteria specified in paragraphs
+(f)(6)(i) through (f)(6)(iii) of this section, that DRG will also be paid under the
+provisions of paragraphs (f)(2)(i) and (f)(2)(ii) of this section.

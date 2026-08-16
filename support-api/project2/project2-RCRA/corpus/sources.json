@@ -1,0 +1,98 @@
+{
+  "project": "Cradle",
+  "author": "U.S. Environmental Protection Agency",
+  "footer": "This document is an excerpt of federal public-domain material, reproduced as a training artifact for the Cradle exercise. It is not a current or authoritative source and is not environmental or legal guidance. Consult the published source for the governing text.",
+  "ecfr_issue_date": "2026-08-04",
+  "documents": [
+    {
+      "doc_id": "CFR-261",
+      "title": "40 CFR Part 261 - Identification and Listing of Hazardous Waste",
+      "doc_type": "regulation",
+      "kind": "ecfr",
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/{issue_date}/title-40.xml?part=261",
+      "cite_url": "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-I/part-261",
+      "sections": ["261.2", "261.3", "261.7", "261.20", "261.21", "261.22", "261.23", "261.24", "261.30", "261.31"],
+      "backs": ["R1", "R2"]
+    },
+    {
+      "doc_id": "CFR-262",
+      "title": "40 CFR Part 262 - Standards Applicable to Generators of Hazardous Waste",
+      "doc_type": "regulation",
+      "kind": "ecfr",
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/{issue_date}/title-40.xml?part=262",
+      "cite_url": "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-I/part-262",
+      "sections": ["262.11", "262.13", "262.16", "262.17", "262.20"],
+      "backs": ["R3", "R4"]
+    },
+    {
+      "doc_id": "CFR-268",
+      "title": "40 CFR Part 268 - Land Disposal Restrictions",
+      "doc_type": "regulation",
+      "kind": "ecfr",
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/{issue_date}/title-40.xml?part=268",
+      "cite_url": "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-I/part-268",
+      "sections": ["268.9", "268.48", "268.49"],
+      "backs": []
+    },
+    {
+      "doc_id": "FR-2016",
+      "title": "81 FR 85732 - Hazardous Waste Generator Improvements Rule",
+      "doc_type": "preamble",
+      "kind": "pdf_pages",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2016-11-28/pdf/2016-27429.pdf",
+      "cite_url": "https://www.federalregister.gov/documents/2016/11/28/2016-27429/hazardous-waste-generator-improvements-rule",
+      "publication_date": "2016-11-28",
+      "citation": "81 FR 85732",
+      "page_offset": 85731,
+      "excerpts": [
+        {"section_path": "reorganization", "label": "Moving and integrating the generator regulations, VSQG mixtures, and the accumulation time limit", "printed_pages": "85736-85737", "pdf_pages": [5, 6]},
+        {"section_path": "acute-and-non-acute", "label": "Generators that generate both acute and non-acute hazardous waste", "printed_pages": "85742-85743", "pdf_pages": [11, 12]},
+        {"section_path": "waste-determination", "label": "Waste determinations under 40 CFR 262.11", "printed_pages": "85748-85750", "pdf_pages": [17, 19]},
+        {"section_path": "generator-category", "label": "Determining generator category under 40 CFR 262.13, and VSQG conditions for exemption", "printed_pages": "85755-85757", "pdf_pages": [24, 26]}
+      ],
+      "backs": ["R3"]
+    },
+    {
+      "doc_id": "RO-PACK",
+      "title": "EPA Guidance and Interpretations on Empty Containers",
+      "doc_type": "interpretation",
+      "kind": "pdf_pages",
+      "cite_url": "https://rcrapublic.epa.gov/rcraonline/",
+      "excerpts": [
+        {"source": "compendium", "url": "https://www.epa.gov/system/files/documents/2021-10/compendium_empty-containers.pdf", "section_path": "compendium-v11", "label": "Hazardous Waste Generator Regulations Compendium, Volume 11: Empty Containers", "printed_pages": "1-14", "pdf_pages": [1, 14]},
+        {"source": "ro12161", "url": "https://rcrapublic.epa.gov/files/12161.pdf", "section_path": "RO-12161", "label": "RCRA Online 12161, Triple rinsing of empty containers, 13 December 1983", "printed_pages": "1-2", "pdf_pages": [1, 2]},
+        {"source": "ro12307", "url": "https://rcrapublic.epa.gov/files/12307.pdf", "section_path": "RO-12307", "label": "RCRA Online 12307, Containers that held commercial chemical products, 11 September 1984", "printed_pages": "1-2", "pdf_pages": [1, 2]}
+      ],
+      "backs": ["R2"]
+    },
+    {
+      "doc_id": "FORM-8700",
+      "title": "EPA Form 8700-22, Uniform Hazardous Waste Manifest, with instructions",
+      "doc_type": "form",
+      "kind": "pdf_pages",
+      "cite_url": "https://www.epa.gov/hwgenerators/uniform-hazardous-waste-manifest-instructions-sample-form-and-continuation-sheet",
+      "excerpts": [
+        {"source": "form", "url": "https://www.epa.gov/sites/default/files/2018-05/documents/uniform_hazardous_waste_manifest.pdf", "section_path": "form", "label": "The Uniform Hazardous Waste Manifest itself", "printed_pages": "1", "pdf_pages": [1, 1]},
+        {"source": "instructions", "url": "https://www.epa.gov/sites/default/files/2020-04/documents/manifest_instructions_web.pdf", "section_path": "instructions", "label": "Item-by-item instructions for completing the manifest", "printed_pages": "1-11", "pdf_pages": [1, 11]}
+      ],
+      "backs": ["R4"]
+    }
+  ],
+  "verification": {
+    "distractors": ["empty", "acute hazardous waste", "180 days", "generator category"],
+    "out_of_corpus": [
+      "minimum wage",
+      "family and medical leave",
+      "workers compensation",
+      "unemployment insurance",
+      "collective bargaining",
+      "prevailing wage",
+      "sexual harassment",
+      "non-compete",
+      "GDPR",
+      "Sarbanes-Oxley",
+      "HIPAA"
+    ],
+    "near_miss": ["satellite accumulation", "drip pad", "used oil", "closure"]
+  }
+}

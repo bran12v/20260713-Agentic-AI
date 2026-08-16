@@ -1,0 +1,636 @@
+
+USCIS Handbook for Employers M-274 - Guidance for Completing Form I-9
+=====================================================================
+
+
+4.4 - 4.4 Acceptable Receipts
+-----------------------------
+
+Source: https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-
+employers-m-274/40-completing-section-2-employer-review-and-verification/44-acceptable-
+receipts
+
+You must accept a receipt in place of List A, B, or C documentation if the employee presents
+one, unless employment will last less than three business days. New employees who choose to
+present a receipt must do so within three business days after their first day of employment,
+or for reverification or existing employees, by the date that their employment authorization
+expires.
+
+Table 2 provides a list of acceptable receipts an employee can show. Enter the word
+“Receipt” followed by the title of the document in Section 2 under the list that relates to
+the receipt.
+
+When your employee presents the original replacement document, cross out the word “Receipt,”
+then enter the information from the new documentation into the Additional Information field
+in Section 2, and initial and date the change.
+
+Accepting a second receipt at the end of the initial receipt validity period is not
+permissible.
+
+Description of Receipt Who may present this receipt? Is this a List A, B, or C document? How
+long is this receipt valid for Form I-9 purposes? What document must the employee show at
+the end of the receipt validity period? The departure portion of a Form I-94,
+Arrival/Departure Record, with an unexpired refugee admission stamp or admission code of
+“RE.” Refugees List A 90 days from date of hire or, for reverification, 90 days from the
+date employment authorization expires. An unexpired Employment Authorization Document (Form
+I-766), or a combination of a valid List B document and an unrestricted Social Security
+card. The arrival portion of a Form I-94, Arrival/Departure Record, containing a temporary
+I-551 (otherwise known as the Alien Documentation, Identification and Telecommunication
+(ADIT)) stamp and photograph. Lawful permanent residents List A Until the expiration date of
+the temporary I-551 (ADIT) stamp, or if there is no expiration date, one year from date of
+admission. The actual Form I-551, Permanent Resident Card, also known as a “Green Card.” A
+document that shows an employee applied to replace a lost, stolen, or damaged document. All
+employees Can be List A, B, or C, depending on which document the receipt relates to. 90
+days from date of hire or, for reverification, 90 days from the date employment
+authorization expires. The actual replacement document. You may also accept other Form I-9
+documentation from the Lists of Acceptable Documents. If you accept documentation other than
+the actual replacement document, record the document information on Section 2 of a new Form
+I-9 and attach it to the original Form I-9.
+
+You should also note in the Additional Information box on the new Form I-9 the reason that
+documentation other than the replacement document was presented – for example, document
+delays, changes in status, or other factors – and sign and date the note.
+
+If the receipt is for a List A document but the employee cannot present the actual
+replacement List A document for which the receipt was issued by the end of the 90-day
+receipt period, then the employee may choose to present a different document from List A, or
+one document each from List B and List C to satisfy the Form I-9 requirements.
+
+If the receipt is for a List B document but the employee cannot present the actual document
+by the end of the 90-day receipt period, then the employee may choose to present a document
+from List A instead, or a different List B document to satisfy the Form I-9 requirements.
+
+If the receipt is for a List C document, and the employee does not provide the actual
+document, the employee can present a List A document or another List C document instead.
+
+Unexpired Form I-94, Arrival/Departure Record, containing a class of admission of UHP or OAR
+on the document or unexpired Form I-94 containing a class of admission of PAR and indicates
+Afghanistan as country of citizenship on the document
+
+Certain Parolees List A 90 days (or when the I-94 expires, if less) from date of hire or,
+for reverification, the date employment authorization expires. An unexpired Employment
+Authorization Document (EAD), or an unrestricted Social Security card and a List B identity
+document from the Form I-9 Lists of Acceptable Documents. An unexpired Form I-94,
+Arrival/Departure Record that contains a class of admission of DT issued between Feb. 24,
+2022, and Sept. 30, 2024, and indicates Ukraine as the country of citizenship on the
+document
+
+Ukrainian citizen parolees List A 90 days (or when the I-94 expires, if less) from date of
+hire or, for reverification, the date employment authorization expires. An unexpired
+Employment Authorization Document (EAD), or an unrestricted Social Security card and a List
+B identity document from the Form I-9 Lists of Acceptable Documents.
+
+This page was not helpful because the content: Select a reason has too little information
+has too much information is confusing is out of date other
+
+To protect your privacy, please do not include any personal information in your feedback.
+Review our Privacy Policy .
+
+
+----------------------------------------------------------------------
+
+
+5.1 - 5.1 Automatic Extensions Based on a Timely Filed Application to Renew Employment Authorization and/or Employment Authorization Document During Specified Timeframes
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Source: https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-
+employers-m-274/50-automatic-extensions-of-employment-authorization-andor-employment-
+authorization-documents-eads-in/51-automatic-extensions-based-on-a-timely-filed-application-
+to-renew-employment-authorization
+
+Some aliens in certain employment eligibility categories who timely filed Form I-765,
+Application for Employment Authorization, before Oct. 30, 2025 , to renew their employment
+authorization and/or EADs with one of the eligible category codes, may have received
+automatic extensions of their employment authorization and/or EADs for up to 540 days while
+their renewal applications remained pending.
+
+The majority of those who file(d) their EAD renewal applications on or after Oct. 30, 2025 ,
+are not eligible to receive an automatic extension of their employment authorization and/or
+EAD, unless otherwise authorized by law or Federal Register notice.
+
+Before Oct. 30, 2025 , those who timely and properly file(d) their EAD renewal applications
+before Oct. 30, 2025, may be eligible to receive an automatic EAD extension of up to 540
+days. The extension begins on the day after the “Card Expires” date on the face of their EAD
+and generally continues for up to 540 days counted from the day after the EAD expires, as
+applicable, or until USCIS adjudicates the renewal application, whichever is earliest.
+Special rules related to the validity of the EAD may apply to those in TPS status who timely
+submitted an EAD renewal application on or after July 22, 2025, but before Oct. 30, 2025.
+These aliens may not be able to take advantage of the full up to 540-day period because H.R.
+1 limited the duration of TPS-based employment authorization to the shorter of one year or
+the duration of TPS.
+
+This automatic extension of employment authorization and/or EAD validity depended on these
+eligibility requirements:
+
+Employees must have timely and properly filed an application to renew their employment
+authorization and/or EAD on Form I-765, Application for Employment Authorization, before
+their EAD expires, and the Form I-765 EAD renewal application remains pending. Exception:
+Employees with EADs based on Temporary Protected Status (TPS) (A12 and C19), whose EAD
+renewal applications were filed during the re-registration period described in the Federal
+Register notice applicable to their country’s TPS designation, may receive an automatic
+extension even if their renewal application was filed after the expiration date on the EAD.
+See the Employment Authorization Document (EAD) Extension accordion on the USCIS TPS webpage
+.
+
+The eligibility category on the front of the employee’s EAD (See Figure 8) must have the
+same eligibility category as the employee’s Form I-797C, Notice of Action, receipt notice
+issued for the corresponding EAD renewal application. Exceptions: In the case of an EAD and
+I-797C, Notice of Action, receipt notice where each contains either an A12 or C19 TPS
+category code, the category codes do not have to match.
+
+For H-4 (C26), E (A17), and L-2 (A18) dependent spouses, an unexpired Form I-94 indicating
+H-4, E, or L-2 nonimmigrant status, including E-1S, E-2S, E-3S, and L-2S class of admission
+codes, must accompany Form I-797C.
+
+For applications filed before Oct. 30, 2025, employees must have one of these qualifying
+eligibility categories to receive an automatic extension of their employment authorization
+and/or EAD validity: A03, A05, A07, A08, A10, A17*, A18*, C08, C09, C10, C16, C20, C22, C24,
+C26*, C31, and A12 or C19. Some category codes on the EAD may include the letter ‘P’ such as
+C09P. Employers should disregard the letter ‘P’ when comparing the category code on the EAD
+with the category code on the Form I-797C, Notice of Action receipt notice.
+
+Qualifying TPS applicants and beneficiaries may have their TPS-based EAD automatically
+extended under these conditions. See the Employment Authorization Document (EAD) Extension
+accordion on the USCIS TPS webpage .
+
+*There are limitations on employees who file a Form I-765 renewal application within
+categories A17, A18, and C26 for an automatic extension. See Automatic Extensions for
+Category Codes A17, A18, and C26 guidance below.
+
+If an employee is eligible for this automatic extension, acceptable proof of employment
+authorization and/or EAD validity during the automatic extension period includes an EAD that
+appears expired on the face of the card, presented with a Form I-797C, Notice of Action,
+receipt notice that shows a timely filed EAD renewal application in the same employment
+eligibility category as the EAD (except TPS-based EADs and notices, which could have A12 or
+C19 category codes). See Automatic EAD Extensions for Temporary Protected Status (TPS)
+Beneficiaries in Section 5.3 for information on TPS-based EAD automatic extensions that may
+not require a Form I-797C, Notice of Action, receipt notice and Guidance for Employees under
+Category Codes A17, A18, and C26 for information about the additional unexpired Form I-94
+documentation that H-4, E, and L-2 dependent spouses need to present with a Form I-797C,
+Notice of Action.
+
+Figure 8: Finding the Category Code and Expiration Date on an EAD (Form I-766)
+
+The eligibility category appears on the EAD under “Category”; the expiration date appears to
+the right of “Card Expires”:
+
+Finding Information on Form I-797C Receipt Notice: Sample A
+
+The receipt number appears on Form I-797C, Notice of Action, in the Receipt Number field, as
+noted in number 1.
+
+The filing date (the date USCIS received the application) appears in the Received Date
+field, as noted in number 2. Except as explained below for TPS beneficiaries, this date
+should be on or before the “Card Expires” date on the EAD. Also, if the “Received Date” is
+before Oct. 30, 2025, the automatic extension period is up to 540 days from the “Card
+Expires” date on the face of the EAD. Certain TPS beneficiaries are eligible for this
+extension, limited by H.R. 1, if they have timely and properly filed to renew their EAD
+during the re-registration period as directed in the Federal Register Notice applicable to
+their country’s TPS designation, and before Oct. 30, 2025. Therefore, the filing date on a
+TPS beneficiary’s Form I-797C receipt notice might be after the “Card Expires” date on their
+TPS-based EAD. For more information, go to the Employment Authorization Document (EAD)
+Extension accordion on the USCIS TPS webpage .
+
+The category may appear on Form I-797C receipt notice in the Class Requested field, as noted
+in number 3. If you do not see this field, see Sample B below.
+
+Finding Information on Form I-797C Receipt Notice: Sample B
+
+The receipt number appears on Form I-797C in the Receipt Number field, as noted in number 1.
+
+The filing date (the date USCIS received the application) appears in the Received Date
+field, as noted in number 2. This date should be on or before the “Card Expires” date on the
+EAD, unless the EAD renewal application and EAD are based on TPS. For TPS-based EADs, the
+date may be after the “Card Expires” date on the EAD (but must be during the re-registration
+period stated in the applicable TPS Federal Register Notice). See Section 5.3 . The category
+may appear on Form I-797C receipt notice in the Eligible Category field, as noted in number
+3.
+
+This page was not helpful because the content: Select a reason has too little information
+has too much information is confusing is out of date other
+
+To protect your privacy, please do not include any personal information in your feedback.
+Review our Privacy Policy .
+
+
+----------------------------------------------------------------------
+
+
+6.1 - 6.1 Reverifying Employment Authorization for Current Employees
+--------------------------------------------------------------------
+
+Source: https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-
+employers-m-274/60-completing-supplement-b-reverification-and-rehire-of-
+form-i-9/61-reverifying-employment-authorization-for-current-employees
+
+You must reverify an employee’s employment authorization no later than the date employment
+authorization expires. The employee must present a document that shows current employment
+authorization, such as any documentation from List A or C, including an unrestricted Social
+Security card. You must reject a restricted Social Security card and ask the employee to
+provide a diﬀerent document from List A or C. You can also accept certain receipts for
+reverification; see the Acceptable Receipts table in Section 4.4, Acceptable Receipts , for
+more information. You cannot continue employing a person who does not provide proof of
+current employment authorization.
+
+When you must reverify an employee, you will complete one block of Supplement B,
+Reverification and Rehire (formerly Section 3) and attach it to the employee’s original Form
+I-9. You may use additional blocks on this supplement for subsequent reverifications or
+updates, attaching additional supplement sheets as needed. If the employee’s previous update
+or reverification was completed on a Form I-9 version that is no longer valid, you must also
+complete Supplement B, Reverification and Rehire and attach it to the employee’s original
+Form I-9. Please check uscis.gov/i-9 for the current Form I-9.
+
+To reverify your employee using Supplement B, Reverification and Rehire:
+
+Enter the employee’s full name from the original Form I-9 at the top of the supplement.
+
+If the employee’s name has changed, enter the new name in the appropriate New Name fields in
+one block of the supplement. Enter only the part of the name that has changed. For example,
+for employees who changed only their last name, enter the last name in the Last Name field
+and leave the First Name and Middle initial fields blank.
+
+Enter the document title, number and expiration date in that block of the supplement.
+
+You must sign, date and enter your name in the appropriate fields in that block. Keep this
+supplement page with the original Form I-9.
+
+Some employees may have entered N/A in the expiration date field in Section 1 if they are
+aliens whose employment authorization does not expire, such as asylees, refugees, or certain
+citizens of the Federated State of Micronesia, the Republic of the Marshall Islands, or
+Palau. Reverification does not apply for such individuals unless they choose to present
+evidence of employment authorization in Section 2 that contains an expiration date and
+requires reverification, such as Form I-766, Employment Authorization Document. Employees
+with expiring immigration status, employment authorization, or employment authorization
+documents should have the necessary application or petition filed well in advance to ensure
+they maintain continuous employment authorization and/or valid documents. USCIS provides
+employment authorization extensions under certain conditions. See Section 7.0, Evidence of
+Employment Authorization for Certain Categories , for more information.
+
+This page was not helpful because the content: Select a reason has too little information
+has too much information is confusing is out of date other
+
+To protect your privacy, please do not include any personal information in your feedback.
+Review our Privacy Policy .
+
+
+----------------------------------------------------------------------
+
+
+7.1 - 7.1 Lawful Permanent Residents (LPR)
+------------------------------------------
+
+Source: https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-
+employers-m-274/70-evidence-of-employment-authorization-for-certain-categories/71-lawful-
+permanent-residents-lpr
+
+You must allow employees to choose which document(s) they will present from the Lists of
+Acceptable Documents. In Section 2, an LPR may choose to present a List A document (such as
+Form I-551, Permanent Resident Card, commonly referred to as a Green Card) or a List B and C
+document combination (such as a state-issued driver’s license and unrestricted Social
+Security card). You are not required to reverify the employment eligibility of a lawful
+permanent resident who presented these documents and you should not reverify their
+employment authorization.
+
+No expiration date. We issued these cards from January 1977 to August 1989.
+
+LPRs may also present an expired or expiring PRC in combination with either of these receipt
+notices as a List A document:
+
+Form I-797, Notice of Action, receipt notice for Form I-90, Application to Replace Permanent
+Resident Card.
+
+Form I-797C, Notice of Action, receipt notice for Form N-400, Application for
+Naturalization, that contains an automatic extension of the Permanent Resident Card.
+
+The receipt notice extends the Permanent Resident Card’s validity beyond the date on the
+front of the card. The receipt notice will specify the length of the automatic extension.
+
+Reverification is never required when any of the documents listed above in this section
+expire.
+
+If an LPR or conditional resident presents one of the temporary Forms I-551 listed below,
+you must reverify their employment authorization using Supplement B, Reverification and
+Rehire:
+
+List A receipt : The arrival portion of Form I-94, Arrival/Departure Record, containing an
+unexpired temporary I-551 (ADIT) stamp and a photograph of the employee. The employee must
+present their Form I-551 to you no later than when the stamp expires, or one year after U.S.
+Customs and Border Protection issues the Form I-94 if the stamp does not contain an
+expiration date.
+
+List A document : A foreign passport with either a temporary I-551 (ADIT) stamp or I-551
+printed notation on a machine-readable immigrant visa (MRIV). The employee must present a
+List A or List C document to you when the stamp expires, or one year after the admission
+date if the stamp does not contain an expiration date. Most MRIVs contain the following
+language on the visa : “UPON ENDORSEMENT SERVES AS TEMPORARY I-551 EVIDENCING PERMANENT
+RESIDENCE FOR 1 YEAR.” The one-year time period begins on the date of admission. If the
+employee receives an MRIV without the statement “FOR 1 YEAR,” you should treat the MRIV as
+evidence of permanent residence status for one year from the date of admission.
+
+If the stamp in the passport is endorsed “CR-1” and is near but not on the MRIV, it is still
+a valid endorsement.
+
+Enter the number in red font under the MRIV “Expires On” date as the document number.
+
+List C document : An expired PRC with a Form I-797, Notice of Action, receipt notice for
+either a Form I-751, Petition to Remove Conditions or a Form I-829, Petition by Investor to
+Remove Conditions on Permanent Resident Status, that indicates USCIS has extended the card’s
+validity. You must reverify the employee’s employment authorization before their extension
+ends.
+
+This page was not helpful because the content: Select a reason has too little information
+has too much information is confusing is out of date other
+
+To protect your privacy, please do not include any personal information in your feedback.
+Review our Privacy Policy .
+
+
+----------------------------------------------------------------------
+
+
+9.0 - 9.0 Correcting Errors or Missing Information on Form I-9
+--------------------------------------------------------------
+
+Source: https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-
+employers-m-274/90-correcting-errors-or-missing-information-on-form-i-9
+
+Employers must ensure that all parts of the Form I-9 are properly competed and may be
+subject to penalties under federal law if the form is not completed correctly.
+
+If you discover an error or missing information in Section 1 of an employee’s Form I-9, you
+should ask the employee to correct the error or add the missing information. Only employees,
+or their preparer and/or translator, may correct errors or omissions made in Section 1.
+
+Draw a line through the incorrect information;
+
+You should attach a written explanation of why information was missing or needed correcting.
+If the employee’s employment has ended, a signed and dated statement identifying the error
+or omission attach to the existing form and explain why corrections could not be made, for
+example, the employee no longer works for you.
+
+If the employee is remotely located, you should develop the appropriate business process to
+allow them to correct or enter missing information.
+
+Corrections by a Preparer and/or Translator Who Helped with Section 1
+
+Upon discovering an error or missing information, the preparer and/or translator should:
+
+Draw a line through the incorrect information;
+
+Draw a line through the incorrect information;
+
+Have the employee provide the correct or missing information; and
+
+Have the employee initial and date the correction.
+
+If the preparer and/or translator is the same person who completed a Preparer and/or
+Translator Certification block in Supplement A, Preparer and/or Translator Certification for
+Section 1 when the employee initially completed Form I-9, they should not complete a second
+certification block. If the preparer and/or translator did not previously complete a
+certification block, they should:
+
+Complete a certification block in Supplement A; or
+
+If a certification block was previously completed by a diﬀerent preparer and/or translator:
+Enter the new preparer and/or translator information (and indicate “for corrections”) in the
+next certification block on the Supplement.
+
+Correcting Section 2 and Supplement B, Reverification and Rehire
+
+Only the employer (or their authorized representative) may make corrections in Section 2 or
+Supplement B, Reverification and Rehires. If you discover an error or missing information,
+you should:
+
+Initial and date the correction or missing information.
+
+You should attach a written explanation of why information was missing or needed correcting.
+If you failed to enter the date you completed Section 2 and/or Supplement B, Reverification
+and Rehires, you should not back date the form. Instead, enter the current date and initial
+by the date field.
+
+To correct multiple errors in one section, you may redo the section on a new Form I-9 and
+attach it to the old form. You can also complete a new Form I-9 if it contains substantial
+errors (such as entire sections that were left blank or you completed Section 2 based on
+unacceptable documents). You should attach a written explanation to the employee’s Form I-9
+describing why you made changes to an existing Form I-9 or why you created a new Form I-9.
+
+If you make any changes on the form, do NOT conceal them by, for example, erasing text or
+using correction fluid. Doing so may lead to increased liability under federal immigration
+law. If you made these types of changes, we recommend you attach a signed and dated written
+explanation for the changes to the Form I-9.
+
+If you use an electronic Form I-9, your audit trail should reflect all corrections and
+additions made to Sections 1 and 2, and Supplements A and B.
+
+This page was not helpful because the content: Select a reason has too little information
+has too much information is confusing is out of date other
+
+To protect your privacy, please do not include any personal information in your feedback.
+Review our Privacy Policy .
+
+
+----------------------------------------------------------------------
+
+
+10.0 - 10.0 Retaining Form I-9
+------------------------------
+
+Source: https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-
+employers-m-274/100-retaining-form-i-9
+
+You must keep a completed Form I-9 on file for each employee on your payroll (or otherwise
+receiving remuneration) who was hired after Nov. 6, 1986 (or on or after Nov. 27, 2009, if
+employed in the CNMI). Never dispose of a current employee’s Form I-9 and any copies (or
+electronic images) you made of the employee’s Form I-9 documentation; you must keep these
+records for as long as the employee works for you, and for a certain amount of time after
+they stop working for you. This requirement applies even if the employee ends employment
+shortly after the date of hire.
+
+Never mail Form I-9 to USCIS or U.S. Immigration and Customs Enforcement.
+
+Only when an employee stops working for you should you calculate how much longer you must
+keep their Form I-9. Federal regulations state you must retain a Form I-9 for each person
+you hire for three years after the date of hire, or one year after the date employment ends,
+whichever is later. To calculate how long to keep a former employee’s Form I-9:
+
+If they worked for less than two years, retain their form for three years after the date you
+entered in the First Day of Employment field.
+
+If they worked for more than two years, retain their form for one year after the date they
+stop working for you.
+
+You can retain Form I-9 on paper, microfilm or microfiche, or electronically. You only need
+to retain pages that you and your employee wrote information on: You do not need to keep the
+Lists of Acceptable Documents on page 2, the instructions or blank supplement pages.
+
+Insufficient or incomplete documentation is a violation of section 274A (a)(1)(B) of the INA
+(8 CFR Part 274a .2(f)(2)).
+
+You may retain completed paper forms with original handwritten signatures on-site or at an
+off-site storage facility for the required retention period, as long as you are able to
+present Forms I-9 within three business days of an inspection request from DHS, the
+Department of Justice’s Civil Rights Division, Immigrant and Employee Rights Section (IER),
+or U.S. Department of Labor (DOL) officers.
+
+Retaining Form I-9 on Microfilm and Microfiche
+
+You may retain copies of completed paper forms with original handwritten signatures on
+microfilm or microfiche. When using microfilm or microfiche, you should:
+
+Select film stock that will preserve the image and allow its access and use for the entire
+retention period, which could be more than 20 years, depending on the employee and your
+business;
+
+Use well-maintained equipment to create and view clear, readable Forms I-9 and reproduce
+legible paper copies for officials who inspect your forms;
+
+Place indexes either in the first frames of the first roll of film or in the last frames of
+the last roll of film of a series. For microfiche, place them in the last frames of the last
+jacket of a series.
+
+This page was not helpful because the content: Select a reason has too little information
+has too much information is confusing is out of date other
+
+To protect your privacy, please do not include any personal information in your feedback.
+Review our Privacy Policy .
+
+
+----------------------------------------------------------------------
+
+
+11.2 - 11.2 Types of Employment Discrimination Prohibited Under the INA
+-----------------------------------------------------------------------
+
+Source: https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-
+employers-m-274/110-unlawful-discrimination-and-penalties-for-prohibited-
+practices/112-types-of-employment-discrimination-prohibited-under-the-ina
+
+The INA prohibits you from committing unfair documentary practices, which means
+discriminating when you verify someone’s identity and employment authorization (generally,
+the Form I-9 and E-Verify processes). Unfair documentary practices generally occur when
+employers treat individuals diﬀerently on the basis of national origin, citizenship or
+immigration status in the Form I-9 or E-Verify process, or any other process an employer may
+use to verify employment eligibility. This can be broadly categorized into three types of
+unlawful conduct:
+
+Requesting that someone produce more or diﬀerent documents than are required by Form I-9 to
+establish their identity and employment authorization;
+
+Requesting that someone present a particular document, such as a Form I-551, Permanent
+Resident Card, to establish identity and/or employment authorization; and
+
+Rejecting documents that reasonably appear to be genuine and to relate to the person
+presenting them.
+
+These practices may constitute unfair documentary practices if they are committed based on
+citizenship, immigration status, or national origin.
+
+Citizenship or immigration status discrimination occurs when an employer treats someone
+diﬀerently when hiring, firing, or recruiting because of the person’ real or perceived
+citizenship or immigration status. The INA prohibits this type of discrimination if the
+employer has four or more employees. Asylees, refugees, recent lawful permanent residents,
+U.S. citizens and U.S. nationals are protected from this type of discrimination.
+
+Note: There are limited situations where an employer can take an individual’s citizenship or
+immigration status into account, such as when a law, executive order, regulation, or
+government contract requires employers to limit a position to a particular citizenship
+status. This is rare and doesn’t apply to the vast majority of jobs.
+
+National origin discrimination generally occurs when an employer treats someone diﬀerently
+when hiring, firing, or recruiting because of the person’s national origin. A person’s
+national origin can relate to many things, such as place of birth, country of origin,
+ethnicity, ancestry, native language, accent, or the perception that they look or sound
+“foreign.” The INA’s national origin discrimination prohibition, enforced by IER, generally
+covers employers with 4 to 14 employees and protects all employment-authorized individuals.
+The EEOC generally has jurisdiction over national origin claims involving employers with 15
+or more employees, regardless of the work authorization status of the discrimination
+victims. The EEOC also covers discrimination in other aspects of employment, including terms
+or conditions.
+
+An employer or other covered entity cannot intimidate, threaten, coerce, or otherwise
+retaliate against a person because that person has engaged in protected activity, such as
+when someone:
+
+Participates in an IER investigation or lawsuit;
+
+Opposes action that may be discrimination under the INA; or
+
+Asserts another person’s rights under the INA’s anti-discrimination provisions.
+
+You can find more information on how to avoid discrimination at www.justice.gov/IER .
+
+This page was not helpful because the content: Select a reason has too little information
+has too much information is confusing is out of date other
+
+To protect your privacy, please do not include any personal information in your feedback.
+Review our Privacy Policy .
+
+
+----------------------------------------------------------------------
+
+
+13.2 - 13.2 List B Documents That Establish Identity
+----------------------------------------------------
+
+Source: https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-
+employers-m-274/130-acceptable-documents-for-verifying-employment-authorization-and-
+identity/132-list-b-documents-that-establish-identity
+
+The illustrations do not reflect the actual size of the documents.
+
+1. Driver's license or ID card issued by a State or outlying possession of the United States
+provided it contains a photograph or information such as name, date of birth, sex, height,
+eye color, and address
+
+A driver’s license can be issued by any state or territory of the United States (including
+the District of Columbia, Puerto Rico, the U.S. Virgin Islands, Guam, American Samoa, and
+the Commonwealth of the Northern Mariana Islands) or by a Canadian government authority. You
+may accept a driver's license if it contains a photograph or, if it does not contain a
+photograph, it includes identifying information such as name, date of birth, sex, height,
+eye color, and address.
+
+A driver’s license or ID card issued by a state department of motor vehicles should be
+accepted for Form I-9 as a List B, Item 1 document only and not be accepted as a List B Item
+2, ID card issued by U.S. federal, state, or local government agency.
+
+Some states may place restrictive notations on their licenses. For Form I-9 purposes, you
+may accept these licenses.
+
+2. ID card issued by federal, state or local government agencies or entities, provided it
+contains a photograph or information such as name, date of birth, sex, height, eye color,
+and address
+
+ID cards other than those included in List B, Item 1, can be issued by any state (including
+the District of Columbia, Puerto Rico, the U.S. Virgin Islands, Guam, American Samoa, and
+the Commonwealth of the Northern Mariana Islands) or local government. You may accept an ID
+card if it contains a photograph or, if it does not contain a photograph, it includes
+identifying information, such as name, date of birth, sex, height, eye color, and address.
+Federal government employee personal identity verification (PIV) or common access cards
+(CAC), state or local government employee ID cards, and state-issued prison inmate ID cards
+are examples of ID cards issued by federal, state, or local government agencies.
+
+This option does not include driver’s licenses or ID cards issued by a state department of
+motor vehicles, which are List B, Item 1 documents for Form I-9 purposes.
+
+Some states may place restrictive notations on their ID cards. For Form I-9 purposes, you
+may accept these cards.
+
+ID card issued to active-duty U.S. military personnel, selected reserve, Department of
+Defense civilian employees and eligible contractor personnel.
+
+ID Card for U.S. military family members and U.S. military retirees.
+
+9. Driver's license issued by a Canadian government authority
+
+For persons under age 18 who are unable to present a document listed above:
+
+Receipt for a replacement of a lost, stolen, or damaged List B document may be presented in
+lieu of a document listed above for a temporary period.
+
+For receipt validity dates, see the M-274, Section 4.4 Acceptable Receipts .
+
+This page was not helpful because the content: Select a reason has too little information
+has too much information is confusing is out of date other
+
+To protect your privacy, please do not include any personal information in your feedback.
+Review our Privacy Policy .

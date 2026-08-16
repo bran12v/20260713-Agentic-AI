@@ -1,0 +1,715 @@
+
+31 CFR Part 1020 - Rules for Banks
+==================================
+
+
+§ 1020.100 Definitions.
+-----------------------
+
+Refer to § 1010.100 of this Chapter for general definitions not noted herein. To the extent
+there is a differing definition in § 1010.100 of this chapter, the definition in this
+Section is what applies to part 1020. Unless otherwise indicated, for purposes of this part:
+
+(a) Account. For purposes of § 1020.220:
+
+(1) Account means a formal banking relationship established to provide or engage in
+services, dealings, or other financial transactions including a deposit account, a
+transaction or asset account, a credit account, or other extension of credit. Account also
+includes a relationship established to provide a safety deposit box or other safekeeping
+services, or cash management, custodian, and trust services.
+
+(2) Account does not include:
+
+(i) A product or service where a formal banking relationship is not established with a
+person, such as check-cashing, wire transfer, or sale of a check or money order;
+
+(ii) An account that the bank acquires through an acquisition, merger, purchase of assets,
+or assumption of liabilities; or
+
+(iii) An account opened for the purpose of participating in an employee benefit plan
+established under the Employee Retirement Income Security Act of 1974.
+
+(b) Customer. For the purposes of § 1020.220:
+
+(1) Customer means:
+
+(i) A person that opens a new account; and
+
+(ii) An individual who opens a new account for:
+
+(A) An individual who lacks legal capacity, such as a minor; or
+
+(B) An entity that is not a legal person, such as a civic club.
+
+(2) Customer does not include:
+
+(i) A financial institution regulated by a Federal functional regulator or a bank regulated
+by a State bank regulator;
+
+(ii) A person described in § 1020.315(b)(2) through (b)(4); or
+
+(iii) A person that has an existing account with the bank, provided that the bank has a
+reasonable belief that it knows the true identity of the person.
+
+
+----------------------------------------------------------------------
+
+
+§ 1020.210 Anti-money laundering program requirements for banks.
+----------------------------------------------------------------
+
+(a) Anti-money laundering program requirements for banks regulated by a Federal functional
+regulator, including banks, savings associations, and credit unions. A bank regulated by a
+Federal functional regulator shall be deemed to satisfy the requirements of 31 U.S.C.
+5318(h)(1) if it implements and maintains an anti-money laundering program that:
+
+(1) Complies with the requirements of §§ 1010.610 and 1010.620 of this chapter;
+
+(2) Includes, at a minimum:
+
+(i) A system of internal controls to assure ongoing compliance;
+
+(ii) Independent testing for compliance to be conducted by bank personnel or by an outside
+party;
+
+(iii) Designation of an individual or individuals responsible for coordinating and
+monitoring day-to-day compliance;
+
+(iv) Training for appropriate personnel; and
+
+(v) Appropriate risk-based procedures for conducting ongoing customer due diligence, to
+include, but not be limited to:
+
+(A) Understanding the nature and purpose of customer relationships for the purpose of
+developing a customer risk profile; and
+
+(B) Conducting ongoing monitoring to identify and report suspicious transactions and, on a
+risk basis, to maintain and update customer information. For purposes of this paragraph,
+customer information shall include information regarding the beneficial owners of legal
+entity customers (as defined in § 1010.230 of this chapter); and
+
+(3) Complies with the regulation of its Federal functional regulator governing such
+programs.
+
+(b) Anti-money laundering program requirements for banks lacking a Federal functional
+regulator including, but not limited to, private banks, non-federally insured credit unions,
+and certain trust companies. A bank lacking a Federal functional regulator shall be deemed
+to satisfy the requirements of 31 U.S.C. 5318(h)(1) if the bank establishes and maintains a
+written anti-money laundering program that:
+
+(1) Complies with the requirements of §§ 1010.610 and 1010.620 of this chapter; and
+
+(2) Includes, at a minimum:
+
+(i) A system of internal controls to assure ongoing compliance with the Bank Secrecy Act and
+the regulations set forth in 31 CFR Chapter X;
+
+(ii) Independent testing for compliance to be conducted by bank personnel or by an outside
+party;
+
+(iii) Designation of an individual or individuals responsible for coordinating and
+monitoring day-to-day compliance;
+
+(iv) Training for appropriate personnel; and
+
+(v) Appropriate risk-based procedures for conducting ongoing customer due diligence, to
+include, but not be limited to:
+
+(A) Understanding the nature and purpose of customer relationships for the purpose of
+developing a customer risk profile; and
+
+(B) Conducting ongoing monitoring to identify and report suspicious transactions and, on a
+risk basis, to maintain and update customer information. For purposes of this paragraph,
+customer information shall include information regarding the beneficial owners of legal
+entity customers (as defined in § 1010.230); and
+
+(3) Is approved by the board of directors or, if the bank does not have a board of
+directors, an equivalent governing body within the bank. The bank shall make a copy of its
+anti-money laundering program available to the Financial Crimes Enforcement Network or its
+designee upon request.
+
+
+----------------------------------------------------------------------
+
+
+§ 1020.220 Customer identification program requirements for banks.
+------------------------------------------------------------------
+
+(a) Customer Identification Program: minimum requirements—(1) In general. A bank required to
+have an anti-money laundering compliance program under the regulations implementing 31
+U.S.C. 5318(h), 12 U.S.C. 1818(s), or 12 U.S.C. 1786(q)(1) must implement a written Customer
+Identification Program (CIP) appropriate for the bank's size and type of business that, at a
+minimum, includes each of the requirements of paragraphs (a)(1) through (5) of this section.
+The CIP must be a part of the anti-money laundering compliance program.
+
+(2) Identity verification procedures. The CIP must include risk-based procedures for
+verifying the identity of each customer to the extent reasonable and practicable. The
+procedures must enable the bank to form a reasonable belief that it knows the true identity
+of each customer. These procedures must be based on the bank's assessment of the relevant
+risks, including those presented by the various types of accounts maintained by the bank,
+the various methods of opening accounts provided by the bank, the various types of
+identifying information available, and the bank's size, location, and customer base. At a
+minimum, these procedures must contain the elements described in this paragraph (a)(2).
+
+(i) Customer information required—(A) In general. The CIP must contain procedures for
+opening an account that specify the identifying information that will be obtained from each
+customer. Except as permitted by paragraphs (a)(2)(i)(B) and (C) of this section, the bank
+must obtain, at a minimum, the following information from the customer prior to opening an
+account:
+
+(1) Name;
+
+(2) Date of birth, for an individual;
+
+(3) Address, which shall be:
+
+(i) For an individual, a residential or business street address;
+
+(ii) For an individual who does not have a residential or business street address, an Army
+Post Office (APO) or Fleet Post Office (FPO) box number, or the residential or business
+street address of next of kin or of another contact individual; or
+
+(iii) For a person other than an individual (such as a corporation, partnership, or trust),
+a principal place of business, local office, or other physical location; and
+
+(4) Identification number, which shall be:
+
+(i) For a U.S. person, a taxpayer identification number; or
+
+(ii) For a non-U.S. person, one or more of the following: A taxpayer identification number;
+passport number and country of issuance; alien identification card number; or number and
+country of issuance of any other government-issued document evidencing nationality or
+residence and bearing a photograph or similar safeguard.
+
+When opening an account for a foreign business or enterprise that does not have an
+identification number, the bank must request alternative government-issued documentation
+certifying the existence of the business or enterprise.
+
+(B) Exception for persons applying for a taxpayer identification number. Instead of
+obtaining a taxpayer identification number from a customer prior to opening the account, the
+CIP may include procedures for opening an account for a customer that has applied for, but
+has not received, a taxpayer identification number. In this case, the CIP must include
+procedures to confirm that the application was filed before the customer opens the account
+and to obtain the taxpayer identification number within a reasonable period of time after
+the account is opened.
+
+(C) Credit card accounts. In connection with a customer who opens a credit card account, a
+bank may obtain the identifying information about a customer required under paragraph
+(a)(2)(i)(A) by acquiring it from a third-party source prior to extending credit to the
+customer.
+
+(ii) Customer verification. The CIP must contain procedures for verifying the identity of
+the customer, using information obtained in accordance with paragraph (a)(2)(i) of this
+section, within a reasonable time after the account is opened. The procedures must describe
+when the bank will use documents, non-documentary methods, or a combination of both methods
+as described in this paragraph (a)(2)(ii).
+
+(A) Verification through documents. For a bank relying on documents, the CIP must contain
+procedures that set forth the documents that the bank will use. These documents may include:
+
+(1) For an individual, unexpired government-issued identification evidencing nationality or
+residence and bearing a photograph or similar safeguard, such as a driver's license or
+passport; and
+
+(2) For a person other than an individual (such as a corporation, partnership, or trust),
+documents showing the existence of the entity, such as certified articles of incorporation,
+a government-issued business license, a partnership agreement, or trust instrument.
+
+(B) Verification through non-documentary methods. For a bank relying on non-documentary
+methods, the CIP must contain procedures that describe the non-documentary methods the bank
+will use.
+
+(1) These methods may include contacting a customer; independently verifying the customer's
+identity through the comparison of information provided by the customer with information
+obtained from a consumer reporting agency, public database, or other source; checking
+references with other financial institutions; and obtaining a financial statement.
+
+(2) The bank's non-documentary procedures must address situations where an individual is
+unable to present an unexpired government-issued identification document that bears a
+photograph or similar safeguard; the bank is not familiar with the documents presented; the
+account is opened without obtaining documents; the customer opens the account without
+appearing in person at the bank; and where the bank is otherwise presented with
+circumstances that increase the risk that the bank will be unable to verify the true
+identity of a customer through documents.
+
+(C) Additional verification for certain customers. The CIP must address situations where,
+based on the bank's risk assessment of a new account opened by a customer that is not an
+individual, the bank will obtain information about individuals with authority or control
+over such account, including signatories, in order to verify the customer's identity. This
+verification method applies only when the bank cannot verify the customer's true identity
+using the verification methods described in paragraphs (a)(2)(ii)(A) and (B) of this
+section.
+
+(iii) Lack of verification. The CIP must include procedures for responding to circumstances
+in which the bank cannot form a reasonable belief that it knows the true identity of a
+customer. These procedures should describe:
+
+(A) When the bank should not open an account;
+
+(B) The terms under which a customer may use an account while the bank attempts to verify
+the customer's identity;
+
+(C) When the bank should close an account, after attempts to verify a customer's identity
+have failed; and
+
+(D) When the bank should file a Suspicious Activity Report in accordance with applicable law
+and regulation.
+
+(3) Recordkeeping. The CIP must include procedures for making and maintaining a record of
+all information obtained under the procedures implementing paragraph (a) of this section.
+
+(i) Required records. At a minimum, the record must include:
+
+(A) All identifying information about a customer obtained under paragraph (a)(2)(i) of this
+section;
+
+(B) A description of any document that was relied on under paragraph (a)(2)(ii)(A) of this
+section noting the type of document, any identification number contained in the document,
+the place of issuance and, if any, the date of issuance and expiration date;
+
+(C) A description of the methods and the results of any measures undertaken to verify the
+identity of the customer under paragraph (a)(2)(ii)(B) or (C) of this section; and
+
+(D) A description of the resolution of any substantive discrepancy discovered when verifying
+the identifying information obtained.
+
+(ii) Retention of records. The bank must retain the information in paragraph (a)(3)(i)(A) of
+this section for five years after the date the account is closed or, in the case of credit
+card accounts, five years after the account is closed or becomes dormant. The bank must
+retain the information in paragraphs (a)(3)(i)(B), (C), and (D) of this section for five
+years after the record is made.
+
+(4) Comparison with government lists. The CIP must include procedures for determining
+whether the customer appears on any list of known or suspected terrorists or terrorist
+organizations issued by any Federal government agency and designated as such by Treasury in
+consultation with the Federal functional regulators. The procedures must require the bank to
+make such a determination within a reasonable period of time after the account is opened, or
+earlier, if required by another Federal law or regulation or Federal directive issued in
+connection with the applicable list. The procedures must also require the bank to follow all
+Federal directives issued in connection with such lists.
+
+(5)(i) Customer notice. The CIP must include procedures for providing bank customers with
+adequate notice that the bank is requesting information to verify their identities.
+
+(ii) Adequate notice. Notice is adequate if the bank generally describes the identification
+requirements of this section and provides the notice in a manner reasonably designed to
+ensure that a customer is able to view the notice, or is otherwise given notice, before
+opening an account. For example, depending upon the manner in which the account is opened, a
+bank may post a notice in the lobby or on its Web site, include the notice on its account
+applications, or use any other form of written or oral notice.
+
+(iii) Sample notice. If appropriate, a bank may use the following sample language to provide
+notice to its customers:
+
+Important Information About Procedures for Opening a New Account To help the government
+fight the funding of terrorism and money laundering activities, Federal law requires all
+financial institutions to obtain, verify, and record information that identifies each person
+who opens an account. What this means for you: When you open an account, we will ask for
+your name, address, date of birth, and other information that will allow us to identify you.
+We may also ask to see your driver's license or other identifying documents.
+
+(6) Reliance on another financial institution. The CIP may include procedures specifying
+when a bank will rely on the performance by another financial institution (including an
+affiliate) of any procedures of the bank's CIP, with respect to any customer of the bank
+that is opening, or has opened, an account or has established a similar formal banking or
+business relationship with the other financial institution to provide or engage in services,
+dealings, or other financial transactions, provided that:
+
+(i) Such reliance is reasonable under the circumstances;
+
+(ii) The other financial institution is subject to a rule implementing 31 U.S.C. 5318(h) and
+is regulated by a Federal functional regulator; and
+
+(iii) The other financial institution enters into a contract requiring it to certify
+annually to the bank that it has implemented its anti-money laundering program, and that it
+will perform (or its agent will perform) the specified requirements of the bank's CIP.
+
+(b) Exemptions. The appropriate Federal functional regulator, with the concurrence of the
+Secretary, may, by order or regulation, exempt any bank or type of account from the
+requirements of this section. The Federal functional regulator and the Secretary shall
+consider whether the exemption is consistent with the purposes of the Bank Secrecy Act and
+with safe and sound banking, and may consider other appropriate factors. The Secretary will
+make these determinations for any bank or type of account that is not subject to the
+authority of a Federal functional regulator.
+
+(c) Other requirements unaffected. Nothing in this section relieves a bank of its obligation
+to comply with any other provision in this chapter, including provisions concerning
+information that must be obtained, verified, or maintained in connection with any account or
+transaction.
+
+
+----------------------------------------------------------------------
+
+
+§ 1020.310 Reports of transactions in currency.
+-----------------------------------------------
+
+The reports of transactions in currency requirements for banks are located in subpart C of
+part 1010 of this chapter and this subpart.
+
+
+----------------------------------------------------------------------
+
+
+§ 1020.315 Transactions of exempt persons.
+------------------------------------------
+
+(a) General. No bank is required to file a report otherwise required by § 1010.311 with
+respect to any transaction in currency between an exempt person and such bank, or, to the
+extent provided in paragraph (e)(6) of this section, between such exempt person and other
+banks affiliated with such bank. (A limitation on the exemption described in this paragraph
+(a) is set forth in paragraph (f) of this section.)
+
+(b) Exempt person. For purposes of this section, an exempt person is:
+
+(1) A bank, to the extent of such bank's domestic operations;
+
+(2) A department or agency of the United States, of any State, or of any political
+subdivision of any State;
+
+(3) Any entity established under the laws of the United States, of any State, or of any
+political subdivision of any State, or under an interstate compact between two or more
+States, that exercises governmental authority on behalf of the United States or any such
+State or political subdivision;
+
+(4) Any entity, other than a bank, whose common stock or analogous equity interests are
+listed on the New York Stock Exchange or the American Stock Exchange or whose common stock
+or analogous equity interests have been designated as a NASDAQ National Market Security
+listed on the NASDAQ Stock Market (except stock or interests listed under the separate
+“NASDAQ Capital Markets Companies” heading), provided that, for purposes of this paragraph
+(b)(4), a person that is a financial institution, other than a bank, is an exempt person
+only to the extent of its domestic operations;
+
+(5) Any subsidiary, other than a bank, of any entity described in paragraph (b)(4) of this
+section (a “listed entity”) that is organized under the laws of the United States or of any
+State and at least 51 percent of whose common stock or analogous equity interest is owned by
+the listed entity, provided that, for purposes of this paragraph (b)(5), a person that is a
+financial institution, other than a bank, is an exempt person only to the extent of its
+domestic operations;
+
+(6) To the extent of its domestic operations and only with respect to transactions conducted
+through its exemptible accounts, any other commercial enterprise (for purposes of this
+section, a “non-listed business”), other than an enterprise specified in paragraph (e)(8) of
+this section, that:
+
+(i) Maintains a transaction account, as defined in paragraph (e)(9) of this section, at the
+bank for at least two months, except as provided in paragraph (c)(2)(ii) of this section;
+
+(ii) Frequently engages in transactions in currency with the bank in excess of $10,000; and
+
+(iii) Is incorporated or organized under the laws of the United States or a State, or is
+registered as and eligible to do business within the United States or a State; or
+
+(7) With respect solely to withdrawals for payroll purposes from existing exemptible
+accounts, any other person (for purposes of this section, a “payroll customer”) that:
+
+(i) Maintains a transaction account, as defined in paragraph (e)(9) of this section, at the
+bank for at least two months, except as provided in paragraph (c)(2)(ii) of this section;
+
+(ii) Operates a firm that frequently withdraws more than $10,000 in order to pay its United
+States employees in currency; and
+
+(iii) Is incorporated or organized under the laws of the United States or a State, or is
+registered as and eligible to do business within the United States or a State.
+
+(c) Designation of certain exempt persons—(1) General. Except as provided in paragraph
+(c)(2) of this section, a bank must designate an exempt person by filing FinCEN Form 110.
+Such designation must occur by the close of the 30-calendar day period beginning after the
+day of the first reportable transaction in currency with that person sought to be exempted
+from reporting under the terms of this section. The designation must be made separately by
+each bank that treats the customer as an exempt person, except as provided in paragraph
+(e)(6) of this section.
+
+(2) Special rules. (i) A bank is not required to file a FinCEN Form 110 with respect to the
+transfer of currency to or from:
+
+(A) Any of the twelve Federal Reserve Banks; or
+
+(B) Any exempt person as described in paragraphs (b)(1) to (3) of this section.
+
+(ii) Notwithstanding subparagraphs (b)(6)(i) and (b)(7)(i) of this section, and if the
+requirements under this section are otherwise satisfied, a bank may designate a non-listed
+business or a payroll customer, as described in paragraphs (b)(6) and (7) of this section,
+as an exempt person before the customer has maintained a transaction account at the bank for
+at least two months if the bank conducts and documents a risk-based assessment of the
+customer and forms a reasonable belief that the customer has a legitimate business purpose
+for conducting frequent transactions in currency.
+
+(d) Annual review. At least once each year, a bank must review the eligibility of an exempt
+person described in paragraphs (b)(4) to (7) of this section to determine whether such
+person remains eligible for an exemption. As part of its annual review, a bank must review
+the application of the monitoring system required to be maintained by paragraph (h)(2) of
+this section to each existing account of an exempt person described in paragraphs (b)(6) or
+(b)(7) of this section.
+
+(e) Operating rules—(1) General rule. Subject to the specific rules of this section, a bank
+must take such steps to assure itself that a person is an exempt person (within the meaning
+of the applicable provision of paragraph (b) of this section), to document the basis for its
+conclusions, and document its compliance, with the terms of this section, that a reasonable
+and prudent bank would take and document to protect itself from loan or other fraud or loss
+based on misidentification of a person's status, and in the case of the monitoring system
+requirement set forth in paragraph (h)(2) of this section, such steps that a reasonable and
+prudent bank would take and document to identify suspicious transactions as required by
+paragraph (h)(2) of this section.
+
+(2) Governmental departments and agencies. A bank may treat a person as a governmental
+department, agency, or entity if the name of such person reasonably indicates that it is
+described in paragraph (b)(2) or (b)(3) of this section, or if such person is known
+generally in the community to be a State, the District of Columbia, a tribal government, a
+Territory or Insular Possession of the United States, or a political subdivision or a
+wholly-owned agency or instrumentality of any of the foregoing. An entity generally
+exercises governmental authority on behalf of the United States, a State, or a political
+subdivision, for purposes of paragraph (b)(3) of this section, only if its authorities
+include one or more of the powers to tax, to exercise the authority of eminent domain, or to
+exercise police powers with respect to matters within its jurisdiction. Examples of entities
+that exercise governmental authority include, but are not limited to, the New Jersey
+Turnpike Authority and the Port Authority of New York and New Jersey.
+
+(3) Stock exchange listings. In determining whether a person is described in paragraph
+(b)(4) of this section, a bank may rely on any New York, American, or NASDAQ Stock Market
+listing published in a newspaper of general circulation, on any commonly accepted or
+published stock symbol guide, on any information contained in the Securities and Exchange
+Commission “EDGAR” System, or on any information contained on an Internet site or sites
+maintained by the New York Stock Exchange, the American Stock Exchange, or the NASDAQ.
+
+(4) Listed company subsidiaries. In determining whether a person is described in paragraph
+(b)(5) of this section, a bank may rely upon:
+
+(i) Any reasonably authenticated corporate officer's certificate;
+
+(ii) Any reasonably authenticated photocopy of Internal Revenue Service Form 851
+(Affiliation Schedule) or the equivalent thereof for the appropriate tax year; or
+
+(iii) A person's Annual Report or Form 10-K, as filed in each case with the Securities and
+Exchange Commission.
+
+(5) Aggregated accounts. In determining the qualification of a customer as a non-listed
+business or a payroll customer, a bank may treat all exemptible accounts of the customer as
+a single account. If a bank elects to treat all exemptible accounts of a customer as a
+single account, the bank must continue to treat such accounts consistently as a single
+account for purposes of determining the qualification of the customer as a non-listed
+business or payroll customer.
+
+(6) Affiliated banks. The designation required by paragraph (c) of this section may be made
+by a parent bank holding company or one of its bank subsidiaries on behalf of all bank
+subsidiaries of the holding company, so long as the designation lists each bank subsidiary
+to which the designation shall apply.
+
+(7) Sole proprietorships. A sole proprietorship may be treated as a non-listed business if
+it otherwise meets the requirements of paragraph (b)(6) of this section, as applicable. In
+addition, a sole proprietorship may be treated as a payroll customer if it otherwise meets
+the requirements of paragraph (b)(7) of this section, as applicable.
+
+(8) Ineligible businesses. A business engaged primarily in one or more of the following
+activities may not be treated as a non-listed business for purposes of this section: Serving
+as financial institutions or agents of financial institutions of any type; purchase or sale
+to customers of motor vehicles of any kind, vessels, aircraft, farm equipment or mobile
+homes; the practice of law, accountancy, or medicine; auctioning of goods; chartering or
+operation of ships, buses, or aircraft; gaming of any kind (other than licensed parimutuel
+betting at race tracks); investment advisory services or investment banking services; real
+estate brokerage; pawn brokerage; title insurance and real estate closing; trade union
+activities; and any other activities that may be specified by FinCEN. A business that
+engages in multiple business activities may be treated as a non-listed business so long as
+no more than 50% of its gross revenues are derived from one or more of the ineligible
+business activities listed in this paragraph (e)(8).
+
+(9) Exemptible accounts of a non-listed business or payroll customer. The exemptible
+accounts of a non-listed business or payroll customer include transaction accounts and money
+market deposit accounts. However, money market deposit accounts maintained other than in
+connection with a commercial enterprise are not exemptible accounts. A transaction account,
+for purposes of this section, is any account described in section 19(b)(1)(C) of the Federal
+Reserve Act, 12 U.S.C. 461(b)(1)(C), and its implementing regulations (12 CFR part 204). A
+money market deposit account, for purposes of this section, is any interest-bearing account
+that is described as a money market deposit account in 12 CFR 204.2(d)(2).
+
+(10) Documentation. The records maintained by a bank to document its compliance with and
+administration of the rules of this section shall be maintained in accordance with the
+provisions of § 1010.430.
+
+(f) Limitation on exemption. A transaction carried out by an exempt person as an agent for
+another person who is the beneficial owner of the funds that are the subject of a
+transaction in currency is not subject to the exemption from reporting contained in
+paragraph (a) of this section.
+
+(g) Limitation on liability. (1) No bank shall be subject to penalty under this chapter for
+failure to file a report required by § 1010.311 with respect to a transaction in currency by
+an exempt person with respect to which the requirements of this section have been satisfied,
+unless the bank:
+
+(i) Knowingly files false or incomplete information with respect to the transaction or the
+customer engaging in the transaction; or
+
+(ii) Has reason to believe that the customer does not meet the criteria established by this
+section for treatment of the transactor as an exempt person or that the transaction is not a
+transaction of the exempt person.
+
+(2) Subject to the specific terms of this section, and absent any specific knowledge of
+information indicating that a customer no longer meets the requirements of an exempt person,
+a bank satisfies the requirements of this section to the extent it continues to treat that
+customer as an exempt person until the completion of that customer's next required periodic
+review, which as required by paragraph (d) of this section for an exempt person described in
+paragraph (b)(4) to (7) of this section, shall occur no less than once each year.
+
+(3) A bank that files a report with respect to a currency transaction by an exempt person
+rather than treating such person as exempt shall remain subject, with respect to each such
+report, to the rules for filing reports, and the penalties for filing false or incomplete
+reports that are applicable to reporting of transactions in currency by persons other than
+exempt persons.
+
+(h) Obligations to file suspicious activity reports and maintain system for monitoring
+transactions in currency. (1) Nothing in this section relieves a bank of the obligation, or
+reduces in any way such bank's obligation, to file a report required by § 1020.320 with
+respect to any transaction, including any transaction in currency that a bank knows,
+suspects, or has reason to suspect is a transaction or attempted transaction that is
+described in § 1020.320(a)(2)(i), (ii), or (iii), or relieves a bank of any reporting or
+recordkeeping obligation imposed by this chapter (except the obligation to report
+transactions in currency pursuant to this chapter to the extent provided in this section).
+Thus, for example, a sharp increase from one year to the next in the gross total of currency
+transactions made by an exempt customer, or similarly anomalous transactions trends or
+patterns, may trigger the obligation of a bank under § 1020.320.
+
+(2) Consistent with its annual review obligations under paragraph (d) of this section, a
+bank shall establish and maintain a monitoring system that is reasonably designed to detect,
+for each account of a non-listed business or payroll customer, those transactions in
+currency involving such account that would require a bank to file a suspicious transaction
+report. The statement in the preceding sentence with respect to accounts of non-listed
+business and payroll customers does not limit the obligation of banks generally to take the
+steps necessary to satisfy the terms of paragraph (h)(1) of this section and § 1020.320 with
+respect to all exempt persons.
+
+(i) Revocation. Without any action on the part of the Department of the Treasury and subject
+to the limitation on liability contained in paragraph (g)(2) of this section:
+
+(1) The status of an entity as an exempt person under paragraph (b)(4) of this section
+ceases once such entity ceases to be listed on the applicable stock exchange; and
+
+(2) The status of a subsidiary as an exempt person under paragraph (b)(5) of this section
+ceases once such subsidiary ceases to have at least 51 per cent of its common stock or
+analogous equity interest owned by a listed entity.
+
+
+----------------------------------------------------------------------
+
+
+§ 1020.320 Reports by banks of suspicious transactions.
+-------------------------------------------------------
+
+(a) General. (1) Every bank shall file with the Treasury Department, to the extent and in
+the manner required by this section, a report of any suspicious transaction relevant to a
+possible violation of law or regulation. A bank may also file with the Treasury Department
+by using the Suspicious Activity Report specified in paragraph (b)(1) of this section or
+otherwise, a report of any suspicious transaction that it believes is relevant to the
+possible violation of any law or regulation but whose reporting is not required by this
+section.
+
+(2) A transaction requires reporting under the terms of this section if it is conducted or
+attempted by, at, or through the bank, it involves or aggregates at least $5,000 in funds or
+other assets, and the bank knows, suspects, or has reason to suspect that:
+
+(i) The transaction involves funds derived from illegal activities or is intended or
+conducted in order to hide or disguise funds or assets derived from illegal activities
+(including, without limitation, the ownership, nature, source, location, or control of such
+funds or assets) as part of a plan to violate or evade any Federal law or regulation or to
+avoid any transaction reporting requirement under Federal law or regulation;
+
+(ii) The transaction is designed to evade any requirements of this chapter or of any other
+regulations promulgated under the Bank Secrecy Act; or
+
+(iii) The transaction has no business or apparent lawful purpose or is not the sort in which
+the particular customer would normally be expected to engage, and the bank knows of no
+reasonable explanation for the transaction after examining the available facts, including
+the background and possible purpose of the transaction.
+
+(b) Filing procedures—(1) What to file. A suspicious transaction shall be reported by
+completing a Suspicious Activity Report (“SAR”), and collecting and maintaining supporting
+documentation as required by paragraph (d) of this section.
+
+(2) Where to file. The SAR shall be filed with FinCEN in a central location, to be
+determined by FinCEN, as indicated in the instructions to the SAR.
+
+(3) When to file. A bank is required to file a SAR no later than 30 calendar days after the
+date of initial detection by the bank of facts that may constitute a basis for filing a SAR.
+If no suspect was identified on the date of the detection of the incident requiring the
+filing, a bank may delay filing a SAR for an additional 30 calendar days to identify a
+suspect. In no case shall reporting be delayed more than 60 calendar days after the date of
+initial detection of a reportable transaction. In situations involving violations that
+require immediate attention, such as, for example, ongoing money laundering schemes, the
+bank shall immediately notify, by telephone, an appropriate law enforcement authority in
+addition to filing timely a SAR.
+
+(c) Exceptions. A bank is not required to file a SAR for a robbery or burglary committed or
+attempted that is reported to appropriate law enforcement authorities, or for lost, missing,
+counterfeit, or stolen securities with respect to which the bank files a report pursuant to
+the reporting requirements of 17 CFR 240.17f-1.
+
+(d) Retention of records. A bank shall maintain a copy of any SAR filed and the original or
+business record equivalent of any supporting documentation for a period of five years from
+the date of filing the SAR. Supporting documentation shall be identified, and maintained by
+the bank as such, and shall be deemed to have been filed with the SAR. A bank shall make all
+supporting documentation available to FinCEN or any Federal, State, or local law enforcement
+agency, or any Federal regulatory authority that examines the bank for compliance with the
+Bank Secrecy Act, or any State regulatory authority administering a State law that requires
+the bank to comply with the Bank Secrecy Act or otherwise authorizes the State authority to
+ensure that the institution complies with the Bank Secrecy Act, upon request.
+
+(e) Confidentiality of SARs. A SAR, and any information that would reveal the existence of a
+SAR, are confidential and shall not be disclosed except as authorized in this paragraph (e).
+For purposes of this paragraph (e) only, a SAR shall include any suspicious activity report
+filed with FinCEN pursuant to any regulation in this chapter.
+
+(1) Prohibition on disclosures by banks—(i) General rule. No bank, and no director, officer,
+employee, or agent of any bank, shall disclose a SAR or any information that would reveal
+the existence of a SAR. Any bank, and any director, officer, employee, or agent of any bank
+that is subpoenaed or otherwise requested to disclose a SAR or any information that would
+reveal the existence of a SAR, shall decline to produce the SAR or such information, citing
+this section and 31 U.S.C. 5318(g)(2)(A)(i), and shall notify FinCEN of any such request and
+the response thereto.
+
+(ii) Rules of Construction. Provided that no person involved in any reported suspicious
+transaction is notified that the transaction has been reported, this paragraph (e)(1) shall
+not be construed as prohibiting:
+
+(A) The disclosure by a bank, or any director, officer, employee, or agent of a bank, of:
+
+(1) A SAR, or any information that would reveal the existence of a SAR, to FinCEN or any
+Federal, State, or local law enforcement agency, or any Federal regulatory authority that
+examines the bank for compliance with the Bank Secrecy Act, or any State regulatory
+authority administering a State law that requires the bank to comply with the Bank Secrecy
+Act or otherwise authorizes the State authority to ensure that the bank complies with the
+Bank Secrecy Act; or
+
+(2) The underlying facts, transactions, and documents upon which a SAR is based, including
+but not limited to, disclosures:
+
+(i) To another financial institution, or any director, officer, employee, or agent of a
+financial institution, for the preparation of a joint SAR; or
+
+(ii) In connection with certain employment references or termination notices, to the full
+extent authorized in 31 U.S.C. 5318(g)(2)(B); or
+
+(B) The sharing by a bank, or any director, officer, employee, or agent of the bank, of a
+SAR, or any information that would reveal the existence of a SAR, within the bank's
+corporate organizational structure for purposes consistent with Title II of the Bank Secrecy
+Act as determined by regulation or in guidance.
+
+(2) Prohibition on disclosures by government authorities. A Federal, State, local,
+territorial, or Tribal government authority, or any director, officer, employee, or agent of
+any of the foregoing, shall not disclose a SAR, or any information that would reveal the
+existence of a SAR, except as necessary to fulfill official duties consistent with Title II
+of the Bank Secrecy Act. For purposes of this section, “official duties” shall not include
+the disclosure of a SAR, or any information that would reveal the existence of a SAR, in
+response to a request for disclosure of non-public information or a request for use in a
+private legal proceeding, including a request pursuant to 31 CFR 1.11.
+
+(f) Limitation on liability. A bank, and any director, officer, employee, or agent of any
+bank, that makes a voluntary disclosure of any possible violation of law or regulation to a
+government agency or makes a disclosure pursuant to this section or any other authority,
+including a disclosure made jointly with another institution, shall be protected from
+liability to any person for any such disclosure, or for failure to provide notice of such
+disclosure to any person identified in the disclosure, or both, to the full extent provided
+by 31 U.S.C. 5318(g)(3).
+
+(g) Compliance. Banks shall be examined by FinCEN or its delegatees for compliance with this
+section. Failure to satisfy the requirements of this section may be a violation of the Bank
+Secrecy Act and of this chapter. Such failure may also violate provisions of title 12 of the
+Code of Federal Regulations.

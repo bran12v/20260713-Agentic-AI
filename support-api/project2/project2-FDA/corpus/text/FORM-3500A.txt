@@ -1,0 +1,674 @@
+
+--- page 1 ---
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES
+Food and Drug Administration 
+FORM 3500A 
+For use by user facilities, importers, distributors, packers and 
+manufacturers for MANDATORY reporting  
+Form Approved: OMB No. 0910-0291 
+Expires: 09-30-2027 
+See PRA statement on page 9. 
+Mfr report # 
+UF/Importer Report # 
+Exemption/Variance/
+Alternative # 
+Note: For date prompts of “dd-mmm-yyyy” please use 2-digit day, 3-letter month abbreviation, and 4-digit year; for example, 01-Jan-1900.
+Reset Form 
+Submission of a report does not constitute an admission that medical personnel or the product caused or contributed to the event. 
+* Please see instructions 
+or Date of Birth  (e.g., 01-Jan-1900) 
+Year(s) 
+2. Age 1.  Patient Identifier (In confidence)
+Month(s)
+ Week(s)  Day(s) 
+A. PATIENT INFORMATION 
+3. Date of Event (e.g, 01-Jan-1900) 4. Date of this Report (e.g., 01-Jan-1900) 
+B. ADVERSE EVENT OR PRODUCT PROBLEM 
+ Hispanic or Latino
+ American Indian or Alaska Native
+ Asian
+ Black or African American
+ Middle Eastern or North African
+ Native Hawaiian or Pacific Islander
+ White 
+Product Problem 
+ Adverse Event 
+(e.g., defects/malfunctions) 
+ Disability or Permanent Damage
+ Required Intervention to Prevent Permanent Impairment/Damage
+ Other Serious or Important Medical Events
+ Hospitalization (Initial or prolonged)
+ Life-threatening
+ Death - Date of death (e.g., 01-Jan-1900): 
+2. Outcome Attributed to Adverse Event (Check all that apply)
+ Congenital Anomaly/Birth Defects 
+1. Type of Report (Check all that apply) 
+3. Sex
+ Male
+ Female
+4. Weight
+ lb
+ kg 
+5. Race and/or Ethnicity (Select all that apply)
+Characters Remaining (max. 10,000):5.  Describe Event or Problem 
+Form FDA-3500A MedWatch (09/2025)
+(MedWatch Mandatory Reporting)
+(continued on next page)Page 1 of 9
+
+--- page 2 ---
+Form FDA-3500A MedWatch (09/2025)
+(MedWatch Mandatory Reporting)
+(continued on next page)Page 2 of 9
+5.  Describe Event or Problem (Cont.) Characters Remaining (max. 10,000):
+--- page 3 ---
+High Test RangeLow Test Range
+Additional Comments
+7.  Other Relevant History, Including Preexisting Medical Conditions 
+     (e.g., allergies, pregnancy, tobacco product use, alcohol use, and liver/kidney 
+     problems, etc.) 
+Date (e.g., 01-Jan-1900) 6.  Relevant Test/Laboratory Data
+Characters Remaining (max. 2,000):
+Characters Remaining (max. 2,000):
+Form FDA-3500A MedWatch (09/2025)
+(MedWatch Mandatory Reporting)
+(continued on next page)Page 3 of 9
+--- page 4 ---
+Manufacturer/Compounder Name 
+FEI # for cosmetics Lot # 
+SUSPECT PRODUCT #1 
+Product Name Strength Unit 
+NDC # or Unique ID 
+2.  Dose or Amount Frequency Route 
+Unit Other Frequency Other Route 
+3.  Treatment/Therapy/Usage Dates (Give best estimate of length of treatment/usage (start/stop) or date of dose reduction.) 
+Therapy/Usage started on (e.g., 01-Jan-1900) 
+Therapy/Usage stopped on (e.g., 01-Jan-1900)
+Dose Reduced on (e.g., 01-Jan-1900)
+OR
+Duration
+Unit 
+4.  Diagnosis for use (Indication) 5.  Product Type (Check all that apply) 6.  Expiration Date 
+     (e.g., 01-Jan-1900)Drug or Biologic
+Brand
+Generic or Biosimilar
+Over-the-Counter (OTC)
+Cosmetics (Select one)
+Other
+Cannabinoid hemp products  
+(Such as products containing CBD) 
+Cosmetics sold on a retail basis
+Compounded product  
+(By a Pharmacy or an Outsourcing Facility)
+Cosmetics for professional use only
+7.  Event Abated after use Stopped or Dose Reduced? 8.  Event Reappeared after Reintroduction?
+Yes No Doesn't Apply Doesn't ApplyNoYes
+Other Product Types
+C. SUSPECT PRODUCTS 
+1.  Name, Strength, Manufacturer/Compounder 
+Form FDA-3500A MedWatch (09/2025)
+(MedWatch Mandatory Reporting)
+(continued on next page)Page 4 of 9
+--- page 5 ---
+SUSPECT PRODUCT #2 
+1.  Name, Strength, Manufacturer/Compounder 
+Product Name Strength Unit 
+NDC # or Unique ID 
+Doesn't ApplyNoYes
+Lot # 
+Manufacturer/Compounder Name 
+FEI # for cosmetics
+2.  Dose or Amount Frequency Route 
+Unit Other Frequency Other Route 
+3.  Treatment/Therapy/Usage Dates (Give best estimate of length of treatment/usage (start/stop) or date of dose reduction.) 
+Therapy/Usage started on (e.g., 01-Jan-1900) 
+Therapy/Usage stopped on (e.g., 01-Jan-1900)
+Dose Reduced on (e.g., 01-Jan-1900)
+OR
+Duration
+Unit 
+5.  Product Type (Check all that apply) 6.  Expiration Date 
+     (e.g., 01-Jan-1900)Drug or Biologic
+Brand
+Generic or Biosimilar
+Over-the-Counter (OTC)
+Cosmetics (Select one)
+Other
+Cannabinoid hemp products  
+(Such as products containing CBD) 
+Cosmetics sold on a retail basis
+Compounded product  
+(By a Pharmacy or an Outsourcing Facility)
+Cosmetics for professional use only
+7.  Event Abated after use Stopped or Dose Reduced? 8.  Event Reappeared after Reintroduction?
+Doesn't ApplyNoYes
+4.  Diagnosis for use (Indication)
+Other Product Types
+Form FDA-3500A MedWatch (09/2025)
+(MedWatch Mandatory Reporting)
+(continued on next page)Page 5 of 9
+--- page 6 ---
+9.  List Medical Product and Treatment Given at the Same Time of the Event and Date (Do not include treatment for initial event)
+D. SUSPECT MEDICAL DEVICE 
+2b. Common Device Name 2a. Procode1. Brand Name
+3.  Manufacturer Name, City, State, and Country 
+Catalog # Lot # 4.  Model #
+Expiration Date (e.g., 01-Jan-1900) Serial #
+1. 
+Product Name Therapy/Usage Start Date  
+(e.g., 01-Jan-1900)
+Therapy/Usage Stop Date  
+(e.g., 01-Jan-1900)
+3.
+2.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+Characters Remaining (max. 1,000):Unique Device Identifier (UDI) #
+Form FDA-3500A MedWatch (09/2025)
+(MedWatch Mandatory Reporting)
+(continued on next page)Page 6 of 9
+--- page 7 ---
+5.  Operator of Device 6a.   If Implanted, Give Date 
+        (e.g., 01-Jan-1900)
+6b.  If Explanted, Give Date 
+       (e.g., 01-Jan-1900)
+ Yes  No 
+7b.  If yes, enter the name and address of the reprocessor 
+ Health Professional  Patient/Consumer 
+ Other 
+ Yes 
+  No  Unknown Returned to manufacturer (01-Jan-1900)
+Yes No
+9.  Is this Device Available for Evaluation? (Do not send to FDA) 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+10.  Concomitant Medical Products and Therapy/usage Dates (Exclude treatment of event)
+Therapy/Usage Start Date  
+(e.g., 01-Jan-1900) 
+Therapy/Usage End Date  
+(e.g., 01-Jan-1900)
+Product Name 
+ Yes  No  Yes  No  Unknown
+4.  Initial reporter also sent report to FDA?3. Occupation (Select list)
+1.  Name and Address 
+Last Name First Name 
+Address 
+City State/Province/Region ZIP/Postal Code 
+Country 
+Phone # Email 
+2. Health Professional?
+E. INITIAL REPORTER 
+8.  Was this device ever serviced by a  
+     third-party servicer?
+7a. Is this a single-use device that was  
+      reprocessed and reused on a patient?
+Form FDA-3500A MedWatch (09/2025)
+(MedWatch Mandatory Reporting)
+(continued on next page)Page 7 of 9
+--- page 8 ---
+Health Effect – Clinical Code Health Effect – Impact Code Medical Device Problem Code Component Code 
+ Ambulatory Surgical Facility  Outpatient Treatment Facility  Other (Specify) 
+ Yes  Home  Outpatient Diagnostic Facility
+ Hospital  Nursing Home
+Name 
+7.  Type of Report 
+8.  Approximate Age of Device 
+9.  Adverse Event Problem (Refer to coding manual) 
+Initial
+Follow-up #
+Month(s)Year(s)
+F. FOR USE BY USER FACILITY/IMPORTER (Devices Only) 
+12.  Report Sent to Manufacturer?  
+(If Yes, enter date (e.g., 01-Jan-1900)) 
+13.  Manufacturer Name/Address 
+Yes 
+No 
+G. ALL MANUFACTURERS 
+2.  Report Source (Check all that apply) 3.  Date Received by          
+     Manufacturer or Responsible  
+     Person (e.g., 01-Jan-1900)   
+ Other (Please list)
+4.  NDA # ANDA/Pre-ANDA # IND # BLA # PMA/510(k) # 
+10.  Report Sent to FDA? (If Yes,   
+       enter date (e.g., 01-Jan-1900))
+11.  Location Where Event Occurred
+Follow-up # Non-expedited (periodic) 
+7.  Adverse Event Term(s) 8.  Manufacturer Report Number
+ Compounded Product 
+ No 
+Email Address Phone Number 
+Address 
+Compounding Outsourcing Facility 503B? 
+ Check box if applicable 
+Outsourcing Facility 
+ Foreign  Literature  Health Professional  Company Representative 
+ Study  Consumer  User Facility   Distributor/Importer 
+Check all that apply:
+ Combination product  Pre-ANDA  Pre-1938  OTC 
+5.  If IND/Pre-ANDA, Give Protocol # 6.  Type of Report  (Check all that apply)
+1.  Contact Office (and Manufacturing Site for Devices) or Compounding Outsourcing Facility or Responsible Person
+2.  User Facility/Importer Report Number  Importer  User Facility 1.  Check One
+3. User Facility or Importer Name/Address/Email 5.  Phone Number 4.  Contact Person
+6.  Date User Facility or Importer Became 
+     Aware of Event (e.g., 01-Jan-1900) 
+15-day 5-day 
+ Initial30-day7-day 
+Form FDA-3500A MedWatch (09/2025)
+(MedWatch Mandatory Reporting)
+(continued on next page)Page 8 of 9
+--- page 9 ---
+ Death 
+ Serious Injury 
+ Yes  No 
+PRIVACY ACT STATEMENT 
+Authority: The information collected in this form is provided to comply with the Privacy Act of 1974 (P.L. 93-579) for individuals seeking 
+non-employee student, post-graduate or senior scientist training opportunities from the Food and Drug Administration. Purpose and 
+Uses: All information collected in this form is required to begin the Traineeship. Completed forms are used by the Staff to meet program 
+selection and on-boarding requirements. Information is also shared with the FDA personnel authorized to administer the program. Effects of 
+nondisclosure: Disclosure of the information is voluntary; however, collection of this information is necessary to continue with the FDA. 
+PRA Info 
+This section applies only to requirements of the Paperwork Reduction Act of 1995. 
+*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.* 
+The burden time for this collection of information is estimated to average 15 minutes per response, including the time to review instructions, 
+search existing data sources, gather and maintain the data needed and complete and review the collection of information. Send comments 
+regarding this burden estimate or any other aspect of this information collection, including suggestions for reducing this burden, to: 
+Department of Health and Human Services 
+Food and Drug Administration  
+Office of Operations  
+Paperwork Reduction Act (PRA) Staff  
+“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently 
+valid OMB control number.”
+H. DEVICE MANUFACTURERS ONLY 
+1.  Type of Reportable Event (Check all that apply)
+ Malfunction 
+ Summary Report 
+ No. of events summarized 
+2.  If Follow-up, What Type? 3.  Device Evaluated by Manufacturer?
+ Correction 
+ Additional Information 
+ Response to FDA Request
+ Device Evaluation 
+ Yes  No 
+Type of Investigation Code Investigation Findings Code Investigation Conclusions Code
+Component Code Medical Device Problem Code Health Effect – Impact Code Health Effect – Clinical Code 
+4.  Device Manufacture Date 5.  Labeled for Single Use?
+6.  Adverse Event Problem (Refer to coding manual)  
+9.  If action reported to FDA under 21 USC 360i(g), list      
+     FDA-assigned recall number or include a statement: 
+10.  Related Report Number 
+11.  Additional Manufacturer Narrative
+7.  If Remedial Action Initiated, Check Type 8.  Usage of Device
+ Unknown 
+ Reuse
+ Initial Use of Device Recall 
+ Repair 
+ Replace 
+ Relabeling 
+ Notification 
+ Inspection 
+ Patient Monitoring 
+ Modification/Adjustment 
+ Other: 
+Characters Remaining (max. 450):
+Form FDA-3500A MedWatch (09/2025)
+(MedWatch Mandatory Reporting)
+Page 9 of 9
+--- page 10 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GENERAL INSTRUCTIONS - FOR FORM FDA 
+3500A MEDWATCH (FOR MANDATORY 
+REPORTING) 
+
+--- page 11 ---
+FORM FDA 3500A SUPPLEMENT (09/2025) – FORM INSTRUCTIONS | PREVIOUS EDITION IS OBSOLETE 2 
+ 
+ 
+Contents 
+GENERAL INSTRUCTIONS .................................................................................................................................................................... 6 
+FRONT PAGE ............................................................................................................................................................................................. 8 
+SECTION A: PATIENT INFORMATION ............................................................................................................................................ 10 
+A1: Patient identifier ......................................................................................................................................................................................... 10 
+A2: Age or Date of Birth ...................................................................................................................................................................................... 10 
+A3: Sex .............................................................................................................................................................................................................. 10 
+A4: Weight ........................................................................................................................................................................................................ 11 
+SECTION B: ADVERSE EVENT OR PRODUCT PROBLEM ........................................................................................................... 12 
+B1: Type of Report ............................................................................................................................................................................................. 12 
+B2: Outcomes attributed to adverse event .......................................................................................................................................................... 12 
+B3: Date of Event ............................................................................................................................................................................................... 13 
+B4: Date of this Report ....................................................................................................................................................................................... 14 
+B5: Describe Event or Problem ........................................................................................................................................................................... 14 
+B6: Relevant Test/Laboratory Data, Including Dates ............................................................................................................................................ 14 
+B7: Other Relevant History, Including Preexisting Medical Conditions: .................................................................................................................. 15 
+SECTION C: SUSPECT PRODUCT(S) ................................................................................................................................................ 16 
+C1: Name, Strength, Manufacturer/Compounder ................................................................................................................................................ 16 
+C2: Dose, Frequency & Route Used ..................................................................................................................................................................... 16 
+C3: Treatment/Therapy/Usage Start and Stop Dates ............................................................................................................................................ 17 
+C4: Diagnosis for Use .......................................................................................................................................................................................... 17 
+C5: Product Type ................................................................................................................................................................................................ 17 
+C6: Expiration date ............................................................................................................................................................................................ 17 
+C7: Event Abated After Use Stopped or Dose Reduced .......................................................................................................................................... 17 
+--- page 12 ---
+FORM FDA 3500A SUPPLEMENT (09/2025) – FORM INSTRUCTIONS | PREVIOUS EDITION IS OBSOLETE 3 
+ 
+C8: Event Reappeared After Reintroduction ........................................................................................................................................................ 17 
+C9: List Medical Products and Treatment Given at the Same time of the Event and Date ........................................................................................ 17 
+SECTION D: SUSPECT MEDICAL DEVICE ....................................................................................................................................... 18 
+D1: Brand Name ................................................................................................................................................................................................ 18 
+D2a: Procode ..................................................................................................................................................................................................... 18 
+D2b: Common Device Name ............................................................................................................................................................................... 18 
+D3: Manufacturer Name, City, State and Country ................................................................................................................................................. 18 
+D4: Model #, Lot #, Catalog #, Expiration date, Serial #, Unique Device Identifier (UDI) # ....................................................................................... 18 
+D5: Operator of Device ...................................................................................................................................................................................... 19 
+D6a: If Implanted, Give Date ............................................................................................................................................................................... 19 
+D6b: If Explanted, Give Date ............................................................................................................................................................................... 19 
+D7a: Is this a Single-use Device that was Reprocessed and Reused on a Patient? ................................................................................................... 19 
+D7b: If yes, Enter Name and Address of Reprocessor ............................................................................................................................................ 19 
+D8: Is this device ever serviced by a Third Party? ................................................................................................................................................. 20 
+D9: Is this Device Available for Evaluation? .......................................................................................................................................................... 20 
+D10: Concomitant Medical Products and Therapy Dates ...................................................................................................................................... 20 
+SECTION E: INITIAL REPORTER ...................................................................................................................................................... 21 
+E1: Name and Address ....................................................................................................................................................................................... 21 
+E2: Health Professional ...................................................................................................................................................................................... 21 
+E3: Occupation .................................................................................................................................................................................................. 21 
+E4: Initial Reporter Also Sent Report to FDA ........................................................................................................................................................ 21 
+SECTION F: FOR USE BY USER FACILITY(UF)/IMPORTER – DEVICES ONLY ..................................................................... 22 
+F1: Check one .................................................................................................................................................................................................... 22 
+F2: User Facility/Importer Report Number .......................................................................................................................................................... 22 
+F3: User Facility or Importer Name/Address/Email .............................................................................................................................................. 22 
+F4: Contact Person ............................................................................................................................................................................................. 22 
+--- page 13 ---
+FORM FDA 3500A SUPPLEMENT (09/2025) – FORM INSTRUCTIONS | PREVIOUS EDITION IS OBSOLETE 4 
+ 
+F5: Phone Number ............................................................................................................................................................................................. 22 
+F6: Date User Facility or Importer Became Aware of Event ................................................................................................................................... 22 
+F7: Type of Report .............................................................................................................................................................................................. 22 
+F8: Approximate Age of Device ........................................................................................................................................................................... 22 
+F9: Adverse Event Problem ................................................................................................................................................................................. 22 
+F10: Report Sent to FDA? .................................................................................................................................................................................... 23 
+F11: Location Where Event Occurred .................................................................................................................................................................. 23 
+F12: Report Sent to Manufacturer? .................................................................................................................................................................... 23 
+F13: Manufacturer Name/Address ...................................................................................................................................................................... 23 
+SECTION G: ALL MANUFACTURERS AND RESPONSIBLE PERSONS ...................................................................................... 24 
+G1: Contact Office (and Manufacturing Site for Devices) or Compounding Outsourcing Facility or Responsible Person (in case of cosmetic products)
+ ......................................................................................................................................................................................................................... 24 
+G2: Report Source .............................................................................................................................................................................................. 24 
+G3: Date received by manufacturer or responsible person ................................................................................................................................... 25 
+G4: This block is for use by all manufacturers of drug, device, biological products .................................................................................................  25 
+G5: Give IND/Pre ANDA Protocol # ...................................................................................................................................................................... 26 
+G6: Type of Report ............................................................................................................................................................................................. 26 
+G7: Adverse Event Term(s) ................................................................................................................................................................................. 26 
+G8: Manufacturer Report Number (For all manufacturers): .................................................................................................................................. 27 
+SECTION H: DEVICE MANUFACTURERS ONLY ............................................................................................................................ 28 
+H1: Type of Reportable Event .............................................................................................................................................................................. 28 
+H2: If Follow-up, What Type? ............................................................................................................................................................................. 28 
+H3: Device Evaluated by Manufacturer? ............................................................................................................................................................. 28 
+H4: Device Manufacture Date ............................................................................................................................................................................. 28 
+H5: Labeled for Single Use .................................................................................................................................................................................. 28 
+H6: Adverse Event Problem ................................................................................................................................................................................ 29 
+H7: If Remedial Action Initiated, Check Type ....................................................................................................................................................... 29 
+--- page 14 ---
+FORM FDA 3500A SUPPLEMENT (09/2025) – FORM INSTRUCTIONS | PREVIOUS EDITION IS OBSOLETE 5 
+ 
+H8: Usage of Device ........................................................................................................................................................................................... 29 
+H9: If action reported to FDA under 21 USC 360i(g), list correction/removal reporting number .............................................................................. 29 
+H10: Related Report Number ............................................................................................................................................................................. 29 
+H11: Additional Manufacturer Narrative ............................................................................................................................................................. 29 
+APPENDIX 1 EXAMPLES FOR POPULATING SECTION C1 SUSPECT PRODUCT(S) NAME ............................................ 30 
+ 
+--- page 15 ---
+FORM FDA 3500A SUPPLEMENT (09/2025) – FORM INSTRUCTIONS | PREVIOUS EDITION IS OBSOLETE 6 
+ 
+ 
+GENERAL INSTRUCTIONS 
+• All entries should be typed or printed in a font no smaller than 8 point. 
+• Complete all sections that apply. If information is unknown, not available or does not apply, the section should be left 
+blank. 
+• Dates should be entered as dd-mmm-yyyy (e.g.,12 Oct 2019). If exact dates are unknown, provide the best estimate. 
+• For narrative entries, if the fields do not provide adequate space, attach an additional page(s). The following 
+specific information is to be incorporated: 
+o Include the word “ continued” at the end of each field of FDA Form 3500A that has additional information continued 
+onto another page. 
+o Identify all attached pages as Page  of   
+o Indicate the appropriate section and block number next to the narrative continuation. 
+o Display the User Facility, Importer, or Manufacturer/ Compounder report number in the upper right corner as applicable 
+• If the case report involves more than two (2) suspect products attach another copy of Form FDA 3500A, with only 
+section C filled in as appropriate. 
+• For medical device reporting, manufacturers, importers, and user facilities must prepare and submit a complete Form FDA 
+3500A for each suspect device. Each Form FDA 3500A will be given a separate Report Number. 
+• If the suspect medical device is a single use device that has been reprocessed for use in humans, then the 
+reprocessor is the manufacturer. The manufacturer can be either an Original Equipment Manufacturer (OEM), or a 
+reprocessor of Single-Use Devices, which also can be a User Facility that reprocesses Single-Use Devices. (See 
+the following table.) 
+ 
+Subject Device is: Manufacturer is: 
+Single Use Device OEM 
+Device designed to be reused OEM 
+Single Use Device, reprocessed for 
+reuse 
+Reprocessor 
+Single Use Device, reprocessed by 
+Hospital or Health Care Facility 
+Hospital or Health Care Facility 
+• If no suspect medical device is involved in a reported adverse event (i.e., when reporting ONLY a suspect drug, 
+biologic, or cosmetic product), ONLY sections A, B, C, E, and G are to be filled out. 
+• Section G (All manufacturers) may be substituted for section D (Suspect medical device) on the front of the form to 
+enable the submission of a shorter form. 
+o If section G is reproduced on the front of the form, it must be an identical reproduction of the original section 
+G. 
+o When reporting ONLY a cosmetic product, the sections and/or subsections/blocks that are not relevant to 
+cosmetics should be left blank. 
+• All submissions must be made in English, including foreign literature reports. 
+GENERAL INSTRUCTIONS - For Form FDA 3500A MedWatch (for Mandatory reporting) 
+--- page 16 ---
+FORM FDA 3500A SUPPLEMENT (09/2025) – FORM INSTRUCTIONS | PREVIOUS EDITION IS OBSOLETE 7 
+ 
+• Form 3500A should not be used for the below products 
+o Vaccines: adverse events involving vaccines should be reported to the Vaccine Adverse Event Reporting System 
+(VAERS), http://vaers.hhs.gov/index. For additional information or assistance with filing a VAERS report, call: 1-800-
+822-7967. 
+o Animal Drug: Persons responsible for submitting mandatory adverse event reports for animal drugs must submit them 
+to FDA’s Center for Veterinary Medicine (see CVM Veterinary Adverse Event Reporting for Manufacturers | FDA).  For 
+Device, Pet Food and Livestock Feed Problems – report problems to FDA’s Center for Veterinary Medicine 
+o Tobacco products: Report health or product problems to the Safety Reporting Portal (SRP) 
+www.safetyreporting.hhs.gov or call 1-877-287-1363. 
+o Food or dietary supplement products: Report to the SRP should follow the instructions at: www.safetyreporting.hhs.gov  
+• Devices: Federal law provides that user facility reports that are required by law may not be used in private civil 
+litigation actions unless the party who made the report had knowledge the report contained false information. 21 
+USC 360i(b)(3) 
+• Cosmetic Products: Responsible persons submitting serious adverse event reports for cosmetic products using 
+Form FDA 3500A [Electronic submissions (Database to Database transmission and Safety Reporting Portal) are 
+encouraged.] should include a copy of the label on or within the retail packaging of the cosmetic product, along with 
+any information that can be provided to support the report, such as scans of labels and images of the serious 
+adverse event. The Form 3500A along with all the supporting materials may either be sent to the email address or 
+to the mailing address.  
+Via email at: CosmeticAERS@fda.hhs.gov 
+Or by mail to: 
+ 
+FDA CDER Mail Center 
+Attn: Cosmetics MedWatch reports  
+White Oak Campus, Building 22, G0207  
+10903 New Hampshire Ave. 
+Silver Spring, MD 20993 
+ 
+--- page 17 ---
+FORM FDA 3500A SUPPLEMENT (09/2025) – FORM INSTRUCTIONS | PREVIOUS EDITION IS OBSOLETE 8 
+ 
+FRONT PAGE 
+• On the top-right corner of the front page, enter the Manufacturer report number, User Facility report number, or 
+Importer report number, as appropriate, in the corresponding labeled box. Enter all numbers, if applicable, to cross- 
+reference this report with a report from another source on the same event. For medical devices, the cross- 
+reference report number should be left blank in the section and instead entered in H11: Additional Manufacturer 
+Narrative.  
+• Manufacturer report # (Mfr report #): This is the unique identifier used by the manufacturer for this report. For a 
+follow-up report, the manufacturer report number must be identical to the number assigned to the initial report. The 
+manufacturer report number is also entered in block G8. 
+o For device manufacturers: The report number consists of three components: the manufacturer’s FDA registration 
+number for the manufacturing site of the reported device, the 4-digit calendar year, and a consecutive 5-digit number 
+for each report filed during the year by the manufacturer (e.g., 1234567-2016- 00001, 1234567- 2016-00002). If the 
+manufacturing site does not have a registration number, please contact reglist@cdrh.fda.gov for assistance. 
+o For drug and biologics manufacturers and for responsible persons for cosmetic products: The “Mfr report #” is the 
+number that the manufacturer or the responsible person chooses to uniquely identify the report and should conform to 
+applicable regulations or guidance. 
+o For human cell, tissue, and cellular and tissue- based product (HCT/P) manufacturers: The report number  consists of 
+three numbers separated by dashes: the 10-digit FDA Establishment Identifier (FEI) number, which was assigned to 
+you as part of Human Cells and Tissue Establishment Registration (HCTERS), the 4-digit calendar year, and a 
+consecutive 5-digit number for each report filed during the year by the manufacturer. Example: 1234567890-2016-
+00005. 
+o For cosmetic products, the User Facility/Importer Report # and Exemption/Variance # should be left blank in this 
+section. 
+• UF/Importer report #: This is the unique identifier used by the user facility or the importer for this report. For a 
+follow-up report, the UF/Importer report number must be identical to the number assigned to the initial report. The 
+UF/ Importer report number for devices is also entered in block F2: User Facility/Importer Report Number on the 
+back of the form. 
+o The user facility report number consists of three components: the facility’s 10-digit Health Care Financing 
+Administration (HCFA) number, the 4-digit calendar year, and a consecutive 4-digit number for each report filed during 
+the year by the facility (e.g., 1234567890-2016- 0001, 1234567890-2016-0002). If the HCFA number has fewer than 10 
+digits, enter ONLY these numbers, leaving the remainder blank (zeros will be automatically filled in by the system). If a 
+facility does not have a HCFA number, the first report and any subsequent reports should be submitted with all zeros in 
+the HCFA space (e.g., 0000000000-2016-0001), and FDA will assign a number to be used in future reports. If a facility 
+has more than one HCFA number, the facility must select one of those numbers as the primary number and use it for 
+subsequent submissions. 
+o If a user facility has multiple sites, the primary site can report centrally and use one reporting number for all sites If the 
+primary site provides an addendum that identifies the name, address, and HCFA number for the other sites. 
+o The importer report number consists of three components: the FDA-assigned registration or identification number for 
+the importer of the device, the 4-digit calendar year, and a consecutive 5-digit number for each report filed during the 
+year by the importer (e.g., 1234567-2016-00001, 1234567-2016-00002). If an importer does not have an assigned 
+identification number, it should use all zeros in the appropriate space on the initial report, and continue to use zeros on 
+subsequent reports until the FDA- assigned number is received. The importer would still enter the 4-digit calendar year 
+and 5-digit sequence number. 
+o F or cosmetic products, the User Facility/Importer Report # and Exemption/Variance # should be left blank in this 
+section. 
+• The Exemption/Variance/Alternative Number identifies reports being submitted under the conditions of an FDA 
+approved exemption or variance or alternative reporting per 21 CFR Part 803.19. If the report being submitted is not 
+the subject of an approved exemption or variance, the field should not be completed unless instructed by the FDA 
+to use this field for a specific purpose. For cosmetic products, the User Facility/Importer Report # and 
+--- page 18 ---
+FORM FDA 3500A SUPPLEMENT (09/2025) – FORM INSTRUCTIONS | PREVIOUS EDITION IS OBSOLETE 9 
+ 
+Exemption/Variance # should be left blank in this section. 
+• Note: In cases where a reporting site is registered as both a manufacturer and an importer, and the registration 
+and/or FDA-assigned identification numbers are identical for both, then the 5-digit sequence number for reports 
+submitted during the year by either one may NOT be duplicated. For example, for devices manufactured by the firm, 
+the report number would consist of the registration number, calendar year, and a consecutive 5-digit number (e.g., 
+1234567-2016-00001, 1234567-2016-00002, and so on). For devices imported by the firm, the registration number 
+and year would remain the same, but the 5-digit sequence number must be different (e.g., 1234567-2016- 00003, 
+1234567-2016-00004, and so on). 
+--- page 19 ---
+FORM FDA 3500A SUPPLEMENT (09/2025) – FORM INSTRUCTIONS | PREVIOUS EDITION IS OBSOLETE 10 
+ 
+ 
+ SECTION A: PATIENT INFORMATION  
+Complete a separate form for each patient. For medical device-related reporting, patients include consumers, study 
+subjects/participants, as well as individuals who seek care, whether or not they are ill at a given time. If you are a 
+user facility reporting an event where multiple patients were adversely affected at the same time through the use of 
+one device, you do not need to file a separate form FDA 3500A for each patient as long as you: 
+• Indicate the number of patients in block B5 (Describe event or problem). 
+• Prepare a complete form FDA 3500A for one patient and attach additional 3500As with Section A and blocks B2, B5, B6, B7, 
+D10, F2 and F10 filled in for each additional patient [Be sure to identify all forms with the user facility report number]. 
+• Enter the corresponding patient identifier in block A1 for each patient involved in the event. 
+Mother-infant/fetus report(s) are those cases in which either a mother or a fetus/breast feeding infant, or both, 
+sustain an adverse event that the initial reporter considers possibly associated with a product administered to or 
+a device used on the mother during pregnancy. Several general principles are used for filing these reports: 
+• If the event did not affect the infant/fetus, report only on the mother. 
+• For those cases describing fetal death, miscarriage or abortion, report the mother as the patient in the report. 
+• When ONLY the infant/fetus has an adverse reaction/ event (other than fetal death, miscarriage, or abortion), the information 
+provided in Section A applies to the infant/ fetus. However, the information in Section C or D would apply to the mother who 
+was the source of exposure to the product or device. 
+• When a newborn baby is found to have a congenital anomaly/birth defect that the initial reporter considers possibly associated 
+with a product administered to or device used on the mother during pregnancy, the patient is the newborn baby. 
+• If both the mother and the infant/fetus sustain adverse events, two reports should be provided and linked using the narrative 
+field in block B5. 
+A1: Patient identifier 
+Provide the patient’s initials or some other identification code number that will allow both the submitter and the initial 
+reporter (if different) to locate the case if contacted for follow-up. Do not use the patient’s name, medical record 
+number or social security number. 
+The patient’s identity is held in strict confidence by FDA and protected to the fullest extent of the law. The FDA will 
+not disclose the reporter’s identity in response to a request from the public, pursuant to the Freedom of 
+Information Act. 
+If no patient was involved, enter ‘none’. 
+A2: Age or Date of Birth 
+Enter the patient’s birth date, if known, or the patient’s age at the time of event onset. Provide the most precise 
+information available if the exact age is unknown. 
+For age,  indicate years, months, and/or days. 
+• If the patient is 3 years or older, use years (e.g., 4 years). 
+• If the patient is less than 3 years old, use months (e.g., 34 months). 
+• If the patient is less than 1 month old, use day(s) (e.g., 15 day(s)). 
+A3: Sex 
+• Sex: Enter the patient’s sex.  
+Choose only one response. If the adverse event is a congenital anomaly, report the sex of the child. 
+--- page 20 ---
+FORM FDA 3500A SUPPLEMENT (09/2025) – FORM INSTRUCTIONS | PREVIOUS EDITION IS OBSOLETE 11 
+ 
+A4: Weight 
+Indicate whether the weight is in pounds (lbs.) or kilograms (kgs). Make a best estimate if exact weight is unknown.A5: 
+Race and/or Ethnicity 
+Indicate the race/ethnicity of the patient as reported by the patient. You may choose multiple answers. Please DO 
+NOT make a best guess. 
+ 
+--- page 21 ---
+FORM FDA 3500A SUPPLEMENT (09/2025) – FORM INSTRUCTIONS | PREVIOUS EDITION IS OBSOLETE 12 
+ 
+ SECTION B: ADVERSE EVENT OR PRODUCT PROBLEM  
+B1: Type of Report 
+Choose the appropriate box. Both boxes should be checked if a product problem has or may have caused or 
+contributed to the adverse event. 
+Product problem (e.g., defects/malfunctions): Any report regarding the quality, performance, or safety of 
+any regulated product.  
+ 
+B2: Outcomes attributed to adverse event 
+Indicate ALL that apply to the reported event: 
+Drugs, Biologics and Cosmetic Products: Only mark a box in this section if the adverse event meets the 
+regulatory definition of serious in 21 CFR 314.80(a), 21 CFR 600.80(a) and Section 605 of the FD&C Act, 
+respectively. 
+Human Cells, Tissues, and Cellular and Tissue- Based Products (HCT/Ps): An adverse reaction must be 
+reported to FDA if it involves a communicable disease and according to 21 CFR 1271.350a: 
+o Resulted in death, 
+o Is life-threatening, 
+o Results in permanent impairment of a body function or permanent damage to body structure, or 
+o Necessitates medical or surgical intervention, including hospitalization. 
+Medical Devices: An adverse event which must be reported to FDA is a device-related death or a device- related 
+serious injury as defined in 21 CFR 803.3: 
+A serious injury means an injury or illness that: 
+o Is life-threatening, 
+o Results in permanent impairment of a body function or permanent damage to a body structure, or 
+o Necessitates medical or surgical intervention to preclude permanent impairment of a body function or permanent 
+damage to a body structure. Permanent means irreversible impairment or damage to body structure or function, 
+excluding trivial impairment or damage.” https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-
+803/subpart-A/section-803.3   
+Death: Check if death was an outcome of the adverse event, or if the cause of the death is unknown. Include the 
+date of death, if known. 
+DO NOT check if: 
+• The patient died while using a product, but there was no suspected association between the death and the use of the product 
+• A fetus is aborted because of a congenital anomaly, or is miscarried. 
+Life-threatening: Check if suspected that: 
+• The patient was at substantial risk of dying at the time of the adverse event. 
+• Use or continued use of the device might have resulted in the death of the patient. 
+ 
+ 
+Hospitalization (initial or prolonged): Check if admission to the hospital or prolongation of hospitalization was a result 
+of the adverse event. 

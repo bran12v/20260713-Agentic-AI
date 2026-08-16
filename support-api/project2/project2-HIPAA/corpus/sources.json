@@ -1,0 +1,101 @@
+{
+  "project": "Perimeter",
+  "author": "U.S. Department of Health and Human Services, Office for Civil Rights",
+  "footer": "This document is an excerpt of federal public-domain material, reproduced as a training artifact for the Perimeter exercise. It is not a current or authoritative source and is not legal or compliance guidance. Consult the published source for the governing text.",
+  "ecfr_issue_date": "2026-08-04",
+  "documents": [
+    {
+      "doc_id": "CFR-164D",
+      "title": "45 CFR Part 164 Subpart D - Notification in the Case of Breach of Unsecured Protected Health Information",
+      "doc_type": "regulation",
+      "kind": "ecfr",
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/{issue_date}/title-45.xml?part=164",
+      "cite_url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-D",
+      "sections": ["164.400", "164.402", "164.404", "164.406", "164.408", "164.410", "164.412", "164.414", "164.514"],
+      "backs": ["R1", "R2", "R3", "R4"]
+    },
+    {
+      "doc_id": "CFR-164C",
+      "title": "45 CFR Part 164 Subpart C - Security Standards for the Protection of Electronic Protected Health Information",
+      "doc_type": "regulation",
+      "kind": "ecfr",
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/{issue_date}/title-45.xml?part=164",
+      "cite_url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-C",
+      "sections": ["164.302", "164.304", "164.306", "164.308", "164.310", "164.312", "164.314", "164.316"],
+      "backs": []
+    },
+    {
+      "doc_id": "FR-2013",
+      "title": "78 FR 5566 - HIPAA Omnibus Final Rule, breach notification analysis",
+      "doc_type": "preamble",
+      "kind": "pdf_pages",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2013-01-25/pdf/2013-01073.pdf",
+      "cite_url": "https://www.federalregister.gov/documents/2013/01/25/2013-01073/modifications-to-the-hipaa-privacy-security-enforcement-and-breach-notification-rules-under-the",
+      "publication_date": "2013-01-25",
+      "citation": "78 FR 5566",
+      "page_offset": 5565,
+      "excerpts": [
+        {"section_path": "breach-definition", "label": "The definition of breach, the three exclusions, and the four-factor risk assessment that replaced the harm standard", "printed_pages": "5639-5647", "pdf_pages": [74, 82]},
+        {"section_path": "notification", "label": "Notification to individuals, the media and the Secretary", "printed_pages": "5654-5658", "pdf_pages": [89, 93]}
+      ],
+      "backs": ["R1", "R3"]
+    },
+    {
+      "doc_id": "DEID-GUID",
+      "title": "HHS Guidance Regarding Methods for De-identification of Protected Health Information",
+      "doc_type": "guidance",
+      "kind": "pdf_pages",
+      "url": "https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/understanding/coveredentities/De-identification/hhs_deid_guidance.pdf",
+      "cite_url": "https://www.hhs.gov/hipaa/for-professionals/special-topics/de-identification/index.html",
+      "publication_date": "2012-11-26",
+      "page_offset": 0,
+      "excerpts": [
+        {"section_path": "overview", "label": "Overview of the two de-identification methods and what protected health information is", "printed_pages": "4-9", "pdf_pages": [4, 9]},
+        {"section_path": "safe-harbor", "label": "Guidance on satisfying the Safe Harbor method, including the eighteen identifiers", "printed_pages": "23-30", "pdf_pages": [23, 30]}
+      ],
+      "backs": ["R2"]
+    },
+    {
+      "doc_id": "SEC-SERIES",
+      "title": "HHS HIPAA Security Series - Administrative Safeguards and Risk Analysis Guidance",
+      "doc_type": "guidance",
+      "kind": "pdf_pages",
+      "cite_url": "https://www.hhs.gov/hipaa/for-professionals/security/guidance/index.html",
+      "excerpts": [
+        {"source": "admin", "url": "https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/administrative/securityrule/adminsafeguards.pdf", "section_path": "admin-safeguards", "label": "Security Standards: Administrative Safeguards, including the required and addressable implementation specifications", "printed_pages": "3-15", "pdf_pages": [3, 15]},
+        {"source": "riskanalysis", "url": "https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/administrative/securityrule/rafinalguidancepdf.pdf", "section_path": "risk-analysis", "label": "Guidance on Risk Analysis Requirements under the Security Rule", "printed_pages": "1-9", "pdf_pages": [1, 9]}
+      ],
+      "backs": []
+    },
+    {
+      "doc_id": "FORM-OCR",
+      "title": "HHS Office for Civil Rights breach report and complaint forms",
+      "doc_type": "form",
+      "kind": "pdf_pages",
+      "cite_url": "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf",
+      "excerpts": [
+        {"source": "breachportal", "url": "https://ocrportal.hhs.gov/ocr/breach/doc/Breach_Portal_Questions_508.pdf", "section_path": "breach-report", "label": "Every field the Secretary requires on a breach report", "printed_pages": "1-9", "pdf_pages": [1, 9]},
+        {"source": "complaint", "url": "https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/complaints/hipcomplaintform.pdf", "section_path": "complaint", "label": "The Health Information Privacy Complaint form an individual files with OCR", "printed_pages": "1-4", "pdf_pages": [1, 4]}
+      ],
+      "backs": ["R3", "R4"]
+    }
+  ],
+  "verification": {
+    "distractors": ["risk assessment", "risk analysis", "addressable", "breach"],
+    "out_of_corpus": [
+      "minimum wage",
+      "family and medical leave",
+      "workers compensation",
+      "unemployment insurance",
+      "collective bargaining",
+      "prevailing wage",
+      "sexual harassment",
+      "non-compete",
+      "GDPR",
+      "Sarbanes-Oxley",
+      "anti-kickback",
+      "Stark Law"
+    ],
+    "near_miss": ["business associate", "law enforcement", "notice of privacy practices", "limited data set"]
+  }
+}

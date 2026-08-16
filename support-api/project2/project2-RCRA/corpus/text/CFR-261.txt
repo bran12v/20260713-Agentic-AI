@@ -1,0 +1,1219 @@
+
+40 CFR Part 261 - Identification and Listing of Hazardous Waste
+===============================================================
+
+
+§ 261.2 Definition of solid waste.
+----------------------------------
+
+(a)(1) A solid waste is any discarded material that is not excluded under § 261.4(a) or that
+is not excluded by a variance granted under §§ 260.30 and 260.31 or that is not excluded by
+a non-waste determination under §§ 260.30 and 260.34.
+
+(2)(i) A discarded material is any material which is:
+
+(A) Abandoned, as explained in paragraph (b) of this section; or
+
+(B) Recycled, as explained in paragraph (c) of this section; or
+
+(C) Considered inherently waste-like, as explained in paragraph (d) of this section; or
+
+(D) A military munition identified as a solid waste in § 266.202.
+
+(ii) [Reserved]
+
+(b) Materials are solid waste if they are abandoned by being:
+
+(1) Disposed of; or
+
+(2) Burned or incinerated; or
+
+(3) Accumulated, stored, or treated (but not recycled) before or in lieu of being abandoned
+by being disposed of, burned or incinerated; or
+
+(4) Sham recycled, as explained in paragraph (g) of this section.
+
+(c) Materials are solid wastes if they are recycled—or accumulated, stored, or treated
+before recycling—as specified in paragraphs (c)(1) through (4) of this section.
+
+(1) Used in a manner constituting disposal. (i) Materials noted with a “*” in Column 1 of
+Table 1 are solid wastes when they are:
+
+(A) Applied to or placed on the land in a manner that constitutes disposal; or
+
+(B) Used to produce products that are applied to or placed on the land or are otherwise
+contained in products that are applied to or placed on the land (in which cases the product
+itself remains a solid waste).
+
+(ii) However, commercial chemical products listed in § 261.33 are not solid wastes if they
+are applied to the land and that is their ordinary manner of use.
+
+(2) Burning for energy recovery. (i) Materials noted with a “*” in column 2 of Table 1 are
+solid wastes when they are:
+
+(A) Burned to recover energy;
+
+(B) Used to produce a fuel or are otherwise contained in fuels (in which cases the fuel
+itself remains a solid waste).
+
+(ii) However, commercial chemical products listed in § 261.33 are not solid wastes if they
+are themselves fuels.
+
+(3) Reclaimed. Materials noted with a “-” in column 3 of Table 1 are not solid wastes when
+reclaimed. Materials noted with an “*” in column 3 of Table 1 are solid wastes when
+reclaimed unless they meet the requirements of §§ 261.4(a)(17), or 261.4(a)(23),
+261.4(a)(24), or 261.4(a)(27).
+
+(4) Accumulated speculatively. Materials noted with a “*” in column 4 of Table 1 are solid
+wastes when accumulated speculatively.
+
+
+Table 1
+-------
+
+                                                                              Usecon  Energy  Reclam  Specul
+                                                                              stitut  recove  ation   ative
+                                                                              ingdis  ry/fue  (§ 261  accumu
+                                                                              posal   l (§ 2  .2(c)(  lation
+                                                                              (§ 261  61.2(c  3)),    (§ 261
+                                                                              .2(c)(  )(2))   except  .2(c)(
+                                                                              1))             asprov  4))
+                                                                                              ided
+                                                                                              in §§
+                                                                                              261.4(
+                                                                                              a)(17)
+                                                                                              , 261.
+                                                                                              4(a)(2
+                                                                                              3), 26
+                                                                                              1.4(a)
+                                                                                              (24)
+                                                                                              or 261
+                                                                                              .4(a)(
+                                                                                              27)
+
+                                                                              1       2       3       4
+Spent Materials                                                               (*)     (*)     (*)     (*)
+Sludges (listed in 40 CFR Part 261.31 or 261.32)                              (*)     (*)     (*)     (*)
+Sludges exhibiting a characteristic of hazardous waste                        (*)     (*)     -       (*)
+By-products (listed in 40 CFR 261.31 or 261.32)                               (*)     (*)     (*)     (*)
+By-products exhibiting a characteristic of hazardous waste                    (*)     (*)     -       (*)
+Commercial chemical products listed in 40 CFR 261.33                          (*)     (*)     -       -
+Scrap metal that is not excluded under 40 CFR 261.4(a)(13)                    (*)     (*)     (*)     (*)
+Note: The terms “spent materials,” “sludges,” “by-products,” and “scrap
+metal” and “processed scrap metal” are defined in § 261.1.
+
+
+(d) Inherently waste-like materials. The following materials are solid wastes when they are
+recycled in any manner:
+
+(1) Hazardous Waste Nos. F020, F021 (unless used as an ingredient to make a product at the
+site of generation), F022, F023, F026, and F028.
+
+(2) Secondary materials fed to a halogen acid furnace that exhibit a characteristic of a
+hazardous waste or are listed as a hazardous waste as defined in subparts C or D of this
+part, except for brominated material that meets the following criteria:
+
+(i) The material must contain a bromine concentration of at least 45%; and
+
+(ii) The material must contain less than a total of 1% of toxic organic compounds listed in
+appendix VIII; and
+
+(iii) The material is processed continually on-site in the halogen acid furnace via direct
+conveyance (hard piping).
+
+(3) The Administrator will use the following criteria to add wastes to that list:
+
+(i)(A) The materials are ordinarily disposed of, burned, or incinerated; or
+
+(B) The materials contain toxic constituents listed in appendix VIII of part 261 and these
+constituents are not ordinarily found in raw materials or products for which the materials
+substitute (or are found in raw materials or products in smaller concentrations) and are not
+used or reused during the recycling process; and
+
+(ii) The material may pose a substantial hazard to human health and the environment when
+recycled.
+
+(e) Materials that are not solid waste when recycled. (1) Materials are not solid wastes
+when they can be shown to be recycled by being:
+
+(i) Used or reused as ingredients in an industrial process to make a product, provided the
+materials are not being reclaimed; or
+
+(ii) Used or reused as effective substitutes for commercial products; or
+
+(iii) Returned to the original process from which they are generated, without first being
+reclaimed or land disposed. The material must be returned as a substitute for feedstock
+materials. In cases where the original process to which the material is returned is a
+secondary process, the materials must be managed such that there is no placement on the
+land. In cases where the materials are generated and reclaimed within the primary mineral
+processing industry, the conditions of the exclusion found at § 261.4(a)(17) apply rather
+than this paragraph.
+
+(2) The following materials are solid wastes, even if the recycling involves use, reuse, or
+return to the original process (described in paragraphs (e)(1) (i) through (iii) of this
+section):
+
+(i) Materials used in a manner constituting disposal, or used to produce products that are
+applied to the land; or
+
+(ii) Materials burned for energy recovery, used to produce a fuel, or contained in fuels; or
+
+(iii) Materials accumulated speculatively; or
+
+(iv) Materials listed in paragraphs (d)(1) and (d)(2) of this section.
+
+(f) Documentation of claims that materials are not solid wastes or are conditionally exempt
+from regulation. Respondents in actions to enforce regulations implementing subtitle C of
+RCRA who raise a claim that a certain material is not a solid waste, or is conditionally
+exempt from regulation, must demonstrate that there is a known market or disposition for the
+material, and that they meet the terms of the exclusion or exemption. In doing so, they must
+provide appropriate documentation (such as contracts showing that a second person uses the
+material as an ingredient in a production process) to demonstrate that the material is not a
+waste, or is exempt from regulation. In addition, owners or operators of facilities claiming
+that they actually are recycling materials must show that they have the necessary equipment
+to do so.
+
+(g) Sham recycling. A hazardous secondary material found to be sham recycled is considered
+discarded and a solid waste. Sham recycling is recycling that is not legitimate recycling as
+defined in § 260.43.
+
+
+----------------------------------------------------------------------
+
+
+§ 261.3 Definition of hazardous waste.
+--------------------------------------
+
+(a) A solid waste, as defined in § 261.2, is a hazardous waste if:
+
+(1) It is not excluded from regulation as a hazardous waste under § 261.4(b); and
+
+(2) It meets any of the following criteria:
+
+(i) It exhibits any of the characteristics of hazardous waste identified in subpart C of
+this part. However, any mixture of a waste from the extraction, beneficiation, and
+processing of ores and minerals excluded under § 261.4(b)(7) and any other solid waste
+exhibiting a characteristic of hazardous waste under subpart C is a hazardous waste only if
+it exhibits a characteristic that would not have been exhibited by the excluded waste alone
+if such mixture had not occurred, or if it continues to exhibit any of the characteristics
+exhibited by the non-excluded wastes prior to mixture. Further, for the purposes of applying
+the Toxicity Characteristic to such mixtures, the mixture is also a hazardous waste if it
+exceeds the maximum concentration for any contaminant listed in table 1 to § 261.24 that
+would not have been exceeded by the excluded waste alone if the mixture had not occurred or
+if it continues to exceed the maximum concentration for any contaminant exceeded by the
+nonexempt waste prior to mixture.
+
+(ii) It is listed in subpart D of this part and has not been excluded from the lists in
+subpart D of this part under §§ 260.20 and 260.22 of this chapter.
+
+(iii) [Reserved]
+
+(iv) It is a mixture of solid waste and one or more hazardous wastes listed in subpart D of
+this part and has not been excluded from paragraph (a)(2) of this section under §§ 260.20
+and 260.22, paragraph (g) of this section, or paragraph (h) of this section; however, the
+following mixtures of solid wastes and hazardous wastes listed in subpart D of this part are
+not hazardous wastes (except by application of paragraph (a)(2)(i) or (ii) of this section)
+if the generator can demonstrate that the mixture consists of wastewater the discharge of
+which is subject to regulation under either section 402 or section 307(b) of the Clean Water
+Act (including wastewater at facilities which have eliminated the discharge of wastewater)
+and;
+
+(A) One or more of the following spent solvents listed in § 261.31—benzene, carbon
+tetrachloride, tetrachloroethylene, trichloroethylene or the scrubber waters derived-from
+the combustion of these spent solvents—Provided, That the maximum total weekly usage of
+these solvents (other than the amounts that can be demonstrated not to be discharged to
+wastewater) divided by the average weekly flow of wastewater into the headworks of the
+facility's wastewater treatment or pretreatment system does not exceed 1 part per million,
+OR the total measured concentration of these solvents entering the headworks of the
+facility's wastewater treatment system (at facilities subject to regulation under the Clean
+Air Act, as amended, at 40 CFR parts 60, 61, or 63, or at facilities subject to an
+enforceable limit in a federal operating permit that minimizes fugitive emissions), does not
+exceed 1 part per million on an average weekly basis. Any facility that uses benzene as a
+solvent and claims this exemption must use an aerated biological wastewater treatment system
+and must use only lined surface impoundments or tanks prior to secondary clarification in
+the wastewater treatment system. Facilities that choose to measure concentration levels must
+file a copy of their sampling and analysis plan with the Regional Administrator, or State
+Director, as the context requires, or an authorized representative (“Director” as defined in
+40 CFR 270.2). A facility must file a copy of a revised sampling and analysis plan only if
+the initial plan is rendered inaccurate by changes in the facility's operations. The
+sampling and analysis plan must include the monitoring point location (headworks), the
+sampling frequency and methodology, and a list of constituents to be monitored. A facility
+is eligible for the direct monitoring option once they receive confirmation that the
+sampling and analysis plan has been received by the Director. The Director may reject the
+sampling and analysis plan if he/she finds that, the sampling and analysis plan fails to
+include the above information; or the plan parameters would not enable the facility to
+calculate the weekly average concentration of these chemicals accurately. If the Director
+rejects the sampling and analysis plan or if the Director finds that the facility is not
+following the sampling and analysis plan, the Director shall notify the facility to cease
+the use of the direct monitoring option until such time as the bases for rejection are
+corrected; or
+
+(B) One or more of the following spent solvents listed in § 261.31-methylene chloride,
+1,1,1-trichloroethane, chlorobenzene, o-dichlorobenzene, cresols, cresylic acid,
+nitrobenzene, toluene, methyl ethyl ketone, carbon disulfide, isobutanol, pyridine, spent
+chlorofluorocarbon solvents, 2-ethoxyethanol, or the scrubber waters derived-from the
+combustion of these spent solvents—Provided That the maximum total weekly usage of these
+solvents (other than the amounts that can be demonstrated not to be discharged to
+wastewater) divided by the average weekly flow of wastewater into the headworks of the
+facility's wastewater treatment or pretreatment system does not exceed 25 parts per million,
+OR the total measured concentration of these solvents entering the headworks of the
+facility's wastewater treatment system (at facilities subject to regulation under the Clean
+Air Act as amended, at 40 CFR parts 60, 61, or 63, or at facilities subject to an
+enforceable limit in a federal operating permit that minimizes fugitive emissions), does not
+exceed 25 parts per million on an average weekly basis. Facilities that choose to measure
+concentration levels must file a copy of their sampling and analysis plan with the Regional
+Administrator, or State Director, as the context requires, or an authorized representative
+(“Director” as defined in 40 CFR 270.2). A facility must file a copy of a revised sampling
+and analysis plan only if the initial plan is rendered inaccurate by changes in the
+facility's operations. The sampling and analysis plan must include the monitoring point
+location (headworks), the sampling frequency and methodology, and a list of constituents to
+be monitored. A facility is eligible for the direct monitoring option once they receive
+confirmation that the sampling and analysis plan has been received by the Director. The
+Director may reject the sampling and analysis plan if he/she finds that, the sampling and
+analysis plan fails to include the above information; or the plan parameters would not
+enable the facility to calculate the weekly average concentration of these chemicals
+accurately. If the Director rejects the sampling and analysis plan or if the Director finds
+that the facility is not following the sampling and analysis plan, the Director shall notify
+the facility to cease the use of the direct monitoring option until such time as the bases
+for rejection are corrected; or
+
+(C) One of the following wastes listed in § 261.32, provided that the wastes are discharged
+to the refinery oil recovery sewer before primary oil/water/solids separation—heat exchanger
+bundle cleaning sludge from the petroleum refining industry (EPA Hazardous Waste No. K050),
+crude oil storage tank sediment from petroleum refining operations (EPA Hazardous Waste No.
+K169), clarified slurry oil tank sediment and/or in-line filter/separation solids from
+petroleum refining operations (EPA Hazardous Waste No. K170), spent hydrotreating catalyst
+(EPA Hazardous Waste No. K171), and spent hydrorefining catalyst (EPA Hazardous Waste No.
+K172); or
+
+(D) A discarded hazardous waste, commercial chemical product, or chemical intermediate
+listed in §§ 261.31 through 261.33, arising from de minimis losses of these materials. For
+purposes of this paragraph (a)(2)(iv)(D), de minimis losses are inadvertent releases to a
+wastewater treatment system, including those from normal material handling operations (e.g.,
+spills from the unloading or transfer of materials from bins or other containers, leaks from
+pipes, valves or other devices used to transfer materials); minor leaks of process
+equipment, storage tanks or containers; leaks from well maintained pump packings and seals;
+sample purgings; relief device discharges; discharges from safety showers and rinsing and
+cleaning of personal safety equipment; and rinsate from empty containers or from containers
+that are rendered empty by that rinsing. Any manufacturing facility that claims an exemption
+for de minimis quantities of wastes listed in §§ 261.31 through 261.32, or any
+nonmanufacturing facility that claims an exemption for de minimis quantities of wastes
+listed in subpart D of this part must either have eliminated the discharge of wastewaters or
+have included in its Clean Water Act permit application or submission to its pretreatment
+control authority the constituents for which each waste was listed (in 40 CFR 261 appendix
+VII) of this part; and the constituents in the table “Treatment Standards for Hazardous
+Wastes” in 40 CFR 268.40 for which each waste has a treatment standard (i.e., Land Disposal
+Restriction constituents). A facility is eligible to claim the exemption once the permit
+writer or control authority has been notified of possible de minimis releases via the Clean
+Water Act permit application or the pretreatment control authority submission. A copy of the
+Clean Water permit application or the submission to the pretreatment control authority must
+be placed in the facility's on-site files; or
+
+(E) Wastewater resulting from laboratory operations containing toxic (T) wastes listed in
+subpart D of this part, Provided, That the annualized average flow of laboratory wastewater
+does not exceed one percent of total wastewater flow into the headworks of the facility's
+wastewater treatment or pre-treatment system or provided the wastes, combined annualized
+average concentration does not exceed one part per million in the headworks of the
+facility's wastewater treatment or pre-treatment facility. Toxic (T) wastes used in
+laboratories that are demonstrated not to be discharged to wastewater are not to be included
+in this calculation; or
+
+(F) One or more of the following wastes listed in § 261.32—wastewaters from the production
+of carbamates and carbamoyl oximes (EPA Hazardous Waste No. K157)—Provided that the maximum
+weekly usage of formaldehyde, methyl chloride, methylene chloride, and triethylamine
+(including all amounts that cannot be demonstrated to be reacted in the process, destroyed
+through treatment, or is recovered, i.e., what is discharged or volatilized) divided by the
+average weekly flow of process wastewater prior to any dilution into the headworks of the
+facility's wastewater treatment system does not exceed a total of 5 parts per million by
+weight OR the total measured concentration of these chemicals entering the headworks of the
+facility's wastewater treatment system (at facilities subject to regulation under the Clean
+Air Act as amended, at 40 CFR parts 60, 61, or 63, or at facilities subject to an
+enforceable limit in a federal operating permit that minimizes fugitive emissions), does not
+exceed 5 parts per million on an average weekly basis. Facilities that choose to measure
+concentration levels must file copy of their sampling and analysis plan with the Regional
+Administrator, or State Director, as the context requires, or an authorized representative
+(“Director” as defined in 40 CFR 270.2). A facility must file a copy of a revised sampling
+and analysis plan only if the initial plan is rendered inaccurate by changes in the
+facility's operations. The sampling and analysis plan must include the monitoring point
+location (headworks), the sampling frequency and methodology, and a list of constituents to
+be monitored. A facility is eligible for the direct monitoring option once they receive
+confirmation that the sampling and analysis plan has been received by the Director. The
+Director may reject the sampling and analysis plan if he/she finds that, the sampling and
+analysis plan fails to include the above information; or the plan parameters would not
+enable the facility to calculate the weekly average concentration of these chemicals
+accurately. If the Director rejects the sampling and analysis plan or if the Director finds
+that the facility is not following the sampling and analysis plan, the Director shall notify
+the facility to cease the use of the direct monitoring option until such time as the bases
+for rejection are corrected; or
+
+(G) Wastewaters derived-from the treatment of one or more of the following wastes listed in
+§ 261.32—organic waste (including heavy ends, still bottoms, light ends, spent solvents,
+filtrates, and decantates) from the production of carbamates and carbamoyl oximes (EPA
+Hazardous Waste No. K156).—Provided, that the maximum concentration of formaldehyde, methyl
+chloride, methylene chloride, and triethylamine prior to any dilutions into the headworks of
+the facility's wastewater treatment system does not exceed a total of 5 milligrams per liter
+OR the total measured concentration of these chemicals entering the headworks of the
+facility's wastewater treatment system (at facilities subject to regulation under the Clean
+Air Act as amended, at 40 CFR parts 60, 61, or 63, or at facilities subject to an
+enforceable limit in a federal operating permit that minimizes fugitive emissions), does not
+exceed 5 milligrams per liter on an average weekly basis. Facilities that choose to measure
+concentration levels must file copy of their sampling and analysis plan with the Regional
+Administrator, or State Director, as the context requires, or an authorized representative
+(“Director” as defined in 40 CFR 270.2). A facility must file a copy of a revised sampling
+and analysis plan only if the initial plan is rendered inaccurate by changes in the
+facility's operations. The sampling and analysis plan must include the monitoring point
+location (headworks), the sampling frequency and methodology, and a list of constituents to
+be monitored. A facility is eligible for the direct monitoring option once they receive
+confirmation that the sampling and analysis plan has been received by the Director. The
+Director may reject the sampling and analysis plan if he/she finds that, the sampling and
+analysis plan fails to include the above information; or the plan parameters would not
+enable the facility to calculate the weekly average concentration of these chemicals
+accurately. If the Director rejects the sampling and analysis plan or if the Director finds
+that the facility is not following the sampling and analysis plan, the Director shall notify
+the facility to cease the use of the direct monitoring option until such time as the bases
+for rejection are corrected.
+
+(v) Rebuttable presumption for used oil. Used oil containing more than 1000 ppm total
+halogens is presumed to be a hazardous waste because it has been mixed with halogenated
+hazardous waste listed in subpart D of part 261 of this chapter. Persons may rebut this
+presumption by demonstrating that the used oil does not contain hazardous waste (for
+example, to show that the used oil does not contain significant concentrations of
+halogenated hazardous constituents listed in appendix VIII of part 261 of this chapter).
+
+(A) The rebuttable presumption does not apply to metalworking oils/fluids containing
+chlorinated paraffins, if they are processed, through a tolling agreement, to reclaim
+metalworking oils/fluids. The presumption does apply to metalworking oils/fluids if such
+oils/fluids are recycled in any other manner, or disposed.
+
+(B) The rebuttable presumption does not apply to used oils contaminated with
+chlorofluorocarbons (CFCs) removed from refrigeration units where the CFCs are destined for
+reclamation. The rebuttable presumption does apply to used oils contaminated with CFCs that
+have been mixed with used oil from sources other than refrigeration units.
+
+(b) A solid waste which is not excluded from regulation under paragraph (a)(1) of this
+section becomes a hazardous waste when any of the following events occur:
+
+(1) In the case of a waste listed in subpart D of this part, when the waste first meets the
+listing description set forth in subpart D of this part.
+
+(2) In the case of a mixture of solid waste and one or more listed hazardous wastes, when a
+hazardous waste listed in subpart D is first added to the solid waste.
+
+(3) In the case of any other waste (including a waste mixture), when the waste exhibits any
+of the characteristics identified in subpart C of this part.
+
+(c) Unless and until it meets the criteria of paragraph (d) of this section:
+
+(1) A hazardous waste will remain a hazardous waste.
+
+(2)(i) Except as otherwise provided in paragraph (c)(2)(ii), (g) or (h) of this section, any
+solid waste generated from the treatment, storage, or disposal of a hazardous waste,
+including any sludge, spill residue, ash emission control dust, or leachate (but not
+including precipitation run-off) is a hazardous waste. (However, materials that are
+reclaimed from solid wastes and that are used beneficially are not solid wastes and hence
+are not hazardous wastes under this provision unless the reclaimed material is burned for
+energy recovery or used in a manner constituting disposal.)
+
+(ii) The following solid wastes are not hazardous even though they are generated from the
+treatment, storage, or disposal of a hazardous waste, unless they exhibit one or more of the
+characteristics of hazardous waste:
+
+(A) Waste pickle liquor sludge generated by lime stabilization of spent pickle liquor from
+the iron and steel industry (SIC Codes 331 and 332).
+
+(B) Waste from burning any of the materials exempted from regulation by § 261.6(a)(3)(iii)
+and (iv).
+
+(C)(1) Nonwastewater residues, such as slag, resulting from high temperature metals recovery
+(HTMR) processing of K061, K062 or F006 waste, in units identified as rotary kilns, flame
+reactors, electric furnaces, plasma arc furnaces, slag reactors, rotary hearth
+furnace/electric furnace combinations or industrial furnaces (as defined in paragraphs (6),
+(7), and (13) of the definition for “Industrial furnace” in 40 CFR 260.10), that are
+disposed in subtitle D units, provided that these residues meet the generic exclusion levels
+identified in the tables in this paragraph for all constituents, and exhibit no
+characteristics of hazardous waste. Testing requirements must be incorporated in a
+facility's waste analysis plan or a generator's self-implementing waste analysis plan; at a
+minimum, composite samples of residues must be collected and analyzed quarterly and/or when
+the process or operation generating the waste changes. Persons claiming this exclusion in an
+enforcement action will have the burden of proving by clear and convincing evidence that the
+material meets all of the exclusion requirements.
+
+Constituent                                                                                           Maximu
+                                                                                                      m for
+                                                                                                      any
+                                                                                                      single
+                                                                                                      compos
+                                                                                                      ite sa
+                                                                                                      mple—T
+                                                                                                      CLP
+                                                                                                      (mg/l)
+
+Generic exclusion levels for K061 and K062 nonwastewater HTMR residues
+Antimony                                                                                              0.10
+Arsenic                                                                                               0.50
+Barium                                                                                                7.6
+Beryllium                                                                                             0.010
+Cadmium                                                                                               0.050
+Chromium (total)                                                                                      0.33
+Lead                                                                                                  0.15
+Mercury                                                                                               0.009
+Nickel                                                                                                1.0
+Selenium                                                                                              0.16
+Silver                                                                                                0.30
+Thallium                                                                                              0.020
+Zinc                                                                                                  70
+Generic exclusion levels for F006 nonwastewater HTMR residues
+Antimony                                                                                              0.10
+Arsenic                                                                                               0.50
+Barium                                                                                                7.6
+Beryllium                                                                                             0.010
+Cadmium                                                                                               0.050
+Chromium (total)                                                                                      0.33
+Cyanide (total) (mg/kg)                                                                               1.8
+Lead                                                                                                  0.15
+Mercury                                                                                               0.009
+Nickel                                                                                                1.0
+Selenium                                                                                              0.16
+Silver                                                                                                0.30
+Thallium                                                                                              0.020
+Zinc                                                                                                  70
+
+(2) A one-time notification and certification must be placed in the facility's files and
+sent to the EPA region or authorized state for K061, K062 or F006 HTMR residues that meet
+the generic exclusion levels for all constituents and do not exhibit any characteristics
+that are sent to subtitle D units. The notification and certification that is placed in the
+generators or treaters files must be updated if the process or operation generating the
+waste changes and/or if the subtitle D unit receiving the waste changes. However, the
+generator or treater need only notify the EPA region or an authorized state on an annual
+basis if such changes occur. Such notification and certification should be sent to the EPA
+region or authorized state by the end of the calendar year, but no later than December 31.
+The notification must include the following information: The name and address of the
+subtitle D unit receiving the waste shipments; the EPA Hazardous Waste Number(s) and
+treatability group(s) at the initial point of generation; and, the treatment standards
+applicable to the waste at the initial point of generation. The certification must be signed
+by an authorized representative and must state as follows: “I certify under penalty of law
+that the generic exclusion levels for all constituents have been met without impermissible
+dilution and that no characteristic of hazardous waste is exhibited. I am aware that there
+are significant penalties for submitting a false certification, including the possibility of
+fine and imprisonment.”
+
+(D) Biological treatment sludge from the treatment of one of the following wastes listed in
+§ 261.32—organic waste (including heavy ends, still bottoms, light ends, spent solvents,
+filtrates, and decantates) from the production of carbamates and carbamoyl oximes (EPA
+Hazardous Waste No. K156), and wastewaters from the production of carbamates and carbamoyl
+oximes (EPA Hazardous Waste No. K157).
+
+(E) Catalyst inert support media separated from one of the following wastes listed in §
+261.32—Spent hydrotreating catalyst (EPA Hazardous Waste No. K171), and Spent hydrorefining
+catalyst (EPA Hazardous Waste No. K172).
+
+(d) Any solid waste described in paragraph (c) of this section is not a hazardous waste if
+it meets the following criteria:
+
+(1) In the case of any solid waste, it does not exhibit any of the characteristics of
+hazardous waste identified in subpart C of this part. (However, wastes that exhibit a
+characteristic at the point of generation may still be subject to the requirements of part
+268, even if they no longer exhibit a characteristic at the point of land disposal.)
+
+(2) In the case of a waste which is a listed waste under subpart D of this part, contains a
+waste listed under subpart D of this part or is derived from a waste listed in subpart D of
+this part, it also has been excluded from paragraph (c) of this section under §§ 260.20 and
+260.22 of this chapter.
+
+(e) [Reserved]
+
+(f) Notwithstanding paragraphs (a) through (d) of this section and provided the debris as
+defined in part 268 of this chapter does not exhibit a characteristic identified at subpart
+C of this part, the following materials are not subject to regulation under 40 CFR parts
+260, 261 to 266, 268, or 270:
+
+(1) Hazardous debris as defined in part 268 of this chapter that has been treated using one
+of the required extraction or destruction technologies specified in Table 1 of § 268.45 of
+this chapter; persons claiming this exclusion in an enforcement action will have the burden
+of proving by clear and convincing evidence that the material meets all of the exclusion
+requirements; or
+
+(2) Debris as defined in part 268 of this chapter that the Regional Administrator,
+considering the extent of contamination, has determined is no longer contaminated with
+hazardous waste.
+
+(g)(1) A hazardous waste that is listed in subpart D of this part solely because it exhibits
+one or more characteristics of ignitability as defined under § 261.21, corrosivity as
+defined under § 261.22, or reactivity as defined under § 261.23 is not a hazardous waste, if
+the waste no longer exhibits any characteristic of hazardous waste identified in subpart C
+of this part.
+
+(2) The exclusion described in paragraph (g)(1) of this section also pertains to:
+
+(i) Any mixture of a solid waste and a hazardous waste listed in subpart D of this part
+solely because it exhibits the characteristics of ignitability, corrosivity, or reactivity
+as regulated under paragraph (a)(2)(iv) of this section; and
+
+(ii) Any solid waste generated from treating, storing, or disposing of a hazardous waste
+listed in subpart D of this part solely because it exhibits the characteristics of
+ignitability, corrosivity, or reactivity as regulated under paragraph (c)(2)(i) of this
+section.
+
+(3) Wastes excluded under this section are subject to part 268 of this chapter (as
+applicable), even if they no longer exhibit a characteristic at the point of land disposal.
+
+(4) Any mixture of a solid waste excluded from regulation under § 261.4(b)(7) and a
+hazardous waste listed in subpart D of this part solely because it exhibits one or more of
+the characteristics of ignitability, corrosivity, or reactivity as regulated under paragraph
+(a)(2)(iv) of this section is not a hazardous waste, if the mixture no longer exhibits any
+characteristic of hazardous waste identified in subpart C of this part for which the
+hazardous waste listed in subpart D of this part was listed.
+
+(h)(1) Hazardous waste containing radioactive waste is no longer a hazardous waste when it
+meets the eligibility criteria and conditions of 40 CFR part 266, Subpart N (“eligible
+radioactive mixed waste”).
+
+(2) The exemption described in paragraph (h)(1) of this section also pertains to:
+
+(i) Any mixture of a solid waste and an eligible radioactive mixed waste; and
+
+(ii) Any solid waste generated from treating, storing, or disposing of an eligible
+radioactive mixed waste.
+
+(3) Waste exempted under this section must meet the eligibility criteria and specified
+conditions in 40 CFR 266.225 and 40 CFR 266.230 (for storage and treatment) and in 40 CFR
+266.310 and 40 CFR 266.315 (for transportation and disposal). Waste that fails to satisfy
+these eligibility criteria and conditions is regulated as hazardous waste.
+
+
+----------------------------------------------------------------------
+
+
+§ 261.7 Residues of hazardous waste in empty containers.
+--------------------------------------------------------
+
+(a)(1) Any hazardous waste remaining in either: an empty container; or an inner liner
+removed from an empty container, as defined in paragraph (b) of this section, is not subject
+to regulation under parts 261 through 268, 270, or 124 this chapter or to the notification
+requirements of section 3010 of RCRA.
+
+(2) Any hazardous waste in either a container that is not empty or an inner liner removed
+from a container that is not empty, as defined in paragraph (b) of this section, is subject
+to regulation under parts 261 through 268, 270 and 124 of this chapter and to the
+notification requirements of section 3010 of RCRA.
+
+(b)(1) A container or an inner liner removed from a container that has held any hazardous
+waste, except a waste that is a compressed gas or that is identified as an acute hazardous
+waste listed in §§ 261.31 or 261.33(e) of this chapter is empty if:
+
+(i) All wastes have been removed that can be removed using the practices commonly employed
+to remove materials from that type of container, e.g., pouring, pumping, and aspirating, and
+
+(ii) No more than 2.5 centimeters (one inch) of residue remain on the bottom of the
+container or inner liner, or
+
+(iii)(A) No more than 3 percent by weight of the total capacity of the container remains in
+the container or inner liner if the container is less than or equal to 119 gallons in size;
+or
+
+(B) No more than 0.3 percent by weight of the total capacity of the container remains in the
+container or inner liner if the container is greater than 119 gallons in size.
+
+(2) A container that has held a hazardous waste that is a compressed gas is empty when the
+pressure in the container approaches atmospheric.
+
+(3) A container or an inner liner removed from a container that has held an acute hazardous
+waste listed in §§ 261.31 or 261.33(e) is empty if:
+
+(i) The container or inner liner has been triple rinsed using a solvent capable of removing
+the commercial chemical product or manufacturing chemical intermediate;
+
+(ii) The container or inner liner has been cleaned by another method that has been shown in
+the scientific literature, or by tests conducted by the generator, to achieve equivalent
+removal; or
+
+(iii) In the case of a container, the inner liner that prevented contact of the commercial
+chemical product or manufacturing chemical intermediate with the container, has been
+removed.
+
+(c) Containers of hazardous waste pharmaceuticals are subject to § 266.507 for determining
+when they are considered empty, in lieu of this section, except as provided by § 266.507(c)
+and (d).
+
+
+----------------------------------------------------------------------
+
+
+§ 261.20 General.
+-----------------
+
+(a) A solid waste, as defined in § 261.2, which is not excluded from regulation as a
+hazardous waste under § 261.4(b), is a hazardous waste if it exhibits any of the
+characteristics identified in this subpart.
+
+[Comment: § 262.11 of this chapter sets forth the generator's responsibility to determine
+whether his waste exhibits one or more of the characteristics identified in this subpart]
+
+(b) A hazardous waste which is identified by a characteristic in this subpart is assigned
+every EPA Hazardous Waste Number that is applicable as set forth in this subpart. This
+number must be used in complying with the notification requirements of section 3010 of the
+Act and all applicable recordkeeping and reporting requirements under parts 262 through 265,
+268, and 270 of this chapter.
+
+(c) For purposes of this subpart, the Administrator will consider a sample obtained using
+any of the applicable sampling methods specified in appendix I to be a representative sample
+within the meaning of part 260 of this chapter.
+
+[Comment: Since the appendix I sampling methods are not being formally adopted by the
+Administrator, a person who desires to employ an alternative sampling method is not required
+to demonstrate the equivalency of his method under the procedures set forth in §§ 260.20 and
+260.21.]
+
+
+----------------------------------------------------------------------
+
+
+§ 261.21 Characteristic of ignitability.
+----------------------------------------
+
+(a) A solid waste exhibits the characteristic of ignitability if a representative sample of
+the waste has any of the following properties:
+
+(1) It is a liquid, other than a solution containing less than 24 percent alcohol by volume
+and at least 50 percent water by weight, that has a flash point less than 60 °C (140 °F), as
+determined by using one of the following ASTM standards: ASTM D93-79, D93-80, D3278-78,
+D8174-18, or D8175-18 as specified in SW-846 Test Methods 1010B or 1020C (all incorporated
+by reference, see § 260.11 of this subchapter).
+
+(2) It is not a liquid and is capable, under standard temperature and pressure, of causing
+fire through friction, absorption of moisture or spontaneous chemical changes and, when
+ignited, burns so vigorously and persistently that it creates a hazard.
+
+(3) It is an ignitable compressed gas.
+
+(i) The term “compressed gas” shall designate any material or mixture having in the
+container an absolute pressure exceeding 40 p.s.i. at 70 °F or, regardless of the pressure
+at 70 °F, having an absolute pressure exceeding 104 p.s.i. at 130 °F; or any liquid
+flammable material having a vapor pressure exceeding 40 p.s.i. absolute at 100 °F as
+determined by ASTM Test D-323.
+
+(ii) A compressed gas shall be characterized as ignitable if any one of the following
+occurs:
+
+(A) Either a mixture of 13 percent or less (by volume) with air forms a flammable mixture or
+the flammable range with air is wider than 12 percent regardless of the lower limit. These
+limits shall be determined at atmospheric temperature and pressure. The method of sampling
+and test procedure shall be the ASTM E 681-85 (incorporated by reference, see § 260.11 of
+this subchapter), or other equivalent methods approved by the Associate Administrator,
+Pipeline and Hazardous Materials Safety Administration, U.S. Department of Transportation.
+
+(B) It is determined to be flammable or extremely flammable using 49 CFR 173.115(l).
+
+(4) It is an oxidizer. An oxidizer for the purpose of this subchapter is a substance such as
+a chlorate, permanganate, inorganic peroxide, or a nitrate, that yields oxygen readily to
+stimulate the combustion of organic matter.
+
+(i) An organic compound containing the bivalent -O-O- structure and which may be considered
+a derivative of hydrogen peroxide where one or more of the hydrogen atoms have been replaced
+by organic radicals must be classed as an organic peroxide unless:
+
+(A) The material meets the definition of a Division 1.1, 1.2, or 1.3 explosive, as defined
+in § 261.23(a)(8), in which case it must be classed as an explosive,
+
+(B) The material is forbidden to be offered for transportation according to 49 CFR 172.101
+and 49 CFR 173.21,
+
+(C) It is determined that the predominant hazard of the material containing an organic
+peroxide is other than that of an organic peroxide, or
+
+(D) According to data on file with the Pipeline and Hazardous Materials Safety
+Administration in the U.S. Department of Transportation, it has been determined that the
+material does not present a hazard in transportation.
+
+(b) A solid waste that exhibits the characteristic of ignitability has the EPA Hazardous
+Waste Number of D001.
+
+
+----------------------------------------------------------------------
+
+
+§ 261.22 Characteristic of corrosivity.
+---------------------------------------
+
+(a) A solid waste exhibits the characteristic of corrosivity if a representative sample of
+the waste has either of the following properties:
+
+(1) It is aqueous and has a pH less than or equal to 2 or greater than or equal to 12.5, as
+determined by a pH meter using Method 9040C in “Test Methods for Evaluating Solid Waste,
+Physical/Chemical Methods,” EPA Publication SW-846, as incorporated by reference in § 260.11
+of this chapter.
+
+(2) It is a liquid and corrodes steel (SAE 1020) at a rate greater than 6.35 mm (0.250 inch)
+per year at a test temperature of 55 °C (130 °F) as determined by Method 1110A in “Test
+Methods for Evaluating Solid Waste, Physical/Chemical Methods,” EPA Publication SW-846, and
+as incorporated by reference in § 260.11 of this chapter.
+
+(b) A solid waste that exhibits the characteristic of corrosivity has the EPA Hazardous
+Waste Number of D002.
+
+
+----------------------------------------------------------------------
+
+
+§ 261.23 Characteristic of reactivity.
+--------------------------------------
+
+(a) A solid waste exhibits the characteristic of reactivity if a representative sample of
+the waste has any of the following properties:
+
+(1) It is normally unstable and readily undergoes violent change without detonating.
+
+(2) It reacts violently with water.
+
+(3) It forms potentially explosive mixtures with water.
+
+(4) When mixed with water, it generates toxic gases, vapors or fumes in a quantity
+sufficient to present a danger to human health or the environment.
+
+(5) It is a cyanide or sulfide bearing waste which, when exposed to pH conditions between 2
+and 12.5, can generate toxic gases, vapors or fumes in a quantity sufficient to present a
+danger to human health or the environment.
+
+(6) It is capable of detonation or explosive reaction if it is subjected to a strong
+initiating source or if heated under confinement.
+
+(7) It is readily capable of detonation or explosive decomposition or reaction at standard
+temperature and pressure.
+
+(8) It is a forbidden explosive as defined in 49 CFR 173.54, or is a Division 1.1, 1.2 or
+1.3 explosive as defined in 49 CFR 173.50 and 173.53.
+
+(b) A solid waste that exhibits the characteristic of reactivity has the EPA Hazardous Waste
+Number of D003.
+
+
+----------------------------------------------------------------------
+
+
+§ 261.24 Toxicity characteristic.
+---------------------------------
+
+(a) A solid waste (except manufactured gas plant waste) exhibits the characteristic of
+toxicity if, using the Toxicity Characteristic Leaching Procedure, test Method 1311 in “Test
+Methods for Evaluating Solid Waste, Physical/Chemical Methods,” EPA Publication SW-846, as
+incorporated by reference in § 260.11 of this chapter, the extract from a representative
+sample of the waste contains any of the contaminants listed in table 1 at the concentration
+equal to or greater than the respective value given in that table. Where the waste contains
+less than 0.5 percent filterable solids, the waste itself, after filtering using the
+methodology outlined in Method 1311, is considered to be the extract for the purpose of this
+section.
+
+(b) A solid waste that exhibits the characteristic of toxicity has the EPA Hazardous Waste
+Number specified in Table 1 which corresponds to the toxic contaminant causing it to be
+hazardous.
+
+
+Table 1 —Maximum Concentration of Contaminants for the Toxicity Characteristic
+------------------------------------------------------------------------------
+
+EPA HW   Contaminant                                                           CAS No. 2              Regula
+No. 1                                                                                                 tory
+                                                                                                      Level
+                                                                                                      (mg/L)
+
+D004     Arsenic                                                               7440-38-2              5.0
+D005     Barium                                                                7440-39-3              100.0
+D018     Benzene                                                               71-43-2                0.5
+D006     Cadmium                                                               7440-43-9              1.0
+D019     Carbon tetrachloride                                                  56-23-5                0.5
+D020     Chlordane                                                             57-74-9                0.03
+D021     Chlorobenzene                                                         108-90-7               100.0
+D022     Chloroform                                                            67-66-3                6.0
+D007     Chromium                                                              7440-47-3              5.0
+D023     o-Cresol                                                              95-48-7                4
+                                                                                                      200.0
+
+D024     m-Cresol                                                              108-39-4               4
+                                                                                                      200.0
+
+D025     p-Cresol                                                              106-44-5               4
+                                                                                                      200.0
+
+D026     Cresol                                                                                       4
+                                                                                                      200.0
+
+D016     2,4-D                                                                 94-75-7                10.0
+D027     1,4-Dichlorobenzene                                                   106-46-7               7.5
+D028     1,2-Dichloroethane                                                    107-06-2               0.5
+D029     1,1-Dichloroethylene                                                  75-35-4                0.7
+D030     2,4-Dinitrotoluene                                                    121-14-2               3 0.13
+D012     Endrin                                                                72-20-8                0.02
+D031     Heptachlor (and its epoxide)                                          76-44-8                0.008
+D032     Hexachlorobenzene                                                     118-74-1               3 0.13
+D033     Hexachlorobutadiene                                                   87-68-3                0.5
+D034     Hexachloroethane                                                      67-72-1                3.0
+D008     Lead                                                                  7439-92-1              5.0
+D013     Lindane                                                               58-89-9                0.4
+D009     Mercury                                                               7439-97-6              0.2
+D014     Methoxychlor                                                          72-43-5                10.0
+D035     Methyl ethyl ketone                                                   78-93-3                200.0
+D036     Nitrobenzene                                                          98-95-3                2.0
+D037     Pentachlorophenol                                                     87-86-5                100.0
+D038     Pyridine                                                              110-86-1               3 5.0
+D010     Selenium                                                              7782-49-2              1.0
+D011     Silver                                                                7440-22-4              5.0
+D039     Tetrachloroethylene                                                   127-18-4               0.7
+D015     Toxaphene                                                             8001-35-2              0.5
+D040     Trichloroethylene                                                     79-01-6                0.5
+D041     2,4,5-Trichlorophenol                                                 95-95-4                400.0
+D042     2,4,6-Trichlorophenol                                                 88-06-2                2.0
+D017     2,4,5-TP (Silvex)                                                     93-72-1                1.0
+D043     Vinyl chloride                                                        75-01-4                0.2
+1 Hazar
+dous
+waste
+number.
+
+2 Chemi
+cal abs
+tracts
+service
+number.
+
+3 Quant
+itation
+limit
+is
+greater
+than
+the cal
+culated
+regulat
+ory
+level.
+The qua
+ntitati
+on
+limit t
+herefor
+e
+becomes
+the reg
+ulatory
+level.
+
+4 If
+o-, m-,
+and p-
+Cresol
+concent
+rations
+cannot
+be diff
+erentia
+ted,
+the
+total
+cresol
+(D026)
+concent
+ration
+is
+used.
+The reg
+ulatory
+level
+of
+total
+cresol
+is 200
+mg/l.
+
+
+
+----------------------------------------------------------------------
+
+
+§ 261.30 General.
+-----------------
+
+(a) A solid waste is a hazardous waste if it is listed in this subpart, unless it has been
+excluded from this list under §§ 260.20 and 260.22.
+
+(b) The Administrator will indicate his basis for listing the classes or types of wastes
+listed in this subpart by employing one or more of the following Hazard Codes:
+
+Ignitable Waste                (I)
+Corrosive Waste                (C)
+Reactive Waste                 (R)
+Toxicity Characteristic Waste  (E)
+Acute Hazardous Waste          (H)
+Toxic Waste                    (T)
+
+Appendix VII identifies the constituent which caused the Administrator to list the waste as
+a Toxicity Characteristic Waste (E) or Toxic Waste (T) in §§ 261.31 and 261.32.
+
+(c) Each hazardous waste listed in this subpart is assigned an EPA Hazardous Waste Number
+which precedes the name of the waste. This number must be used in complying with the
+notification requirements of Section 3010 of the Act and certain recordkeeping and reporting
+requirements under parts 262 through 265, 267, 268, and 270 of this chapter.
+
+(d) The following hazardous wastes listed in § 261.31 are subject to the generator category
+limits for acutely hazardous wastes established in table 1 of § 262.13 of this subchapter:
+EPA Hazardous Wastes Nos. F020, F021, F022, F023, F026 and F027.
+
+
+----------------------------------------------------------------------
+
+
+§ 261.31 Hazardous wastes from non-specific sources.
+----------------------------------------------------
+
+(a) The following solid wastes are listed hazardous wastes from non-specific sources unless
+they are excluded under §§ 260.20 and 260.22 and listed in appendix IX.
+
+Indust  Hazardous waste                                                                               Hazard
+ry and                                                                                                code
+EPA ha
+zardou
+s
+waste
+No.
+
+Generi
+c:
+
+F001    The following spent halogenated solvents used in degreasing: Tetrachloroethylene,             (T)
+        trichloroethylene, methylene chloride, 1,1,1-trichloroethane, carbon tetrachloride, and
+        chlorinated fluorocarbons; all spent solvent mixtures/blends used in degreasing containing,
+        before use, a total of ten percent or more (by volume) of one or more of the above
+        halogenated solvents or those solvents listed in F002, F004, and F005; and still bottoms
+        from the recovery of these spent solvents and spent solvent mixtures
+
+F002    The following spent halogenated solvents: Tetrachloroethylene, methylene chloride,            (T)
+        trichloroethylene, 1,1,1-trichloroethane, chlorobenzene,
+        1,1,2-trichloro-1,2,2-trifluoroethane, ortho-dichlorobenzene, trichlorofluoromethane, and
+        1,1,2-trichloroethane; all spent solvent mixtures/blends containing, before use, a total of
+        ten percent or more (by volume) of one or more of the above halogenated solvents or those
+        listed in F001, F004, or F005; and still bottoms from the recovery of these spent solvents
+        and spent solvent mixtures
+
+F003    The following spent non-halogenated solvents: Xylene, acetone, ethyl acetate, ethyl benzene,  (I)*
+        ethyl ether, methyl isobutyl ketone, n-butyl alcohol, cyclohexanone, and methanol; all spent
+        solvent mixtures/blends containing, before use, only the above spent non-halogenated
+        solvents; and all spent solvent mixtures/blends containing, before use, one or more of the
+        above non-halogenated solvents, and, a total of ten percent or more (by volume) of one or
+        more of those solvents listed in F001, F002, F004, and F005; and still bottoms from the
+        recovery of these spent solvents and spent solvent mixtures
+
+F004    The following spent non-halogenated solvents: Cresols and cresylic acid, and nitrobenzene;    (T)
+        all spent solvent mixtures/blends containing, before use, a total of ten percent or more (by
+        volume) of one or more of the above non-halogenated solvents or those solvents listed in
+        F001, F002, and F005; and still bottoms from the recovery of these spent solvents and spent
+        solvent mixtures
+
+F005    The following spent non-halogenated solvents: Toluene, methyl ethyl ketone, carbon            (I,T)
+        disulfide, isobutanol, pyridine, benzene, 2-ethoxyethanol, and 2-nitropropane; all spent
+        solvent mixtures/blends containing, before use, a total of ten percent or more (by volume)
+        of one or more of the above non-halogenated solvents or those solvents listed in F001, F002,
+        or F004; and still bottoms from the recovery of these spent solvents and spent solvent
+        mixtures
+
+F006    Wastewater treatment sludges from electroplating operations except from the following         (T)
+        processes: (1) Sulfuric acid anodizing of aluminum; (2) tin plating on carbon steel; (3)
+        zinc plating (segregated basis) on carbon steel; (4) aluminum or zinc-aluminum plating on
+        carbon steel; (5) cleaning/stripping associated with tin, zinc and aluminum plating on
+        carbon steel; and (6) chemical etching and milling of aluminum
+
+F007    Spent cyanide plating bath solutions from electroplating operations                           (R, T)
+F008    Plating bath residues from the bottom of plating baths from electroplating operations where   (R, T)
+        cyanides are used in the process
+
+F009    Spent stripping and cleaning bath solutions from electroplating operations where cyanides     (R, T)
+        are used in the process
+
+F010    Quenching bath residues from oil baths from metal heat treating operations where cyanides     (R, T)
+        are used in the process
+
+F011    Spent cyanide solutions from salt bath pot cleaning from metal heat treating operations       (R, T)
+F012    Quenching waste water treatment sludges from metal heat treating operations where cyanides    (T)
+        are used in the process
+
+F019    Wastewater treatment sludges from the chemical conversion coating of aluminum except from     (T)
+        zirconium phosphating in aluminum can washing when such phosphating is an exclusive
+        conversion coating process. Wastewater treatment sludges from the manufacturing of motor
+        vehicles using a zinc phosphating process will not be subject to this listing at the point
+        of generation if the wastes are not placed outside on the land prior to shipment to a
+        landfill for disposal and are either: disposed in a Subtitle D municipal or industrial
+        landfill unit that is equipped with a single clay liner and is permitted, licensed or
+        otherwise authorized by the state; or disposed in a landfill unit subject to, or otherwise
+        meeting, the landfill requirements in § 258.40, § 264.301 or § 265.301. For the purposes of
+        this listing, motor vehicle manufacturing is defined in paragraph (b)(4)(i) of this section
+        and (b)(4)(ii) of this section describes the recordkeeping requirements for motor vehicle
+        manufacturing facilities
+
+F020    Wastes (except wastewater and spent carbon from hydrogen chloride purification) from the      (H)
+        production or manufacturing use (as a reactant, chemical intermediate, or component in a
+        formulating process) of tri- or tetrachlorophenol, or of intermediates used to produce their
+        pesticide derivatives. (This listing does not include wastes from the production of
+        Hexachlorophene from highly purified 2,4,5-trichlorophenol.)
+
+F021    Wastes (except wastewater and spent carbon from hydrogen chloride purification) from the      (H)
+        production or manufacturing use (as a reactant, chemical intermediate, or component in a
+        formulating process) of pentachlorophenol, or of intermediates used to produce its
+        derivatives
+
+F022    Wastes (except wastewater and spent carbon from hydrogen chloride purification) from the      (H)
+        manufacturing use (as a reactant, chemical intermediate, or component in a formulating
+        process) of tetra-, penta-, or hexachlorobenzenes under alkaline conditions
+
+F023    Wastes (except wastewater and spent carbon from hydrogen chloride purification) from the      (H)
+        production of materials on equipment previously used for the production or manufacturing use
+        (as a reactant, chemical intermediate, or component in a formulating process) of tri- and
+        tetrachlorophenols. (This listing does not include wastes from equipment used only for the
+        production or use of Hexachlorophene from highly purified 2,4,5-trichlorophenol.)
+
+F024    Process wastes, including but not limited to, distillation residues, heavy ends, tars, and    (T)
+        reactor clean-out wastes, from the production of certain chlorinated aliphatic hydrocarbons
+        by free radical catalyzed processes. These chlorinated aliphatic hydrocarbons are those
+        having carbon chain lengths ranging from one to and including five, with varying amounts and
+        positions of chlorine substitution. (This listing does not include wastewaters, wastewater
+        treatment sludges, spent catalysts, and wastes listed in § 261.31 or § 261.32.)
+
+F025    Condensed light ends, spent filters and filter aids, and spent desiccant wastes from the      (T)
+        production of certain chlorinated aliphatic hydrocarbons, by free radical catalyzed
+        processes. These chlorinated aliphatic hydrocarbons are those having carbon chain lengths
+        ranging from one to and including five, with varying amounts and positions of chlorine
+        substitution
+
+F026    Wastes (except wastewater and spent carbon from hydrogen chloride purification) from the      (H)
+        production of materials on equipment previously used for the manufacturing use (as a
+        reactant, chemical intermediate, or component in a formulating process) of tetra-, penta-,
+        or hexachlorobenzene under alkaline conditions
+
+F027    Discarded unused formulations containing tri-, tetra-, or pentachlorophenol or discarded      (H)
+        unused formulations containing compounds derived from these chlorophenols. (This listing
+        does not include formulations containing Hexachlorophene sythesized from prepurified
+        2,4,5-trichlorophenol as the sole component.)
+
+F028    Residues resulting from the incineration or thermal treatment of soil contaminated with EPA   (T)
+        Hazardous Waste Nos. F020, F021, F022, F023, F026, and F027
+
+F032    Wastewaters (except those that have not come into contact with process contaminants),         (T)
+        process residuals, preservative drippage, and spent formulations from wood preserving
+        processes generated at plants that currently use or have previously used chlorophenolic
+        formulations (except potentially cross-contaminated wastes that have had the F032 waste code
+        deleted in accordance with § 261.35 of this chapter or potentially cross-contaminated wastes
+        that are otherwise currently regulated as hazardous wastes (i.e., F034 or F035), and where
+        the generator does not resume or initiate use of chlorophenolic formulations). This listing
+        does not include K001 bottom sediment sludge from the treatment of wastewater from wood
+        preserving processes that use creosote and/or pentachlorophenol
+
+F034    Wastewaters (except those that have not come into contact with process contaminants),         (T)
+        process residuals, preservative drippage, and spent formulations from wood preserving
+        processes generated at plants that use creosote formulations. This listing does not include
+        K001 bottom sediment sludge from the treatment of wastewater from wood preserving processes
+        that use creosote and/or pentachlorophenol
+
+F035    Wastewaters (except those that have not come into contact with process contaminants),         (T)
+        process residuals, preservative drippage, and spent formulations from wood preserving
+        processes generated at plants that use inorganic preservatives containing arsenic or
+        chromium. This listing does not include K001 bottom sediment sludge from the treatment of
+        wastewater from wood preserving processes that use creosote and/or pentachlorophenol
+
+F037    Petroleum refinery primary oil/water/solids separation sludge—Any sludge generated from the   (T)
+        gravitational separation of oil/water/solids during the storage or treatment of process
+        wastewaters and oily cooling wastewaters from petroleum refineries. Such sludges include,
+        but are not limited to, those generated in oil/water/solids separators; tanks and
+        impoundments; ditches and other conveyances; sumps; and stormwater units receiving dry
+        weather flow. Sludge generated in stormwater units that do not receive dry weather flow,
+        sludges generated from non-contact once-through cooling waters segregated for treatment from
+        other process or oily cooling waters, sludges generated in aggressive biological treatment
+        units as defined in § 261.31(b)(2) (including sludges generated in one or more additional
+        units after wastewaters have been treated in aggressive biological treatment units) and K051
+        wastes are not included in this listing. This listing does include residuals generated from
+        processing or recycling oil-bearing hazardous secondary materials excluded under §
+        261.4(a)(12)(i), if those residuals are to be disposed of
+
+F038    Petroleum refinery secondary (emulsified) oil/water/solids separation sludge—Any sludge       (T)
+        and/or float generated from the physical and/or chemical separation of oil/water/solids in
+        process wastewaters and oily cooling wastewaters from petroleum refineries. Such wastes
+        include, but are not limited to, all sludges and floats generated in: induced air flotation
+        (IAF) units, tanks and impoundments, and all sludges generated in DAF units. Sludges
+        generated in stormwater units that do not receive dry weather flow, sludges generated from
+        non-contact once-through cooling waters segregated for treatment from other process or oily
+        cooling waters, sludges and floats generated in aggressive biological treatment units as
+        defined in § 261.31(b)(2) (including sludges and floats generated in one or more additional
+        units after wastewaters have been treated in aggressive biological treatment units) and
+        F037, K048, and K051 wastes are not included in this listing
+
+F039    Leachate (liquids that have percolated through land disposed wastes) resulting from the       (T)
+        disposal of more than one restricted waste classified as hazardous under subpart D of this
+        part. (Leachate resulting from the disposal of one or more of the following EPA Hazardous
+        Wastes and no other Hazardous Wastes retains its EPA Hazardous Waste Number(s): F020, F021,
+        F022, F026, F027, and/or F028.)
+
+*(I,T)
+should
+be
+used
+to spe
+cify m
+ixture
+s that
+are ig
+nitabl
+e and
+contai
+n
+toxic
+consti
+tuents
+.
+
+
+(b) Listing Specific Definitions:
+
+(1) For the purposes of the F037 and F038 listings, oil/water/solids is defined as oil
+and/or water and/or solids.
+
+(2)(i) For the purposes of the F037 and F038 listings, aggressive biological treatment units
+are defined as units which employ one of the following four treatment methods: activated
+sludge; trickling filter; rotating biological contactor for the continuous accelerated
+biological oxidation of wastewaters; or high-rate aeration. High-rate aeration is a system
+of surface impoundments or tanks, in which intense mechanical aeration is used to completely
+mix the wastes, enhance biological activity, and (A) the units employ a minimum of 6 hp per
+million gallons of treatment volume; and either (B) the hydraulic retention time of the unit
+is no longer than 5 days; or (C) the hydraulic retention time is no longer than 30 days and
+the unit does not generate a sludge that is a hazardous waste by the Toxicity
+Characteristic.
+
+(ii) Generators and treatment, storage and disposal facilities have the burden of proving
+that their sludges are exempt from listing as F037 and F038 wastes under this definition.
+Generators and treatment, storage and disposal facilities must maintain, in their operating
+or other onsite records, documents and data sufficient to prove that: (A) the unit is an
+aggressive biological treatment unit as defined in this subsection; and (B) the sludges
+sought to be exempted from the definitions of F037 and/or F038 were actually generated in
+the aggressive biological treatment unit.
+
+(3) (i) For the purposes of the F037 listing, sludges are considered to be generated at the
+moment of deposition in the unit, where deposition is defined as at least a temporary
+cessation of lateral particle movement.
+
+(ii) For the purposes of the F038 listing, (A) sludges are considered to be generated at the
+moment of deposition in the unit, where deposition is defined as at least a temporary
+cessation of lateral particle movement and (B) floats are considered to be generated at the
+moment they are formed in the top of the unit.
+
+(4) For the purposes of the F019 listing, the following apply to wastewater treatment
+sludges from the manufacturing of motor vehicles using a zinc phosphating process.
+
+(i) Motor vehicle manufacturing is defined to include the manufacture of automobiles and
+light trucks/utility vehicles (including light duty vans, pick-up trucks, minivans, and
+sport utility vehicles). Facilities must be engaged in manufacturing complete vehicles (body
+and chassis or unibody) or chassis only.
+
+(ii) Generators must maintain in their on-site records documentation and information
+sufficient to prove that the wastewater treatment sludges to be exempted from the F019
+listing meet the conditions of the listing. These records must include: the volume of waste
+generated and disposed of off site; documentation showing when the waste volumes were
+generated and sent off site; the name and address of the receiving facility; and
+documentation confirming receipt of the waste by the receiving facility. Generators must
+maintain these documents on site for no less than three years. The retention period for the
+documentation is automatically extended during the course of any enforcement action or as
+requested by the Regional Administrator or the state regulatory authority.

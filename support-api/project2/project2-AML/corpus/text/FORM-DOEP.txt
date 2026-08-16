@@ -1,0 +1,464 @@
+
+--- page 1 ---
+OMB No. 1506-0012
+Part I      Exempt Person
+Designation of Exempt Person
+Please type or print
+3  Business Name or Name of Sole Proprietor 4  Doing Business As (DBA)
+5  Address (Number, Street, and Apt. or Suite No.)
+7  State 8  Zip/Postal Code 9  Taxpayer Identification Number
+TD F 90-22.53
+Treasury form
+(January 1999)
+1  Check appropriate box (see instructions):
+    a Initial Designation Biennial Renewalb
+6  City
+Part II     Basis for Exemption
+10 Exemption Basis
+Listed companyc Listed Company SubsidiarydBanka Government Agency / Governmental  Authorityb
+Eligible Non-listed businesse
+2  Check appropriate box
+Exemption Amendeda Exemption Revokedb
+Payroll Customerf
+11 Effective date of the exemption
+M        M       D       D      Y      Y       Y       Y
+15  Address (Number, Street, and Apt. or Suite No.)
+16  City
+Bank Granting or Revoking ExemptionPart III
+13 Name of Bank 14 Primary Federal Regulator  (check only one)
+17 State 18  Zip/Postal Code 19 Taxpayer Identification Number
+20 Title of approving official 21 Signature of approving official 22 Date of Signature
+M        M       D       D      Y      Y       Y       Y
+23 Last name of person to contact 24 First name of person to contact
+( ) -
+25 Telephone number
+Sign
+Here
+26 For Biennial Updates ONLY  (see item 1(b))
+I certify on behalf of the above listed bank that its system of monitoring the transactions in currency of an exempt person for  suspicious activity has
+been applied as necessary, and at least annually, to the account of this exempt person.
+                             Signature of Approving Official
+OCCa FDICb FRSc OTSd NCUAe
+Sign
+Here
+Paperwork Reduction Act Notice:  The purpose of this form is to provide an effective means for banks and depository institutions to exempt eligible customers from currency transaction
+reporting.  This report is required by law, pursuant to 31 CFR 103.22. Federal law enforcement and regulatory agencies, includi ng the U.S. Department the Treasury and other authorized
+authorities may use and share this information.  You are not required to provide the requested information unless a form displa ys a valid OMB control number. Public reporting and  recordkeeping
+burden for this form is estimated to average 70 minutes per response, and includes time to gather and maintain information the required report, review the instructions, and  complete the
+information collection.  The record retention period is five years.  Send comments regarding this burden estimate, including su ggestions for reducing the burden, to the Financial Crimes
+Enforcement Network, Attn: Paperwork Reduction Act; Suite 200; 2070 Chain Bridge Road, Vienna VA 22182-2536
+Cat. No. 26697V
+This form must be used by a bank or other depository institution to designate an eligible customer as an exempt person from cur rency transaction
+reporting rules of the Department of the Treasury (31 CFR 103.22). File this form with:
+U.S. Department of  the Treasury, P.O. Box 33112, Detroit, MI 48232-0112.
+12 Has there been a change in control of the
+exempt person? For 10(e) and (f) only.
+a Yes b No
+--- page 2 ---
+2INSTRUCTIONS
+General Instructions
+Who Must File this Report:   Any bank (see definition) that wishes to
+designate a customer as an exempt person for purposes of CTR
+reporting must file this report.  31 CFR 103.22(d)(3)(i)
+In addition, banks must file this form for the biennial renewal of the
+exempt person designation of eligible non-listed businesses and payroll
+customers.  31 CFR 103.22(d)(5)
+A bank may, but is not required to, use this form to notify the Treasury
+that the bank has revoked the designation of a customer as an exempt
+person.
+For further information, please refer to Title 31 of the Code of Federal
+Regulations, Part 103.  See 31 CFR 103.11 for many definitions, and
+31 CFR 103.22(d) for information on exemptions to CTR reporting.
+When and Where to File -This report must be filed with the U.S.
+Department of the Treasury: Designation at P.O. Box 33112, Detroit MI
+48232-0112.  The report must be filed no later than  30 days after the
+first transaction to be exempted.
+Biennial Renewal (for eligible non-listed businesses and payroll
+customers only):  The report must be filed by March 15 of the second
+calendar year following the year in which the initial designation is made,
+and by every other March 15 thereafter.
+General Definitions
+Bank:  A domestic bank, savings association, thrift institution, or credit
+union.   See 31 CFR 103.11(c).  These may be exempted only to the
+extent of their domestic (i.e. US) operations.
+Biennial Renewal: As provided for by 31 CFR 103.22(d)(5)(ii), the
+exemption status of all eligible non-listed businesses or payroll
+customers (see Item 10 e and f) must be updated once every two years,
+by March 15.  This update is a biennial renewal of the exemption for
+these customers.
+Government Agency / Governmental Authority:  A department or
+agency of the United States, a State, or a political subdivision of a
+State, or (2) an entity established under the laws of the United States,
+of any State, or political subdivision of a State, or under interstate
+compact between 2 or more States, exercising governmental authority
+(i.e. the power to tax, police powers, or the power of eminent domain).
+Listed Company:  A business, other than a bank, whose common
+stock or analogous equity interests are listed on the New York Stock
+Exchange, the American Stock Exchange, or the National Association
+of Securities Dealers Automated Quotation System - National Market
+System.
+See 31 CFR 103.22(d)(2) for the extent to which listed companies that
+are financial institutions may be exempted.
+Listed Company Subsidiary:  A subsidiary, other than a bank, which
+is owned at least 51%, and is controlled, by a Listed Company.
+See 31 CFR 103.22(d)(2)  for the extent to which listed companies
+subsidiaries that are financial institutions may be exempted.
+Eligible Non-Listed business:  A business which (1) has had a
+transaction account at the bank for at least 12 months; (2) frequently
+engages in currency transactions greater than $10,000; (3) is
+incorporated, or organized under the laws of the United States or a
+State, or is registered as and eligible to do business in the United
+States; and (4) is not an ineligible business.
+Eligible non-listed businesses may be exempted only to the extent of
+their domestic (i.e. US) operations.
+Payroll Customers:  A business which (1) has had a transaction
+account at the bank for at least 12 months; (2) frequently withdraws
+more than $10,000 in currency for payroll purposes in order to pay its
+employees in the US; (3) is incorporated or organized under the laws
+of the United States or a State, or is registered as and eligible to do
+business in the United States.
+Ineligible Businesses:  A business engaged primarily in one or
+more of the following activities: serving as financial institutions or
+agents of financial institutions of any type; purchase or sale to
+customers of motor vehicles of any kind, vessels, aircraft, farm
+equipment or mobile homes; the practice of law, accountancy, or
+medicine; auctioning of goods; chartering or operation of ships,
+buses, or aircraft; gaming of any kind (other than licensed pari-mutuel
+betting at race tracks); investment advisory services or investment
+banking services; real estate brokerage; pawn brokerage; title
+insurance and real estate closing; trade union activities; and any
+other activities that may be specified by FinCEN.
+A business that engages in multiple business activities is not an
+ineligible business as long as no more than 50% of its gross
+revenues is derived from one or more ineligible business activities.
+United States:  The States of the United States, the District of
+Columbia, the Indian lands (as defined in the Indian Gaming
+Regulatory Act), and the Territories and Insular Possessions of the
+United States.
+EXPLANATIONS FOR SPECIFIC ITEMS
+Item 3 - Business Name or Last Name of Sole Proprietor:  List the
+full legal name of the business being exempted, or the complete last
+name of the person being exempted.
+Item 9 - Taxpayer Identification Number:  Generally, the Employer
+Identification Number of the Exempt Person.
+Item 14 - Primary Federal Regulator:  OCC = Office of the
+Comptroller of the Currency; OTS = Office of Thrift Supervision; FRS
+= Federal Reserve System; FDIC = Federal Deposit Insurance
+Corporation; NCUA = National Credit Union Administration.
+Item 23, 24, 25 - Contact:   The last and first name, and the
+telephone number of the person within the depository institution to be
+contacted for questions regarding this report.
+--- page 3 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Financial Crimes Enforcement Network 
+FinCEN Designation of Exempt Person 
+(FinCEN 110) Electronic Filing Instructions
+ 
+Release Date October 2012 – Version 1.0 
+--- page 4 ---
+  Financial Crimes Enforcement Network 
+BSA Electronic Filing Requirements for the Designation of Exempt Person (FinCEN Form 110) 
+report 
+27 
+FinCEN DOEP Electronic Filing Instructions 
+ 
+T
+he following instructions apply only to the electronic filing of the Designation of Exempt 
+Person (DOEP) report, FinCEN Form 110, through FinCEN’s BSA E-Filing System. These 
+instructions do not apply to any other current or prior Bank Secrecy Act reports.  
+ 
+General Information 
+ 
+The Bank Secrecy Act and its implementing regulations require banks to file currency 
+transaction reports on transactions in currency of more than $10,000. The regulations also 
+permit a bank to exempt certain customers from currency transaction reporting in accordance 
+with 31 CFR 1020.315. 
+ 
+Banks are the only type of financial institutions that may exempt customers from CTR 
+filing requirements. The term bank is defined in 31CFR 1010.100(d); and includes savings and 
+loan associations, thrift institutions, and credit unions. 
+ 
+The customers that the bank may exempt are called “exempt persons.” An exempt 
+person may be a bank, government agency/government authority, listed company, listed 
+company subsidiary, eligible non-listed business, or payroll customer. 
+ 
+A bank may, but is not required to, use this report to notify the Treasury that the bank 
+has revoked the designation of a customer as an exempt person. 
+ 
+FinCEN encourages banks to use the exemption procedure to the fullest extent. FinCEN 
+reminds banks of their continuing obligation to monitor for and report suspicious activity with 
+respect to transactions of all customers, including currency transactions conducted by exempt 
+persons. 
+ 
+General Instructions 
+ 
+1. Filing: The DOEP should be e-filed through the BSA E-Filing System. Go to 
+h
+ttp://bsaefiling.fincen.treas.gov/index.jsp to register. Any bank that wishes to designate a 
+customer as an exempt person must file the DOEP no later than 30 days after the first 
+transaction to be exempted. 
+ 
+2. Report Completion. Complete the report in accordance with instructions for each 
+item. Unless there is a specific instruction to the contrary, leave blank any items that do not 
+apply. 
+ 
+--- page 5 ---
+  Financial Crimes Enforcement Network 
+BSA Electronic Filing Requirements for the Designation of Exempt Person (FinCEN Form 110) 
+report 
+28 
+3.  Dates. Enter all dates in MM/DD/ YYYY format where MM = month, DD = day, and 
+YYYY = year. Precede any single number with a zero, i.e., 01, 02, etc. 
+ 
+4.  Numbers. Enter all numbers such at identifying and telephone numbers as single 
+number strings without formatting or punctuation such as spaces, hyphens, or parenthesis. 
+ 
+  5.  Addresses. Enter the permanent street address, city, two-letter state or territory 
+abbreviation, and ZIP Code. Provide the apartment number or suite number, if known, 
+following the street address. A non-location address such as a post office box or rural route 
+number should be used only if no other street address information is available. ZIP Codes must 
+be five or nine digits. ZIP Codes must be entered without formatting or special characters such 
+as hyphens. For example, the ZIP Code 12354-6120 would be entered as 123546120. Complete 
+any address item that is known, even if the entire address is unknown. No abbreviations are 
+permitted in city names, which must be completely spelled out. A U.S. city name should match 
+the city name used by the U.S. Postal Service for the associated state and ZIP Code. Use only the 
+authorized U.S. Postal Service state, territory, or military address abbreviations found at 
+https://www.usps.com/ship/official-abbreviations.htm
+.  Foreign batch filers who are completing 
+the Transmitter (1A) Record with foreign address information must use only the Canadian and 
+Mexican state/territory/province codes and ISO country codes approved for use by FinCEN. For 
+Canadian provinces and territories use the Canada Post Corporation codes found at 
+http://www.canadapost.ca/tools/pg/manual/PGaddress-e.asp#1380608.  For Mexican states and 
+territories use the ISO 3166-2 three-letter codes found at 
+http://www.commondatahub.com/live/geography/state_province_region/iso_3166_2_state_code
+s.  For all countries use the ISO 3166-1 two-letter country codes found at 
+http://www.iso.org/iso/country_names_and_code_elements. Note:  The ISO 3166-1 country list 
+includes entries for all U.S. territories.  Do not use these U.S. territory entries, which match the 
+U.S. Postal Service abbreviations required in state fields, in any country field. 
+ 
+6.  Prohibited Words. Do not use the following words or their variations in fields:  
+ 
+a) AKA 
+b) CUSTOMER 
+c) DBA 
+d) NONE 
+e) NOT APPLICABLE 
+f) OTHER 
+g) SAME 
+h) SAME AS ABOVE 
+i) SEE ABOVE 
+j) UNKNOWN 
+k) VARIOUS 
+l) XX 
+--- page 6 ---
+  Financial Crimes Enforcement Network 
+BSA Electronic Filing Requirements for the Designation of Exempt Person (FinCEN Form 110) 
+report 
+29 
+  7.  Name Editing Instructions.  Because many names do not consist of a single first 
+name, middle name, and last name, care must be taken to ensure these names are entered 
+properly in the BSA SAR. This is especially important when there are separate fields for the last 
+name, first name, and middle name. Some names have multiple surnames (family names) or 
+multiple given names that do not include a middle name. Others may not be written in [first 
+name] [middle name] [last name] order. Multiple surnames must be entered in the last name 
+field. For example, Hispanic names may be written in the order of given name, father's last 
+name, and mother's last name, e.g., “Juan Vega Santiago.” 
+ Thus the surname “VEGA 
+SANTIAGO” would be entered in the last name field with “JUAN” entered in the first name 
+field. Some Hispanic surnames consist of three names (e.g., father’s last name, mother’s last 
+name, and husband’s father’s last name in the case of a married woman). 
+ In that case all three 
+would be entered in a last name field. Hispanic names do not have middle names, so a multiple 
+Hispanic given name such as “Rosa Maria” would be recorded in the first name field. In some 
+cultures names consist of multiple first names and a single family name, not necessarily in (first 
+name) (last name) order. For example, the Korean name “Kim, Chun Nam” consists of the 
+family name “Kim” and the first name “Chun Nam” separated by a comma and space. There is 
+no middle name. In this case “KIM” would be entered in the last name field and “CHUN 
+NAM” would be entered in the first name field. Nothing is entered in the middle name field. 
+When an individual name is entered in a single name field it should be entered in [first name] 
+[middle name] [last name] order regardless of any foreign naming conventions. Thus, “Kim, 
+Chun Nam” would be entered as “CHUN NAM KIM” in a single name field. Punctuation and 
+special characters should be used in names only when they are part of the name.  For example, 
+the period in “Expedia.Com” should be included because it is part of the name.  
+Placing a 
+period after a middle initial would be prohibited because the period is not part of the middle 
+name. Abbreviations in names are prohibited unless an abbreviation is part of a legal 
+name.  Entry of middle initials is permitted when a middle name is unknown.  A name suffix 
+may be abbreviated, i.e. Junior can be JR, Senior can be SR, the Third can be III, etc. 
+ 
+Specific Instructions 
+ 
+Part I Filing Information 
+ 
+Item 1--Type of filing. Check only one of the three boxes 1a “Initial designation,” 1b 
+“Exemption amended,” or 1c “Exemption revoked.” 
+If the DOEP amends or revokes a prior 
+designation, include the Document Control Number or BSA Identifier of the prior filing in the 
+associated number field.  If this number is unknown, enter “00000000000000” in the number 
+field.  Leave the number field blank if the filing is an initial designation. 
+ 
+Item 2--Effective date of the exemption. For an initial designation, enter the date of the first 
+transaction to be exempted.  For amended DOEPs, if the effective date of the exemption is not 
+being amended, the date entered should be the same date the bank used in the “effective date of 
+the exemption box” when the initial designation was made.  If the effective date of the 
+--- page 7 ---
+  Financial Crimes Enforcement Network 
+BSA Electronic Filing Requirements for the Designation of Exempt Person (FinCEN Form 110) 
+report 
+30 
+exemption is being amended, enter the revised date of the first transaction to be exempted. If an 
+exemption is being revoked, enter the day after the date of the last transaction that was 
+exempted. 
+ 
+Part II Exempt Person Information 
+  
+Check here if entity.  Check this box if the exempt person is an entity.  Leave this box blank 
+if the exempt person is an individual. 
+ 
+Item 3—Individual’s last name or entity’s legal name of the exempt person. If the exempt 
+person is an entity, enter the full legal name of the exempt person as it is shown on the charter 
+or other document creating the entity. For exempt individuals such as sole proprietorships, 
+enter individual’s last name. 
+ 
+Item 4—First name. Enter the first name of the exempt person if an individual. 
+ 
+Item 5—Middle name. Enter the middle name or initial of the exempt person if an individual. 
+ 
+Item 5—Suffix. Enter the name suffix such as JR, SR, III, etc. of the exempt person if an 
+individual. 
+ 
+Item 6—Alternate name. Enter the individual’s also known as (AKA) or the entity’s doing 
+business as (DBA) name if different from the name entered in Items 3-5.  Do not include the 
+acronyms AKA or DBA with the name. 
+ 
+Item 7—Occupation or type of business. Record the occupation, profession, or type of business 
+of the exempt person.  Use specific descriptions such as doctor, carpenter, attorney, used car 
+dealership, plumber, truck driver, hardware store, etc.  Do not use non-descriptive occupations 
+such as businessman, merchant, retailer, or self-employed without indicating the nature of the 
+occupations, e.g.  shoe merchant or self-employed accountant. 
+ 
+Item 7a—NAICS Code. Select the North American Industry Classification System (NAICS) 
+code for the occupation entered in Item 7.  Batch filers should only use codes from the NAICS 
+Code list on 
+the BSA E-Filing Web Site at http://bsaefiling.fincen.treas.gov/main.html. 
+ 
+Item 8—Address. Enter the permanent street address of the business location of the exempt 
+person.  For exempt persons doing business at more than one physical location, enter the local 
+headquarters address or local address of the exempt person.  For individuals such as sole 
+proprietorships, enter the business address of the individual rather than the home address, 
+unless they are the same. 
+ 
+--- page 8 ---
+  Financial Crimes Enforcement Network 
+BSA Electronic Filing Requirements for the Designation of Exempt Person (FinCEN Form 110) 
+report 
+31 
+Item 9—City. Enter the city associated with the business location of the exempt person.  Do not 
+abbreviate the city name (see General Instruction 5).  
+ 
+Item 10—State. Select the state or territory associated with the business location of the exempt 
+person.  
+ 
+Item 11—ZIP Code. Enter the ZIP Code associated with the business location of the exempt 
+person.  Use only the five or nine-digit ZIP Code assigned to the address by the U.S. Postal 
+Service. 
+ 
+Item 12—TIN. Enter the Employer Identification Number (EIN) or Social Security Number 
+(SSN) of the exempt person. If a sole proprietorship does not have an EIN, enter the proprietor’s 
+Social Security Number (SSN). 
+ 
+Item 13—TIN type. Select the TIN type associated with the TIN in Item 12. 
+ 
+Item 14—E-mail address. Enter the e-mail address associated with the exempt person. 
+ 
+Item 15—Phone number. Enter the telephone number of the exempt person.  Enter as a single 
+number string without formatting and punctuation such as spaces, hyphens, or parenthesis. 
+ 
+Item 15a—Extension. Enter the telephone number extension of the exempt person. 
+ 
+Item 16—Type of exempt person. Check only one of the four boxes 16a “Listed company,” 16b 
+“Listed company subsidiary, 16c “Eligible non-listed business, or 16d “Payroll customer.” 
+ 
+Part III Filer Information 
+ 
+Item 17—Name of bank. Enter the bank’s full legal 
+name. 
+ 
+Item 18—EIN. 
+Enter the bank’s Employer Identification Number (EIN). 
+ 
+Item 19—RSSD. Enter the bank’s Research Statistics Supervision Discount (RSSD) number. 
+ 
+Items 20 - 23—Address. Enter the bank’s headquarters address. 
+ 
+Item 24—Primary federal regulator. Select the bank’s primary federal regulator from the list.
+  
+The options are: 
+ 
+  Federal Reserve Board (FRB) 
+  Federal Deposit Insurance Corporation (FDIC) 
+  Internal Revenue Service (IRS) 
+--- page 9 ---
+  Financial Crimes Enforcement Network 
+BSA Electronic Filing Requirements for the Designation of Exempt Person (FinCEN Form 110) 
+report 
+32 
+  National Credit Union Administration (NCUA) 
+  Office of the Comptroller of the Currency (OCC) 
+ 
+Item 25—Affiliated banks. A parent bank holding company or one of its bank subsidiaries may 
+make the designation of exempt person on behalf of some or all bank subsidiaries of the holding 
+company so long as the designation lists each bank subsidiary that will treat the customer as an 
+exempt person. Check the box in Item 25 and complete an Affiliated Bank Information section 
+on each affiliated bank. Batch filers will complete an Affiliated Bank Information (2B) Record on 
+each affiliated bank. 
+ 
+Part IV Signature 
+ 
+Item 26—Print name. Enter the name of the bank official who authorized the exemption. 
+ 
+Item 27—Title. Enter the title of the bank official who authorized the exemption. 
+ 
+Item 28—Signature. This report is signed when the discrete report or batch file is signed with a 
+personal identification number (PIN) assigned to an appropriate bank official by the BSA E-
+Filing System. 
+ 
+Item 29—Phone number. Enter the telephone number of the bank official who authorized the 
+exemption. 
+ 
+Item 29a—Extension. Enter the telephone number extension of the bank official who authorized 
+the exemption. 
+ 
+ 
+Item 30—Date of signature. If the DOEP is a discrete filing, this date will be supplied by the 
+BSA E-Filing System when the report is signed with a PIN.  Batch filers should enter the 
+signature date in the 3A record.   
+ 
+Paperwork Reduction Act Notice: The purpose of this report is to provide an effective means 
+for banks and depository institutions to exempt eligible customers from currency transaction 
+reporting. This report is required by law, pursuant to 31 CFR 1020.315 Federal law enforcement 
+and regulatory agencies, including the U.S. Department of Treasury and other authorized 
+authorities, may use and share this information. You are not required to provide the requested 
+information unless a report displays a valid OMB control number. Public reporting and 
+recordkeeping burden for this report is estimated to average 70 minutes per response, and 
+includes time to gather and maintain information for the required report, review the 
+instructions, and complete the information collection. The record retention period is five years. 
+Send comments regarding this burden estimate, including suggestions for reducing the burden, 
+to Financial Crimes Enforcement Network, Attention: Paperwork Reduction Act, P. O. Box 39, 
+Vienna, VA 22183-0039. 

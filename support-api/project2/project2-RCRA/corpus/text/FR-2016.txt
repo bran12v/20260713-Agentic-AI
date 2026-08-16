@@ -1,0 +1,1904 @@
+
+--- page 1 ---
+85736 Federal Register / Vol. 81, No. 228 / Monday, November 28, 2016 / Rules and Regulations 
+9 EPA is renaming CESQGs to VSQGs (very small 
+quantity generators). For a detailed discussion on 
+this change, see section VII.A of this preamble. 
+will be to ensure all stakeholders are 
+trained on the new organization and are 
+given an opportunity to revise forms, 
+guidance, and other materials as 
+necessary. EPA will also be revising its 
+own materials to reflect the new 
+citations in the regulations. 
+EPA is finalizing the following 
+general organizational changes: 
+(1) Integrating the generator 
+regulations in § 261.5 into the generator 
+regulations at part 262 by moving 
+§ 261.5 (which contains the regulations 
+applicable to VSQGs, counting of 
+hazardous waste, and mixing of 
+hazardous wastes with non-hazardous 
+wastes); 
+(2) Separating the existing regulations 
+at § 262.34 for SQGs, LQGs and SAAs 
+into three new sections: 
+(a) Conditions for exemption for 
+satellite accumulation areas (SAA) for 
+small and large quantity generators, 
+(b) Conditions for exemption for an 
+SQG that accumulates hazardous waste; 
+and 
+(c) Conditions for exemption for an 
+LQG that accumulates hazardous waste; 
+(3) Using subtitles in these new 
+sections; and 
+(4) Where reasonable, incorporating 
+the text of relevant part 265 regulations 
+into these new sections, rather than 
+merely cross referencing them, as was 
+the former approach. 
+A. Moving and Integrating Regulations 
+From 40 CFR 261.5 Into 40 CFR Part 262 
+Historically, certain hazardous waste 
+generator regulations have been located 
+in a different part of the regulations (40 
+CFR 261.5) from the rest of the generator 
+regulations (40 CFR part 262). Many of 
+the commenters on the proposal 
+confirmed what EPA had heard from 
+stakeholders who stated that the 
+location of § 261.5 was confusing and 
+not user-friendly. Many commenters 
+agreed that locating those requirements 
+in part 262 to consolidate all the 
+generator regulations in the same part 
+was a useful revision that will alleviate 
+much confusion in the regulated 
+community and, in the process, will 
+foster greater compliance with the 
+regulations. 
+Specifically, EPA is moving the 
+definition of a VSQG that generates non- 
+acute hazardous waste at § 261.5(a) into 
+the VSQG definition at § 260.10, moving 
+§ 261.5(c) through (e) about counting 
+hazardous waste and § 261.5(h) though 
+(j) about VSQGs mixing waste to a new 
+section at § 262.13 titled ‘‘Generator 
+category determination’’ and moving 
+§ 261.5(b) and (f) and (g) to a new 
+section at § 262.14 titled ‘‘Conditions for 
+exemption for a very small quantity 
+generator.’’
+9 
+1. Hazardous Waste Generation 
+Quantity Limits for VSQGs (40 CFR 
+260.10) 
+Section 261.5(a) was previously used 
+to set forth the non-acute hazardous 
+waste quantity limits for a VSQG and 
+§ 261.5(e) to provide quantity limits for 
+generating acute hazardous waste and 
+any residue or contaminated soil, waste, 
+or other debris resulting from the 
+cleanup of a spill of acute hazardous 
+waste. Under the reorganized 
+regulations, EPA now defines each 
+category of generator at § 260.10, and, 
+thus, § 261.5(a) and (e) are incorporated 
+into those definitions. 
+2. Determining Generator Category (40 
+CFR 262.13) 
+Section 261.5(c) and (d) previously set 
+forth the provisions for a hazardous 
+waste generator to use in making its 
+generator category determination. Every 
+hazardous waste generator must because 
+determine its generator category in order 
+to identify which regulations are 
+applicable to it. Because § 261.5(c) and 
+(d) are applicable to all hazardous waste 
+generators, it makes sense to move them 
+into 40 CFR part 262, with the other 
+hazardous waste generator regulations. 
+To further aid in making the regulations 
+more user friendly, the Agency has 
+promulgated a new section for generator 
+category determination at § 262.13, 
+titled ‘‘Generator category 
+determination.’’ This new section is 
+thus located because, after a generator of 
+a solid waste determines it has 
+generated a hazardous waste (§ 262.11), 
+the generator must then determine its 
+hazardous waste generator category for 
+the calendar month. 
+In addition, § 261.5(h) through (j), 
+regarding the rules that apply for the 
+mixing of hazardous waste with solid 
+waste, including mixtures with used oil 
+by VSQGs, have been relocated to 
+§ 262.13, making them independent 
+requirements rather than conditions for 
+exemption. This move is logical in the 
+context of the reorganization because 
+the outcome of any determination a 
+VSQG makes about the consequences of 
+mixing waste ultimately affect its 
+generator category first. In addition, 
+§ 262.13 also contains a new citation to 
+the mixing rule in § 261.3 and makes it 
+clear that the mixing rule applies to 
+SQGs and LQGs. These revisions to the 
+generator regulations are all discussed 
+in more depth later in this preamble. 
+Table 1—Crosswalk of Previous 
+Citations to New Citations for 
+Definitions and General Standards 
+provides a summary of the crosswalk 
+between the previous and new 
+regulatory citations for determining a 
+generator’s category. 
+TABLE 1—C ROSSWALK OF PREVIOUS CITATIONS TO NEW CITATIONS FOR DEFINITIONS AND GENERAL STANDARDS 
+Regulation Previous citation New citation Comment 
+Definitions of Generator Cat-
+egories.
+§§ 260.10, 261.5 and 262.34 ........ § 260.10 ........................................ Previous definition of SQG in 
+§ 260.10 was outdated. Gener-
+ator categories were based on 
+§§ 261.5 and 262.34. 
+Hazardous Waste Limits for 
+VSQGs.
+§ 261.5(a) and (e) ......................... § 260.10 ........................................ Included in the new definition of 
+VSQG. 
+Purpose, Scope, and Applicability § 262.10 ........................................ § 262.10 ........................................ Not moved, but expanded signifi-
+cantly. 
+Hazardous Waste Determination 
+and Recordkeeping.
+§§ 262.11 and 262.40(c) ............... § 262.11 ........................................ Content in § 262.11 is expanded 
+and § 262.40(c) is incorporated. 
+VerDate Sep<11>2014 20:32 Nov 25, 2016 Jkt 241001 PO 00000 Frm 00006 Fmt 4701 Sfmt 4700 E:\FR\FM\28NOR3.SGM 28NOR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 2 ---
+85737 Federal Register / Vol. 81, No. 228 / Monday, November 28, 2016 / Rules and Regulations 
+TABLE 1—C ROSSWALK OF PREVIOUS CITATIONS TO NEW CITATIONS FOR DEFINITIONS AND GENERAL STANDARDS— 
+Continued 
+Regulation Previous citation New citation Comment 
+Generator Category Determination § 261.5(c), (d), and (h)–(j) ............ § 262.13 ........................................ New sect ion that explains how to 
+count hazardous waste to de-
+termine generator category. 
+EPA Identification Numbers ........... § 262.12 ........................................ § 262.18 .................................... .... Re-notification requirements are 
+also in this section. 
+Landfill Ban for Liquids .................. § 258.28 ........................................ § 262.35 ........................................ For SQGs and LQGs. 
+3. VSQG Conditions for Exemption (40 
+CFR 262.14) 
+Previous sections 261.5(b) and (f) 
+through (j) established the regulations 
+for VSQGs when accumulating acute 
+and non-acute hazardous waste, 
+identified where the acute and non- 
+acute hazardous waste may be managed 
+off site, and explained the implications 
+of mixing hazardous waste with solid 
+waste or used oil. Since these 
+regulations set forth conditions for 
+exemption for VSQGs, similar to how 
+the regulations found in previous 
+§ 262.34 set forth conditions for 
+exemption for SQGs and LQGs, EPA is 
+moving § 261.5(b) and (f) and (g) to the 
+newly created § 262.14 titled, 
+‘‘Conditions for exemption for a very 
+small quantity generator.’’ All the 
+conditions for exemption for generators 
+are now located parallel to one another 
+in part 262. Section 262.14 also includes 
+the VSQG landfill ban for liquids and a 
+new VSQG consolidation provision by 
+LQGs under the control of the same 
+person. 
+In addition, VSQGs who episodically 
+generate higher amounts of hazardous 
+waste may follow the newly 
+promulgated standards for episodic 
+generation in part 262 subpart L in order 
+to maintain their VSQG status while 
+managing these higher amounts of 
+hazardous waste. Table 2—Crosswalk of 
+Previous Citations to New Citations for 
+VSQGs provides a crosswalk between 
+the previous and the new VSQG 
+conditions for exemption. 
+TABLE 2—C ROSSWALK OF PREVIOUS CITATIONS TO NEW CITATIONS FOR VSQGS 
+Regulation Previous citation New citation Comment 
+VSQG Definition ............................ § 261.5(a) ...................................... § 260.10 .............................. .......... Moved into new definition of 
+VSQG. 
+VSQG Mixtures .............................. § 261.5(h)–(j) ................................. § 262.13(f) ............................ ......... Moved into Generator category 
+determination. 
+Conditions for Exemption for a 
+Very Small Quantity Generator.
+§ 261.5(b), (f), and (g) .................. § 262.14 ........................................ Included in VSQG conditions for 
+exemption. 
+VSQG Consolidation by LQGs 
+Within the Same Company.
+N/A ................................................ § 262.14(a)(5)(viii) ......................... New provision. 
+Landfill Ban for Liquids .................. § 258.28 ........................................ § 262.14(b) .................................... Specific citation for VSQGs. 
+Episodic Generation ...................... N/A ................................................ Part 262 subpart L ........................ New provision. 
+B. SQG and LQG Conditions for 
+Exemption (40 CFR 262.16 and 262.17) 
+SQGs and LQGs may accumulate their 
+hazardous waste on site without 
+complying with the storage facility 
+permit and operating requirements, 
+provided they follow all of the 
+conditions for exemption established 
+originally in § 262.34. Section 262.34 
+became difficult to navigate because the 
+SQG and LQG conditions for exemption 
+were intertwined and contained many 
+cross-references to sections in 40 CFR 
+part 265. Therefore, the Agency is 
+dividing § 262.34 into three new 
+sections at §§ 262.15, 262.16 and 262.17. 
+Section 262.15 lays out the conditions 
+for exemption for SQGs and LQGs 
+operating an SAA, § 262.16 identifies 
+conditions for exemption for SQGs, and 
+§ 262.17 identifies the conditions for 
+exemption for LQGs. 
+1. Satellite Accumulation Area 
+Conditions for Exemption for SQGs and 
+LQGs (40 CFR 262.15) 
+Many generators use SAAs at their 
+sites. These areas allow generators to 
+accumulate hazardous waste near the 
+point of generation under the control of 
+the operator of the process generating 
+the waste, which provides for efficiency 
+and greater safety in the handling of 
+hazardous waste. When the generator 
+has accumulated 55 gallons of 
+hazardous waste (or one quart of acute 
+hazardous waste) in the SAA, the 
+generator must then move the hazardous 
+waste to the 90- or 180-day central 
+accumulation area within three days. 
+Under the old framework, the 
+conditions for exemption for operating 
+an SAA were located at § 262.34(c), 
+between the hazardous waste 
+accumulation conditions for LQGs and 
+those for SQGs. This created confusion 
+as to whether the provisions apply to 
+LQGs only or to both SQGs and LQGs. 
+In this final rule, the Agency is therefore 
+moving 40 CFR 262.34(c) into its own 
+section at § 262.15 titled, ‘‘Satellite 
+accumulation area regulations for small 
+and large quantity generators.’’ 
+Additionally, the Agency is copying 
+the text in §§ 265.171, 265.172 and 
+265.173(a) (which previously were 
+simply referenced in § 262.34(c)(1)(i)) 
+into § 262.15 in order to eliminate cross- 
+referencing and improve the user 
+friendliness of the regulations. Table 3— 
+Crosswalk of Previous Citations to New 
+Citations for SAAs provides a summary 
+of the crosswalk between previous and 
+new regulations for SAAs. 
+VerDate Sep<11>2014 20:32 Nov 25, 2016 Jkt 241001 PO 00000 Frm 00007 Fmt 4701 Sfmt 4700 E:\FR\FM\28NOR3.SGM 28NOR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 3 ---
+85742 Federal Register / Vol. 81, No. 228 / Monday, November 28, 2016 / Rules and Regulations 
+13 The Solid Waste Disposal Act as Amended by 
+the Hazardous and Solid Waste Amendments of 
+1984, Section 3001(d). 
+14 51 FR 10154, March 24, 1986. 
+15 This table is being finalized in the regulations 
+as Table 1 to § 262.13. 
+hazardous waste generator system. In 
+addition, EPA believes that the meaning 
+of ‘‘greater than’’ and ‘‘less than’’ is 
+clear without the use of the arithmetic 
+symbols. 
+Finally, EPA does not agree with the 
+commenters who stated that it would be 
+appropriate to allow a generator to 
+average hazardous waste generation 
+over several months and use the average 
+to determine its generator category. 
+Beyond the practical implementation 
+concerns with this approach, and 
+despite the commenters’ argument that 
+this approach would be consistent with 
+the statute’s intent, EPA has long 
+interpreted the RCRA statement that a 
+generator’s category be based on the 
+amount of waste generated ‘‘during a 
+calendar month’’ at face value: The 
+generator must know the quantity of 
+hazardous waste it generates per month, 
+not as an average of some sort, and be 
+regulated accordingly.
+13 EPA rejected 
+similar approaches in the March 24, 
+1986, final rule that established the 
+current small quantity generator 
+regulations and is not changing that 
+interpretation as a part of this 
+rulemaking.
+14 
+EPA does agree with the comment 
+that any acute hazardous waste cleaned 
+up in debris is counted as part of the 
+‘‘residue or contaminated soil, water, or 
+other debris resulting from the cleanup 
+of a spill . . . of any acute hazardous 
+waste’’ and is not counted separately as 
+acute hazardous waste. 
+Regarding ‘‘conditionally exempt 
+small quantity generators,’’ EPA 
+received comments on the proposal 
+arguing that the users of the term 
+‘‘conditionally exempt small quantity 
+generator’’ are familiar with its meaning 
+and do not need a revision and that 
+states will need to update materials and 
+forms with the new term, VSQG. EPA 
+has determined that although the users 
+of the regulation are familiar with this 
+term as it is used currently, there is real 
+value in revising it so that those who 
+will be introduced to the RCRA 
+generator program in the future can 
+make more sense of the terms. As stated 
+previously, EPA will be revising its own 
+materials, as necessary, to account for 
+the new term and will work with states 
+to phase in the changed terminology 
+over time. 
+Effect of the Reorganization: This 
+section is not affected by the 
+reorganization. 
+B. Generators That Generate Both Acute 
+and Non-Acute Hazardous Waste in the 
+Same Calendar Month (40 CFR 260.10) 
+1. Introduction 
+As stated previously in the discussion 
+of the definitions of the categories, 
+when a generator is determining its 
+generator category, it must consider 
+three relevant types of hazardous waste: 
+Hazardous waste (or ‘‘non-acute 
+hazardous waste,’’ for purposes of this 
+discussion), acute hazardous waste, and 
+residues from the cleanup of a spill of 
+acute hazardous waste. Historically, the 
+RCRA hazardous waste regulations have 
+not addressed situations involving 
+combinations of wastes and Agency 
+statements about this issue have been 
+inconsistent. This situation led EPA to 
+propose regulations to clarify a 
+generator’s category for a calendar 
+month during which it generates any 
+combination of non-acute hazardous 
+waste, acute hazardous waste, and 
+residues from the cleanup of a spill of 
+acute hazardous waste. 
+EPA discussed its history of 
+statements on this topic in the proposed 
+rule at 80 FR 57927, noting examples of 
+contradictory EPA statements that a 
+generator can have just one category per 
+calendar month and EPA statements 
+that a generator can manage acute 
+hazardous waste as one category of 
+generator and non-acute hazardous 
+waste as a different category of generator 
+in the same calendar month. 
+EPA proposed a more practical 
+approach that a generator can be in only 
+one generator category in a calendar 
+month and noted that many EPA 
+Regions and states have taken this same 
+approach in implementing the RCRA 
+hazardous waste program. 
+2. What is EPA finalizing? 
+EPA is finalizing definitions of the 
+generator categories that expressly state 
+which generator category would apply 
+to hazardous waste generators that 
+generate a combination of non-acute 
+hazardous waste, acute hazardous 
+waste, and/or residues from the cleanup 
+of spills of acute hazardous waste in a 
+calendar month as discussed earlier in 
+this section of the preamble. 
+In conjunction with these changes, 
+EPA is finalizing a new section § 262.13 
+explaining how a generator determines 
+its applicable generator category. This 
+topic is fully discussed in section IX.C 
+of this preamble. 
+EPA’s decision to finalize this 
+approach is based partially on 
+developing a practical solution to 
+situations where a generator generates, 
+for example, acute and non-acute 
+hazardous waste in the same month. 
+This approach is analogous to situations 
+in which a generator that generates only 
+non-acute hazardous wastes counts its 
+various hazardous wastes. In those 
+situations, a generator must consider the 
+total amount of all its different kinds of 
+non-acute hazardous waste, not the 
+amount of each type of hazardous waste 
+(e.g., type of waste identified by 
+individual EPA hazardous waste 
+number) separately. Therefore, a 
+generator must similarly follow the 
+same logic in considering the 
+combination of acute hazardous wastes, 
+non-acute hazardous wastes, and 
+residues from the cleanup of a spill of 
+acute hazardous waste generated in a 
+calendar month when determining 
+which category a generator belongs to. 
+We note that many EPA Regions and 
+states have taken this same approach in 
+implementing the RCRA hazardous 
+waste program and many of the state 
+agencies that commented on the 
+proposed rule stated they were in 
+support of these changes to the 
+regulations for the reasons EPA 
+described in the preamble to the 
+proposed rule, particularly because of 
+the inconsistencies in the guidance. 
+In practice, five waste generation 
+scenarios exist with different 
+combinations of acute hazardous waste, 
+non-acute hazardous waste, and 
+residues from the cleanup of spills of 
+acute hazardous waste generated in a 
+calendar month. These scenarios are 
+summarized in Table 6—Generator 
+Categories Based on Quantity of Waste 
+Generated.
+15 
+VerDate Sep<11>2014 20:32 Nov 25, 2016 Jkt 241001 PO 00000 Frm 00012 Fmt 4701 Sfmt 4700 E:\FR\FM\28NOR3.SGM 28NOR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 4 ---
+85743 Federal Register / Vol. 81, No. 228 / Monday, November 28, 2016 / Rules and Regulations 
+16 Amount of hazardous waste accumulated on 
+site at any given time can also impact what 
+regulations the SQG must comply with. 
+17 SQGs can also accumulate hazardous waste for 
+up to 270 days if they ship the hazardous waste 
+greater than 200 miles. 
+18 ‘‘Academic Labs Rule’’; 73 FR 72912, December 
+1, 2008. 
+TABLE 6—G ENERATOR CATEGORIES BASED ON QUANTITY OF WASTE GENERATED 
+Quantity of acute 
+hazardous waste 
+generated in a 
+calendar month 
+Quantity of non-acute 
+hazardous waste 
+generated in a 
+calendar month 
+Quantity of residues from the cleanup of 
+spilled acute 
+hazardous waste 
+generated in a 
+calendar month 
+Generator 
+category 
+> 1 kg ........................................................ Any amount .............................................. Any amoun t .............................................. LQG. 
+Any amount ............................................... ≥ 1,000 kg ................................................ Any amount .............................................. LQG. 
+Any amount ............................................... Any amount .............................................. > 100 kg ...... ............................................. LQG. 
+≤ 1 kg ........................................................ > 100 kg and < 1,000 kg ......................... ≤ 100 kg ................................................... SQG. 
+≤ 1 kg ........................................................ ≤ 100 kg ................................................... ≤ 100 kg ................................................... VSQG. 
+Note: When calculating generator categories, the quantities of acute hazardous waste and non-acute hazardous waste are considered 
+separately. 
+In three of the five possible scenarios, 
+the generator is an LQG; in one scenario, 
+the generator is an SQG; and in one 
+scenario, the generator is a VSQG. 
+As the table indicates, in the first 
+three scenarios, the generator is an LQG 
+if it generates any of the following in a 
+calendar month: More than 1 kilogram 
+of acute hazardous waste, 1,000 
+kilograms or more of non-acute 
+hazardous waste, or more than 100 
+kilograms of residues from the cleanup 
+of a spill of acute hazardous waste. This 
+is true regardless of the amount of waste 
+generated in the other categories. This 
+fact is made clear in the final regulatory 
+definition of ‘‘LQG’’ by stating that a 
+generator is an LQG if it generates ‘‘any’’ 
+of the types of hazardous waste in the 
+amounts listed and by using of the word 
+‘‘or’’ between (1), (2), and (3). 
+As an LQG, the generator must 
+comply with the independent 
+requirements for LQGs (specified in 
+§ 262.10) and the conditions for 
+exemption for LQGs (specified in 
+§ 262.17), as well as any applicable 
+conditions for exemption for SAAs at 
+§ 262.15. 
+In the fourth scenario, the generator is 
+an SQG if, in a calendar month, it 
+generates greater than 100 kilograms 
+and less than 1,000 kilograms of non- 
+acute hazardous waste and also 1 
+kilogram or less of acute hazardous 
+waste and 100 kilograms or less of 
+residues from the cleanup of a spill of 
+acute hazardous waste.
+16 The final 
+regulatory text expresses this scenario 
+by using the word ‘‘and’’ between (1), 
+(2), and (3) in the definition of SQG. 
+As an SQG, the generator must 
+comply with the independent 
+requirements for SQGs (specified in 
+§ 262.10) and the conditions for the 
+exemption for SQGs (specified in 
+§ 262.16), as well as any applicable 
+conditions for exemption for SAAs at 
+§ 262.15. 
+Finally, in the fifth scenario, if a 
+generator generates 1 kilogram or less of 
+acute hazardous waste and 100 
+kilograms or less of non-acute 
+hazardous waste and 100 kilograms or 
+less of residue from the cleanup of a 
+spill of acute hazardous waste, then the 
+generator is a VSQG for that calendar 
+month. The regulatory text expresses 
+this scenario by using the word ‘‘and’’ 
+between (1), (2), and (3) in the 
+definition. 
+As a VSQG, the generator must 
+comply with the independent 
+requirements for VSQGs (specified in 
+§ 262.10) and the conditions for 
+exemption for VSQGs (specified in 
+§ 262.14). 
+3. What changed since proposal? 
+EPA is finalizing the definitions for 
+the generator categories as proposed and 
+has not made revisions to how it expects 
+generators to determine their generator 
+category when they generate acute and 
+non-acute hazardous waste. 
+4. Major Comments 
+Some commenters who opposed 
+EPA’s proposal that a generator should 
+manage all its waste under the same 
+generator category argued this would be 
+a change to how they are currently 
+operating and that it is burdensome to 
+operate a whole generator site as an 
+LQG because of the existence of LQG 
+levels of acute hazardous waste. 
+EPA recognizes commenters’ concerns 
+about disruption to, and burdens on, 
+current operations. However, EPA has 
+determined that if the definitions of the 
+generator categories are going to depend 
+on the amounts of hazardous waste 
+generated, it does not, in the end, make 
+practical sense to have a generator that 
+is operating in more than one category. 
+EPA notes that some comments stated 
+that there will be a difference for those 
+generators that have been managing 
+acute hazardous waste in a separate area 
+and only having a RCRA contingency 
+plan for that area, but believes that those 
+generators are LQGs and should be 
+following the independent requirements 
+and conditions for exemption for LQGs 
+for all waste areas. Again, many states 
+and EPA Regions commented that they 
+are already interpreting the regulations 
+in this way so EPA does not anticipate 
+that these changes will have a major 
+effect in program implementation. In 
+fact, these revisions are making the 
+regulations consistent with how most 
+programs are operating currently. 
+Effect of the Reorganization: This 
+section is not affected by the 
+reorganization. 
+C. Definition of Central Accumulation 
+Area (40 CFR 260.10) 
+1. Introduction 
+In the proposal at 80 FR 57927, the 
+Agency discussed defining the term 
+‘‘central accumulation area’’ (CAA) in 
+§ 260.10. LQGs may accumulate 
+hazardous waste on site without a 
+permit or complying with the interim 
+status standards for up to 90 days, 
+provided they comply with the 
+conditions of § 262.17 and SQGs may do 
+the same for up to 180 days, provided 
+they comply with the conditions of 
+§ 262.16.
+17 Over the years, stakeholders 
+have used different terms to refer to 
+these on-site generator accumulation 
+areas, including ‘‘generator 
+accumulation areas,’’ ‘‘less-than-90-day 
+areas,’’ and ‘‘less-than-180-day areas.’’ 
+In December 2008, EPA promulgated a 
+definition of ‘‘central accumulation 
+area’’ in subpart K of part 262 to refer 
+to these types of areas.
+18 EPA codified 
+the term ‘‘central accumulation area’’ for 
+the sake of convenience to distinguish 
+these types of accumulation areas from 
+satellite accumulation areas and 
+laboratories, which are both subject to 
+different regulations than central 
+accumulation areas are in that rule. At 
+the time, EPA promulgated the term in 
+VerDate Sep<11>2014 20:32 Nov 25, 2016 Jkt 241001 PO 00000 Frm 00013 Fmt 4701 Sfmt 4700 E:\FR\FM\28NOR3.SGM 28NOR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 5 ---
+85748 Federal Register / Vol. 81, No. 228 / Monday, November 28, 2016 / Rules and Regulations 
+21 Section 262.18(c) has been moved as part of the 
+reorganization from § 262.12(c). 
+22 Hazardous Waste Determination Program 
+Evaluation, IEc, April 2013. http://www.epa.gov/
+evaluate/pdf/waste/haz-waste-determination.pdf; 
+and Summary of Waste Determination Meetings 
+with VT and NH State Officials on September 27– 
+28, 2010; and ‘‘10 Most Common Hazardous Waste 
+(RCRA) Violations in Georgia: 40 CFR 262.11 
+‘‘Hazardous Waste Determination,’’ Georgia 
+Department of Natural Resources https://
+epd.georgia.gov/sites/epd.georgia.gov/files/related_
+files/site_page/guidehwdet.pdf. For more citations, 
+see the proposed Generator Improvements Rule, 
+page 57936–57937, September 25, 2015. 
+2. Generators Shall Not Transport to a 
+Non-Designated Facility 
+a. Introduction. As the Agency has 
+stated numerous times in the 
+development and implementation of the 
+RCRA hazardous waste program, a 
+fundamental aspect of the program is 
+the responsibility placed on the 
+generator of hazardous waste to ensure 
+its hazardous waste is properly managed 
+from cradle to grave. Numerous existing 
+regulatory provisions are designed to 
+ensure that generators send their 
+hazardous waste only to authorized 
+TSDFs or other authorized facilities. See 
+for example, §§ 262.18(c),
+21 262.20(b), 
+262.40(a). However, from experience 
+with implementing the program, the 
+Agency has found situations where a 
+generator failed to send its hazardous 
+waste to a facility authorized to receive 
+that waste, thus creating both regulatory 
+and potential hazardous waste 
+mismanagement problems. The Agency 
+believes that a statement expressly 
+prohibiting a generator from sending 
+hazardous waste to a facility not 
+authorized to accept it is necessary to 
+ensure that generators understand they 
+have this obligation. Therefore, the 
+Agency proposed adding such a new 
+independent requirement at 
+§ 262.10(a)(3). 
+b. What is EPA finalizing? EPA is 
+finalizing this provision as proposed 
+and is promulgating § 262.10(a)(3), 
+which clearly and explicitly states that 
+a generator cannot offer or otherwise 
+cause its waste to be sent to a facility 
+that is not authorized to accept it. 
+This provision is being added to the 
+regulatory framework and not replacing 
+§§ 262.18(c), 262.20(b), 262.40(a), as 
+those provisions are aimed at other 
+aspects of the generator program (for 
+example, ensuring manifests are 
+properly completed). 
+EPA received general support from 
+most of the commenters on this 
+provision, with one commenter stating 
+that the provision was unnecessary. 
+EPA believes that the provision is 
+necessary, as it is a cornerstone of the 
+generator program and should be 
+explicitly stated in the regulations to 
+ensure that all generators are aware of 
+it. 
+Effect of the Reorganization: This 
+section is not affected by the 
+reorganization. 
+3. Deletion of § 262.10(c) 
+a. Introduction. EPA proposed 
+deleting and reserving § 262.10(c) of the 
+hazardous waste regulations because it 
+is outdated, confusing and unnecessary. 
+The provision describes the 
+requirements for a generator who treats, 
+stores, or disposes of hazardous waste 
+on site and includes a list of provisions 
+these generators must comply with. 
+When § 262.10(c) was initially 
+promulgated on February 26, 1980, the 
+hazardous waste generator regulations 
+distinguished between the generators 
+that sent hazardous waste to be 
+managed off site and those that managed 
+their hazardous waste on site. 
+Generators that sent hazardous waste off 
+site could manage it for 90 days in an 
+accumulation area, but generators that 
+managed hazardous waste on site were 
+expected to manage it under their 
+permits or under interim status 
+regulations. The purpose of § 262.10(c) 
+was to provide the list of requirements 
+that generators managing hazardous 
+waste were required to follow in 
+addition to those permits or interim 
+status requirements. 
+This distinction meant that the two 
+types of generators had very different 
+standards for the areas where newly 
+generated hazardous waste was 
+managed. Significantly, generators 
+sending hazardous waste off site could 
+easily make physical changes to their 
+accumulation areas, whereas a similar 
+generator managing hazardous waste on 
+site under a permit had to go through 
+the permit modification process to make 
+the same kind of changes. EPA 
+effectively eliminated the distinctions 
+by revising these regulations (45 FR 
+76624, November 19, 1980 and 47 FR 
+1248, January 11, 1982). The final rule 
+promulgated in January 11, 1982, made 
+a change to § 262.10(c) that added the 
+generator accumulation provisions at 
+§ 262.34 to the list of provisions that 
+apply to a generator that treats, stores, 
+or disposes of hazardous waste on site. 
+Currently, the Agency does not make 
+this distinction between generators that 
+send waste for treatment off site and 
+those that manage waste on site. This 
+revision is therefore outdated and, thus, 
+should be deleted and reserved. 
+b. What is EPA finalizing? EPA 
+received general support from most 
+commenters who addressed this issue 
+and is finalizing the deletion of the 
+paragraph. Section 262.10(c) will be 
+reserved to avoid reusing that specific 
+paragraph. 
+Effect of the Reorganization: This 
+deletion is not affected by the 
+reorganization. 
+4. Deletion of Reference to Laboratory 
+XL Project Regulations (40 CFR 262.10(j) 
+and Part 262 Subpart J) 
+The Laboratory XL Project was 
+created for Boston College, the 
+University of Massachusetts, and the 
+University of Vermont, and was 
+finalized in the Federal Register on 
+September 28, 1999 (64 FR 53292). 
+Originally, the program was to expire on 
+September 30, 2003. But on June 21, 
+2006, EPA extended the program and 
+the new expiration date was changed to 
+April 15, 2009 (71 FR 35550). Since the 
+program has now expired, EPA is 
+deleting paragraph (j) from § 262.10, as 
+well as part 262 subpart J and reserving 
+them. 
+Effect of the Reorganization: This 
+deletion is not affected by the 
+reorganization. 
+B. Waste Determinations (40 CFR 
+262.11) 
+1. Introduction 
+Under RCRA, generators are the first 
+critical link in ensuring safe 
+management of hazardous waste. They 
+are the cradle in the cradle-to-grave 
+RCRA system. The first and most 
+important step in the regulations is for 
+generators of solid waste (as defined at 
+§ 261.2) to determine whether their 
+waste is also a hazardous waste by using 
+§ 262.11. If a generator fails to identify 
+a hazardous waste as hazardous, it will 
+not start the waste down the hazardous 
+waste management path and the critical 
+gateway to the RCRA Subtitle C safe 
+management system will be missed. 
+Such mismanagement of hazardous 
+waste may result in damage to human 
+health and/or the environment. 
+Thus, the success of the hazardous 
+waste regulatory program depends, to a 
+great extent, on generators making 
+accurate hazardous waste 
+determinations. However, as described 
+in the proposal, EPA has observed 
+through various efforts that generators 
+struggle with this crucial first step with 
+the estimated rates of non-compliance 
+ranging from 20 to 30 percent.
+22 With an 
+estimated generator universe in the 
+hundreds of thousands, the potential for 
+the mismanagement of hazardous waste 
+and the impact on public health and the 
+environment is significant. Therefore, 
+given the importance of this regulatory 
+provision, the Agency proposed several 
+changes to the waste determination 
+regulations at § 262.11 in an effort to 
+clarify them, and thereby foster 
+VerDate Sep<11>2014 20:32 Nov 25, 2016 Jkt 241001 PO 00000 Frm 00018 Fmt 4701 Sfmt 4700 E:\FR\FM\28NOR3.SGM 28NOR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 6 ---
+85749 Federal Register / Vol. 81, No. 228 / Monday, November 28, 2016 / Rules and Regulations 
+23 Comment by individual consumer. Docket 
+number: EPA–HQ–RCRA–2012–0121–0160 
+improved compliance by generators. 
+These proposed changes were intended 
+primarily to codify Agency 
+interpretations that have been 
+developed and implemented over the 
+last 35 years in Federal Register notices, 
+policy, letters, and other guidance. 
+Specifically, the proposed rule 
+included revisions to the § 262.11 
+regulations that would (1) clarify that 
+hazardous waste determinations must 
+be accurate; (2) confirm that a 
+generator’s waste must be classified at 
+its point of generation and, for wastes 
+potentially exhibiting a hazardous 
+characteristic, at any time during the 
+course of its management when the 
+properties of the wastes may change in 
+such a way as to change the hazardous 
+waste determination; (3) revise the 
+language on how to make a 
+determination for listed hazardous 
+waste in § 262.11 to explain more fully 
+how generators can make this kind of 
+determination using generator 
+knowledge; (4) explain more completely 
+in the regulations at § 262.11 how a 
+generator should evaluate its waste to 
+determine whether the waste may 
+exhibit one of the hazardous 
+characteristics; (5) move the 
+independent recordkeeping and 
+retention requirements for hazardous 
+waste determinations currently found at 
+§ 262.40(c) into § 262.11 to integrate this 
+provision more directly into the 
+hazardous waste determination 
+regulations; (6) revise the hazardous 
+waste determination recordkeeping 
+regulations to require that SQGs and 
+LQGs maintain records of any test 
+results, waste analyses, or other 
+determinations made in accordance 
+with § 262.11 for at least three years, 
+including waste determinations where a 
+solid waste (as defined in § 261.2) is 
+found not to be a RCRA hazardous 
+waste (as defined in § 261.3); (7) revise 
+the hazardous waste determination 
+regulations by copying § 262.40(d) into 
+§ 262.11 to address situations where an 
+enforcement action has been initiated 
+and the period of record retention (e.g., 
+three years from when the record was 
+generated) must be extended 
+automatically during the course of any 
+unresolved enforcement action 
+regarding the regulated activity or as 
+requested by the Administrator, and (8) 
+require generators identify all applicable 
+EPA hazardous waste numbers (EPA 
+hazardous waste codes) in subparts C 
+and D of part 261 if the solid waste is 
+determined to be a hazardous waste. 
+The Agency also requested comment 
+regarding how best to emphasize the 
+importance of accurate hazardous waste 
+determinations and the length of time 
+records must be maintained. Finally, 
+EPA also asked for comment on the 
+utility of developing an electronic 
+decision making tool for hazardous 
+waste determinations. 
+2. What is EPA finalizing? 
+The Agency is finalizing the following 
+changes to § 262.11: 
+(1) Requiring that a solid and 
+hazardous waste determination must be 
+accurate, and expanding on why this 
+determination is important; i.e., to 
+ensure the proper management of the 
+waste within the RCRA framework; 
+(2) Requiring that a hazardous waste 
+determination for each solid waste must 
+be made at the point of waste 
+generation, before any dilution, mixing, 
+or other alteration of the waste occurs, 
+and at any time in the course of its 
+management that it has, or may have, 
+changed its properties as a result of 
+exposure to the environment or other 
+factors such that its waste classification 
+may have changed; 
+(3) Incorporating regulatory language 
+that elaborates on how to make a 
+hazardous waste determination for 
+listed and characteristic hazardous 
+waste; 
+(4) Referencing the applicable RCRA 
+regulations for identifying possible 
+exclusions or exemptions for the 
+hazardous waste at in § 262.11(e). 
+(5) Moving the independent 
+recordkeeping and retention 
+requirements for hazardous waste 
+determinations currently found at 
+§ 262.40(c) into § 262.11(f), with 
+clarifications on what records must be 
+kept; and 
+(6) Requiring SQGs and LQGs to 
+identify the applicable RCRA waste 
+codes for the hazardous waste they have 
+generated, but clarifying that such 
+identification must occur no later than 
+immediately prior to shipping 
+hazardous waste off site to a RCRA 
+permitted treatment, storage and 
+disposal facility in accordance with the 
+requirements of § 262.32. 
+The Agency is not finalizing the 
+proposed requirement that SQGs and 
+LQGs maintain records of their non- 
+hazardous waste determinations. Nor is 
+the EPA finalizing a requirement for 
+SQGs and LQGs to maintain records of 
+their hazardous waste determinations 
+until the generator closes its site. 
+Finally, EPA requested feedback 
+regarding the feasibility and 
+effectiveness of developing electronic 
+decision-making tools for hazardous 
+waste determinations and whether such 
+tools would be a helpful to generators. 
+Based on comments, the Agency is not 
+finalizing any provision related to 
+electronic decision-making tools for 
+hazardous waste determinations but 
+will continue to explore feasibility in 
+the future. The Agency took comment 
+on a number of electronic tools and 
+reporting options and has organized our 
+discussions of all of these options in 
+section XIII of this preamble. See this 
+section for a more in-depth discussion 
+regarding electronic waste 
+determination decision tools and other 
+electronic options. 
+a. Solid and hazardous waste 
+determinations must be accurate. The 
+Agency is finalizing the proposed 
+requirement for generators to make 
+accurate hazardous waste 
+determinations. However, we are also 
+modifying the proposed regulatory text 
+in response to comments to provide a 
+rationale for this change by stating that 
+the accurate determination is in order to 
+ensure wastes are properly managed 
+under RCRA. Accurate hazardous waste 
+determinations are necessary to ensure 
+the proper management of waste within 
+the RCRA framework; in doing so, 
+environmental protection will be 
+enhanced and greater generator 
+accountability fostered. 
+EPA believes that waste 
+determinations are of utmost 
+importance and warrant this emphasis 
+regarding accuracy. As one commenter 
+stated, ‘‘Accurate waste determinations 
+are required to ensure that each waste 
+stream generated by a company is 
+properly managed. Additionally, 
+accurate waste determinations protect 
+workers by making the company and the 
+worker(s) aware of the dangers of the 
+waste(s) being managed. Further, 
+accurate waste determinations will 
+ultimately lead to an accurate generator 
+status determination.’’
+23 
+Some commenters argued that 
+addition of the term ‘‘accurate’’ to the 
+regulation would be superfluous, as the 
+Agency’s intent that hazardous waste 
+determinations be accurate is self- 
+evident, and that adding this term may 
+even imply that other aspects of the 
+RCRA program need not be accurately 
+implemented. The Agency’s intent is 
+that all parts of the RCRA regulatory 
+program be implemented in the manner 
+required by the regulations. In adding 
+the term ‘‘accurate’’ to the waste 
+determination requirement of § 262.11, 
+the Agency intends to emphasize the 
+importance of this step in the waste 
+management process. Inaccurate 
+hazardous waste determinations will 
+lead to violation of other RCRA 
+regulatory requirements and 
+mismanagement of the waste, which 
+may result in damage to human health 
+or the environment. 
+VerDate Sep<11>2014 20:32 Nov 25, 2016 Jkt 241001 PO 00000 Frm 00019 Fmt 4701 Sfmt 4700 E:\FR\FM\28NOR3.SGM 28NOR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 7 ---
+85750 Federal Register / Vol. 81, No. 228 / Monday, November 28, 2016 / Rules and Regulations 
+24 See 45 FR 33095–96, May 19, 1980 and 55 FR 
+11830, March 29, 1990. 
+25 See ‘‘Regulatory Impact Assessment of the 
+Potential Costs, Benefits, and Other Impacts of the 
+Final Hazardous Waste Generator Improvements 
+Rule.’’ A copy of the analysis is available in the 
+docket for this action. 
+26 Hazardous Waste Determination Program 
+Evaluation, IEc, April 2013. http://www.epa.gov/
+evaluate/pdf/waste/haz-waste-determination.pdf. 
+27 Note: If the waste is listed, a generator may file 
+a delisting petition under 40 CFR 260.20 and 260.22 
+to EPA or the authorized state to demonstrate that 
+the waste from this particular site or operation is 
+not a hazardous waste. 
+Another reason for including the 
+language explaining a generator must 
+make an accurate waste determination 
+to ensure the wastes are properly 
+managed is to clarify the applicability of 
+§ 262.11 in instances in which 
+generators choose to manage their non- 
+hazardous wastes as hazardous wastes. 
+Even if the waste may not be hazardous, 
+‘‘over managing’’ the waste is acceptable 
+and meets the requirements in § 262.11 
+because the generator has made a 
+determination intended to ensure, 
+beyond a doubt, proper and protective 
+management of the waste within the 
+RCRA regulatory program. The practice 
+of over-managing non-hazardous waste 
+as hazardous waste has been in 
+existence for years and EPA’s final 
+language in § 262.11 continues to allow 
+this practice. 
+In addition to concerns about the 
+regulatory status of over-classified 
+wastes, commenters also expressed 
+concerns about generators using the best 
+available information and still making 
+an inaccurate determination because of 
+the errors and omissions of others. 
+Generators are, and always have been, 
+ultimately responsible for making 
+accurate hazardous waste 
+determinations. Hiring a third party 
+contractor, waste broker, or consultant, 
+or reliance on information provided by 
+suppliers does not transfer this 
+responsibility to those third parties. 
+While the Agency understands that 
+reliance on third parties may sometimes 
+result in an inaccurate waste 
+determination, the responsibility 
+remains with the generator. It would be 
+prudent for the generators to practice 
+due diligence and establish processes 
+and procedures that ask questions of 
+their suppliers and waste management 
+companies to understand why their 
+materials are hazardous or not. 
+One commenter mentioned that the 
+term ‘accurate’ also does not provide 
+any guidance about how intensive or 
+deep a generator’s research must be to 
+meet the intended standard. This 
+commenter goes on to discuss that a 
+five-minute review of a Safety Data 
+Sheet (SDS) and product brochure may 
+well be ‘accurate’ but much too 
+superficial to ensure the generator has 
+considered all potentially hazardous 
+attributes of the waste. The Agency 
+disagrees with this commenter. Waste 
+determinations are site specific and 
+each generator must evaluate the 
+amount of time and effort needed to 
+make an accurate waste determination. 
+In some cases, a review of an SDS may 
+suffice because the identification of the 
+constituents and their concentration 
+ranges may make it clear whether the 
+chemical is or is not a hazardous waste 
+upon disposal. Conversely, the Agency 
+can see a number of situations where a 
+generator must conduct analysis and 
+testing to meet this requirement. 
+Regardless of the effort invested in 
+making a hazardous waste 
+determination, the Agency’s intent is 
+that the results of the determination be 
+accurate and bring about the proper 
+management of the waste under the 
+RCRA regulatory framework. 
+b. A hazardous waste determination 
+must be made at the point of generation 
+before any dilution, mixing, or other 
+alteration of the waste occurs. As 
+described in the proposed rule, the 
+Agency’s policy and position from the 
+beginning of the RCRA program has 
+been that a waste determination must be 
+made at the point of generation (i.e., the 
+point at which the material first 
+becomes a solid waste under RCRA; See, 
+for example, 55 FR 11830, March 29, 
+1990). This includes both the time and 
+place the waste was first generated. By 
+requiring that the hazardous waste 
+determination be made at the point of 
+generation in § 262.11(a), the final 
+regulation clarifies that the 
+determination cannot be made 
+downstream in the process, where other 
+materials could be mixed with the waste 
+or where the waste may have changed 
+its physical or chemical characteristics. 
+A generator’s hazardous waste 
+determination at the initial point of 
+generation is critical to ensure proper 
+management of the waste not only by 
+the generator, but also by transporters 
+and TSDFs who rely on the generator’s 
+determination to allow them to safely 
+manage the waste and provide 
+appropriate treatment and disposal. 
+This proposed revision to § 262.11 is not 
+a substantive change to the program; 
+preambles to a number of previous rules 
+explain that EPA has always maintained 
+that hazardous waste determinations 
+must be made at the initial point of 
+generation.
+24 The Agency is finalizing 
+this requirement as proposed. 
+Many commenters expressed concern 
+with EPA’s proposed requirement that 
+hazardous waste determinations must 
+be made at the point of generation. For 
+many generators, the Agency believes 
+making a hazardous waste 
+determination on new wastes should be 
+an infrequent evaluation. An analysis of 
+2013 biennial report data identified 46 
+percent of LQGs generated between one 
+and five waste streams. Similarly, this 
+same analysis found that overall LQGs 
+generated a median of 6 hazardous 
+waste streams and a mean of 13 
+hazardous waste streams.
+25 Many of 
+these generators continue to generate 
+the same wastes over long time periods, 
+and absent changes in the waste, the 
+generator may continue to rely on an 
+initial determination of the waste’s 
+RCRA status (particularly for listed 
+hazardous wastes). Of course, should a 
+generator in this scenario change either 
+its production feedstocks or production 
+process, or know of any other factors 
+that may result in changes to the waste’s 
+origin or properties, the generator may 
+have a new waste requiring a new waste 
+determination. 
+Based on EPA’s 2013 Hazardous 
+Waste Determination Program 
+Evaluation
+26 and stakeholder 
+discussions, the Agency has determined 
+that most generators make a hazardous 
+waste determination by using 
+knowledge of their processes, including 
+feedstocks and possible side reactions, 
+and other materials used at the facility 
+to evaluate whether waste is hazardous 
+or not. In order to properly classify and 
+manage waste, generators must make a 
+hazardous waste determination when 
+the waste is first generated. Most 
+generators should have sufficient 
+knowledge of their waste to determine 
+whether the waste is hazardous and 
+why it is hazardous i.e., whether the 
+waste meets one of the listing 
+descriptions in subpart D of part 261
+27 
+or whether the waste may exhibit one or 
+more hazardous waste characteristics 
+described in subpart C of part 261, and 
+to manage the hazardous waste 
+according to its hazards, under RCRA. 
+When generator knowledge is 
+inconclusive or uncertain, testing may 
+be appropriate. 
+We have and continue to recognize 
+that situations will occur where a 
+generator is not able to make an accurate 
+waste determination based on 
+knowledge alone, and the generator will 
+need to send a representative sample of 
+the waste to be tested. However, as the 
+EPA has stated in the past, the generator 
+must manage the waste as hazardous 
+waste until the results of the test are 
+received, and continue to manage it as 
+VerDate Sep<11>2014 20:32 Nov 25, 2016 Jkt 241001 PO 00000 Frm 00020 Fmt 4701 Sfmt 4700 E:\FR\FM\28NOR3.SGM 28NOR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 8 ---
+85755 Federal Register / Vol. 81, No. 228 / Monday, November 28, 2016 / Rules and Regulations 
+32 RCRA 3001(d). 
+evaluating whether the solid waste they 
+have generated is a hazardous waste. 
+C. Determining Generator Category (40 
+CFR 262.13) 
+A generator must correctly count the 
+quantity of hazardous waste that it 
+generates in order to determine its 
+generator category. During the 
+development of the proposed rule, EPA 
+determined that the extent of the 
+counting requirements in the generator 
+regulations at the time consisted of lists 
+in § 261.5(c)–(d) and (h)–(j) of what 
+materials must and must not be 
+included when counting waste. These 
+regulations did not address other 
+counting considerations. EPA therefore 
+proposed a new § 262.13 to describe 
+how a generator determines its generator 
+category, containing the previously 
+existing language in § 261.5(c)–(d) as 
+well as some specific steps to calculate 
+an amount that includes the correct 
+amounts of hazardous waste. 
+Elsewhere in the proposed rule, EPA 
+proposed regulatory language for each of 
+the categories of generators describing 
+how the rules regarding mixing from 
+§ 261.5(h)–(j) would impact their 
+generator categories and how to count 
+mixtures of hazardous waste and solid 
+waste. EPA is consolidating the 
+discussion of counting hazardous waste 
+from all these areas of the proposed rule 
+into § 262.13 for the final rule in order 
+to make these requirements easily 
+understandable by the regulated 
+community and thus improve 
+compliance and consistency. 
+1. Counting Hazardous Waste 
+a. Introduction. The purpose of 
+proposed § 262.13 was to lay out the 
+framework for making a generator 
+category determination in paragraph (a) 
+and to stress that the generator’s 
+category can change from month to 
+month. The proposed regulation set 
+forth procedures to determine whether a 
+generator is a VSQG, an SQG, or an LQG 
+for a particular month, as defined in 
+§ 260.10. As EPA discussed in the 
+proposed rule, the regulations in 
+§ 262.13 do not constitute a new 
+requirement for generators, but in the 
+regulations up to this point, the 
+counting requirements have not been 
+presented in a clear and succinct 
+manner. 
+b. What is EPA finalizing? EPA is 
+finalizing a new § 262.13 to address how 
+to make a generator category 
+determination. It includes the language 
+discussed in this section on counting as 
+well as the mixing requirements 
+discussed later in this chapter of the 
+preamble. The addition of the 
+definitions of generator categories to 
+§ 260.10 and this paragraph on how to 
+make a generator category determination 
+provide specific instructions on this 
+matter for the regulated community and 
+thereby improve compliance with the 
+generator regulations. 
+The introductory language of § 262.13 
+states that a generator must determine 
+its generator category and that the 
+category is based on the amount of 
+hazardous waste that is generated in a 
+calendar month. This requirement for a 
+generator category to be based on a 
+monthly generation amount is derived 
+from the RCRA statute and is critical to 
+the framework of the generator 
+regulations.
+32 The regulations also state 
+that a generator’s category can change 
+from month to month. Although many 
+generators change categories several 
+times a year, depending on various 
+factors such as inputs, demand, 
+processing volume, and production, 
+EPA knows many generators choose to 
+operate as LQGs all the time to simplify 
+their regulatory compliance. EPA 
+encourages this practice, but notes in 
+the regulations that actual generator 
+category can change month to month. 
+In addition, EPA notes that a VSQG or 
+an SQG that generates more hazardous 
+waste in a particular calendar month 
+than allowed in its generator category 
+must make a determination that it now 
+meets the higher generator category (if it 
+is not covered by the episodic 
+generation provisions discussed in 
+section X of this preamble). 
+Paragraph (a) of § 262.13 presents 
+basic procedures for counting hazardous 
+waste generated in the calendar month, 
+subtracting or excluding anything that is 
+exempt and using the difference to 
+determine the generator category. 
+Paragraph (b) of § 262.13 specifically 
+addresses the situation in which a 
+generator generates any combination of 
+non-acute hazardous waste, acute 
+hazardous waste, and the residues from 
+the cleanup of a spill of acute hazardous 
+waste. This paragraph presents a series 
+of steps for a generator to follow when 
+determining its generator category to 
+ensure it selects the appropriate 
+category for the total amount and types 
+of hazardous waste generated. 
+Sections 262.13(c) and (d) are existing 
+provisions that EPA is moving from 
+§ 261.5(c) and (d) of the existing 
+regulations with a few small wording 
+changes to reinforce that category 
+determinations are made monthly and 
+do not otherwise represent a change in 
+the generator regulations. 
+Section 262.13(e) completes the main 
+process of counting by stating that based 
+on the generator category that is 
+determined under the steps laid out in 
+the section, the generator should 
+determine which of the sets of generator 
+provisions apply to it. 
+c. What changed since proposal? EPA 
+made several changes to § 262.13(a)–(e) 
+in response to the comments received 
+on the proposed rule. First, several 
+commenters pointed out that this 
+section tailors its procedures for 
+generators that generator acute and non- 
+acute hazardous waste in the same 
+month, but does not directly address 
+generators that generator only acute 
+hazardous waste or non-acute hazardous 
+waste. EPA agrees with this comment 
+and, therefore, converted the proposed 
+paragraph (a) to introductory language 
+for the section and made a new 
+§ 262.13(a) that addresses those 
+generators that generate only acute or 
+non-acute hazardous waste. This section 
+includes a simplified version of the 
+same procedures in paragraph (b) for 
+those without both types of hazardous 
+waste. 
+Commenters also noted that although 
+EPA included a Table 1 to § 262.13 in 
+the regulations, the table was not 
+referenced in the regulations. EPA 
+therefore added references to Table 1 in 
+the regulatory text in paragraphs (a) and 
+(b). Also, in Table 1 in this section, we 
+are deleting the first column of numbers 
+that denoted which generation scenario 
+was being represented by each row. This 
+column was potentially useful in the 
+preamble discussion, but served no 
+purpose in the regulations and has been 
+removed. 
+In addition, several commenters 
+stated that although a generator’s 
+category is based on the amount of 
+hazardous waste it generates in a 
+calendar month, every generator need 
+not make an exact category 
+determination every month. The 
+commenters argued that many 
+generators have a very accurate sense of 
+what category they are month-to-month 
+because their processes generate 
+consistent amounts of hazardous waste 
+over time. Only those generators with 
+generation amounts near the limit 
+would have to count regularly to make 
+the category determination. These 
+commenters stated that many generators 
+with categories that fluctuate from 
+month-to-month choose to operate as 
+LQGs full time and would, therefore, 
+not need to count every month to 
+determine generator category. 
+EPA agrees with the commenters and 
+therefore has made revisions to the 
+introductory language for the section to 
+state that a generator is required to 
+determine its generator category. The 
+language continues to stress that a 
+category is based on monthly generation 
+VerDate Sep<11>2014 20:32 Nov 25, 2016 Jkt 241001 PO 00000 Frm 00025 Fmt 4701 Sfmt 4700 E:\FR\FM\28NOR3.SGM 28NOR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 9 ---
+85756 Federal Register / Vol. 81, No. 228 / Monday, November 28, 2016 / Rules and Regulations 
+33 Also see EPA document, Land Disposal 
+Restrictions: Summary of Requirements, U.S. EPA 
+Office of Solid Waste and Emergency Response and 
+Office of Enforcement and Compliance Assurance, 
+EPA–530–R–01–007, Revised August 2001. 
+and may change from month to month, 
+but generators are not required to follow 
+the included steps every month. EPA 
+notes, however, that an LQG must keep 
+track of its amounts of hazardous waste 
+for the purpose of completing the 
+Biennial Report, when applicable. 
+Finally, EPA added the language in 
+§ 262.13(e) upon determining that 
+although the purpose of the section is to 
+lead the generator through counting its 
+hazardous waste for the purpose of 
+determining the correct generator 
+category, the proposed regulations did 
+not include the final step in the process. 
+Effect of the Reorganization: This 
+section is partially affected by the 
+reorganization. Some of the language in 
+§ 262.13 on what materials to count 
+when determining generator category 
+moved from previous § 261.5, but much 
+of this regulation is new text. Section VI 
+of this preamble discusses the 
+reorganization. 
+2. Mixtures of Non-Hazardous Waste 
+and Hazardous Waste 
+a. Introduction. In an effort to explain 
+how mixtures of non-hazardous waste 
+(solid waste) and hazardous waste affect 
+generator category determinations, the 
+Agency proposed a series of 
+modifications in §§ 262.14, 262.16 and 
+262.17 for VSQGs, SQGs and LQGs, 
+respectively. The proposed rule also 
+discussed how SQGs and LQGs are 
+subject to the mixture rules in § 261.3. 
+As explained in the preamble to the 
+proposed rule on page 57928, this 
+clarification was also designed to clarify 
+the language that was found at 
+§§ 261.5(h) and (i) which addressed the 
+mixing of hazardous waste and non- 
+hazardous waste by a VSQG and the 
+implications to its generator category if 
+the mixture is determined to be a 
+hazardous waste. The language 
+specifically addressed how the 
+regulations apply when VSQG 
+hazardous waste is mixed with non- 
+hazardous solid waste and the resulting 
+combination exceeds the VSQG quantity 
+limits. 
+b. What is EPA finalizing? The 
+Agency is finalizing the regulations 
+applicable to generators mixing 
+hazardous waste with solid waste as 
+follows: 
+1. Moving the proposed relevant 
+provisions of §§ 262.14(b), 262.16(d) 
+and 262.17(f) applicable to mixtures of 
+hazardous waste and solid waste to 
+§ 262.13(f). The act of mixing a solid 
+waste and a hazardous waste is not the 
+same as a generator accumulating 
+hazardous waste, nor is the act of 
+mixing in any way related to the 
+conditions for exemption from 
+permitting. The purpose of moving the 
+requirements for mixtures to § 262.13 is 
+to make generators aware of the 
+regulations applicable to mixtures of 
+hazardous waste and solid waste, and to 
+accurately explain how the mixing of a 
+hazardous waste with a solid waste may 
+affect a generator’s category 
+determination for the calendar month. 
+2. Clarifying that a VSQG mixing 
+hazardous waste with solid waste can 
+remain subject to § 262.14, even though 
+the mixture may exceed the VSQG 
+quantity limits (either 100 kg per month 
+generated or 1,000 kg accumulated on 
+site at any one time) unless the mixture 
+exhibits one or more of the 
+characteristics of a hazardous waste. If 
+the resultant mixture exhibits a 
+hazardous waste characteristic, the 
+VSQG must add the quantity from the 
+resulting mixture with any other 
+regulated hazardous waste generated in 
+the calendar month and determine 
+whether the total quantity generated 
+exceeds the generator calendar month 
+quantity identified in the definition of 
+generator categories found in 40 CFR 
+260.10. 
+3. For both SQGs and LQGs: 
+a. Reemphasizing that both the 
+hazardous waste portion of the resulting 
+mixture and other amounts of hazardous 
+waste generated in a calendar month 
+must be counted towards a generator’s 
+category determination. 
+b. Making SQGs and LQGs aware of 
+the § 268.3(a) prohibition of 
+impermissible dilution of a hazardous 
+waste with a solid waste to 
+decharacterize the hazardous waste. The 
+regulation at 40 CFR 268.3(a) states, 
+‘‘. . . no generator, transporter, handler, 
+or owner or operator of a treatment, 
+storage, or disposal facility shall in any 
+way dilute a restricted waste or the 
+residual from treatment of a restricted 
+waste as a substitute for adequate 
+treatment to achieve compliance 
+(emphasis added) with Subpart D of this 
+part . . .’’ In particular, if a solid waste 
+is mixed with a characteristic hazardous 
+waste, the solid waste must provide a 
+useful and effective contribution to de- 
+characterizing the hazardous waste (i.e. 
+possess a unique property to remove the 
+hazardous characteristic from the 
+hazardous waste instead of merely 
+diluting it). 
+c. Stating that SQGs and LQGs are 
+subject to the regulations applicable to 
+mixtures found in § 261.3(a)(2)(iv), 
+(b)(2) and (3), and (g)(2)(i). 
+d. Stating that SQGs or LQGs that mix 
+a characteristic hazardous waste with a 
+solid waste to remove any hazardous 
+characteristics are subject to the 
+treatment standards found at § 268.40, 
+as well as the ‘‘impermissible dilution’’ 
+requirements in § 268.3.
+33 
+4. For all generators, reminding them 
+they must make a hazardous waste 
+determination at § 262.11 when mixing 
+a hazardous waste with a solid waste. 
+c. What changed since proposal? As 
+discussed previously, the Agency made 
+a significant number of clarifying 
+changes in the final rule for this 
+provision based on review and 
+evaluation of comments. These include 
+the following: Moving the relevant 
+proposed provisions of §§ 262.14, 
+262.16 and 262.17 applicable to 
+mixtures of hazardous waste and solid 
+waste to § 262.13 (f); stating that SQGs 
+and LQGs are subject to the mixture rule 
+found in §§ 261.3(a)(2)(iv), (b)(2) and 
+(3), and (g)(2)(i); stating that SQGs and 
+LQGs must comply with § 268.3(a), 
+which prohibit’s impermissible dilution 
+to avoid regulation; for all generators, 
+stating that both the hazardous waste 
+portion generated from mixing and the 
+hazardous waste generated in a calendar 
+month must be counted for establishing 
+the generator category for that month; 
+and stating that all generators must 
+make a hazardous waste determination 
+for their mixed waste. 
+d. Major comments. Many 
+commenters supported the proposed 
+changes to include the application of 
+the mixture rules in a generator’s 
+regulatory category determination. 
+Others, however, requested greater 
+clarity and specificity regarding these 
+regulatory provisions. They asked for an 
+explanation of the parameters allowed 
+when mixing a solid waste and a 
+hazardous waste. They also asked for 
+clarification about when an SQG or LQG 
+that mixes a characteristic hazardous 
+waste with a solid waste and generates 
+a mixture that no longer exhibits the 
+hazardous characteristic must also meet 
+the treatment standards found at 
+§ 268.40, and a clarification that a 
+hazardous waste determination is also 
+required for wastes resulting from 
+mixing of solid waste and hazardous 
+waste. EPA made adjustments to 
+§ 262.13(f) in response to these 
+comments where appropriate. 
+One commenter pointed out that the 
+applicable regulations for mixtures are 
+unrelated to the conditions for an 
+exemption from operating without a 
+permit and therefore, the requirements 
+applicable to mixtures do not belong 
+under §§ 262.14, 262.16, and 262.17. 
+The Agency agrees these are valid 
+VerDate Sep<11>2014 20:32 Nov 25, 2016 Jkt 241001 PO 00000 Frm 00026 Fmt 4701 Sfmt 4700 E:\FR\FM\28NOR3.SGM 28NOR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 10 ---
+85757 Federal Register / Vol. 81, No. 228 / Monday, November 28, 2016 / Rules and Regulations 
+34 Missouri Department of Natural Resources, 
+EPA–HQ–RCRA–2012–0121–0223. 
+comments and has incorporated these 
+changes as already described. 
+Effect of the Reorganization: This 
+section is affected by the reorganization. 
+The mixing provisions for VSQGs that 
+are now found in § 262.13 were 
+previously located in § 261.5(i) and (h). 
+The reorganization is discussed in 
+section VI of this preamble. 
+D. Very Small Quantity Generator 
+Conditions for Exemption (40 CFR 
+262.14) 
+The regulations for VSQGs have 
+moved, with some changes, from their 
+previous location in § 261.5 to § 262.14 
+as part of the reorganization of the 
+generator regulations. Although there 
+are some changes to these regulations, 
+they were mainly relocated from one 
+part to the other. Please see section VI 
+of this preamble for a discussion of the 
+reorganization and for an overview of 
+the new § 262.14. 
+E. Marking and Labeling and Hazardous 
+Waste Numbers (40 CFR 262.15(a)(5), 
+262.16(b)(6), 262.17(a)(5), 262.32(b)–(d), 
+263.12(b) and 268.50(a)(2)(i) 
+This section discusses the final rules 
+associated with the marking and 
+labeling of hazardous waste 
+accumulated on site by SQGs and LQGs 
+in containers and tanks. This section 
+also addresses the marking and labeling 
+requirements for (1) hazardous waste 
+transporters that store containers of 
+hazardous waste at transfer facilities 
+(see 40 CFR 263.12) and (2) TSDFs that 
+store containers of hazardous waste 
+under the storage prohibition of the land 
+disposal restriction requirements at 40 
+CFR 268.50(a)(2)(i). Lastly, in this 
+section, we discuss the application of 
+EPA hazardous waste codes to 
+containers prior to shipment off site to 
+a designated facility. 
+The regulatory changes EPA proposed 
+to the marking and labeling for waste 
+accumulation units are designed to 
+enhance three critical areas: Risk 
+communication, emergency 
+preparedness and prevention, and the 
+accuracy of hazardous waste 
+determinations. Although labeling may 
+appear to be an inconsequential 
+‘‘paperwork’’ exercise, it is, in fact, 
+vitally important to ensuring that waste 
+is identified and managed properly. 
+Without proper labeling, hazardous 
+waste may be mismanaged as non- 
+hazardous waste, or as the wrong type 
+of hazardous waste, which could cause 
+harm to human health and the 
+environment. As one commenter stated, 
+‘‘The department appreciates the 
+opportunity to revisit this important 
+topic, as we believe [it] is of critical 
+importance in both the prevention of 
+releases and in ensuring that, in the 
+event of a release, the response to the 
+incident is appropriate for the materials 
+being stored.’’
+34 Accordingly, EPA 
+proposed to strengthen the marking and 
+labeling for containers and tanks 
+throughout the cradle to grave 
+management chain, including for SAAs, 
+SQGs, LQGs, VSQGs that send their 
+hazardous waste to LQGs under the 
+same control, episodic generators, 
+transfer facilities, and TSDFs. The 
+Agency proposed consistent changes for 
+marking and labeling throughout the 
+regulations, and many of the comments 
+we received on the topic marking and 
+labeling are relevant throughout, so the 
+primary discussion of those changes 
+will be in this section. In certain 
+instances, specific aspects of the 
+marking and labeling requirements are 
+addressed in other sections of this 
+preamble, such as with VSQGs that send 
+their hazardous waste to LQGs under 
+the same control, episodic generators, 
+and SQGs and LQGs that accumulate on 
+drip pads and in containment buildings. 
+1. Marking and Labeling for SQGs and 
+LQGs With Containers in SAAs (40 CFR 
+262.15(a)(5)) 
+a. Introduction. The previous 
+regulations for SAAs in § 262.34(c)(1)(ii) 
+required an SQG or LQG to mark its 
+SAA containers ‘‘either with the words 
+‘Hazardous Waste’ or with other words 
+that identify the contents of the 
+containers’’ [emphasis added]. The 
+Agency proposed two modifications to 
+strengthen the labeling and marking 
+regulations for containers accumulating 
+hazardous waste in SAAs. First, EPA 
+proposed to change the ‘‘or’’ to an ‘‘and’’ 
+and thus require that generators mark 
+containers in the SAA with both the 
+words ‘‘Hazardous Waste’’ and ‘‘other 
+words to identify the contents of the 
+container.’’ Although the words 
+‘‘Hazardous Waste’’ are important to 
+convey that the container contains a 
+waste, as opposed to a product, and that 
+a hazardous waste determination has 
+been made for the contents, it does not 
+convey more practical information 
+regarding the contents of the container 
+that workers must be familiar with for 
+purposes of on-site handling. 
+Second, while the words ‘‘Hazardous 
+Waste’’ on containers provide some 
+measure of information regarding the 
+contents, this information fails to 
+describe the specific hazards of the 
+contents and what risk these wastes 
+could pose to human health and the 
+environment. EPA believes it is 
+important that employees, transporters, 
+downstream handlers, emergency 
+personnel, and EPA and state inspectors 
+know as much as possible about the 
+potential hazards of the contents in 
+containers being accumulated, 
+transported, and managed, whether on 
+site and/or off site, so that the hazardous 
+wastes are managed in an 
+environmentally sound manner. 
+Therefore, EPA proposed that SQGs and 
+LQGs must indicate the hazards of the 
+contents of the containers while giving 
+them flexibility in how to comply with 
+this new provision. That is, we 
+proposed that generators could indicate 
+the hazards of the contents of the 
+container using any of several 
+established methods, including, but not 
+limited to an EPA hazardous waste 
+characteristic(s) (ignitable, corrosive, 
+reactive or toxic); a hazard class label 
+consistent with the DOT requirements at 
+49 CFR part 172 subpart E (labeling); a 
+label consistent with the OSHA Hazard 
+Communication Standard at 29 CFR 
+1910.1200; a chemical hazard label 
+consistent with NFPA code 704; or a 
+hazard pictogram consistent with the 
+United Nations’ Global Harmonized 
+System (GHS). We also proposed that 
+generators could also use any other 
+marking or labeling commonly used 
+nationwide in commerce that would 
+alert workers and emergency responders 
+to the nature of the hazards associated 
+with the contents of the containers. 
+These proposed changes were 
+designed to alert workers, emergency 
+responders, and others to the potential 
+hazards posed by the contents of a 
+container. Identifying the hazard 
+increases awareness to workers and 
+others who might come into contact 
+with the hazardous waste container and 
+reduces potential risks to human health 
+and the environment from container 
+mismanagement. EPA reasoned that the 
+pre-transport requirements of part 262 
+subpart C already require hazardous 
+waste generators to comply with the 
+DOT labeling/marking requirements of 
+49 CFR part 172. By requiring generators 
+to include information on container 
+labels while on site, the Agency 
+proposed that generators perform a task 
+that is already required when preparing 
+the container prior to transporting the 
+hazardous waste off site for subsequent 
+waste management. Because, in most 
+cases the hazardous waste will be 
+shipped off site and thus be subject to 
+DOT regulations, we proposed that 
+SQGs and LQGs could use the DOT 
+hazard class labels to comply with the 
+new labeling and marking regulation for 
+containers in SAAs. However, we 
+proposed several alternatives to using 
+DOT hazard labels (as noted previously) 
+VerDate Sep<11>2014 20:32 Nov 25, 2016 Jkt 241001 PO 00000 Frm 00027 Fmt 4701 Sfmt 4700 E:\FR\FM\28NOR3.SGM 28NOR3mstockstill on DSK3G9T082PROD with RULES3

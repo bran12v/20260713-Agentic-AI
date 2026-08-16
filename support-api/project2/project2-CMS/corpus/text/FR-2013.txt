@@ -1,0 +1,3119 @@
+
+--- page 1 ---
+50941 Federal Register / Vol. 78, No. 160 / Monday, August 19, 2013 / Rules and Regulations 
+extended stays described in § 424.13(e) 
+through (g)). Similarly, we are providing 
+in the regulations on the certification 
+that the certification begins with the 
+order for inpatient admission. We are 
+adding this as the new first sentence in 
+§§ 424.13(a), 424.14(a), and 424.15(b) for 
+CAHs. Also, we are including a 
+conforming amendment in new 
+paragraph (d)(5) of § 424.11 that, for 
+hospital or CAH hospital inpatient 
+services, a delayed certification may not 
+extend past discharge. The existing 
+delayed certification provisions in 
+existing § 424.11(d)(3) and (d)(4) will 
+continue to apply, but only for 
+certification of the outlier extended stay 
+cases described in § 424.13(e) through 
+(g). 
+To clarify that the rules for timing of 
+certification and recertification for 
+‘‘cases not subject to the PPS’’ in 
+redesignated paragraphs (e) through (h) 
+of § 424.13 apply only to IPPS outlier 
+cases, we are adding the word ‘‘outlier’’ 
+prior to the phrase ‘‘subject to the PPS’’ 
+in paragraphs (e), (f), (g), and (h). 
+We are finalizing two conforming 
+amendments in the regulation text 
+governing physician certification. In 
+§ 424.11(e)(2), we are removing the 
+reference ‘‘§ 424.13(c)’’ and adding in its 
+place ‘‘§ 424.13(d)’’ as redesignated. 
+Similarly, we are amending § 424.16(a) 
+by removing the reference ‘‘§ 424.13(e)’’ 
+and adding it its place ‘‘subpart B of this 
+Part’’. 
+Comment: Several commenters asked 
+what Medicare’s payment rules would 
+be regarding verbal inpatient admission 
+orders. For example, the commenters 
+asked whether the hospital could 
+submit a Part A claim based upon a 
+verbal order that is not documented in 
+the medical record at the time the claim 
+is submitted. In addition, the 
+commenters asked how CMS defines 
+‘‘prompt’’ authentication of orders, or 
+address verbal order ‘‘read-back’’ 
+processes. 
+Response: Because the physician 
+order is required as a condition of 
+payment, if the order is not documented 
+in the medical record, the hospital 
+should not submit a claim for Part A 
+payment. A verbal order is a temporary 
+administrative convenience for the 
+physician and hospital staff but it is not 
+a substitute for a properly documented 
+and authenticated order for inpatient 
+admission. A verbal order must be 
+properly countersigned by the 
+practitioner who gave the verbal order. 
+We intend to further discuss and 
+develop our requirements regarding 
+verbal orders for inpatient admission in 
+our subregulatory guidance. The CoPs 
+regarding verbal orders were carefully 
+developed over a period time, and we 
+believe we should take additional time 
+to consider and potentially coordinate 
+the CoP and payment rules. 
+Comment: Some commenters believed 
+that, while the order should be 
+documented in the medical record as a 
+best practice, documentation of the 
+order should not be required if it is 
+unintentionally omitted. They believed 
+that the order is a technicality that 
+should not serve as a condition of 
+payment. The commenters stated that if 
+the order to admit is missing, yet the 
+physician intent and physician 
+recommendation to admit to inpatient 
+can clearly be derived from the medical 
+record, for example if a medically 
+necessary inpatient-only service was 
+furnished, the contractor should 
+consider these rather than requiring the 
+physician order as a technical 
+requirement for medical necessity and 
+payment. 
+Response: The admission order is 
+evidence of the decision by the 
+physician (or other practitioner who can 
+order inpatient services) to admit the 
+beneficiary to inpatient status. In very 
+rare circumstances, the order to admit 
+may be missing or defective (that is, 
+illegible or incomplete), yet the intent, 
+decision, and recommendation of the 
+physician (or other practitioner who can 
+order inpatient services) to admit the 
+beneficiary as an inpatient can clearly 
+be derived from the medical record. In 
+these rare situations, we have provided 
+contractors with discretion to determine 
+that this information constructively 
+satisfies the requirement that the 
+hospital inpatient admission order be 
+present in the medical record. However, 
+in order for the documentation to 
+provide acceptable evidence to support 
+the hospital inpatient admission, thus 
+satisfying the requirement for the 
+physician order, there can be no 
+uncertainty regarding the intent, 
+decision, and recommendation by the 
+physician (or other practitioner who can 
+order inpatient services) to admit the 
+beneficiary as an inpatient, and no 
+reasonable possibility that the care 
+could have been adequately provided in 
+an outpatient setting. This narrow and 
+limited alternative method of satisfying 
+the requirement for documentation of 
+the inpatient admission order in the 
+medical record should be extremely 
+rare, and may only be applied at the 
+discretion of the medical review 
+contractor. Even in those circumstances, 
+all requirements for the other 
+components of the physician 
+certification must be met. 
+Comment: Several commenters asked 
+CMS to clarify whether, when a 
+beneficiary would become an inpatient 
+under the proposed policies, inpatient 
+status would be conferred retroactive to 
+the beginning of the hospital stay. One 
+commenter recommended that the 
+patient become inpatient after the 
+physician writes the order and the 
+patient starts receiving care based on 
+those orders, whether or not it is in a 
+bed on an inpatient nursing unit, a 
+holding bed in the emergency 
+department or another location, or 
+whether the patient is sent to imaging or 
+the operating room first. One 
+commenter questioned what CMS meant 
+by the term ‘‘outpatient status.’’ Another 
+commenter questioned CMS’ current 
+definition of ‘‘inpatient,’’ stating it is not 
+defined in the Act. The commenter 
+stated that, at the time of the law’s 
+passage, the meaning of ‘‘inpatient’’ was 
+obvious and universal. The commenter 
+stated that a patient that stays in a 
+hospital is an inpatient, whereas a 
+patient that goes home after treatment, 
+or after a limited recovery period such 
+as a few hours, is an outpatient. 
+Response: As explained in the 
+proposed rule, in response to concerns 
+and suggestions of stakeholders, we 
+aimed to provide more clarity regarding 
+hospital inpatient admissions and 
+Medicare payment. Toward those ends, 
+in the FY 2014 IPPS/LTCH PPS 
+proposed rule, we addressed medical 
+review criteria and proposed to codify 
+in regulation our longstanding policy (as 
+reflected in manual provisions) that a 
+patient becomes an inpatient when 
+formally admitted as such pursuant to a 
+physician order. CMS’ definition of 
+‘‘inpatient’’ has been upheld in 
+litigation. Landers v. Leavitt, 545 F.3d 
+98 (2
+d Cir. 2008). We did not propose 
+policy changes regarding the definition 
+of ‘‘inpatient’’ or inpatient status. In 
+contrast to a hospital inpatient, we have 
+defined a hospital outpatient in the 
+MBPM, Chapter 6, Section 20, as ‘‘a 
+person who has not been admitted by 
+the hospital as an inpatient but is 
+registered on the hospital records as an 
+outpatient and receives services (rather 
+than supplies alone) from the hospital 
+or CAH.’’ 
+This final rule provides that a 
+beneficiary is considered a hospital 
+inpatient following formal admission 
+‘‘pursuant to’’ the hospital inpatient 
+admission order. We included the 
+phrase ‘‘pursuant to’’ in recognition 
+that, in most cases, the beneficiary is 
+formally admitted and becomes a 
+hospital inpatient concurrent with the 
+physician order to admit to inpatient. 
+However, in cases such as elective 
+surgeries where the inpatient admission 
+order is written as far as several weeks 
+in advance, the beneficiary is not 
+considered an inpatient until the time of 
+formal admission at the hospital for the 
+VerDate Mar<15>2010 21:51 Aug 16, 2013 Jkt 229001 PO 00000 Frm 00447 Fmt 4701 Sfmt 4700 E:\FR\FM\19AUR2.SGM 19AUR2bjneal on DSK2TWX8P1PROD with RULES
+--- page 2 ---
+50942 Federal Register / Vol. 78, No. 160 / Monday, August 19, 2013 / Rules and Regulations 
+inpatient services. In this example, the 
+beneficiary is admitted and becomes an 
+inpatient pursuant to the physician’s 
+order and could not be admitted 
+without it, although there may be a time 
+lag between when the order to admit is 
+written and the time of formal 
+admission. The physician order cannot 
+be effective retroactively. In this final 
+rule, we are not changing our definition 
+of a ‘‘hospital inpatient.’’ Inpatient 
+status only applies prospectively, 
+starting from the time the patient is 
+formally admitted pursuant to a 
+physician order for inpatient admission, 
+in accordance with our current policy. 
+Comment: Several commenters 
+expressed the opinion that physicians 
+should not have to divide their attention 
+between providing patient care and 
+understanding Medicare’s admission 
+rules, which the commenters viewed as 
+mere billing distinctions. Some 
+commenters believed that CMS should 
+allow physicians to delegate the 
+determination of patient status to the 
+hospital or its utilization review 
+committee, while the physician focuses 
+on ordering and providing the necessary 
+clinical care. Further, some commenters 
+stated that this is their current practice. 
+Some commenters commented that their 
+current processes provide for admission 
+‘‘to case management’’ or ‘‘to utilization 
+review’’ rather than specifying inpatient 
+admission. 
+Response: As we discussed above, 
+many public comments from physicians 
+indicated that they believed the 
+physician should be involved in the 
+determination of patient status, and we 
+agree. To reinforce this policy and 
+reduce confusion among hospitals, 
+beneficiaries, and physicians on the 
+differences between outpatient 
+observation and inpatient services, we 
+are providing in this final rule that the 
+order for inpatient admission must 
+specify admission ‘‘to or as an 
+inpatient.’’ In previous discussions, 
+stakeholders have indicated that often 
+physician orders only specify admission 
+to a certain location in the hospital (for 
+example, ‘‘Admit to Tower 7’’) or do not 
+clarify whether the physician’s intent is 
+to ‘‘admit’’ the beneficiary for outpatient 
+observation services or for hospital 
+inpatient services. Therefore, we are 
+providing that, for payment of hospital 
+inpatient services under Medicare Part 
+A, the order must specify the admitting 
+practitioner’s recommendation to admit 
+‘‘to inpatient,’’ ‘‘as an inpatient,’’ ‘‘for 
+inpatient services,’’ or similar language 
+specifying his or her recommendation 
+for inpatient care. In addition, as 
+discussed in the proposed rule (78 FR 
+27646), we remind hospitals that 
+patients are admitted to the hospital 
+only on the recommendation of a 
+physician or licensed practitioner 
+permitted by the State to admit patients 
+to a hospital, provided that the 
+practitioner, either a physician or other 
+licensed practitioner, has been granted 
+such privileges by the hospital to do so. 
+Hospitals and physicians routinely must 
+work together to comply with billing, 
+coding, and admission rules not just for 
+Medicare, but also for Medicaid and 
+private payers. 
+b. Authorization to Sign the Physician 
+Order 
+We proposed new regulation 
+provisions in 42 CFR 412.3(b) which 
+state that, as a condition of payment, the 
+order must be furnished by a qualified 
+and licensed practitioner who has 
+admitting privileges at the hospital as 
+permitted by State law, and who is 
+responsible for the inpatient care of the 
+patient at the hospital. The practitioner 
+could not delegate the decision (order) 
+to another individual who is not 
+responsible for the care of that patient, 
+is not authorized by the State to admit 
+patients, or has not been granted 
+admitting privileges applicable to that 
+patient by the hospital’s medical staff. 
+Comment: Commenters in the 
+physician and Medicare contractor 
+medical review communities generally 
+supported the proposal to require the 
+inpatient admission order, and to 
+provide that it could not be delegated to 
+another individual who does not 
+possess the authority to order inpatient 
+admission in his or her own right. In 
+addition, some commenters 
+representing hospitals did not object to 
+this requirement because it is already 
+standard practice. However, the 
+commenters described a number of 
+situations in which the ordering 
+practitioner would appropriately not be 
+the individual who takes responsibility 
+for the inpatient care of the beneficiary, 
+or for the entirety of the inpatient care. 
+According to the commenters, these 
+included emergency department 
+physicians, hospitalists and other types 
+of physicians in group practices who 
+care for patients in the hospital, and 
+residents working under the supervision 
+of attending physicians. The 
+commenters requested that if CMS 
+finalizes a requirement for the inpatient 
+order as a condition of Part A payment, 
+CMS should allow it to be issued by any 
+physician in the hospital who is 
+knowledgeable about the beneficiary’s 
+condition and has admitting privileges 
+at the hospital. 
+Response: We agree with the 
+commenters that it would be 
+appropriate to allow practitioners who 
+may not be responsible for the inpatient 
+hospital care of the beneficiary but are 
+otherwise qualified to admit patients at 
+that hospital and are knowledgeable 
+about the case to order the inpatient 
+admission. Therefore, we are deleting 
+the proposed language in paragraph (b) 
+of § 412.3 that would have required the 
+order to be issued by a practitioner who 
+is responsible for the inpatient care of 
+the patient at the hospital. We are 
+replacing this language with new 
+language to specify that, although the 
+ordering practitioner need not be 
+responsible for the patient’s inpatient 
+care, he or she must be knowledgeable 
+about the patient’s hospital course, 
+medical plan of care, and current 
+condition. 
+We are finalizing all of the other 
+proposed qualifications in paragraph (b) 
+of § 412.3 for the ordering practitioner. 
+The final language reads, ‘‘(b) The order 
+must be furnished by a qualified and 
+licensed practitioner who has admitting 
+privileges at the hospital as permitted 
+by State law, and who is knowledgeable 
+about the patient’s hospital course, 
+medical plan of care, and current 
+condition. The practitioner may not 
+delegate the decision (order) to another 
+individual who is not authorized by the 
+State to admit patients, or has not been 
+granted admitting privileges applicable 
+to that patient by the hospital’s medical 
+staff.’’ We discuss the application of 
+these final policies to IRFs in section 
+XI.C.2.c . of the preamble of this final 
+rule. 
+c. Applicability to Inpatient 
+Rehabilitation Facilities (IRFs) 
+We note that IRFs that are excluded 
+from the IPPS and paid under the IRF 
+prospective payment system (IRF PPS) 
+specified in 42 CFR 412.1(a)(3) have 
+certain requirements in 42 CFR 
+412.622(a)(3), (a)(4), and (a)(5) that 
+govern an inpatient admission to an IRF. 
+These requirements specify the 
+admission criteria that must be 
+documented in the medical record for 
+an IRF admission of a Medicare Part A 
+fee-for-service beneficiary to be 
+considered reasonable and necessary 
+under section 1862(a)(1) of the Act. For 
+example, the documentation 
+requirements contained in these 
+regulations specify that a 
+comprehensive preadmission screening 
+must be conducted and must serve as 
+the basis for the initial determination of 
+whether or not the patient meets the 
+requirements for admission to an IRF. A 
+rehabilitation physician, defined as a 
+licensed physician with specialized 
+training and experience in 
+rehabilitation, must document that he or 
+she has reviewed and concurs with the 
+preadmission screening prior to the 
+VerDate Mar<15>2010 21:51 Aug 16, 2013 Jkt 229001 PO 00000 Frm 00448 Fmt 4701 Sfmt 4700 E:\FR\FM\19AUR2.SGM 19AUR2bjneal on DSK2TWX8P1PROD with RULES
+--- page 3 ---
+50943 Federal Register / Vol. 78, No. 160 / Monday, August 19, 2013 / Rules and Regulations 
+admission. However, we note that 
+Chapter 1, Section 110.1.4 of the MBPM 
+also specifies that, at the time each 
+Medicare Part A fee-for-service patient 
+is admitted to an IRF, a physician must 
+generate admission orders for the 
+patient’s care. 
+Therefore, although the required 
+physician orders discussed in section 
+XI.C.2.a. of the preamble of this final 
+rule apply to all inpatient hospital 
+admissions, including inpatient 
+admissions to an IRF, they do not 
+determine the timing of an IRF 
+admission, nor are they used to 
+determine whether the IRF admission 
+was reasonable and necessary. These 
+determinations are governed by the 
+requirements in §§ 412.622(a)(3), (4), 
+and (5) of the regulations. To clarify 
+this, we have included a provision 
+under new § 412.3 in this final rule that 
+the IRF requirements at § 412.622 also 
+must be met in order for the IRF to be 
+paid for hospital inpatient services 
+under Medicare Part A. However, due to 
+the aforementioned inherent differences 
+in the operation of and beneficiary 
+admission to IRFs, such providers are 
+excluded from the 2-midnight 
+admission guidelines and medical 
+review instruction, as provided under 
+XI.C.3. of the preamble of this final rule. 
+3. Inpatient Admission Guidelines 
+CMS is authorized under section 1893 
+of the Act to implement the Medicare 
+Integrity Program to conduct medical 
+review of claims and ensure 
+appropriateness of Medicare payment. 
+Medicare review contractors, such as 
+Medicare Administrative Contractors 
+(MACs), Recovery Auditors (formerly 
+known as the Recovery Audit 
+Contractors, or RACs), the 
+Comprehensive Error Rate Testing 
+(CERT) Contractor, and other review 
+contractors are hired by CMS to review 
+claims on a pre-payment or post- 
+payment basis to determine whether a 
+claim should be paid or denied or 
+whether a payment was properly made 
+under Medicare payment rules. 
+Following documentation reviews, 
+many claim denials are made or 
+improper payments identified because 
+either— 
+• The claim was incorrectly coded 
+(for example, the provider did not 
+appropriately assign the individual or 
+grouper inpatient and/or outpatient 
+coding for the care documented); or 
+• The services were not medically 
+necessary (that is, the review indicates 
+that the services billed were not 
+reasonable and necessary based upon 
+Medicare payment policies or that the 
+documentation was insufficient to 
+support the medical necessity of the 
+services billed). 
+CMS developed the CERT program to 
+calculate the annual Medicare FFS 
+program improper payment rate. The 
+CERT program considers any claim that 
+was paid when it should have been 
+denied or paid at another amount 
+(including both overpayments and 
+underpayments) to be an improper 
+payment. Hospital claim errors are 
+identified more frequently for shorter 
+lengths of stay. In 2012, the CERT 
+contractor found that Medicare Part A 
+inpatient hospital admissions for 1-day 
+stays or less had an improper payment 
+rate of 36.1 percent. The improper 
+payment rate decreased significantly for 
+2-day or 3-day stays, which had 
+improper payment rates of 13.2 percent 
+and 13.1 percent, respectively. The 
+improper payment rate further 
+decreased to 8 percent for those 
+beneficiaries who were treated as 
+hospital inpatients for 4 days. 
+Hospital claim errors are identified 
+more frequently for shorter lengths of 
+stay. The majority of improper 
+payments under Medicare Part A for 
+short-stay inpatient hospital claims have 
+been due to inappropriate patient status 
+(that is, the services furnished were 
+reasonable and necessary, but should 
+have been furnished on a hospital 
+outpatient, rather than hospital 
+inpatient, basis). Inpatient hospital 
+short-stay claim errors are frequently 
+related to minor surgical procedures or 
+diagnostic tests. In such situations, the 
+beneficiary is typically admitted as a 
+hospital inpatient after the procedure is 
+completed, monitored overnight as an 
+inpatient, and discharged from the 
+hospital in the morning. Medicare 
+review contractors typically find that 
+while the underlying services provided 
+were reasonable and necessary, the 
+inpatient hospitalization following the 
+procedure was not (that is, the services 
+following the procedure should have 
+been provided on an outpatient basis). 
+In the FY 2014 IPPS/LTCH PPS 
+proposed rule (78 FR 27644 through 
+27650), we sought to clarify our 
+longstanding policy on how Medicare 
+review contractors review inpatient 
+hospital admissions for payment under 
+Medicare Part A. We also issued 
+proposed guidance to physicians and 
+hospitals regarding when a hospital 
+inpatient admission should be ordered 
+for Medicare beneficiaries. In this final 
+rule we discuss the public comments we 
+received in response to our proposals 
+relating to admission guidance and 
+medical review and provide our final 
+policies after considerations of those 
+public comments. 
+a. Correct Coding Reviews 
+We did not propose any changes to 
+coding review strategies for hospital 
+claims. Reviewers will continue to 
+ensure that the correct codes were 
+applied and are supported by the 
+medical record documentation. 
+b. Complete and Accurate 
+Documentation 
+When conducting complex medical 
+review, we proposed that Medicare 
+review contractors would continue to 
+employ clinicians to review practitioner 
+documented procedures and ensure that 
+they are supported by the submitted 
+medical record documentation. Such 
+has been the case for complex medical 
+review as historically performed, and 
+will continue to be the case per this 
+final rule instruction. 
+c. Medical Necessity Reviews 
+(1) Physician Order and Certification 
+In the proposed rule (78 FR 27647), 
+we proposed to codify in 42 CFR 
+412.46(b) the longstanding requirement 
+that medical documentation must 
+support the physician’s order and 
+certification, as prescribed by CMS 
+Ruling 93–1. Under the proposed new 
+paragraph (b) titled ‘‘Physician’s order 
+and certification regarding medical 
+necessity,’’ CMS reiterated that ‘‘No 
+presumptive weight shall be assigned to 
+the physician’s order under § 412.3 or 
+the physician’s certification under 
+Subpart B of Part 424 of this chapter in 
+determining the medical necessity of 
+inpatient hospital services under section 
+1862(a)(1) of the Act. A physician’s 
+order and certification will be evaluated 
+in the context of the evidence in the 
+medical record.’’ We also stated that 
+current requirements for practitioner 
+documentation of services ordered and 
+furnished would remain unchanged. 
+That is, while the physician order and 
+the physician certification are required 
+for all inpatient hospital admissions in 
+order for payment to be made under Part 
+A, the physician order and the 
+physician certification are not 
+considered by CMS to be conclusive 
+evidence that an inpatient hospital 
+admission or service was medically 
+necessary. Rather, the physician order 
+and physician certification are 
+considered along with other 
+documentation in the medical record. 
+Comment: Some commenters 
+disagreed with the proposal for 
+reviewing the physician order and 
+certification in accord with the 
+documentation in the medical record. 
+Rather, the commenters suggested that 
+an assumption of medical necessity for 
+the inpatient stay would more 
+VerDate Mar<15>2010 21:51 Aug 16, 2013 Jkt 229001 PO 00000 Frm 00449 Fmt 4701 Sfmt 4700 E:\FR\FM\19AUR2.SGM 19AUR2bjneal on DSK2TWX8P1PROD with RULES
+--- page 4 ---
+50944 Federal Register / Vol. 78, No. 160 / Monday, August 19, 2013 / Rules and Regulations 
+appropriately stem from the physician 
+order to admit to inpatient, particularly 
+due its requirement for admission 
+purposes. 
+Response: Satisfying the requirements 
+regarding the physician order and 
+certification alone does not guarantee 
+Medicare payment. Rather, in order for 
+payment to be provided under Medicare 
+Part A, the care must also be 
+‘‘reasonable and necessary,’’ as specified 
+under section 1862(a)(1) of the Act. In 
+addition, section 1869(a) of the Act 
+provides that determinations regarding 
+entitlement to benefits are under the 
+authority of the Secretary. As stated in 
+our proposed rule, the instruction for 
+reviewers to account for all 
+documentation in the medical record, in 
+addition to the actual order for inpatient 
+admission, is consistent with statutory 
+instruction and our prior policy as 
+outlined in Medicare Ruling 93–1, and 
+is being codified for transparency and 
+consistency. 
+Comment: Commenters requested that 
+CMS define what constitutes ‘‘objective 
+medical information,’’ which is required 
+to support the order for a hospital 
+inpatient admission. 
+Response: We appreciate the 
+commenters’ suggestions that additional 
+documentation guidelines would be 
+helpful. We will consider them as we 
+develop implementation instructions 
+and manual revisions. 
+(2) Inpatient Hospital Admission 
+Guidelines 
+In the FY 2014 IPPS/LTCH PPS 
+proposed rule (78 FR 27648), we 
+indicated that longstanding Medicare 
+policy has recognized that there are 
+certain situations in which a hospital 
+inpatient admission is rarely 
+appropriate. We have stated in the 
+MBPM that when a beneficiary receives 
+a minor surgical procedure or other 
+treatment in the hospital that is 
+expected to keep him or her in the 
+hospital for only a few hours (less than 
+24), the services should be provided as 
+outpatient hospital services, regardless 
+of the hour the beneficiary comes to the 
+hospital, whether he or she uses a bed, 
+and whether he or she remains in the 
+hospital past midnight (Section 10, 
+Chapter 1 of the MBPM). In applying 
+this benchmark, we have been clear that 
+this instruction does not override the 
+clinical judgment of the physician to 
+keep the beneficiary at the hospital, to 
+order specific services, or to determine 
+appropriate levels of nursing care or 
+physical locations within the hospital. 
+Rather, this instruction provided a 
+benchmark to ensure that all 
+beneficiaries received consistent 
+application of their Part A benefit to 
+whatever clinical services were 
+medically necessary. 
+Due to persistently large improper 
+payment rates in short-stay hospital 
+inpatient claims, and in response to 
+requests to provide additional guidance 
+regarding the proper billing of those 
+services, we proposed to modify and 
+clarify our general rule and provide at 
+§ 412.3(c)(1) that, in addition to services 
+designated by CMS as inpatient only 
+(which are appropriate for inpatient 
+admission without regard to duration of 
+care), surgical procedures, diagnostic 
+tests, and other treatments would be 
+generally appropriate for inpatient 
+admission and inpatient hospital 
+payment under Medicare Part A when 
+the physician expects the beneficiary to 
+require a stay that crosses at least 2 
+midnights and admits the beneficiary to 
+the hospital based upon that 
+expectation. Conversely, when a 
+beneficiary enters a hospital for a 
+surgical procedure not specified by 
+Medicare as inpatient only under 
+§ 419.22(n), a diagnostic test, or any 
+other treatment, and the physician 
+expects to keep the beneficiary in the 
+hospital for only a limited period of 
+time that does not cross 2 midnights, the 
+services would be generally 
+inappropriate for payment under 
+Medicare Part A. This would be the case 
+regardless of the hour that the 
+beneficiary came to the hospital or 
+whether the beneficiary used a bed. 
+In the proposed rule, we provided 
+inpatient hospital admission guidance 
+specifying that a physician or other 
+qualified practitioner (herein we will 
+refer to the physician, with the 
+understanding that this can also pertain 
+to another qualified practitioner) should 
+order admission if he or she expects that 
+the beneficiary’s length of stay will 
+exceed a 2-midnight benchmark or if the 
+beneficiary requires a procedure 
+specified as inpatient-only under 
+§ 419.22. We proposed that the starting 
+point for this 2-midnight instruction 
+would be when the beneficiary is moved 
+from any outpatient area to a bed in the 
+hospital in which additional hospital 
+services would be provided. We also 
+sought public comment regarding 
+alternative methods of calculating the 
+start time for the 2-midnight instruction. 
+In the proposed rule, we stated that 
+the judgment of the physician and the 
+physician’s order for inpatient 
+admission should be based on the 
+expectation of care surpassing 2 
+midnights, with both the expectation of 
+time and the determination of the 
+underlying need for medical care at the 
+hospital supported by complex medical 
+factors such as history and 
+comorbidities, the severity of signs and 
+symptoms, current medical needs, and 
+the risk of an adverse event. We also 
+indicated that, in accordance with 
+current policy, factors that may result in 
+an inconvenience to a beneficiary or 
+family would not justify an inpatient 
+hospital admission. The factors that lead 
+a physician to admit a particular 
+beneficiary based on the physician’s 
+clinical expectation are significant 
+clinical considerations and must be 
+clearly and completely documented in 
+the medical record. Because of the 
+relationship that develops between a 
+physician and his or her patient, the 
+physician is in a unique position to 
+incorporate complete medical evidence 
+in a beneficiary’s medical records, and 
+has ample opportunity to explain in 
+detail why the expectation of the need 
+for care spanning at least 2 midnights 
+was appropriate in the context of that 
+beneficiary’s acute condition. We stated 
+in the proposed rule that a reasonable 
+expectation of a stay crossing 2 
+midnights, which is based on complex 
+medical factors and is documented in 
+the medical record, will provide the 
+justification needed to support medical 
+necessity of the inpatient admission, 
+regardless of the actual duration of the 
+hospital stay and whether it ultimately 
+crosses 2 midnights. As such, we 
+acknowledged in the proposed rule that 
+there may be an unforeseen 
+circumstance that results in a shorter 
+beneficiary stay than the physician’s 
+expectation of surpassing 2 midnights. 
+We stated that we would expect that the 
+majority of such inpatient hospital 
+admissions would occur when an 
+inpatient hospital admission is 
+appropriately ordered, but a 
+beneficiary’s transfer or death interrupts 
+the beneficiary’s hospital stay that 
+would have otherwise spanned at least 
+2 midnights. Therefore, we provided in 
+proposed § 412.3(c)(2), that ‘‘If an 
+unforeseen circumstance, such as 
+beneficiary death or transfer, results in 
+a shorter beneficiary stay than the 
+physician’s expectation of at least 2 
+midnights, the patient may be 
+considered to be appropriately treated 
+on an inpatient basis, and the hospital 
+inpatient payment may be made under 
+Medicare Part A.’’ We indicated that 
+documentation in the medical record of 
+such a circumstance would be required 
+for purposes of supporting whether the 
+inpatient hospital admission was 
+reasonable and necessary for Medicare 
+Part A payment. In addition, we 
+explained that the physician must 
+certify that inpatient hospital services 
+were medically necessary in accordance 
+with section 1814(a) of the Act and 42 
+CFR Part 424, Subpart B. 
+VerDate Mar<15>2010 21:51 Aug 16, 2013 Jkt 229001 PO 00000 Frm 00450 Fmt 4701 Sfmt 4700 E:\FR\FM\19AUR2.SGM 19AUR2bjneal on DSK2TWX8P1PROD with RULES
+--- page 5 ---
+50945 Federal Register / Vol. 78, No. 160 / Monday, August 19, 2013 / Rules and Regulations 
+Comment: Commenters pointed to 
+CMS’ guidance that time should not be 
+the leading factor in the decision to 
+admit a beneficiary and that the 
+decision should rely on the physician’s 
+clinical judgment and evaluation of the 
+beneficiary’s needs based on the 
+severity of illness, the intensity or 
+complexity of care, and the 
+predictability of high-risk adverse 
+outcomes. The commenters stated that 
+there are many beneficiaries who stay in 
+a hospital for less than 2 midnights but 
+still require an inpatient level of care. 
+Response: In our existing guidance, 
+we stated that the decision to admit a 
+patient as an inpatient is a complex 
+medical decision based on many factors, 
+including the risk of an adverse event 
+during the period considered for 
+hospitalization, and an assessment of 
+the services that the beneficiary will 
+need during the hospital stay. The crux 
+of the medical decision is the choice to 
+keep the beneficiary at the hospital in 
+order to receive services or reduce risk, 
+or discharge the beneficiary home 
+because they may be safely treated 
+through intermittent outpatient visits or 
+some other care. Our previous guidance 
+also provided for a 24-hour benchmark, 
+instructing physicians that, in general, 
+beneficiaries who need to stay at the 
+hospital less than 24 hours should be 
+treated as outpatients, while those 
+requiring care greater than 24 hours may 
+usually be treated as inpatients. Our 
+proposed 2-midnight benchmark, which 
+we now finalize, simply modifies our 
+previous guidance to specify that the 
+relevant 24 hours are those 
+encompassed by 2 midnights. While the 
+complex medical decision is based upon 
+an assessment of the need for 
+continuing treatment at the hospital, the 
+2-midnight benchmark clarifies when 
+beneficiaries determined to need such 
+continuing treatment are generally 
+appropriate for inpatient admission or 
+outpatient care in the hospital. 
+Contrary to the commenters’ 
+suggestion, we do not refer to ‘‘level of 
+care’’ in guidance regarding hospital 
+inpatient admission decisions. Rather, 
+we have consistently provided 
+physicians with the aforementioned 
+time-based admission framework to 
+effectuate appropriate inpatient hospital 
+admission decisions. This is supported 
+by recent findings by the Office of 
+Inspector General (OIG) (OIG, Hospitals’ 
+Use of Observation Stays and Short 
+Inpatient Stays for Medicare 
+Beneficiaries, OEI–02–12–00040, July 
+2013). The OIG found that the reasons 
+for short inpatient stays and for 
+outpatient observation stays were often 
+the same. They further noted that the 
+relative use of short inpatient stays 
+versus outpatient observation stays 
+varied widely between hospitals, 
+consistent with medical review findings 
+that identical beneficiaries may receive 
+identical services as either inpatients or 
+outpatients in different hospitals. We 
+believe that this supports our proposed 
+continuation of our existing policy that 
+there are no prohibitions against a 
+patient receiving any individual service 
+as either an inpatient or an outpatient, 
+except for those services designated by 
+the Outpatient Prospective Payment 
+System (OPPS) Inpatient-Only list as 
+inpatient-only services. We further 
+believe that this supports our proposed 
+policy that the physician is expected to 
+continue to use his or her complex 
+clinical judgment in determining 
+whether a beneficiary needs to stay at 
+the hospital, what services and level of 
+nursing care (for example, low-level, 
+monitored, or one-on-one) the 
+beneficiary will need, and what location 
+(unit) is most appropriate. This does not 
+require that the physician memorize 
+complex billing or utilization 
+guidelines; rather, the physician should 
+generally order an inpatient admission 
+when he or she has determined either 
+that the beneficiary requires care at the 
+hospital that is expected to transcend at 
+least 2 midnights or that it will involve 
+a procedure designated by the OPPS 
+Inpatient-Only list as an inpatient-only 
+procedure. 
+Comment: Commenters asserted that 
+making a time-based prediction is 
+difficult for the physician. They stated 
+that making such a determination is 
+contradictory to medical professionals’ 
+training, which is centered on the 
+assessment of patients and the 
+development of treatment plans, as 
+opposed to focusing on the utilization 
+review process. The commenters also 
+stated that predicting length of stay is 
+difficult because individual patients 
+respond differently to care provided. 
+Commenters suggested that a physician 
+often does not have enough information 
+about a patient at the onset of treatment 
+to make an informed decision regarding 
+anticipated length of stay. For example, 
+a hospitalist admitting a beneficiary 
+through the emergency department 
+likely will not be familiar with the 
+patient and may not have access to 
+extensive medical history 
+documentation on which to make a 
+decision. Commenters suggested that 
+beneficiaries with unknown or 
+uncertain diagnoses should be kept 
+under observation status until their 
+diagnosis and course of treatment 
+become clear. At that point, the 
+commenters added, the hospital would 
+be in the best position to determine the 
+length of treatment, make the decision 
+to admit to inpatient status, or discharge 
+the patient home. 
+Response: It has been longstanding 
+Medicare policy to require physicians to 
+admit a beneficiary as a hospital 
+inpatient based on their expected length 
+of stay. However, we recognized when 
+we published our definition of 
+observation services that long-term 
+predictions are inherently more difficult 
+than short-term predictions. Therefore, 
+we revised our guidance to indicate 
+that, when it was difficult to make a 
+reasonable prediction, the physician 
+should not admit the beneficiary but 
+should place the beneficiary in 
+observation as an outpatient. As new 
+information becomes available, the 
+physician must then reassess the 
+beneficiary to determine if discharge is 
+possible or if it is evident that an 
+inpatient stay is required. We believe 
+that this principle still applies and have 
+reiterated this in the final rule. For those 
+hospital stays in which the physician 
+cannot reliably predict the beneficiary 
+to require a hospital stay greater than 2 
+midnights, the physician should 
+continue to treat the beneficiary as an 
+outpatient and then admit as an 
+inpatient if and when additional 
+information suggests a longer stay or the 
+passing of the second midnight is 
+anticipated. 
+Comment: Commenters pointed out 
+that although the proposal is framed as 
+a presumption, the proposed rule, 
+would, in effect, inappropriately 
+establish a per se rule that inpatient 
+admissions that are not expected to last 
+at least 2 midnights are not medically 
+reasonable and necessary (unless the 
+beneficiary is receiving an inpatient- 
+only service or procedure). The 
+commenters stated that the proposed 
+rule offers no legal or medical support 
+for the idea that a 1-day stay that is 
+expected to be a 1-day stay is not 
+medically reasonable and necessary as 
+an inpatient admission. Other 
+commenters requested that CMS clarify 
+that no per se rule would be created that 
+inpatient payment is always 
+inappropriate following procedures not 
+on the inpatient-only list. 
+Response: The proposed rule did not 
+create a per se standard; rather, 
+consistent with historical instruction, 
+the proposed rule continues the use of 
+a benchmark to ensure a uniform 
+understanding of the circumstances 
+under which an inpatient admission 
+should be ordered or when the care 
+should be provided on an outpatient 
+basis. This common standard is not a 
+per se rule but a necessary reference to 
+ensure similar beneficiary cost-sharing 
+and hospital reimbursement for similar 
+VerDate Mar<15>2010 21:51 Aug 16, 2013 Jkt 229001 PO 00000 Frm 00451 Fmt 4701 Sfmt 4700 E:\FR\FM\19AUR2.SGM 19AUR2bjneal on DSK2TWX8P1PROD with RULES
+--- page 6 ---
+50946 Federal Register / Vol. 78, No. 160 / Monday, August 19, 2013 / Rules and Regulations 
+care. The 2-midnight benchmark, rather, 
+provides that hospital stays expected to 
+last less than 2 midnights are generally 
+inappropriate for inpatient hospital 
+admission and Part A payment absent 
+rare and unusual circumstance to be 
+further detailed in sub-regulatory 
+instruction. In applying this benchmark, 
+we have been clear that this instruction 
+does not override the clinical judgment 
+of the physician to keep the beneficiary 
+at the hospital, to order specific 
+services, or to determine appropriate 
+levels of nursing care or physical 
+locations within the hospital. Rather, 
+this instruction provides a benchmark to 
+ensure that all beneficiaries received 
+consistent application of their Part A 
+benefit to whatever clinical services 
+were medically necessary. 
+Comment: Commenters urged CMS to 
+consider situations that result in a 
+shorter beneficiary stay than the 
+physician’s expectation of care 
+transcending 2 midnights. The 
+commenters stated that in the proposed 
+rule, CMS indicated that it would 
+expect that the majority of such cases to 
+be due to beneficiary death or transfer. 
+Commenters expressed concern that 
+these exceptions are too restrictive and 
+urged CMS to recognize other 
+exceptions, such as when a beneficiary 
+leaves against medical advice (AMA) 
+before reaching the 2-midnight 
+benchmark, when the beneficiary 
+improves more rapidly than expected, 
+or when the beneficiary requires care in 
+the intensive care unit (ICU). One 
+commenter inquired whether a 
+beneficiary who receives intensive 
+services and expires prior to crossing 2 
+midnights would automatically be 
+classified as appropriately outpatient. 
+Response: We appreciate industry 
+feedback, and believe the rule, as 
+finalized, provides for sufficient 
+flexibility because of its basis in the 
+physician’s expectation of a 2-midnight 
+stay. Such would include situations in 
+which the beneficiary improves more 
+rapidly than the physician’s reasonable, 
+documented expectation. Such 
+unexpected improvement may be 
+provided and billed as inpatient care, as 
+the regulation is framed upon a 
+reasonable and supportable expectation, 
+not the actual length of care, in defining 
+when hospital care is appropriate for 
+inpatient payment. We do not believe 
+beneficiaries treated in an intensive care 
+unit should be an exception to this 
+standard, as our 2-midnight benchmark 
+policy is not contingent on the level of 
+care required or the placement of the 
+beneficiary within the hospital. In 
+addition, while we did not specify the 
+situation in which a beneficiary leaves 
+AMA as an exception under the 
+proposed rule, we acknowledge that an 
+AMA departure is usually an 
+unexpected event and that an inpatient 
+admission could still be appropriate 
+provided that the medical record 
+demonstrates a reasonable expectation 
+of a 2-midnight stay when the 
+admission order is written. As we 
+develop our manual guidance to 
+implement this proposed rule, we will 
+identify those unusual situations in 
+which we expect that the 2 midnight 
+benchmark does not apply. 
+Comment: Commenters voiced 
+concerns that the use of observation 
+would increase under the proposed 
+policy, regardless of CMS’ intent to 
+reduce the incidence of long observation 
+stays. Some commenters believed that if 
+the physician would have to predict a 
+greater than 2 midnight stay, only the 
+sickest individuals and those receiving 
+procedures on the inpatient-only list 
+would be admitted as inpatients, while 
+many more beneficiaries would be 
+placed in observation so as to avoid an 
+inaccurate length of stay determination 
+and subsequent short-stay audits. Other 
+commenters believed that because an 
+increase in observation stays will 
+happen, many hospital stays that would 
+generally be appropriate for an inpatient 
+admission under CMS’ current 24-hour 
+guidance would now be generally 
+inappropriate for Part A payment unless 
+the 2-midnight benchmark is met. 
+Commenters voiced concern that the 
+increase in observation will lead to a 
+strain in outpatient beds and resources, 
+leading the hospitals to use inpatient 
+beds for beneficiaries in outpatient 
+status who need more intense 
+monitoring than is currently available in 
+outpatient areas without a proportionate 
+increase in outpatient reimbursement 
+from Medicare. Commenters also urged 
+CMS to recalibrate its outpatient 
+payment so that hospitals will be 
+adequately compensated for handling 
+the increase in observation cases, 
+particularly for those stays requiring 
+complex monitoring and intervention. 
+The commenters believed that as 
+beneficiaries have the potential for 
+greater cost-sharing for an observation 
+stay than an inpatient stay, this may 
+lead to greater financial liability for 
+beneficiaries. 
+Response: While previous guidance 
+provided a 24-hour benchmark to be 
+used in making inpatient admission 
+decisions, we now specify that the 24 
+hours relevant to inpatient admission 
+decisions are those encapsulated by 2 
+midnights. As we provide in this final 
+rule, we expect that the decision to 
+admit the beneficiary should be based 
+on the cumulative time spent at the 
+hospital beginning with the initial 
+outpatient service. In other words, if the 
+physician makes the decision to admit 
+after the beneficiary arrived at the 
+hospital and began receiving services, 
+he or she should consider the time 
+already spent receiving those services in 
+estimating the beneficiary’s total 
+expected length of stay. For example, if 
+the beneficiary has already passed 1 
+midnight as an outpatient observation 
+patient or in routine recovery following 
+outpatient surgery, the physician should 
+consider the 2 midnight benchmark met 
+if he or she expects the beneficiary to 
+require an additional midnight in the 
+hospital. This means that the decision to 
+admit becomes easier as the time 
+approaches the second midnight, and 
+beneficiaries in medically necessary 
+hospitalizations should not pass a 
+second midnight prior to the admission 
+order being written. The potential 
+increase in very short (less than 2 
+midnights) observation stays should be 
+balanced by a significant decrease in 
+long (2 midnights or more) observation 
+stays. Because we expect that this 
+revision should virtually eliminate the 
+use of extended observation, we also 
+anticipate it will concurrently limit 
+beneficiary cost-sharing for outpatient 
+services. We are not expecting any 
+change in the utilization of specific beds 
+or facilities, as the expectation of the 
+duration of needed care is independent 
+of the beneficiary’s location at the 
+hospital. 
+Comment: One commenter inquired 
+about the appropriate use of Condition 
+Code 44 in a situation when the 
+physician expected a stay that met the 
+2-midnight standard but the beneficiary 
+experienced an unanticipated recovery. 
+Response: We refer commenters to the 
+instruction provided at section XI.B. of 
+the preamble of this rule, in which we 
+expanded on Condition Code 44 
+requirements and application. Under 
+this section, we state that providers may 
+continue to change patient status to 
+outpatient during the hospital stay upon 
+meeting the Condition Code 44 
+requirements. However, we note that 
+Condition Code 44 is not to be used for 
+unexpected events because, as described 
+above, those situations can remain 
+appropriately inpatient. Thus, a 
+beneficiary who experiences an 
+unexpected recovery during a medically 
+necessary stay should not be converted 
+to an outpatient but should remain an 
+inpatient if the 2-midnight expectation 
+was reasonable at the time the inpatient 
+order was written, but unexpectedly the 
+stay did not fully transpire. In contrast, 
+Condition Code 44 is specifically for the 
+situation when the utilization review or 
+management committee determines that 
+the physician has not appropriately 
+VerDate Mar<15>2010 21:51 Aug 16, 2013 Jkt 229001 PO 00000 Frm 00452 Fmt 4701 Sfmt 4700 E:\FR\FM\19AUR2.SGM 19AUR2bjneal on DSK2TWX8P1PROD with RULES
+--- page 7 ---
+50947 Federal Register / Vol. 78, No. 160 / Monday, August 19, 2013 / Rules and Regulations 
+admitted a patient and the physician 
+concurs that the status should be 
+converted to outpatient prior to 
+beneficiary discharge. 
+Comment: Commenters indicated that 
+inpatient-only procedures that require a 
+1-day length of stay would be affected 
+by this proposed policy and may not be 
+adequately reimbursed under Medicare 
+Part B. The commenters requested that 
+CMS specify that all services on the 
+inpatient-only list should automatically 
+be deemed to meet inpatient service 
+criteria, even if the beneficiary is in the 
+hospital for less than 2 midnights. 
+Conversely, another commenter 
+suggested that excluding inpatient-only 
+procedures, which may or may not 
+require 2-midnight stays, contradicts a 
+time-based policy. 
+Response: In the proposed rule, we 
+stated that procedures on the OPPS 
+inpatient-only list are always 
+appropriately inpatient, regardless of 
+the actual time expected at the hospital, 
+so long as the procedure is medically 
+necessary and performed pursuant to a 
+physician order and formal admission. 
+Procedures designated as inpatient-only 
+are deemed statutorily appropriate for 
+inpatient payment at § 419.22(n). As 
+such, we believe that inpatient-only 
+procedures are appropriate for exclusion 
+from the 2-midnight benchmark. Under 
+this final rule, inpatient-only 
+procedures currently performed as 
+inpatient 1-day procedures will 
+continue to be provided as inpatient 1- 
+day procedures, and therefore this rule 
+will not result in any change in status 
+or reimbursement. 
+Comment: Commenters recommended 
+that CMS remove the 2-midnight 
+guidance for certain procedures, 
+allowing physicians to continue 
+admitting as inpatient high risk, 
+complex beneficiaries who are to 
+undergo a surgery with added 
+complexity, regardless of the expected 
+length of stay. The commenters stated 
+that many Medicare beneficiaries have 
+multiple comorbidities, and the 
+execution of seemingly simple 
+procedures may require more pre-, intra- 
+, and post-operative services than would 
+be necessary for younger or healthier 
+patients, even when there is no 
+expectation that the beneficiary will 
+require a stay of at least 2 midnights. 
+Commenters added that the provision of 
+such services may exceed the level of 
+care typically associated with 
+observation care. Other commenters 
+suggested that CMS explicitly preclude 
+from further review any services that are 
+not typically available in an outpatient 
+setting, such as telemetry. 
+Response: We agree with commenters 
+that factors such as the procedures being 
+performed and the health status of the 
+beneficiary are important considerations 
+in the decision to keep the beneficiary 
+in the hospital. However, as we note 
+above, the beneficiary’s required ‘‘level 
+of care’’ is not part of the guidance 
+regarding hospital inpatient admission 
+decisions. Rather, we provide 
+physicians with a 2-midnight admission 
+framework to effectuate appropriate 
+inpatient hospital admission decisions. 
+More specifically, we have stipulated 
+that factors such as the procedures being 
+performed and the beneficiary’s 
+condition and comorbidities apply 
+when the physician formulates his or 
+her expectation regarding the need for 
+hospital care, while the decision of 
+whether to admit a beneficiary as an 
+inpatient or keep as an outpatient is 
+based upon the physician’s expectation 
+of the beneficiary’s required length of 
+stay. In this rule, we have not identified 
+any circumstances where the 2- 
+midnight benchmark restricts the 
+physician to a specific pattern of care, 
+as we have specified that the 2-midnight 
+benchmark, like the previous 24-hour 
+benchmark, does not prevent the 
+physician from providing any service at 
+any hospital regardless of the expected 
+duration of the service. Rather, this 
+policy provides guidance on when the 
+hospitalized beneficiary is appropriate 
+for coverage under Part A benefits as an 
+inpatient, and when the hospitalized 
+beneficiary should receive that 
+treatment as a registered outpatient 
+subject to Part B benefits. On the other 
+hand, we also specify that certain 
+procedures may have intrinsic risks, 
+recovery impacts or complexities that 
+would cause them to be appropriate for 
+inpatient coverage under Part A 
+regardless of the expected length of 
+hospital time a specific physician 
+expects a particular patient to require. 
+We believe that the OPPS Inpatient- 
+Only List identifies those procedures 
+and we have proposed that this is a 
+specific exception to the generally 
+applicable 2 midnight benchmark. We 
+may also specify other potential 
+exceptions to the generally applicable 
+benchmark as we revise our manuals to 
+implement this proposed rule. 
+Comment: Commenters recommended 
+that the risk of an adverse event as being 
+a determinant in the inpatient 
+admission decision should be removed, 
+qualified as ‘‘high’’ or ‘‘unreasonable,’’ 
+or narrowly defined to only include 
+risks during the beneficiary’s course of 
+treatment that can be addressed or 
+managed by the hospital. The 
+commenters pointed to past trends of 
+inconsistency in the use of risk as a 
+factor in the inpatient admission 
+decision by hospitals and appeal 
+entities. Commenters suggested that, at 
+most, the beneficiary’s risk of morbidity 
+or mortality should be a factor 
+considered when making the decision of 
+whether the keep the beneficiary in the 
+hospital or send the beneficiary home, 
+not when determining the appropriate 
+patient status as inpatient or outpatient. 
+Response: We believe that, due to the 
+nature of the Medicare population, 
+coexisting or concurrent medical 
+conditions are a frequent occurrence. As 
+a result, admission decisions centered 
+around risk must relate to current 
+disease processes or presenting 
+symptoms, and not merely be part of the 
+beneficiary’s benign or latent past 
+medical history. We note that ‘‘risk’’ in 
+common usage describes an 
+unacceptable probability of an adverse 
+outcome, as in ‘‘risky behavior.’’ We 
+reiterate our stance that the decision to 
+hospitalize a beneficiary is a complex 
+medical decision made by the physician 
+in consideration of various risk factors, 
+including the beneficiary’s age, disease 
+processes, comorbidities, and the 
+potential impact of sending the 
+beneficiary home. It is up to the 
+physician to make the complex medical 
+decision of whether the beneficiary’s 
+risk of morbidity or mortality dictates 
+the need to remain at the hospital 
+because the risk of an adverse event 
+would otherwise be unacceptable under 
+reasonable standards of care, or when 
+the beneficiary may be discharged 
+home. If the resultant length of stay for 
+medically necessary hospitalization is 
+expected to surpass 2 midnights, the 
+physician should admit the patient as 
+an inpatient. 
+Comment: Commenters pointed out 
+that the complexity of caring for the 
+elderly beneficiary and the limited 
+access to resources in the community 
+continues to be challenging. While a 
+beneficiary may not meet the screening 
+criteria for an inpatient admission, the 
+beneficiary’s complex needs and lack of 
+access to medical therapies outside the 
+hospital require the admitting physician 
+to make a judgment as to whether such 
+patients are in greater danger of serious 
+illness or death if they are discharged 
+than if they are admitted, and may 
+result in the hospital being unable to 
+release a beneficiary into the 
+community. Conversely, a commenter 
+wanted to remind CMS that 
+convenience factors or nonmedically 
+necessary care violate the Social 
+Security Act, which excludes custodial 
+care from Medicare coverage. 
+Response: While we will not dictate 
+the hospital or physician admission 
+decision, we also note that Medicare is 
+statutorily prohibited under section 
+VerDate Mar<15>2010 21:51 Aug 16, 2013 Jkt 229001 PO 00000 Frm 00453 Fmt 4701 Sfmt 4700 E:\FR\FM\19AUR2.SGM 19AUR2bjneal on DSK2TWX8P1PROD with RULES
+--- page 8 ---
+50948 Federal Register / Vol. 78, No. 160 / Monday, August 19, 2013 / Rules and Regulations 
+1862(a)(1)(A) of the Act from paying for 
+services that are not reasonable and 
+necessary. Therefore, we have identified 
+so-called ‘‘social admissions’’ and 
+admissions to avoid inconvenience as 
+inappropriate from Medicare payment 
+per the aforementioned statutory 
+exclusion. This is consistent with 
+current manual instructions. We will 
+look for opportunities to offer additional 
+guidance addressing these types of 
+medical necessity decisions as we 
+update our policy manuals. 
+Comment: Commenters requested that 
+CMS provide clarification for how 
+hospitals receiving beneficiaries from 
+another hospital should make the 
+admission decision under the proposed 
+policy. 
+Response: We recognize that, in 
+addition to the occurrence of 
+unexpected transfers out of a hospital, 
+there are a number of possible scenarios 
+involving transfers into a hospital that 
+that may impact the length of stay 
+determination under this policy. We 
+noted in the proposed rule that an 
+unexpected transfer out of the sending 
+hospital is one reason why an inpatient 
+stay that lasts less than 2 midnights may 
+still be appropriately inpatient. Due to 
+the complexity of the possible transfer 
+scenarios, we believe that explicit 
+guidance should be reserved for manual 
+instruction. Drafting these instructions 
+will be one of the highest priorities as 
+we develop our implementation 
+instructions. 
+Comment: Commenters pointed out 
+that, under this proposal, the distinction 
+between inpatient and outpatient may 
+come down to small time discrepancies. 
+For example, a beneficiary whose 
+hospital stay begins shortly before 
+midnight and lasts just over 48 hours 
+will be considered an inpatient because 
+the stay will cross 2 midnights, while a 
+beneficiary whose hospital stay begins 
+shortly after midnight and lasts just 
+under 48 hours will be considered an 
+outpatient because the stay will only 
+cross 1 midnight. 
+Response: The application of 2 
+midnights was proposed for the purpose 
+of providing both consistency and 
+clarity. We have expected and continue 
+to expect that physicians will make the 
+decision to keep a beneficiary in the 
+hospital when clinically warranted and 
+will order all appropriate treatments 
+and care in the appropriate location 
+based on the beneficiary’s individual 
+medical needs. We also expect that 
+physicians will apply the revised 
+benchmark as they have previously 
+applied the existing benchmark, 
+providing any medically necessary 
+services in an inpatient status whenever 
+the benchmark is met and in all other 
+instances providing identical services to 
+patients staying at the hospital in a day 
+or overnight outpatient status. While we 
+have historically referenced a 24-hour 
+benchmark, we now specify that the 24 
+hours relevant to inpatient admission 
+decisions are those encapsulated by 2 
+midnights. This distinction is consistent 
+with our application of Medicare 
+utilization days, which are based on the 
+number of midnights crossed. Medicare 
+charges beneficiaries for utilization days 
+and pays hospitals for utilization days 
+when it applies per diem adjustments, 
+such as the transfer adjustment. A 
+beneficiary who is admitted just before 
+midnight and discharged 36 hours later 
+is currently charged 2 utilization days, 
+while a beneficiary admitted just after 
+midnight is charged 1 day. In addition, 
+the use of 2 midnights is an easy 
+concept for beneficiaries to understand 
+in assessing the appropriateness of their 
+assigned status, associated coverage, 
+and impacts. 
+Comment: Commenters provided 
+alternate proposals for guiding inpatient 
+admissions and medical review. Some 
+commenters suggested that physicians 
+are not apprised of admission criteria, 
+but rather the medical treatment 
+necessary for the beneficiary, and 
+suggested that case management be 
+permitted to make inpatient admission 
+determinations, which could be 
+concurred or nonconcurred to by the 
+treating physician. Conversely, other 
+commenters believed the physician was 
+most apprised of the patient condition 
+and, therefore, the need for inpatient 
+admission or care spanning 2 midnights. 
+As such, some commenters believed the 
+physician order should trigger a 
+presumption of appropriate payment for 
+medical review purposes. One 
+commenter suggested good faith 
+protections for facilities in strict 
+adherence to their hospital comprised 
+utilization review plan. Another 
+commenter disagreed with the need for 
+any change to the current medical 
+review policy. 
+Response: In the proposed rule, we 
+focused on clarifying and modifying the 
+distinction between hospitalization as 
+an outpatient and hospitalization as an 
+inpatient. While the proposed approach 
+arose out of significant consideration for 
+provider impact, ease in 
+implementation and operationalization, 
+we will assess commenter feedback 
+falling within the scope of CMS’ policy 
+in implementing changes to our manual 
+provisions. 
+Comment: Commenters requested 
+further guidance to clarify what criteria 
+support a reasonable and necessary 
+inpatient admission. The commenters’ 
+suggested sources of such guidance 
+included evidence-based guidelines 
+offered through the Agency for 
+Healthcare Research and Quality 
+(AHRQ) National Guidelines 
+Clearinghouse and the various medical 
+specialty societies and commercial 
+hospital screening guidelines. Some 
+commenters also suggested that 
+inpatient admissions be deemed 
+reasonable and necessary based on the 
+use of such sources. Another commenter 
+indicated that a time-based policy 
+contradicts CMS instructions contained 
+in the Program Integrity Manual 
+pertaining to the use of screening tools 
+as part of the review of inpatient 
+hospital claims. Regardless of the 
+criteria chosen, commenters iterated 
+that CMS and its contractors must 
+update existing inpatient admission 
+guidance and policies to ensure 
+consistency in application by all 
+Medicare review contractors. 
+Commenters also inquired whether 
+providers would have the opportunity 
+to comment on any additional guidance 
+that will be created to implement this 
+rule. 
+Response: Medicare review 
+contractors must abide by CMS policies 
+in conducting payment determinations, 
+but are permitted to take into account 
+evidence-based guidelines or 
+commercial utilization tools that may 
+aid such a decision. We also 
+acknowledge that this type of 
+information may be appropriately 
+considered by the physician as part of 
+the complex medical judgment that 
+guides his or her decision to keep a 
+beneficiary in the hospital and 
+formulation of the expected length of 
+stay. As we update our manuals and 
+take additional steps to implement this 
+rule, we anticipate using our usual 
+processes to develop and release 
+subregulatory guidance such as manual 
+instructions and educational materials, 
+which may include open door forums, 
+regional meetings, correspondence and 
+other ongoing interactions with 
+stakeholders; and that our contractors 
+will continue to involve local entities as 
+they implement these rules. 
+Comment: Several commenters 
+indicated that CMS should delay 
+enforcement of the revised admissions 
+criteria until a time after October 1, 
+2013, due to the significant system 
+changes and educational efforts that will 
+be required. Some commenters 
+indicated that CMS should use this 
+delay in order to conduct further 
+research and collaborate with providers, 
+while others suggested that CMS 
+conduct a thorough analysis of current 
+payment policy and planned payment 
+reforms that could affect inpatient 
+admission decisions, including those 
+VerDate Mar<15>2010 21:51 Aug 16, 2013 Jkt 229001 PO 00000 Frm 00454 Fmt 4701 Sfmt 4700 E:\FR\FM\19AUR2.SGM 19AUR2bjneal on DSK2TWX8P1PROD with RULES
+--- page 9 ---
+50949 Federal Register / Vol. 78, No. 160 / Monday, August 19, 2013 / Rules and Regulations 
+with implications for patient safety, 
+quality, and beneficiary cost-sharing, 
+before finalizing its guidance. Other 
+commenters suggested that claim 
+reviews for inpatient stays of greater 
+than 2 midnights should continue 
+without evidence of gaming for a period 
+of time following implementation of the 
+new policy to ensure that hospitals are 
+properly billing under the revised 
+criteria. The commenters stated that 
+after that time has passed, reviews of 
+inpatient stays longer than 2 midnights 
+would be based on evidence of 
+overutilization. 
+Response: We proposed only a change 
+in the inpatient admissions benchmark 
+from an hourly expectation (24 hours) to 
+a daily (2-midnights) expectation. We 
+do not believe that delays in 
+implementation are necessary or 
+desirable, and we expect, through 
+collaboration with stakeholders, to 
+develop additional guidance and 
+instruction as part of that 
+implementation. 
+Comment: Commenters questioned 
+the applicability of the proposed rule to 
+differing types of hospital facilities. 
+Commenters specifically requested 
+clarity regarding application of the rule 
+to IRFs and IPFs. Commenters further 
+asserted that this distinction may 
+conflict with State laws requiring 
+inpatient admissions post 24 hours, and 
+such States should be granted 
+exception. 
+Response: In the proposed rule, our 
+reference to section 1861(e) of the Act 
+was intended to specify that CAHs were 
+included in the proposed policies, not 
+that we were proposing that IPFs or 
+other non-IPPS hospitals should be 
+excluded. Having considered the public 
+comments to the proposed rule, we 
+believe that all hospitals, LTCHs, and 
+CAHs, with the exception of IRFs, 
+would appropriately be included in our 
+final policies regarding the 2-midnight 
+admission guidance and medical review 
+criteria for determining the general 
+appropriateness of inpatient admission 
+and Part A payment. Due to the inherent 
+differences in the operation of and 
+beneficiary admissions to IRFs, such 
+providers must be excluded from the 
+aforementioned admission guidelines 
+and medical review instruction. We 
+disagree with the commenters’ assertion 
+that the 2-midnight admission and 
+medical review policies conflict with 
+existing state laws regarding 
+observation. The 2-midnight benchmark 
+does not prohibit physicians from 
+ordering inpatient admission in 
+accordance with state law; rather, this 
+policy indicates when Medicare 
+payment will be deemed appropriate. 
+To the extent that State law requires 
+admission in situations where Medicare 
+payment would not be appropriate, 
+providers should work with their States 
+to resolve those discrepancies. 
+Comment: Commenters indicated that 
+the proposed policy, which clarifies 
+when a beneficiary becomes an 
+inpatient, promotes the integrity and 
+accuracy of the 340B program. They 
+stated that the 340B program creates an 
+incentive for hospitals to keep 
+beneficiaries in observation status for 
+the purpose of obtaining the deeply 
+discounted 340B acquisition price that 
+would otherwise by unavailable. Thus, 
+they added, the 340B spread creates a 
+financial incentive for 340B hospitals to 
+keep beneficiaries in outpatient/ 
+observation status for the sole purpose 
+of administering drugs. 
+Response: We appreciate the 
+observation of the commenters and 
+concur that this policy promotes 
+consistent application of an inpatient 
+status to all stakeholders. 
+(3) Medical Review of Inpatient Hospital 
+Admissions Under Part A 
+Under this revised policy, services 
+designated by the OPPS Inpatient-Only 
+list as inpatient-only, would continue to 
+be appropriate for inpatient hospital 
+admission and payment under Medicare 
+Part A. In addition, surgical procedures, 
+diagnostic tests, and other treatments 
+would be generally deemed appropriate 
+for inpatient hospital admission and 
+payment under Medicare Part A when 
+the physician expects the patient to 
+require a stay that crosses at least 2 
+midnights and admits the patient to the 
+hospital based upon that expectation. 
+We proposed, and are now finalizing, 
+two distinct, though related, medical 
+review policies, a 2-midnight 
+presumption and a 2-midnight 
+benchmark. Under the 2-midnight 
+presumption, inpatient hospital claims 
+with lengths of stay greater than 2 
+midnights after the formal admission 
+following the order will be presumed 
+generally appropriate for Part A 
+payment and will not be the focus of 
+medical review efforts absent evidence 
+of systematic gaming, abuse or delays in 
+the provision of care in an attempt to 
+qualify for the 2-midnight presumption 
+(that is, inpatient hospital admissions 
+where medically necessary treatment 
+was not provided on a continuous basis 
+throughout the hospital stay and the 
+services could have been furnished in a 
+shorter timeframe). Beneficiaries should 
+not be held in the hospital absent 
+medically necessary care for the 
+purpose of meeting the 2-midnight 
+benchmark. Review contractors will also 
+continue to assess claims in which the 
+beneficiary span of care after admission 
+crosses 2 midnights: 
+• To ensure the services provided 
+were medically necessary; 
+• To ensure that the stay at the 
+hospital was medically necessary; 
+• To validate provider coding and 
+documentation as reflective of the 
+medical evidence; 
+• When the CERT Contractor is 
+directed to do so under the Improper 
+Payments Elimination and Recovery 
+Improvement Act of 2012 (Pub. L. 112– 
+248); or 
+• If directed by CMS or other 
+authoritative governmental entity 
+(including but not limited to the HHS 
+Office of Inspector General and 
+Government Accountability Office). 
+Conversely, under this revised policy, 
+CMS’ medical review efforts will focus 
+on inpatient hospital admissions with 
+lengths of stay crossing only 1 midnight 
+or less after admission (that is, only 1 
+Medicare utilization day, as defined in 
+42 CFR 409.61 and implemented in the 
+MBPM, Chapter 3, Section 20.1). As 
+previously described, such claims have 
+traditionally demonstrated the largest 
+proportion of inpatient hospital 
+improper payments under Medicare Part 
+A. If the physician admits the 
+beneficiary as an inpatient but the 
+beneficiary is in the hospital for less 
+than 2 midnights after the order is 
+written, CMS and its medical review 
+contractors will not presume that the 
+inpatient hospital status was reasonable 
+and necessary for payment purposes, 
+but may instead evaluate the claim 
+pursuant to the 2-midnight benchmark. 
+Medicare review contractors will (a) 
+evaluate the physician order for 
+inpatient admission to the hospital, 
+along with the other required elements 
+of the physician certification, (b) the 
+medical documentation supporting the 
+expectation that care would span at 
+least 2 midnights, and (c) the medical 
+documentation supporting a decision 
+that it was reasonable and necessary to 
+keep the patient at the hospital to 
+receive such care, in order to determine 
+whether payment under Part A is 
+appropriate. 
+In their review of the medical record, 
+Medicare review contractors will 
+consider complex medical factors that 
+support a reasonable expectation of the 
+needed duration of the stay relative to 
+the 2-midnight benchmark. Both the 
+decision to keep the beneficiary at the 
+hospital and the expectation of needed 
+duration of the stay are based on such 
+complex medical factors as beneficiary 
+medical history and comorbidities, the 
+severity of signs and symptoms, current 
+medical needs, and the risk (probability) 
+of an adverse event occurring during the 
+VerDate Mar<15>2010 21:51 Aug 16, 2013 Jkt 229001 PO 00000 Frm 00455 Fmt 4701 Sfmt 4700 E:\FR\FM\19AUR2.SGM 19AUR2bjneal on DSK2TWX8P1PROD with RULES
+--- page 10 ---
+50950 Federal Register / Vol. 78, No. 160 / Monday, August 19, 2013 / Rules and Regulations 
+time period for which hospitalization is 
+considered. In other words, if it was 
+reasonable for the physician to expect 
+the beneficiary to require a stay lasting 
+2 midnights, and that expectation is 
+documented in the medical record, 
+inpatient admission is generally 
+appropriate, and payment may be made 
+under Medicare Part A; this is regardless 
+of whether the anticipated length of stay 
+did not transpire due to unforeseen 
+circumstances such as beneficiary death 
+or transfer (so long as the physician’s 
+order and certification requirements 
+also are met). As discussed above, an 
+inpatient admission is appropriate and 
+Part A payment may also be made in the 
+case of services on Medicare’s inpatient- 
+only list, regardless of the expected 
+length of stay. 
+Comment: Some commenters shared 
+concerns regarding the proposed 
+method of calculating the length of stay 
+for purposes of the 2-midnight 
+benchmark, beginning when the 
+beneficiary is moved from any 
+outpatient area to a bed in the hospital 
+in which the additional hospital 
+services will be provided. Commenters 
+noted that hospital capacity issues can 
+lead to situations in which a beneficiary 
+is boarded in the emergency department 
+until a bed becomes available, which 
+can be hours after the admission order 
+is written. In other instances, the 
+commenters added, an inpatient 
+admission may be planned after a 
+surgical procedure and the beneficiary 
+becomes an inpatient when he or she 
+reports to the operating room for 
+preoperative assessment and 
+preparation. Commenters pointed out 
+that if the clock does not start until 
+beneficiary movement to another area of 
+the hospital occurs, the beneficiary may 
+not meet the 2-midnight benchmark 
+although he or she was receiving 
+treatment in the hospital for greater than 
+2 midnights. Commenters provided 
+various alternate suggestions for when 
+the clock should start. Many 
+commenters suggested that CMS start 
+the clock the earliest of: (1) When the 
+physician writes an order for admission 
+or observation; (2) when the beneficiary 
+is treated in the emergency department; 
+or (3) when the beneficiary is placed in 
+a bed for observation. Other commenters 
+suggested that the clock should begin 
+when the beneficiary meets inpatient 
+admission criteria or when the nursing 
+intake notes specify the time the 
+beneficiary is admitted to the floor and 
+is put in a bed. Regardless of the 
+decision CMS made on this point, 
+commenters requested that clarification 
+be provided on when the inpatient order 
+should be written and how the time 
+should be counted for medical review 
+purposes. 
+Response: We agree with the concerns 
+noted by commenters, and are revising 
+the proposed rule accordingly. In this 
+final rule, we specify that the ordering 
+physician may consider time the 
+beneficiary spent receiving outpatient 
+services (including observation services, 
+treatments in the emergency 
+department, and procedures provided in 
+the operating room or other treatment 
+area) for purposes of determining 
+whether the 2-midnight benchmark is 
+expected to be met and therefore 
+inpatient admission is generally 
+appropriate. For beneficiaries who do 
+not arrive through the emergency 
+department or are directly receiving 
+inpatient services (for example, 
+inpatient admission order written prior 
+to admission for an elective admission 
+or transfer from another hospital), the 
+starting point for medical review 
+purposes will be from the time the 
+patient starts receiving any services after 
+arrival at the hospital. We emphasize 
+that the time the beneficiary spent as an 
+outpatient before the inpatient 
+admission order is written will not be 
+considered inpatient time, but may be 
+considered by physicians in 
+determining whether a patient should 
+be admitted as an inpatient, and during 
+the medical review process for the 
+limited purpose of determining whether 
+the 2-midnight benchmark was met and 
+therefore payment is generally 
+appropriate under Part A. Claims in 
+which a medically necessary inpatient 
+stay spans at least 2 midnights after the 
+beneficiary is formally admitted as an 
+inpatient will be presumed appropriate 
+for inpatient admission and inpatient 
+hospital payment and will generally not 
+be subject to medical review of the 
+inpatient admission, absent evidence of 
+systematic gaming, abuse, or delays in 
+the provision of care in an attempt to 
+qualify for the 2-midnight presumption. 
+Comment: Commenters requested 
+clarification regarding the distinction 
+between inpatient time and outpatient 
+time for purposes of meeting the 2- 
+midnight benchmark, specifically for 
+those beneficiaries who are first treated 
+in observation status and then later as 
+hospital inpatients pursuant to a 
+physician’s order. Commenters 
+recommended that CMS consider 
+observation care to count toward the 2- 
+midnight rule when complications arise 
+that lead to previously unanticipated 
+extended care in accord with 
+requirements for skilled nursing facility 
+eligibility. 
+Response: As noted above, we will 
+allow the physician to consider time 
+spent in the hospital as an outpatient in 
+making their inpatient admission 
+decision. This is consistent with CMS 
+existing instructions and medical 
+review guidance, which allow 
+physicians and Medicare review 
+contractors to account for the 
+beneficiary’s medical history and 
+physical condition prior to the inpatient 
+admission decision. Therefore, if upon 
+beneficiary presentation, the physician 
+is unable to make an evaluation and 
+corresponding expected length of stay 
+determination, the physician may first 
+monitor the beneficiary in observation 
+or continue to perform diagnostics in 
+the outpatient arena. If the beneficiary’s 
+medical needs and condition after 1 
+midnight in outpatient status dictate the 
+need for an additional midnight within 
+the hospital receiving medically 
+necessary care, the physician may 
+consider the care in the outpatient 
+setting when making his or her 
+admission decision. Medicare review 
+contractors would similarly apply the 2- 
+midnight benchmark to all time spent 
+within the hospital receiving medically 
+necessary services in their claim 
+evaluation. 
+We reiterate that the physician order, 
+the remaining elements of the physician 
+certification, and formal inpatient 
+admission remain the mandated means 
+of inpatient admission. While outpatient 
+time may be accounted for in 
+application of the 2-midnight 
+benchmark, it may not be retroactively 
+included as inpatient care for skilled 
+nursing care eligibility or other benefit 
+purposes. Inpatient status begins with 
+the admission based on a physician 
+order. 
+Comment: Commenters expressed 
+concern about the additional scrutiny 
+that 1-day inpatient hospital stays 
+would undergo under this policy. 
+Commenters also were particularly 
+interested in how the review contractors 
+would review inpatient stays that lasted 
+less than 2 midnights, including 
+whether current review criteria would 
+continue to be utilized for such reviews. 
+The commenters requested that CMS 
+define situations in which a hospital 
+stay lasting less than 2 midnights would 
+properly qualify as inpatient. 
+Response: If the physician admits the 
+beneficiary as an inpatient but the 
+beneficiary is in the hospital for less 
+than 2 midnights after the admission 
+begins, CMS and the Medicare review 
+contractors will not presume that the 
+inpatient hospital admission was 
+reasonable and necessary for payment 
+purposes, but will apply the 2-midnight 
+benchmark in conducting medical 
+review. In making their determination of 
+whether the inpatient admission is 
+appropriate, Medicare review 
+VerDate Mar<15>2010 21:51 Aug 16, 2013 Jkt 229001 PO 00000 Frm 00456 Fmt 4701 Sfmt 4700 E:\FR\FM\19AUR2.SGM 19AUR2bjneal on DSK2TWX8P1PROD with RULES
+--- page 11 ---
+50951 Federal Register / Vol. 78, No. 160 / Monday, August 19, 2013 / Rules and Regulations 
+contractors will evaluate: (a) The 
+physician order for inpatient admission 
+to the hospital, along with the other 
+required elements of the physician 
+certification; (b) the medical 
+documentation supporting that the 
+order was based on an expectation of 
+need for care spanning at least 2 
+midnights; and (c) the medical 
+documentation supporting a decision 
+that it was reasonable and necessary to 
+keep the patient at the hospital to 
+receive such care. In their review of the 
+medical record, Medicare review 
+contractors will consider complex 
+medical factors that support a 
+reasonable expectation of the needed 
+duration of the stay relative to the 2- 
+midnight benchmark. These include 
+such factors as beneficiary medical 
+history and comorbidities, the severity 
+of signs and symptoms, current medical 
+needs, and the risk of an adverse event. 
+Comment: Commenters asserted that 
+the proposed rule penalizes efficiency, 
+as those hospitals that are able to treat 
+beneficiaries in less than 2 midnights 
+will be able to admit fewer beneficiaries 
+than those less efficient hospitals who 
+do not have the same resources. Other 
+commenters expressed concern that the 
+new proposed policy would encourage 
+hospitals to hold beneficiaries in the 
+hospital solely for the purpose of 
+meeting the 2-midnight presumption 
+and avoid audits of their claims. The 
+commenters stated that consequences of 
+such practices on the beneficiaries 
+could include prolonged exposure to 
+additional medical risks and would also 
+lead to increased costs to the Medicare 
+program, due to medically unnecessary 
+time in the hospital. Conversely, some 
+commenters indicated that they did not 
+believe that hospitals would not hold 
+patients for longer than necessary to 
+meet inpatient requirements. 
+Response: We have noted that the 
+decision to admit is based on an 
+expectation of medically necessary care 
+transcending 2 midnights resulting from 
+the practitioner’s consideration of the 
+beneficiary’s condition and medical 
+needs. We will monitor all hospitals for 
+intentional or unwarranted delays in the 
+provision of care, which may result in 
+increased inpatient admissions 
+secondary to the 2 midnight instruction. 
+We are also cognizant of concerns 
+related to unnecessarily elongated 
+hospital admissions, and will be 
+monitoring for such patterns of systemic 
+delays indicative of fraud or abuse. If a 
+hospital is unnecessarily holding 
+beneficiaries to qualify for the 2- 
+midnight presumption, CMS and/or its 
+contractors may conduct review on any 
+of its inpatient claims, including those 
+which surpassed 2 midnights after 
+admission. 
+Comment: One commenter stated that 
+while it is reasonable that a medically 
+necessary hospital stay crossing 2 
+midnights may be appropriately billed 
+as inpatient, there should be no 
+presumption that such a 2-midnight stay 
+was itself medically necessary simply 
+because a patient was in the hospital 2 
+consecutive nights. The commenter 
+stated that the proposed rule includes a 
+requirement that review will only be 
+permitted when the error rate is 
+sufficient to warrant auditing activity; 
+however, the audit that would establish 
+this error would itself be precluded 
+under CMS’ presumption. The 
+commenter stated that, alternatively, 
+data analysis of the claims should 
+remain the foundation for selection of 
+claims for medical record review to 
+determine whether the documentation 
+supports the claim as billed. The 
+commenter believed that a presumption 
+of medical necessity based on the time 
+a beneficiary stays in the hospital places 
+the Medicare trust fund and taxpayers at 
+risk. 
+Response: We note that it was not our 
+intent to suggest that a 2-midnight stay 
+was presumptive evidence that the stay 
+at the hospital was necessary; rather, 
+only that if the stay was necessary, it 
+was appropriately provided as an 
+inpatient stay. We have discussed in 
+response to other comments that, in 
+accordance with our statutory 
+obligations, some medical review is 
+always necessary to ensure that services 
+provided are reasonable and necessary, 
+and that we will continue to review 
+these longer stays for the purposes of 
+monitoring, determining correct coding, 
+and evaluating the medical necessity for 
+the beneficiary to remain at the hospital, 
+irrespective of the inpatient or 
+outpatient ‘‘status’’ to which the 
+beneficiary was assigned. In addition, 
+claims that evidence that a hospital is 
+effectuating systematic abuse of the 2- 
+midnight presumption, such as 
+unexplained delays in the provision of 
+care or aberrancies in billing, may be 
+subject to medical review despite 
+surpassing 2 midnights after admission. 
+Comment: Commenters requested that 
+CMS provide guidance on what would 
+constitute ‘‘abuse’’ or ‘‘gaming’’ for this 
+review purpose. Some commenters were 
+concerned that enabling Medicare 
+review contractors to make these 
+determinations would unravel the 
+presumption if the contractors had 
+incentives to identify erroneous claims. 
+Other commenters believed that 
+Medicare contractors, who have 
+expertise in utilization review and 
+Medicare data, should be tasked with 
+identifying providers that are gaming or 
+abusing the system for purposes of 
+meeting the 2-midnight presumption. 
+Comments also suggested that CMS 
+examine hospitals’ utilization review 
+process rather than rely on claim 
+outputs. Commenters also urged CMS to 
+be clear that audits will occur only if a 
+pattern is detected. 
+Response: In the proposed rule, we 
+stated that patient status reviews for 
+inpatient admissions with lengths of 
+stay greater than 2 midnights after 
+admission would typically be 
+conducted if we suspect that a provider 
+is using the 2-midnight presumption to 
+effectuate systematic abuse or gaming. 
+We have elaborated on our review plans 
+above and summarize by stating that 
+while we have a statutory obligation to 
+ensure that all services are medically 
+necessary and correctly paid, we believe 
+that these changes in our benchmarks 
+and the additional guidance 
+accompanying them will allow us to 
+reduce the administrative burden of 
+reviews. We will do this by reviewing 
+stays spanning at least 2 midnights after 
+admission for the purpose of monitoring 
+and responding to patterns of incorrect 
+DRG assignments, inappropriate or 
+systemic delays, and lack of medical 
+necessity for the stay at the hospital, but 
+not for the purpose of routinely denying 
+payment for such inpatient admissions 
+on the basis that the services should 
+have been provided on an outpatient 
+basis. We expect to shift our attention to 
+the smaller anticipated volume of 0 and 
+1 day short stays and then, to the extent 
+that facilities correctly apply the 
+proposed benchmark, away from short 
+stays to other areas with persistently 
+high improper payment rates. 
+Comment: Commenters voiced 
+concerns that while CMS proposed that 
+those inpatient hospital admissions 
+meeting the 2-midnight benchmark 
+would be generally appropriate for Part 
+A payment, there is no guarantee that 
+the Medicare contractors would follow 
+this guidance. Some commenters 
+expressed apprehension that the time- 
+based policy would not result in fewer 
+reviews, as the policy stated that 
+contractors could review whether the 
+physician’s expectation was reasonable, 
+while others thought the doors would be 
+opened to more hospital claim audits 
+focusing on the need for the beneficiary 
+to stay in the hospital for greater than 
+2 midnights. Commenters also sought 
+assurance from CMS that reviews would 
+be conducted based on the information 
+the physician had available at the time 
+he or she developed the expectation of 
+a 2-midnight stay and wrote the order 
+pursuant to that expectation. 
+VerDate Mar<15>2010 21:51 Aug 16, 2013 Jkt 229001 PO 00000 Frm 00457 Fmt 4701 Sfmt 4700 E:\FR\FM\19AUR2.SGM 19AUR2bjneal on DSK2TWX8P1PROD with RULES
+--- page 12 ---
+50952 Federal Register / Vol. 78, No. 160 / Monday, August 19, 2013 / Rules and Regulations 
+Response: We acknowledge that it is 
+very important that clear and consistent 
+instructions are provided to facilities, 
+physicians, and Medicare review 
+contractors. We intend to quickly 
+develop implementation instructions, 
+manual guidance, and additional 
+education to ensure that all entities 
+receive initial and ongoing guidance in 
+order to promote consistent application 
+of these changes and repeatable and 
+reproducible decisions on individual 
+cases. We intend to ensure that our 
+instructions to providers and reviewers 
+alike emphasize that the decision to 
+admit should be based on and evaluated 
+in respect to the information available to 
+the admitting practitioner at the time of 
+the admission. 
+After consideration of the public 
+comments we received, we are 
+including in this final rule several 
+revisions and clarifications to the 
+proposed policy. First, we are finalizing 
+at § 412.3(e)(1) the 2-midnight 
+benchmark as proposed at § 412.3(c)(1), 
+that services designated by the OPPS 
+Inpatient-Only list as inpatient-only 
+would continue to be appropriate for 
+inpatient hospital admission and 
+payment under Medicare Part A. In 
+addition, surgical procedures, 
+diagnostic tests, and other treatments 
+would be generally deemed appropriate 
+for inpatient hospital admission and 
+payment under Medicare Part A when 
+the physician expects the patient to 
+require a stay that crosses at least 2 
+midnights and admits the patient to the 
+hospital based upon that expectation. 
+We proposed at § 412.3(c)(2), and are 
+finalizing at § 412.3(e)(2), that if an 
+unforeseen circumstance, such as 
+beneficiary death or transfer, results in 
+a shorter beneficiary stay than the 
+physician’s expectation of at least 2 
+midnights, the patient may still be 
+considered to be appropriately treated 
+on an inpatient basis, and the hospital 
+inpatient payment may be made under 
+Medicare Part A. We proposed, and are 
+now finalizing, two distinct, although 
+related, medical review policies, a 2- 
+midnight benchmark and a 2-midnight 
+presumption. The 2-midnight 
+benchmark represents guidance to 
+admitting practitioners and reviewers to 
+identify when an inpatient admission is 
+generally appropriate for Medicare 
+coverage and payment, while the 2- 
+midnight presumption directs medical 
+reviewers to select claims for review 
+under a presumption that the 
+occurrence of 2 midnights after 
+admission appropriately signifies an 
+inpatient status for a medically 
+necessary claim. The starting point for 
+the 2-midnight benchmark will be when 
+the beneficiary begins receiving hospital 
+care on either an inpatient basis or 
+outpatient basis. That is, for purposes of 
+determining whether the 2-midnight 
+benchmark will be met and, therefore, 
+whether inpatient admission is 
+generally appropriate, the physician 
+ordering the admission should account 
+for time the beneficiary spent receiving 
+outpatient services such as observation 
+services, treatments in the emergency 
+department, and procedures provided in 
+the operating room or other treatment 
+area. From the medical review 
+perspective, while the time the 
+beneficiary spent as an outpatient before 
+the admission order is written will not 
+be considered inpatient time, it may be 
+considered during the medical review 
+process for purposes of determining 
+whether the 2-midnight benchmark was 
+met and, therefore, whether payment is 
+generally appropriate under Part A. For 
+beneficiaries who do not arrive through 
+the emergency department or are 
+directly receiving inpatient services (for 
+example, inpatient admission order 
+written prior to admission for an 
+elective admission or transfer from 
+another hospital), the starting point for 
+medical review purposes will be when 
+the beneficiary starts receiving services 
+following arrival at the hospital. We 
+proposed that both the decision to keep 
+the patient at the hospital and the 
+expectation of needed duration of the 
+stay would be based on such factors as 
+beneficiary medical history and 
+comorbidities, the severity of signs and 
+symptoms, current medical needs, and 
+the risk of an adverse event. In this final 
+rule, we now are clarifying that risk (or 
+probability) of an adverse event relates 
+to occurrences during the time period 
+for which hospitalization is considered. 
+We are finalizing that inpatient 
+hospital claims with lengths of stay 
+greater than 2 midnights after the formal 
+admission following the order will be 
+presumed generally appropriate for Part 
+A payment and will not be the focus of 
+medical review efforts absent evidence 
+of systematic gaming, abuse, or delays 
+in the provision of care in an attempt to 
+qualify for the 2-midnight presumption. 
+We also are clarifying in this final rule 
+how we will instruct contractors to 
+review inpatient stays spanning less 
+than 2 midnights after admission. Such 
+claims would not be subject to the 
+presumption that services were 
+appropriately provided during an 
+inpatient stay rather than an outpatient 
+stay because the total inpatient time did 
+not exceed 2 midnights. However, upon 
+medical review, the time spent as an 
+outpatient will be counted toward 
+meeting the 2-midnight benchmark that 
+the physician is expected to apply to 
+determine the appropriateness of the 
+decision to admit. In other words, even 
+though the inpatient admission was for 
+only 1 Medicare utilization day, medical 
+reviewers will consider the fact that the 
+beneficiary was in the hospital for 
+greater than 2 midnights following the 
+onset of care when making the 
+determination of whether the inpatient 
+stay was reasonable and necessary. For 
+those admissions in which the basis for 
+the physician expectation of care 
+surpassing 2 midnights is reasonable 
+and well-documented, reviewers may 
+apply the 2-midnight benchmark to 
+incorporate all time receiving care in the 
+hospital. We will continue to use our 
+existing monitoring and audit authority, 
+such as the CERT program, to ensure 
+that our review efforts focus on those 
+subsets of claims with the highest error 
+rates and reduce the administrative 
+burden for those subsets that have 
+demonstrated compliance with our 
+clarified and modified guidance. 
+4. Impacts of Changes in Admission and 
+Medical Review Criteria 
+In the FY 2014 IPPS/LTCH PPS 
+proposed rule (78 FR 27649 through 
+27650), we discussed our actuaries’ 
+estimate that our proposed 2-midnight 
+policy (referred to in this final rule as 
+the 2-midnight benchmark and the 2- 
+midnight presumption) would increase 
+IPPS expenditures by approximately 
+$220 million. These additional 
+expenditures result from an expected 
+net increase in hospital inpatient 
+encounters due to some encounters 
+spanning more than 2 midnights moving 
+to the IPPS from the OPPS, and some 
+encounters of less than 2 midnights 
+moving from the IPPS to the OPPS. 
+Specifically, our actuaries examined FY 
+2009 through FY 2011 Medicare claims 
+data for extended hospital outpatient 
+encounters and shorter stay hospital 
+inpatient encounters and estimated that 
+approximately 400,000 encounters 
+would shift from outpatient to inpatient 
+and approximately 360,000 encounters 
+would shift from inpatient to outpatient, 
+causing a net shift of 40,000 encounters. 
+These estimated shifts of 400,000 
+encounters from outpatient to inpatient 
+and 360,000 encounters from inpatient 
+to outpatient represent a significant 
+portion of the approximately 11 million 
+encounters paid under the IPPS. The net 
+shift of 40,000 encounters represents an 
+increase of approximately 1.2 percent in 
+the number of shorter stay hospital 
+inpatient encounters paid under the 
+IPPS. Because shorter stay hospital 
+inpatient encounters currently represent 
+approximately 17 percent of the IPPS 
+expenditures, our actuaries estimated 
+VerDate Mar<15>2010 21:51 Aug 16, 2013 Jkt 229001 PO 00000 Frm 00458 Fmt 4701 Sfmt 4700 E:\FR\FM\19AUR2.SGM 19AUR2bjneal on DSK2TWX8P1PROD with RULES
+--- page 13 ---
+50953 Federal Register / Vol. 78, No. 160 / Monday, August 19, 2013 / Rules and Regulations 
+that 17 percent of IPPS expenditures 
+would increase by 1.2 percent under our 
+proposed policy. These additional 
+expenditures are partially offset by 
+reduced expenditures from the shift of 
+shorter stay hospital inpatient 
+encounters to hospital outpatient 
+encounters. Our actuaries estimated 
+that, on average, the per encounter 
+payments for these hospital outpatient 
+encounters would be approximately 30 
+percent of the per encounter payments 
+for the hospital inpatient encounters. In 
+light of the widespread impact of the 
+proposed 2-midnight policy on the IPPS 
+and the systemic nature of the issue of 
+inpatient status and improper payments 
+under Medicare Part A for short-stay 
+inpatient hospital claims, we stated our 
+belief that it is appropriate to use our 
+exceptions and adjustments authority 
+under section 1886(d)(5)(I)(i) of the Act 
+to propose to offset the estimated $220 
+million in additional IPPS expenditures 
+associated with the proposed policy. 
+This special exceptions and adjustment 
+authority authorizes us to provide ‘‘for 
+such other exceptions and adjustments 
+to [IPPS] payment amounts . . . as the 
+Secretary deems appropriate.’ ’’ We 
+proposed to reduce the standardized 
+amount, the hospital-specific rates, and 
+the Puerto Rico-specific standardized 
+amount by 0.2 percent. 
+Comment: Commenters generally did 
+not support the proposed -0.2 percent 
+payment adjustment. Comments 
+included the following assertions: CMS 
+actuaries’ estimated increase in IPPS 
+expenditures of $220 million was 
+unsupported and insufficiently 
+explained to allow for meaningful 
+comment; CMS did not provide 
+sufficient rationale for the use of our 
+exceptions and adjustments authority 
+under section 1886(d)(5)(I)(i) of the Act; 
+CMS should not be adjusting the IPPS 
+payment rates for expected shifts in 
+utilization between inpatient and 
+outpatient; CMS did not take into 
+account the impact of the Part B 
+Inpatient Billing proposed rule in 
+developing its estimates; CMS should 
+provide parallel treatment regarding the 
+financial impact of both the medical 
+review policy in the FY 2014 IPPS/ 
+LTCH PPS proposed rule and the 
+policies in the Part B Inpatient Billing 
+proposed rule and offset and restore the 
+$4.8 billion dollar reduction to hospital 
+payments over 5 years contained in the 
+Part B Inpatient Billing proposed rule; 
+and CMS’ proposed policy was a 
+coverage decision and CMS should not 
+adjust IPPS rates for coverage decisions. 
+Response: We disagree with 
+commenters who indicated that our 
+actuaries’ estimated increase in IPPS 
+expenditures of $220 million was 
+unsupported and insufficiently 
+explained to allow for meaningful 
+comment. In the FY 2014 IPPS/LTCH 
+PPS proposed rule (78 FR 27649), we 
+specifically discussed the methodology 
+used and the components of the 
+estimate. Our actuaries examined FY 
+2009 to FY 2011 claims data. Based on 
+this examination, we stated the number 
+of encounters our actuaries estimated 
+would shift from inpatient to outpatient 
+(360,000) and the number of encounters 
+they estimated would shift from 
+outpatient to inpatient (400,000). We 
+described the methodology we used to 
+translate this net shift of 40,000 
+encounters into our $220 million 
+estimate, including an estimate of the 
+increase these 40,000 encounters 
+represent in shorter stay hospital 
+inpatient encounters (1.2 percent), the 
+share that expenditures for shorter stay 
+hospital inpatient encounters represent 
+of IPPS expenditures (17 percent), and 
+our estimate of the payment difference 
+between OPPS and IPPS for these 
+encounters (OPPS payment for these 
+encounters was estimated to be 30 
+percent of the IPPS payment for these 
+encounters). In addition to the 
+opportunity to comment on the 
+estimate, any component of the 
+estimate, or the methodology, 
+commenters had an opportunity to 
+provide alternative estimates for us to 
+consider. 
+In determining the estimate of the 
+number of encounters that would shift 
+from outpatient to inpatient, our 
+actuaries examined outpatient claims 
+for observation or a major procedure. 
+Claims not containing observation or a 
+major procedure were excluded. The 
+number of claims spanning 2 or more 
+midnights based on the dates of service 
+that were expected to become inpatient 
+was approximately 400,000. This 
+estimate did not include any 
+assumption about outpatient encounters 
+shorter than 2 midnights potentially 
+becoming inpatient encounters. 
+In determining the estimate of the 
+number of encounters that would shift 
+from inpatient to outpatient, our 
+actuaries examined inpatient claims 
+containing a surgical MS–DRG. Claims 
+containing medical MS–DRGs were 
+excluded. The number of claims 
+spanning less than 2 midnights based on 
+the length of stay that were expected to 
+become outpatient, after excluding 
+encounters that resulted in death or 
+transfers, was approximately 360,000. 
+The estimates of the shifts in 
+encounters as described above were 
+primarily based on FY 2011 Medicare 
+inpatient and outpatient claims data. 
+However, our actuaries also examined 
+FY 2009 and FY 2010 Medicare 
+inpatient and outpatient claims data and 
+found the results for the earlier years 
+were consistent with the FY 2011 
+results. 
+While there is a certain degree of 
+uncertainty surrounding any cost 
+estimate, our actuaries have determined 
+that the methodology, data, and 
+assumptions used are reasonable for the 
+purpose of estimating the overall impact 
+of our proposed policy. We note that the 
+assumptions used for purposes of 
+reasonably estimating the overall impact 
+in FY 2014 should not be construed as 
+absolute statements about every 
+individual encounter. For example, we 
+fully expect that not every single 
+surgical MS–DRG encounter spanning 
+less than 2 midnights will shift to 
+outpatient and that not every single 
+outpatient observation stay or major 
+surgical encounter spanning more than 
+2 midnights will shift to inpatient. 
+We also disagree with commenters 
+who indicated that we did not provide 
+sufficient rationale for the use of our 
+exceptions and adjustments authority 
+under section 1886(d)(5)(I)(i) of the Act. 
+We discussed that the issue of patient 
+status has a substantial impact on 
+improper payments under Medicare Part 
+A for short-stay inpatient hospital 
+claims, citing the fact that the majority 
+of improper payments under Medicare 
+Part A for short-stay inpatient hospital 
+claims have been due to inappropriate 
+patient status. In 2012, for example, the 
+CERT contractor found that inpatient 
+hospital admissions for 1-day stays or 
+less had a Part A improper payment rate 
+of 36.1 percent. The improper payment 
+rate decreased significantly for 2-day or 
+3-day stays, which had improper 
+payment rates of 13.2 percent and 13.1 
+percent, respectively. We stated that we 
+believed the magnitude of these national 
+figures demonstrates that issues 
+surrounding the appropriate 
+determination of a beneficiary’s patient 
+status are not isolated to a few hospitals. 
+We also noted that the RAs had 
+recovered more than $1.6 billion in 
+improper payments because of 
+inappropriate beneficiary patient status. 
+While we agree with commenters that 
+our exceptions and adjustments 
+authority should not be routinely used 
+in the IPPS system, we believe that the 
+systemic and widespread nature of this 
+issue justifies an overall adjustment to 
+the IPPS rates and such an adjustment 
+is authorized under section 
+1886(d)(5)(I)(i) of the Act. 
+For similar reasons, while we 
+generally agree with commenters that it 
+is not necessary to routinely estimate 
+utilization shifts to ensure appropriate 
+IPPS payments, this is a unique 
+situation. Policy clarifications such as 
+VerDate Mar<15>2010 21:51 Aug 16, 2013 Jkt 229001 PO 00000 Frm 00459 Fmt 4701 Sfmt 4700 E:\FR\FM\19AUR2.SGM 19AUR2bjneal on DSK2TWX8P1PROD with RULES
+--- page 14 ---
+50954 Federal Register / Vol. 78, No. 160 / Monday, August 19, 2013 / Rules and Regulations 
+this do not usually result in utilization 
+shifts of sufficient magnitude and 
+breadth to significantly impact the IPPS. 
+In this situation, we believe it would be 
+inappropriate to ignore such a 
+utilization shift in the development of 
+the IPPS payment rates. 
+With respect to the comments that we 
+did not take into account the impact of 
+the Part B Inpatient Billing proposed 
+rule in developing our estimates, we 
+note that our actuaries did take those 
+impacts into account in developing our 
+proposed adjustment. Our estimate of 
+the net shift in FY 2014 encounters 
+between inpatient and outpatient would 
+have been substantially higher in the 
+absence of the policies discussed in the 
+Part B Inpatient Billing proposed rule, 
+in particular the discussion of timely 
+filing. Specifically, in the absence of the 
+timely filing requirement, there would 
+be fewer inpatient encounters estimated 
+to become outpatient encounters, which 
+would have resulted in a larger cost 
+than our estimated $220 million. 
+With respect to the comment that 
+CMS should provide parallel treatment 
+regarding the financial impact of the 
+medical review policy in the FY 2014 
+IPPS/LTCH PPS proposed rule and the 
+interrelated Part B Inpatient Billing 
+proposed rule by offsetting and restoring 
+the estimated $4.8 billion dollar 
+reduction to hospital payments 
+contained in that rule, we note that, 
+although we estimated a decrease in 
+expenditures as a result of our proposed 
+Part B inpatient billing policy, this 
+decrease in expenditures is offset by the 
+costs of the significant number of 
+related administrative appeal decisions 
+as well as CMS Ruling 1455–R, which 
+allows hospitals to seek payment of Part 
+B inpatient services on claims filed 
+outside the timely filing period. As 
+discussed in greater detail in the 
+Regulatory Impact Analysis in the Part 
+B Inpatient Billing proposed rule (78 FR 
+16643), the combined impact of the 
+appeals decisions, CMS Ruling 1455–R, 
+and Part B inpatient billing policy, to 
+which the 12-month timely filing 
+requirement applies, is an estimated 
+cost to the Medicare program of $1.03 
+billion over the CY 2013 to CY 2017 
+time period. We estimate in the 
+Regulatory Impact Analysis of the final 
+Part B inpatient payment policy in this 
+final rule that the combined impact of 
+the appeals decisions, CMS Ruling 
+1455–R, and the Part B inpatient billing 
+policy will cost the Medicare program 
+$1.260 billion over the CY 2013 to CY 
+2017 time period. 
+Finally, we disagree with those 
+comments asserting that the 
+modification and clarification of our 
+current instructions regarding the 
+circumstances under which Medicare 
+will generally pay for a hospital 
+inpatient admission in order to improve 
+hospitals’ ability to make appropriate 
+admission decisions are actually 
+coverage decisions in the context of this 
+adjustment. As we clearly stated in the 
+FY 2014 IPPS/LTCH PPS proposed rule 
+(78 FR 27648), we will continue to 
+review individual claims to ensure the 
+hospital services furnished to 
+beneficiaries are ‘‘reasonable and 
+necessary for the diagnosis or treatment 
+of illness or injury or to improve the 
+functioning of a malformed body 
+member,’’ as required by section 
+1862(a)(1) of the Act. Any hospital 
+service determined to be not reasonable 
+or necessary may not be paid under 
+Medicare Part A or Part B. In the context 
+of this adjustment, these are not new 
+hospital services. 
+Our actuaries continue to estimate 
+there will be approximately $220 
+million in additional expenditures 
+resulting from our 2-midnight 
+benchmark and 2-midnight presumption 
+medical review policies. This net 
+increase in hospital inpatient 
+encounters is due to some encounters 
+spanning more than 2 midnights moving 
+to the IPPS from the OPPS, and some 
+encounters of less than 2 midnights 
+moving from the IPPS to the OPPS. 
+Therefore, after consideration of the 
+comments we received, and for the 
+reasons described above, we are 
+finalizing a reduction to the 
+standardized amount, the hospital- 
+specific rates, and the Puerto Rico- 
+specific standardized amount of ¥0.2 
+percent to offset the additional $220 
+million in expenditures. 
+XII. MedPAC Recommendations 
+Under section 1886(e)(4)(B) of the 
+Act, the Secretary must consider 
+MedPAC’s recommendations regarding 
+hospital inpatient payments. Under 
+section 1886(e)(5) of the Act, the 
+Secretary must publish in the annual 
+proposed and final IPPS rules the 
+Secretary’s recommendations regarding 
+MedPAC’s recommendations. We have 
+reviewed MedPAC’s March 2013 
+‘‘Report to the Congress: Medicare 
+Payment Policy’’ and have given the 
+recommendations in the report 
+consideration in conjunction with the 
+policies set forth in this final rule. 
+MedPAC recommendations for the IPPS 
+for FY 2014 are addressed in Appendix 
+B to this final rule. 
+For further information relating 
+specifically to the MedPAC reports or to 
+obtain a copy of the reports, contact 
+MedPAC at (202) 653–7226, or visit 
+MedPAC’s Web site at: http:// 
+www.medpac.gov. 
+XIII. Other Required Information 
+A. Requests for Data From the Public 
+In order to respond promptly to 
+public requests for data related to the 
+prospective payment system, we have 
+established a process under which 
+commenters can gain access to raw data 
+on an expedited basis. Generally, the 
+data are now available on compact disc 
+(CD) format. However, many of the files 
+are available on the Internet at: http:// 
+www.cms.hhs.gov/Medicare/Medicare- 
+Fee-for-Service-Payment/ 
+AcuteInpatientPPS/index.html. We 
+listed the data files and the cost for each 
+file, if applicable, in the FY 2014 IPPS/ 
+LTCH PPS proposed rule (78 FR 27746 
+through 27748). 
+Commenters interested in discussing 
+any data used in constructing the 
+proposed rule or this final rule should 
+contact should contact Nisha Bhat at 
+(410) 786–5320. 
+B. Collection of Information 
+Requirements 
+1. Statutory Requirement for Solicitation 
+of Comments 
+Under the Paperwork Reduction Act 
+of 1995, we are required to provide 60- 
+day notice in the Federal Register and 
+solicit public comment before a 
+collection of information requirement is 
+submitted to the Office of Management 
+and Budget (OMB) for review and 
+approval. In order to fairly evaluate 
+whether an information collection 
+should be approved by OMB, section 
+3506(c)(2)(A) of the Paperwork 
+Reduction Act of 1995 requires that we 
+solicit comment on the following issues: 
+• The need for the information 
+collection and its usefulness in carrying 
+out the proper functions of our agency. 
+• The accuracy of our estimate of the 
+information collection burden. 
+• The quality, utility, and clarity of 
+the information to be collected. 
+• Recommendations to minimize the 
+information collection burden on the 
+affected public, including automated 
+collection techniques. 
+In the FY 2014 IPPS/LTCH PPS 
+proposed rule (78 FR 27748 through 
+27755), we solicited public comment on 
+each of these issues for the following 
+sections of this document that contain 
+information collection requirements 
+(ICRs). We discuss and respond to any 
+public comments we received in the 
+relevant sections. 
+2. ICRs for Add-On Payments for New 
+Services and Technologies 
+Section II.I.1. of the preamble of the 
+proposed rule and this final rule 
+discusses add-on payments for new 
+VerDate Mar<15>2010 21:51 Aug 16, 2013 Jkt 229001 PO 00000 Frm 00460 Fmt 4701 Sfmt 4700 E:\FR\FM\19AUR2.SGM 19AUR2bjneal on DSK2TWX8P1PROD with RULES
+--- page 15 ---
+50955 Federal Register / Vol. 78, No. 160 / Monday, August 19, 2013 / Rules and Regulations 
+services and technologies. Specifically, 
+this section states that applicants for 
+add-on payments for new medical 
+services or technologies for FY 2015 
+must submit a formal request. A formal 
+request includes a full description of the 
+clinical applications of the medical 
+service or technology and the results of 
+any clinical evaluations demonstrating 
+that the new medical service or 
+technology represents a substantial 
+clinical improvement. In addition, the 
+request must contain a significant 
+sample of the data to demonstrate that 
+the medical service or technology meets 
+the high-cost threshold. 
+We believe the burden associated 
+with this requirement is exempt from 
+the PRA under 5 CFR 1320.3(c), which 
+defines the agency collection of 
+information subject to the requirements 
+of the PRA as information collection 
+imposed on 10 or more persons within 
+any 12-month period. This information 
+collection does not impact 10 or more 
+entities in a 12-month period. In FYs 
+2008, 2009, 2010, 2011, 2012, 2013, and 
+FY 2014, we received 1, 4, 5, 3, 3, 5, and 
+5 applications, respectively. 
+We did not receive any public 
+comments regarding this information 
+collection. 
+3. ICRs for the Occupational Mix 
+Adjustment to the FY 2014 Index 
+(Hospital Wage Index Occupational Mix 
+Survey) 
+Section III.F. of the preamble of the 
+proposed rule (78 FR 27554 through 
+27555) and this final rule discusses the 
+occupational mix adjustment to the 
+proposed and final FY 2014 wage index, 
+respectively. While the preamble of 
+these rules does not contain any new 
+ICRs, we note that there is an OMB 
+approved information collection request 
+associated with the hospital wage index. 
+Section 304(c) of Public Law 106–554 
+amended section 1886(d)(3)(E) of the 
+Act to require CMS to collect data at 
+least once every 3 years on the 
+occupational mix of employees for each 
+short-term, acute care hospital 
+participating in the Medicare program 
+in order to construct an occupational 
+mix adjustment to the wage index. We 
+collect the data via the occupational mix 
+survey. 
+The burden associated with this 
+information collection requirement is 
+the time and effort required to collect 
+and submit the data in the Hospital 
+Wage Index Occupational Mix Survey to 
+CMS. The aforementioned burden is 
+subject to the PRA; it is currently 
+approved under OCN 0938–0907. 
+4. Hospital Applications for Geographic 
+Reclassifications by the MGCRB 
+Section III.H.2. of the preamble of the 
+proposed rule (78 FR 27557 through 
+27558) and this final rule discusses 
+proposed and final revisions, 
+respectively, to the wage index based on 
+hospital redesignations. As stated in 
+that section, under section 1886(d)(10) 
+of the Act, the MGCRB has the authority 
+to accept short-term IPPS hospital 
+applications requesting geographic 
+reclassification for wage index or 
+standardized payment amounts and to 
+issue decisions on these requests by 
+hospitals for geographic reclassification 
+for purposes of payment under the IPPS. 
+The burden associated with this 
+application process is the time and 
+effort necessary for an IPPS hospital to 
+complete and submit an application for 
+reclassification to the MGCRB. While 
+this requirement is subject to the PRA, 
+the associated burden was previously 
+approved under OCN 0938–0573. 
+However, the information collection 
+expired on December 31, 2011. We are 
+currently seeking to reinstate the 
+information collection and, as required 
+by the PRA, will announce public notice 
+and comment periods in the Federal 
+Register separate from this rulemaking. 
+5. ICRs for Application for GME 
+Resident Slots 
+The information collection 
+requirements associated with the 
+preservation of resident cap positions 
+from closed hospitals, addressed under 
+section V.J.3. of this preamble, are not 
+subject to the Paperwork Reduction Act, 
+as stated in section 5506 of the 
+Affordable Care Act. 
+6. ICRs for the Hospital Inpatient 
+Quality Reporting (IQR) Program 
+The Hospital IQR Program (formerly 
+referred to as the Reporting Hospital 
+Quality Data for Annual Payment 
+(RHQDAPU) Program) was originally 
+established to implement section 501(b) 
+of the MMA, Public Law 108–173. This 
+program expanded our voluntary 
+Hospital Quality Initiative. The Hospital 
+IQR Program originally consisted of a 
+‘‘starter set’’ of 10 quality measures. The 
+collection of information associated 
+with the original starter set of quality 
+measures was previously approved 
+under OMB control number 0938–0918. 
+All of the information collection 
+requirements previously approved 
+under OMB control number 0938–0918 
+have been combined with the 
+information collection request 
+previously approved under OMB 
+control number 0938–1022. We will no 
+longer be using the OMB control 
+number 0938–0918. 
+We added additional quality measures 
+to the Hospital IQR Program and 
+submitted the information collection 
+request to OMB for approval. This 
+expansion of the Hospital IQR measures 
+was part of our implementation of 
+section 5001(a) of the DRA. Section 
+1886(b)(3)(B)(viii)(III) of the Act, added 
+by section 5001(a) of the DRA, requires 
+that the Secretary expand the ‘‘starter 
+set’’’ of 10 quality measures that were 
+established by the Secretary as of 
+November 1, 2003, to include measures 
+‘‘that the Secretary determines to be 
+appropriate for the measurement of the 
+quality of care furnished by hospitals in 
+inpatient settings.’’ The burden 
+associated with these reporting 
+requirements was previously approved 
+under OMB control number 0938–1022. 
+In the FY 2013 IPPS/LTCH PPS final 
+rule (77 FR 53666), we stated that, for 
+the FY 2016 payment determinations 
+and subsequent years updates, we are 
+seeking OMB approval for a revised 
+information collection request using the 
+same OMB control number (0938–1022). 
+In the revised request we will add the 
+5 claims-based measures that are 
+finalized in this final rule: (1) 30-day 
+risk standardized COPD Readmission; 
+(2) 30-day risk standardized COPD 
+Mortality; (3) 30-day risk standardized 
+Stroke Readmission; (4) 30-day risk 
+standardized Stroke Mortality; and (5) 
+AMI payment per Episode of Care. We 
+are also finalizing the removal of six 
+chart-abstracted measures: (1) PN 3b: 
+Blood Culture Performed in the 
+Emergency Department Prior to First 
+Antibiotic Received in the Hospital; (2) 
+HF 1: Discharge Instructions; and (3) 
+AMI–2: Aspirin Prescribed at Discharge; 
+(4) AMI–10: Statin Prescribed at 
+Discharge; (5) HF–3: ACEI or ARB for 
+LVSD; and (6) SCIP-Inf–10: Surgery 
+Patients with Perioperative Temperature 
+Management as well as one structural 
+measure, Systematic Clinical Database 
+Registry for Stroke Care. We are 
+suspending collection of IMM 1: 
+Immunization for Pneumonia. 
+Because claims-based measures can 
+be calculated based on data that are 
+already reported to the Medicare 
+program for payment purposes, we 
+believe no additional information 
+collection will be required from the 
+hospitals. However, we do believe there 
+will be a reduction in the burden 
+associated with the removal of six chart- 
+abstracted measures, suspension of one 
+chart-abstracted measures, and removal 
+of one structural measure. We estimate 
+a reduction in burden associated with 
+data collection for chart-abstracted 
+measures and associated forms. For the 
+VerDate Mar<15>2010 21:51 Aug 16, 2013 Jkt 229001 PO 00000 Frm 00461 Fmt 4701 Sfmt 4700 E:\FR\FM\19AUR2.SGM 19AUR2bjneal on DSK2TWX8P1PROD with RULES

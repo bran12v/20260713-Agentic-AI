@@ -1,0 +1,1284 @@
+
+--- page 1 ---
+  
+     
+      
+    
+ 
+  
+ 
+  
+  
+   
+ 
+ 
+   
+   
+ 
+ 
+  
+  
+  
+  
+    
+  
+  
+ 
+ 
+ 
+   
+  
+  
+  
+ 
+  
+ 
+  
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+   
+  
+     
+   
+ 
+ 
+ 
+ 
+  
+ 
+   
+  
+  
+  
+  
+ 
+      
+     
+    
+      
+   
+    
+     
+      
+    
+    
+  
+    
+     
+       
+    
+       
+   
+       
+  
+  
+   
+ 
+ 
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+  
+An Overview: 
+Recording Work -Related Injuries and Illnesses 
+The Occupational Safety and Health (OSH) Act of 1970 requires certain employers to prepare and maintain records of work-related injuries and illnesses. Use these 
+definitions when you classify cases on the Log. OSHA’s recordkeeping regulation (see 29 CFR Part 1904) provides more information about the definitions below. 
+What do you need to do? 
+1. Within 7 calendar days after you receive 
+information about a case, decide if the 
+case is recordable under the OSHA 
+recordkeeping requirements. 
+2. Determine whether the incident is a new 
+case or a recurrence of an existing one. 
+3. Establish whether the case was work-
+related. 
+4. If the case is recordable, decide which 
+form you will fill out as the injury and 
+illness incident report. 
+You may use OSHA’s 301: Injury 
+and Illness Incident Report or an 
+equivalent form. Some state workers 
+compensation, insurance, or other reports 
+may be acceptable substitutes, as long as 
+they provide the same information as the 
+OSHA 301. 
+How to work with the Log 
+1. Identify the employee involved unless it is 
+a privacy concern case as described 
+below. 
+2. Identify when and where the case 
+occurred. Also describe the case, as 
+specifically as you can. 
+3. Classify the seriousness of the case by 
+recording the most serious outcome 
+associated with the case, with column G 
+(Death) being the most serious and 
+column J (Other recordable cases) being 
+the least serious. 
+4. Enter the number of days the injured or ill 
+worker was away from work or was on 
+job transfer or restricted work activity. 
+5. Identify whether the case is an injury or 
+illness. If the case is an injury, check the 
+injury category. If the case is an illness, 
+check the appropriate illness category. 
+The Log of Work-Related Injuries and Illnesses 
+(Form 300) is used to classify work-related 
+injuries and illnesses and to note the extent and 
+severity of each case. When an incident occurs, 
+use the Log to record specific details about what 
+happened and how it happened. The Summary — 
+a separate form (Form 300A) — shows the totals 
+for the year in each category. At the end of the 
+year, post the Summary in a visible location so 
+that your employees are aware of the injuries and 
+illnesses occurring in their workplace. 
+Employers must keep a Log for each 
+establishment or site. If you have more than one 
+establishment, you must keep a separate Log and 
+Summary for each physical location that is 
+expected to be in operation for one year or 
+longer. 
+Note that your employees have the right to 
+review your injury and illness records. For more 
+information, see 29 Code of Federal Regulations 
+Part 1904.35, Employee Involvement. 
+Cases listed on the Log of Work-Related 
+Injuries and Illnesses are not necessarily eligible 
+for workers’ compensation or other insurance 
+benefits. Listing a case on the Log does not mean 
+that the employer or worker was at fault or that 
+an OSHA standard was violated. 
+When is an injury or illness considered 
+work-related? 
+An injury or illness is considered work-
+related if an event or exposure in the work 
+environment caused or contributed to the 
+condition or significantly aggravated a 
+preexisting condition. Work-relatedness is 
+presumed for injuries and illnesses resulting 
+from events or exposures occurring in the 
+workplace, unless an exception specifically 
+applies. See 29 CFR Part 1904.5(b)(2) for the 
+exceptions. The work environment includes the 
+establishment and other locations where one or 
+more employees are working or are present as a 
+condition of their employment. See 29 CFR Part 
+1904.5(b)(1). 
+Which work-related injuries and 
+illnesses should you record? 
+Record those work-related injuries and illnesses 
+that result in: 
+▼death, 
+▼loss of consci ousness, 
+▼days a way from work, 
+▼restricted work activity or job transfer, or 
+▼medical treatment beyond first aid. You 
+must a
+lso record work-related injuries 
+and illnesses that are significant (as defined 
+below) or meet any of the additional criteria 
+listed below. 
+You must record any significant work- 
+related injury or illness that is diagnosed by a 
+physician or other licensed health care 
+professional. You must record any work-related 
+case involving cancer, chronic irreversible 
+d
+isease, a fractured or cracked bone, or a 
+punctured eardrum. See 29 CFR 1904.7. 
+What are the additional criteria? 
+You must record the following conditions when 
+they are work-related: 
+▼ any needlestick injury or cut from a sharp 
+object that is contaminated with another 
+person’s blood or other potentially infectious 
+material; 
+▼ any case requiring an employee to be 
+medically removed under the requirements 
+of an OSHA health standard; 
+▼ tuberculosis infection as evidenced by a 
+positive skin test or diagnosis by a physician 
+or other licensed health care professional 
+after exposure to a known case of active 
+tuberculosis; 
+▼ an employee's hearing test (audiogram) 
+reveals 1) that the employee has experienced 
+a Standard Threshold Shift (STS) in hearing 
+in one or both ears (averaged at 2000, 3000, 
+and 4000 Hz) and 2) the employee's total 
+hearing level is 25 decibels (dB) or more 
+above audiometric zero (also averaged at 
+2000, 3000, and 4000 Hz) in the same ear(s) 
+as the STS. 
+What is medical treatment? 
+Medical treatment includes managing and caring 
+for a patient for the purpose of combating 
+disease or disorder. The following are not 
+considered medical treatments and are NOT 
+recordable: 
+▼ visits to a doctor or health care professional 
+solely for observation or counseling; 
+U.S. Department of Labor 
+Occupational Safety and Health Administration 
+
+--- page 2 ---
+  
+  
+ 
+      
+ 
+ 
+  
+  
+   
+    
+  
+   
+ 
+    
+     
+  
+       
+ 
+      
+  
+ 
+  
+ 
+     
+  
+  
+   
+  
+  
+  
+    
+   
+ 
+ 
+    
+    
+  
+ 
+    
+ 
+ 
+ 
+    
+   
+    
+ 
+   
+ 
+ 
+ 
+ 
+  
+       
+  
+  
+ 
+       
+      
+      
+  
+      
+       
+   
+  
+ 
+  
+   
+  
+ 
+ 
+    
+ 
+   
+  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+  
+ 
+  
+ 
+    
+ 
+ 
+   
+ 
+  
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+U.S. Department of Labor 
+Occupational Safety and Health Administration 
+▼ diagnostic procedures, including administering 
+prescription medications that are used solely 
+for diagnostic purposes; and 
+▼ any procedure that can be labeled first aid. (See 
+below for more information about first aid.) 
+What is first aid? 
+If the incident required only the following types of 
+treatment, consider it first aid. Do NOT record the 
+case if it involves only: 
+▼ using non-prescription medications at non- 
+prescription strength; 
+▼ administering tetanus immunizations; 
+▼ cleaning, flushing,  or soaking wounds on the 
+skin surface; 
+▼ using wound coverings, such as bandages, 
+BandAids™, gauze pads, etc., or using 
+SteriStrips™ or butterfly bandages; 
+▼ using hot or cold therapy; 
+▼ using any totally non-rigid means of support, 
+such as elastic bandages, wraps, non-rigid back 
+belts, etc.; 
+▼ using temporary immobilization devices while 
+transporting an accident victim (splints, slings, 
+neck collars, or back boards); 
+▼ drilling a fingernail  or toenail to relieve 
+pressure,or draining fluidsfrom blisters; 
+▼ using eye patches; 
+▼ using simple irrigation or a cotton swab to 
+remove foreign bodies not embedded in or 
+adhered to the eye; 
+▼ using irrigation, tweezers, cotton swab or other 
+simple means to remove splinters or foreign 
+material from areas other than the eye; 
+▼ using finger guards; 
+▼ using massages; 
+▼ drinking fluids to relieve heat stress. 
+How do you decide if the case 
+involved restricted work? 
+Restricted work activity occurs when, as the result 
+of a work-related injury or illness, an employer or 
+health care professional keeps, or recommends 
+keeping, an employee from doing the routine 
+functions of his or her job or from working the 
+full workday that the employee would have been 
+scheduled to work before the injury or illness 
+occurred. 
+How do you c ount th e number of 
+day s of restricted work activity or 
+the number of days away from work? 
+Count the number of calendar days the employee 
+was on restricted work activity or was away from 
+work as a result of the recordable injury or illness. 
+Do not count the day on which the injury or 
+illness occurred in this number. Begin counting 
+days from the day after the incident occurs. If a 
+single injury or illness involved both days away 
+from work and days of restricted work activity, 
+enter the total number of days for each. You may 
+stop counting days of restricted work activity or 
+days away from work once the total of either or 
+the combination of both reaches 180 days. 
+Under what circumstances should 
+you NOT enter the employee’s name on 
+the OSHA Form 300? 
+You must consider the following types of injuries 
+or illnesses to be privacy concern cases: 
+▼ an injury or illness to an intimate body part or to 
+the reproductive system, 
+▼ an i njury o r illness resulting f rom a sexual 
+assault, 
+▼ a mental illness, 
+▼ a case of HIV i nfection, hepatitis, or 
+tuberculosis, 
+▼ a needlestick injury or cut from a sharp object 
+that is contaminated with blood or other 
+potentially infectious material (see 29 CFR Part 
+1904.8 for definition), and 
+▼ other illnesses, if the employee independently 
+and vo
+luntarily requests that his or her name not 
+be entered on the log. 
+You must not enter the employee’s name on the 
+OSHA 300 Log for these cases. Instead, enter 
+“privacy case” in the space normally used for the 
+employee’s name. You must keep a separate, 
+confidential list of the case numbers and employee 
+names for the establishment’s privacy concern 
+cases so that you can update the cases and provide 
+information to the government if asked to do so. 
+If you have a reasonable basis to believe that 
+information describing the privacy concern case 
+may be personally identifiable even though the 
+employee’s name has been omitted, you may use 
+discretion in describing the injury or illness on 
+both the OSHA 300 and 301 forms. You must 
+enter enough information to identify the cause of 
+the incident and the general severity of the 
+injury or illness, but you do not need to include 
+details of an intimate or private nature. 
+What if the outcome changes after you 
+record the case? 
+If the outcome or extent of an injury or illness 
+changes after you have recorded the case, 
+simply draw a line through the original entry or, 
+if you wish, delete or white-out the original 
+entry. Then write the new entry where it 
+belongs. Remember, you need to record the 
+most serious outcome for each case. 
+Classifying injuries 
+An injury is any wound or damage to the body 
+resulting from an event in the work 
+environment. 
+Examples: Cut, puncture, laceration, 
+abrasion, fracture, bruise, contusion, chipped 
+tooth, amputation, insect bite, electrocution, or 
+a thermal, chemical, electrical, or radiation 
+burn. Sprain and strain injuries to muscles, 
+joints, and connective tissues are classified as 
+injuries when they result from a slip, trip, fall or 
+other similar accidents. 
+--- page 3 ---
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+   
+  
+  
+  
+    
+  
+  
+ 
+     
+ 
+     
+  
+     
+    
+ 
+  
+ 
+  
+  
+   
+    
+U.S. Department of Labor 
+Occupational Safety and Health Administration 
+Classifying illnesses 
+Skin diseases or disorders 
+Skin diseases or disorders are illnesses involving 
+the worker’s skin that are caused by work 
+exposure to chemicals, plants, or other 
+substances. 
+Examples: Contact dermatitis, eczema, or 
+rash caused by primary irritants and sensitizers 
+or poisonous plants; oil acne; friction blisters; 
+chrome ulcers; inflammation of the skin. 
+Respiratory conditions 
+Respiratory conditions are illnesses associated 
+with breathing hazardous biological agents, 
+chemicals, dust, gases, vapors, or fumes at work. 
+Examples: Silicosis, asbestosis, pneumonitis, 
+pharyngitis, rhinitis or acute congestion; 
+farmer’s lung, beryllium disease, tuberculosis, 
+occupational asthma, reactive airways 
+dysfunction syndrome (RADS), chronic 
+obstructive pulmonary disease (COPD), 
+hypersensitivity pneumonitis, toxic inhalation 
+injury, such as metal fume fever, chronic 
+obstructive bronchitis, and other 
+pneumoconioses. 
+Poisoning 
+Poisoning includes disorders evidenced by 
+abnormal concentrations of toxic substances in 
+blood, other tissues, other bodily fluids, or the 
+breath that are caused by the ingestion or 
+absorption of toxic substances into the body. 
+Examples: Poisoning by lead, mercury, 
+cadmium, arsenic, or other metals; poisoning by 
+carbon monoxide, hydrogen sulfide, or other 
+gases; poisoning by benzene, benzol, carbon 
+tetrachloride, or other organic solvents; 
+poisoning by insecticide sprays, such as 
+parathion or lead arsenate; poisoning by other 
+chemicals, such as formaldehyde. 
+Hearing Loss 
+Noise-induced hearing loss is defined for 
+recordkeeping purposes as a change in hearing 
+threshold relative to the baseline audiogram of an 
+average of 10 dB or more in either ear at 2000, 
+3000, and 4000 hertz, and the employee’s total 
+hearing level is 25 decibels (dB) or more above 
+audiometric zero (also averaged at 2000, 3000, 
+and 4000 hertz) in the same ear(s). 
+All other illnesses 
+All other occupational illnesses. 
+Examples: Heatstroke, sunstroke, heat 
+exhaustion, heat stress and other effects of 
+environmental heat; freezing, frostbite, and other 
+effects of exposure to low temperatures; 
+decompression sickness; effects of ionizing 
+radiation (isotopes, x-rays, radium); effects of 
+nonionizing radiation (welding flash, ultra-violet 
+rays, lasers); anthrax; bloodborne pathogenic 
+diseases, such as AIDS, HIV, hepatitis B or 
+hepatitis C; brucellosis; malignant or benign 
+tumors; histoplasmosis; coccidioidomycosis. 
+When must you post the Summary? 
+You must post the Summary only — not the 
+Log — by February 1 of the year following the 
+year covered by the form and keep it posted 
+until April 30 of that year. 
+How long must you keep the Log and 
+Summary on file? 
+You must keep the Log and Summary for 5 years 
+following the year to which they pertain. 
+Do you have to send these forms to 
+OSHA at the end of the year? 
+Many employers are required to electronically 
+submit information from their OSHA Forms to 
+OSHA. To see if your establishment is required 
+to submit the information, visit https:// 
+www.osha.gov/injuryreporting/index.html. 
+How can we help you? 
+If you have a question about how to 
+fill out the Log
+, 
+▼ visit us online at www.osha.gov or 
+▼ call your local OSHA office . 
+--- page 4 ---
+      
+  
+  
+    
+  
+  
+  
+  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+ 
+  
+    
+   
+   
+ 
+   
+ 
+ 
+    
+ 
+ 
+  
+     
+          
+   
+ 
+  
+ 
+ 
+  
+  
+   
+   
+  
+ 
+ 
+ 
+  
+      
+  
+    
+ 
+  
+  
+U.S. Department of Labor 
+Occupational Safety and Health Administration 
+How to Fill Out the Log 
+The Log of Work-Related Injuries and 
+Illnesses is used to classify work-related 
+injuries and illnesses and to note the 
+extent and severity of each case. When an 
+incident occurs, use the Log to record 
+specific details about what happened and 
+how it happened. 
+If your company has more than one 
+establishment or site, you must keep 
+separate records for each physical location 
+that is expected to remain in operation for 
+one year or longer. 
+If you need additional copies of the 
+Log, you may photocopy the printout or 
+insert additional form pages in the PDF, 
+and then use as many as you need. 
+The Summary — a separate form — 
+shows the work-related injury and illness 
+totals for the year in each category. At the 
+end of the year, count the number of 
+incidents in each category and transfer the 
+totals from the Log to the Summary. Then 
+post the Summary in a visible location so 
+that your employees are aware of injuries 
+and illnesses occurring in their workplace. 
+You don’t post the Log. You post 
+only the Summary at the end of the year. 
+Note: Because the forms in this recordkeeping package are “fillable/ 
+writable” PDF documents, you can type into the input form fields and 
+then save your inputs using the free Adobe PDF Reader . In addition, 
+the forms are programmed to auto-calculate as appropriate. 
+Be as specific as possible. You can 
+use two lines if you need more 
+room. 
+Revise the log if the injury or illness 
+progresses and the outcome is more serious 
+than you originally recorded for the case. 
+Cross out, erase, or white -out the original 
+entry if hard copy. (If using the PDF's fillable form 
+feature, simply change your selections. You can 
+also clear the entire case entry from the log using 
+the Reset button.) 
+Choose ONLY ONE of these 
+categories. Classify the case by 
+recording the most 
+serious outcome of the case, 
+with column G (Death) being 
+the most serious and column 
+J (Other recordable cases) 
+being the least serious. 
+Note whether the 
+case involves an 
+injury or an illness. 
+--- page 5 ---
+ 
+  
+  
+ 
+      
+       
+   
+ 
+ 
+  
+  
+ 
+ 
+  
+   
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+  
+ 
+   
+ 
+ 
+  
+ 
+  
+  
+ 
+ 
+  
+    
+ 
+  
+  
+ 
+ 
+   
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+   
+   
+  
+  
+  
+  
+  
+   
+  
+ 
+   
+ 
+     
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+  
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+  
+  
+  
+ 
+  
+ 
+OSHA’s Form 300 (Rev. 04/2004) 
+Log of Work-Related 
+Injuries and Illnesses 
+Note: You can type input into this form and save it. 
+Because the forms in this recordkeeping package are “fillable/writable”
+PDF documents, you can type into the input form fields and 
+then save your inputs using the free Adobe PDF Reader. In addition, 
+the forms are programmed to auto-calculate as appropriate. 
+Attention: This form contains information relating to 
+employee health and must be used in a manner that 
+protects the confidentiality of employees to the extent 
+possible while the information is being used for 
+occupational safety and health purposes. 
+Year 20 
+U.S. Department of Labor 
+Occupational Safety and Health Administration 
+Please Record: Reminders: Form approved OMB no. 1218-0176 
+• Information about every work-related death and about every work-related injury or illness that involves loss of • Complete an Injury and Illness Incident Report (OSHA Form 301) or equivalent 
+consciousness, restricted work activity or job transfer, days away from work, or medical treatment beyond first aid. form for each injury or illness recorded on this form. If you're not sure whether a Establishment name 
+• Significant work-related injuries and illnesses that are diagnosed by a physician or licensed health care professional. 
+• Work-related injuries and illnesses that meet any of the specific recording criteria listed in 29 CFR Part 1904.8 
+through 1904.12. 
+case is recordable, call your local OSHA office for help. 
+• Feel free to use two lines for a single case if you need to. 
+• Complete the 5 steps for each case. City State 
+Step 4. Step 5. 
+Enter the number of 
+days the injured or ill Select one column: 
+worker wa
+s: 
+Step 2. Describe the case Step 1. Identify the person 
+(A) (B) (C) (D) (E) (F) 
+Step 3. Classify the case 
+SELECT ONLY ONE circle based on the 
+most serious outcome: 
+Case Employee’s name Job title Date of injury Where the event occurred Describe injury or illness, parts of body 
+or onset of affected, and object/substance that (e.g., L
+oading dock north end) (e.g., Welder) no. 
+illness direct
+ly injured or made person ill (e.g., Remained at Work Illness 
+(e.g., 2/10) Second degree burns on right forearm from (M) acetylene to
+rch) Days away Job transfer Other record- Away On job 
+Death from work or restriction able cases from transfer or 
+work restriction 
+Skin disorder 
+Respiratory 
+condition 
+Poisoning 
+Hearing loss 
+All other 
+illnesses 
+(G) (H) (I) (J) 
+(K) (L) 
+Injury 
+(1) (2) (3) (4)  (5) (6) 
+/ 
+days days month / day 
+/ 
+days days month / day 
+/ 
+days days month / day 
+/ 
+days days month / day 
+Reset 
+Reset 
+Reset 
+Reset 
+Reset 
+Reset 
+Reset 
+Reset 
+Reset 
+Reset 
+/ 
+days days month / day 
+/ 
+days days month / day 
+/ 
+days days month / day 
+/ 
+days days month / day 
+/ 
+days days month / day 
+/ 
+days days month / day 
+Page totals 
+▼
+Public reporting burden for this collection of information is estimated to average 14 minutes per response, including time to review the 
+instructions, search and gather the data needed, and complete and review the collection of information. Persons are not required to 
+respond to the collection of information unless it displays a currently valid OMB control number. If you have any comments about these 
+estimates or any other aspects of this data collection, contact: US Department of Labor, OSHA Office of Statistical Analysis, Room 
+N-3644, 200 Constitution Avenue, NW, Washington, DC 20210. Do not send the completed forms to this office. 
+Add a Form Page 
+Injury 
+Skin disorder 
+Respiratory 
+condition 
+Poisoning 
+Hearing loss 
+All other 
+illnesses 
+Be sure to transfer these totals to the Summary page (Form 300A) before you post it. 
+(1) (2) (3) (4) (5) (6) 
+--- page 6 ---
+  
+ 
+  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+   
+ 
+   
+   
+    
+     
+     
+  
+   
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+   
+  
+ 
+ 
+  
+ 
+      
+      
+      
+    
+ 
+ 
+ 
+  
+  
+ 
+ 
+OSHA’s Form 300A (Rev. 04/2004) 
+Summary of Work-Related Injuries and Illnesses 
+Note: You can type input into this form and save it. 
+Because the forms in this recordkeeping package are “fillable/writable”
+PDF documents, you can type into the input form fields and 
+then save your inputs using the free Adobe PDF Reader. 
+Year 20 
+U.S. Department of Labor 
+Occupational Safety and Health Administration 
+Form approved OMB no. 1218-0176 
+All establishments covered by Part 1904 must complete this Summary page, even if no work-related injuries or illnesses occurred during the year. 
+Remember to review the Log to verify that the entries are complete and accurate before completing this summary. 
+Using the Log, count the individual entries you made for each category. Then write the totals below, making sure you've added the entries from 
+every page of the Log. If you had no cases, write “0.” 
+Employees, former employees, and their representatives have the right to review the OSHA Form 300 in its entirety. They also have limited access 
+to the OSHA Form 301 or its equivalent. See 29 CFR Part 1904.35, in OSHA’s recordkeeping rule, for further details on the access provisions for 
+these forms. 
+Number of Cases 
+Total number of Total number of Total number of cases Total number of 
+d
+eaths cases with days with job transfer or other recordable 
+a
+way from work restriction cases 
+(G) (H) (I ) (J) 
+Number of Days 
+Total number of days Total number of days of 
+away from work job transfer or restriction 
+(K) (L) 
+Injury and Illness Types 
+Total number of . . . 
+(M) 
+(1) Injuries (4) Poisonings 
+(2) Skin disorders (5) Hearing loss 
+(3) Respiratory conditions (6) All other illnesses 
+Post this Summary page from February 1 to April 30 of the year following the year covered by the form. 
+Public reporting burden for this collection of information is estimated to average 58 minutes per response, including time to review the instructions, search and gather the data needed, and 
+complete and review the collection of information. Persons are not required to respond to the collection of information unless it displays a currently valid OMB control number. If you have any 
+comments about these estimates or any other aspects of this data collection, contact: US Department of Labor, OSHA Office of Statistical Analysis, Room N-3644, 200 Constitution Avenue, NW, 
+Washington, DC 20210. Do not send the completed forms to this office. 
+Total hours worked by all employees last year 
+Sign here 
+Knowingly falsifying this document may result in a fine. 
+I certify that I have examined this document and that to the best of 
+my knowledge the entries are true, accurate, and complete. 
+Title Company executive 
+Phone Date 
+Annual average number of employees 
+Employment information (If you don't have these figures, see the 
+Worksheet on the next page to estimate.) 
+North American Industrial Classification (NAICS), if known (e.g., 336212) 
+Industry description (e.g., Manufacture of motor truck trailers) 
+Zip 
+Establishment information 
+Your establishment name 
+Street 
+City State 
+--- page 7 ---
+OSHA’s Form 301 (Rev. 04/2004) 
+Note: You can type input into this form and save it. Attention: This form contains information relating to Because the forms in this recordkeeping package are “fillable/writable” employee health and must be used in a manner that Injury and Illness PDF documents, you can type into the input form fields and protects the confidentiality of employees to the extent 
+then save your inputs using the free Adobe PDF Reader. In addition, U.S. Department of Labor possible while the information is being used for the forms are programmed to auto-calculate as appropriate. Occupational Safety and Health Administration Incident Report occupational safety and health purposes. 
+This Injury and Illness Incident Report is one of the 
+first forms you must fill out when a recordable 
+work-related injury or illness has occurred. Together 
+with the Log of Work-Related Injuries and Illnesses 
+and the accompanying Summary, these forms help 
+the employer and OSHA develop a picture of the 
+extent and severity of work-related incidents. 
+Within 7 calendar days after you receive 
+information that a recordable work-related injury or 
+illness has occurred, you must fill out this form or an 
+equivalent. Some state workers’ compensation, 
+insurance, or other reports may be acceptable 
+substitutes. To be considered an equivalent form, any 
+substitute must contain all the information asked for 
+on this form. 
+According to Public Law 91-596 and 29 CFR 
+1904, OSHA’s recordkeeping rule, you must keep 
+this form on file for 5 years following the year to 
+which it pertains. 
+If you need additional copies of this form, you 
+may photocopy the printout or insert additional form 
+pages in the PDF, and then use as many as you need. 
+Month Day Year 
+Date 
+Completed by 
+Title 
+Phone 
+  
+   
+  
+   
+   
+     
+  
+ 
+   
+  
+  
+  
+   
+ 
+  
+   
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+   
+   
+  
+  
+   
+  
+   
+   
+   
+    
+  
+ 
+    
+       
+ 
+ 
+   
+   
+  
+    
+  
+   
+        
+  
+  
+  
+     
+            
+         
+          
+          
+         
+   
+                   
+        
+         
+               
+ 
+ 
+ 
+       
+ 
+   
+   
+ 
+  
+   
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+ 
+  
+  
+Information about the employee 
+1) Full name 
+2) Street 
+City State ZIP 
+3) Date of birth 
+4) Date hired 
+Month Day Year 
+5) Male 
+Month 
+Female 
+Day Y ear 
+Information about the physician or other health care 
+professional 
+6) Name of physician or other health care professional 
+7) If treatment was given away from the worksite, where was it given? 
+F
+acility 
+S
+treet 
+City State ̀ZI
+P 
+8) Was employee treated in an emergency room? 
+Yes 
+No 
+9) Was employee hospitalized overnight as an in-patient? 
+Yes 
+No 
+Form approved OMB no. 1218-0176 
+Information about the case 
+10) Case number from the Log (Transfer the case number from the Log after you record the case.) 
+11) Date of injury or illness 
+Month Day Year 
+12) Time employee began work (HH:MM) 
+ AM 
+ PM 
+13) Time of event (HH:MM) 
+ AM 
+ PM 
+ Check if time cannot be determined 
+* Re fields 14 to 17: Please do not include any personally identifiable information (PII) pertaining to 
+worker(s) involved in the incident (e.g., no names, phone numbers, or Social Security numbers). 
+14)* What was the employee doing just before the incident occurred? Describe the activity, as well as the 
+tools, equipment, or material the employee was using. Be specific. Examples: “climbing a ladder while 
+carrying roofing materials”; “spraying chlorine from hand sprayer”; “daily computer key-entry.” 
+15)* What Happened? Tell us how the injury occurred. Examples: “When ladder slipped on wet floor, worker fell 
+20 feet”; “Worker was sprayed with chlorine when gasket broke during replacement”; “Worker developed 
+soreness in wrist over time.” 
+16)* What was the injury or illness? Tell us the part of the body that was affected and how it was affected. 
+Examples: “strained back”; “chemical burn, hand”; “carpal tunnel syndrome.” 
+17)* What object or substance directly harmed the employee? Examples: “concrete floor”; “chlorine”; 
+“radial arm saw.” If this question does not apply to the incident, leave it blank. 
+18) If the employee died, when did death occur? Date of death 
+Month Day Year 
+Add a Form Page Reset 
+Public reporting burden for this collection of information is estimated to average 22 minutes per response, including time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Persons are not required to respond to the collection of information unless it displays a 
+current valid OMB control number. If you have any comments about this estimate or any other aspects of this data collection, including suggestions for reducing this burden, contact: US Department of Labor, OSHA Office of Statistical Analysis, Room N-3644, 200 Constitution Avenue, NW, Washington, DC 20210. Do not send the completed forms to this office. 
