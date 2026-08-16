@@ -1,0 +1,2743 @@
+
+--- page 1 ---
+29398 Federal Register / Vol. 81, No. 91 / Wednesday, May 11, 2016 / Rules and Regulations 
+1 31 U.S.C. 5318(h)(2). 
+2 31 U.S.C. 5318(a)(2). 
+3 The term ‘‘covered financial institution’’ refers 
+to: (i) Banks; (ii) brokers or dealers in securities; (iii) 
+mutual funds; and (iv) futures commission 
+merchants and introducing brokers in commodities. 
+4 31 CFR 1020.220, 1023.220, 1024.220, 1026.220. 
+DEPARTMENT OF THE TREASURY 
+Financial Crimes Enforcement Network 
+31 CFR Parts 1010, 1020, 1023, 1024, 
+and 1026 
+RIN 1506–AB25 
+Customer Due Diligence Requirements 
+for Financial Institutions 
+AGENCY: Financial Crimes Enforcement 
+Network (FinCEN), Treasury. 
+ACTION: Final rules. 
+SUMMARY: FinCEN is issuing final rules 
+under the Bank Secrecy Act to clarify 
+and strengthen customer due diligence 
+requirements for: Banks; brokers or 
+dealers in securities; mutual funds; and 
+futures commission merchants and 
+introducing brokers in commodities. 
+The rules contain explicit customer due 
+diligence requirements and include a 
+new requirement to identify and verify 
+the identity of beneficial owners of legal 
+entity customers, subject to certain 
+exclusions and exemptions. 
+DATES: The final rules are effective July 
+11, 2016. 
+Applicability Date: Covered financial 
+institutions must comply with these 
+rules by May 11, 2018. 
+FOR FURTHER INFORMATION CONTACT : 
+FinCEN Resource Center at 1–800–767– 
+2825. Email inquiries can be sent to frc@
+fincen.gov. 
+SUPPLEMENTARY INFORMATION: 
+I. Executive Summary 
+A. Purpose of This Regulatory Action 
+Covered financial institutions are not 
+presently required to know the identity 
+of the individuals who own or control 
+their legal entity customers (also known 
+as beneficial owners). This enables 
+criminals, kleptocrats, and others 
+looking to hide ill-gotten proceeds to 
+access the financial system 
+anonymously. The beneficial ownership 
+requirement will address this weakness 
+and provide information that will assist 
+law enforcement in financial 
+investigations, help prevent evasion of 
+targeted financial sanctions, improve 
+the ability of financial institutions to 
+assess risk, facilitate tax compliance, 
+and advance U.S. compliance with 
+international standards and 
+commitments. 
+FinCEN believes that there are four 
+core elements of customer due diligence 
+(CDD), and that they should be explicit 
+requirements in the anti-money 
+laundering (AML) program for all 
+covered financial institutions, in order 
+to ensure clarity and consistency across 
+sectors: (1) Customer identification and 
+verification, (2) beneficial ownership 
+identification and verification, (3) 
+understanding the nature and purpose 
+of customer relationships to develop a 
+customer risk profile, and (4) ongoing 
+monitoring for reporting suspicious 
+transactions and, on a risk-basis, 
+maintaining and updating customer 
+information. The first is already an AML 
+program requirement and the second 
+will be required by this final rule. The 
+third and fourth elements are already 
+implicitly required for covered financial 
+institutions to comply with their 
+suspicious activity reporting 
+requirements. The AML program rules 
+for all covered financial institutions are 
+being amended by the final rule in order 
+to include the third and fourth elements 
+as explicit requirements. 
+FinCEN has the legal authority for this 
+action in the Bank Secrecy Act (BSA), 
+which authorizes FinCEN to impose 
+AML program requirements on all 
+financial institutions
+1 and to require 
+financial institutions to maintain 
+procedures to ensure compliance with 
+the BSA and its implementing 
+regulations or to guard against money 
+laundering.
+2 
+B. Summary of the Major Provisions of 
+the Rulemaking 
+1. Beneficial Ownership 
+Beginning on the Applicability Date, 
+covered financial institutions
+3 must 
+identify and verify the identity of the 
+beneficial owners of all legal entity 
+customers (other than those that are 
+excluded) at the time a new account is 
+opened (other than accounts that are 
+exempted). The financial institution 
+may comply either by obtaining the 
+required information on a standard 
+certification form (Certification Form 
+(Appendix A)) or by any other means 
+that comply with the substantive 
+requirements of this obligation. The 
+financial institution may rely on the 
+beneficial ownership information 
+supplied by the customer, provided that 
+it has no knowledge of facts that would 
+reasonably call into question the 
+reliability of the information. The 
+identification and verification 
+procedures for beneficial owners are 
+very similar to those for individual 
+customers under a financial institution’s 
+customer identification program (CIP),
+4 
+except that for beneficial owners, the 
+institution may rely on copies of 
+identity documents. Financial 
+institutions are required to maintain 
+records of the beneficial ownership 
+information they obtain, and may rely 
+on another financial institution for the 
+performance of these requirements, in 
+each case to the same extent as under 
+their CIP rule. 
+The terms used for the purposes of 
+this final rule, including account, 
+beneficial ownership, legal entity 
+customer, excluded legal entities, new 
+account, and covered financial 
+institution, are set forth in the final rule. 
+Financial institutions should use 
+beneficial ownership information as 
+they use other information they gather 
+regarding customers (e.g., through 
+compliance with CIP requirements), 
+including for compliance with the 
+Office of Foreign Assets Control (OFAC) 
+regulations, and the currency 
+transaction reporting (CTR) aggregation 
+requirements. 
+2. Anti-Money Laundering Program 
+Rule Amendments 
+The AML program requirement for 
+each category of covered financial 
+institutions is being amended to 
+explicitly include risk-based procedures 
+for conducting ongoing customer due 
+diligence, to include understanding the 
+nature and purpose of customer 
+relationships for the purpose of 
+developing a customer risk profile. 
+A customer risk profile refers to the 
+information gathered about a customer 
+at account opening used to develop a 
+baseline against which customer activity 
+is assessed for suspicious activity 
+reporting. This may include self-evident 
+information such as the type of 
+customer or type of account, service, or 
+product. The profile may, but need not, 
+include a system of risk ratings or 
+categories of customers. 
+In addition, customer due diligence 
+also includes conducting ongoing 
+monitoring to identify and report 
+suspicious transactions and, on a risk 
+basis, to maintain and update customer 
+information. For these purposes, 
+customer information shall include 
+information regarding the beneficial 
+owners of legal entity customers (as 
+defined in § 1010.230). The first clause 
+of paragraph (ii) sets forth the 
+requirement that financial institutions 
+conduct monitoring to identify and 
+report suspicious transactions. Because 
+this includes transactions that are not of 
+the sort the customer would be normally 
+expected to engage, the customer risk 
+profile information is used (among other 
+sources) to identify such transactions. 
+This information may be integrated into 
+the financial institution’s automated 
+monitoring system, and may be used 
+VerDate Sep<11>2014 18:50 May 10, 2016 Jkt 238001 PO 00000 Frm 00002 Fmt 4701 Sfmt 4700 E:\FR\FM\11MYR3.SGM 11MYR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 2 ---
+29399 Federal Register / Vol. 81, No. 91 / Wednesday, May 11, 2016 / Rules and Regulations 
+5 In the final RIA, we estimate that 10-year 
+quantifiable costs range from $1.15 billion to $2.15 
+billion in present value using a seven percent 
+discount rate, and from $1.3 billion to $2.5 billion 
+using a three percent discount rate. 
+6 The BSA is codified at 12 U.S.C. 1829b, 12 
+U.S.C. 1951–1959, 18 U.S.C. 1956, 1957, and 1960, 
+and 31 U.S.C. 5311–5314 and 5316–5332 and notes 
+thereto, with implementing regulations at 31 CFR 
+chapter X. See 31 CFR 1010.100(e). 
+7 31 U.S.C. 5311. 
+8 Treasury Order 180–01 (July 1, 2014). 
+9 31 U.S.C. 5318(h)(2). 
+10 31 U.S.C. 5318(a)(2). 
+after a potentially suspicious transaction 
+has been identified, as one means of 
+determining whether or not the 
+identified activity is suspicious. 
+When a financial institution detects 
+information (including a change in 
+beneficial ownership information) about 
+the customer in the course of its normal 
+monitoring that is relevant to assessing 
+or reevaluating the risk posed by the 
+customer, it must update the customer 
+information, including beneficial 
+ownership information. Such 
+information could include, e.g., a 
+significant and unexplained change in 
+the customer’s activity, such as 
+executing cross-border wire transfers for 
+no apparent reason or a significant 
+change in the volume of activity without 
+explanation. It could also include 
+information indicating a possible 
+change in the customer’s beneficial 
+ownership, because such information 
+could also be relevant to assessing the 
+risk posed by the customer. This applies 
+to all legal entity customers, including 
+those existing on the Applicability Date. 
+This provision does not impose a 
+categorical requirement that financial 
+institutions must update customer 
+information, including beneficial 
+ownership information, on a continuous 
+or periodic basis. Rather, the updating 
+requirement is event-driven, and occurs 
+as a result of normal monitoring. 
+C. Costs and Benefits 
+This is a significant regulatory action 
+pursuant to Executive Order 12866 
+(‘‘E.O. 12866’’) because it is likely to 
+result in a final rule that may have an 
+annual effect on the economy of $100 
+million or more. Accordingly, FinCEN 
+published for comment on December 24, 
+2015 a preliminary Regulatory Impact 
+Assessment (RIA) for the proposed rule 
+(80 FR 80308), which provided a 
+quantitative estimate of the costs to the 
+private sector for which adequate data 
+are available and a qualitative 
+discussion of both the costs and benefits 
+for which data are not available. As a 
+result of the comments submitted, 
+FinCEN revised the preliminary RIA to 
+include additional cost estimates
+5 and 
+is publishing with this final rule a final 
+RIA. The annualized quantified costs 
+(under low cost scenarios) are estimated 
+to be $153 million (at a seven percent 
+discount rate) and $148 million (at a 
+three percent discount rate). The 
+annualized quantified costs (under high 
+cost scenarios) are estimated to be $287 
+million (at a seven percent discount 
+rate) and $282 million (at a three 
+percent discount rate). Because the 
+benefits of the rule cannot be quantified, 
+FinCEN has utilized a breakeven 
+analysis to determine how large the 
+final rule’s benefits would have to be in 
+order to justify its estimated costs. The 
+RIA uses Treasury’s estimate of $300 
+billion in illicit proceeds generated 
+annually in the United States due to 
+financial crimes, to determine the 
+minimum level of effectiveness that the 
+final rule would need to achieve for the 
+benefits to equal the costs. Based on this 
+analysis, using the upper bound of our 
+cost assessment, FinCEN has concluded 
+that the final rule would only have to 
+reduce illicit activity by 0.6 percent to 
+yield a positive net benefit. The 
+Treasury Department believes that the 
+final rule will reduce illicit activity by 
+a greater amount than this. 
+II. Background 
+A. The Bank Secrecy Act 
+FinCEN exercises regulatory functions 
+primarily under the Currency and 
+Foreign Transactions Reporting Act of 
+1970, as amended by the USA PATRIOT 
+Act of 2001 (PATRIOT Act) and other 
+legislation, which legislative framework 
+is commonly referred to as the ‘‘Bank 
+Secrecy Act’’ (BSA).
+6 The BSA 
+authorizes the Secretary of the Treasury 
+(Secretary) to require financial 
+institutions to keep records and file 
+reports that ‘‘have a high degree of 
+usefulness in criminal, tax, or regulatory 
+investigations or proceedings, or in the 
+conduct of intelligence or 
+counterintelligence activities, including 
+analysis, to protect against international 
+terrorism.’’
+7 
+The Secretary has delegated to the 
+Director of FinCEN the authority to 
+implement, administer, and enforce 
+compliance with the BSA and 
+associated regulations.
+8 FinCEN is 
+authorized to impose anti-money 
+laundering (AML) program 
+requirements on financial institutions,
+9 
+as well as to require financial 
+institutions to maintain procedures to 
+ensure compliance with the BSA and 
+the regulations promulgated thereunder 
+or to guard against money laundering.
+10 
+B. The Importance of Customer Due 
+Diligence 
+FinCEN, after consultation with the 
+staffs of the Federal functional 
+regulators and the Department of 
+Justice, has determined that more 
+explicit rules for covered financial 
+institutions with respect to customer 
+due diligence (CDD) are necessary to 
+clarify and strengthen CDD within the 
+BSA regime, which in turn will enhance 
+financial transparency and help to 
+safeguard the financial system against 
+illicit use. Requiring financial 
+institutions to perform effective CDD so 
+that they understand who their 
+customers are and what type of 
+transactions they conduct is a critical 
+aspect of combating all forms of illicit 
+financial activity, from terrorist 
+financing and sanctions evasion to more 
+traditional financial crimes, including 
+money laundering, fraud, and tax 
+evasion. For FinCEN, the key elements 
+of CDD include: (i) Identifying and 
+verifying the identity of customers; (ii) 
+identifying and verifying the identity of 
+beneficial owners of legal entity 
+customers (i.e., the natural persons who 
+own or control legal entities); (iii) 
+understanding the nature and purpose 
+of customer relationships; and (iv) 
+conducting ongoing monitoring. 
+Collectively, these elements comprise 
+the minimum standard of CDD, which 
+FinCEN believes is fundamental to an 
+effective AML program. 
+Clarifying and strengthening CDD 
+requirements for U.S. financial 
+institutions, including with respect to 
+the identification of beneficial owners, 
+advance the purposes of the BSA by: 
+(1) Enhancing the availability to law 
+enforcement, as well as to the Federal 
+functional regulators and self-regulatory 
+organizations (SROs), of beneficial 
+ownership information about legal 
+entity customers obtained by U.S. 
+financial institutions, which assists law 
+enforcement financial investigations 
+and a variety of regulatory examinations 
+and investigations; 
+(2) Increasing the ability of financial 
+institutions, law enforcement, and the 
+intelligence community to identify the 
+assets and accounts of terrorist 
+organizations, corrupt actors, money 
+launderers, drug kingpins, proliferators 
+of weapons of mass destruction, and 
+other national security threats, which 
+strengthens compliance with sanctions 
+programs designed to undercut 
+financing and support for such persons; 
+(3) Helping financial institutions 
+assess and mitigate risk, and comply 
+with all existing legal requirements, 
+including the BSA and related 
+authorities; 
+VerDate Sep<11>2014 18:50 May 10, 2016 Jkt 238001 PO 00000 Frm 00003 Fmt 4701 Sfmt 4700 E:\FR\FM\11MYR3.SGM 11MYR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 3 ---
+29404 Federal Register / Vol. 81, No. 91 / Wednesday, May 11, 2016 / Rules and Regulations 
+consulting with the applicable SROs in the 
+securities and futures/commodities industries. 
+all BSA rulemakings, FinCEN 
+determines the appropriate minimum 
+regulatory standards that should apply 
+across an industry. From that baseline, 
+the Federal functional regulators have 
+authority to establish AML program 
+requirements in addition to those 
+established by FinCEN that they 
+determine are necessary and appropriate 
+to address risk or vulnerabilities specific 
+to the financial institutions they 
+regulate. This is particularly true within 
+the context of separate but related 
+concerns that exist for these institutions 
+beyond the strict scope of AML, such as 
+in the area of safety and soundness. 
+These statements simply reflect this 
+basic reality of the existing regulatory 
+framework. Furthermore, as we have 
+maintained throughout this rulemaking 
+process, one of our overarching goals 
+was to clarify and harmonize 
+expectations while at the same time 
+minimizing disruption to the greatest 
+extent possible. Accordingly, we believe 
+that it is critical to make clear— 
+especially with respect to the changes to 
+the AML program rules—that these 
+standards simply articulate current 
+practices pursuant to existing standards 
+and expectations, in order to facilitate 
+implementation and minimize the 
+burden on financial institutions. We 
+believe that leveraging the experience 
+accrued from interpretation of and 
+compliance with prior regulations and 
+guidance that have already been issued 
+in this space will be a net benefit to 
+financial institutions. As FinCEN 
+explained in the proposal, these 
+requirements represent a floor, not a 
+ceiling, and, consistent with the risk- 
+based approach, financial institutions 
+may do more in circumstances of 
+heightened risk, as well as to mitigate 
+risks generally. 
+Compliance Deadline. Most 
+commenters strongly opposed FinCEN’s 
+proposal for a compliance deadline of 
+one year from the date the final rule is 
+issued, identifying a wide range of 
+changes to systems and processes that 
+would be required in order to 
+implement the rule. Many of these 
+commenters requested that FinCEN 
+provide financial institutions two years 
+to implement the final rule. Based on 
+the well-founded, detailed explanations 
+put forth by these commenters of the 
+difficulties that would arise from a one- 
+year implementation period, FinCEN is 
+extending the period for 
+implementation to two years from the 
+date this final rule is issued (the 
+Applicability Date). 
+III. Section-by-Section Analysis 
+Section 1010.230 Beneficial 
+Ownership Requirements for Legal 
+Entity Customers 
+Section 1010.230(a) In general. As 
+proposed, this paragraph delineated in 
+broad terms the scope of the beneficial 
+ownership obligation—i.e., that covered 
+financial institutions are required to 
+establish and maintain written 
+procedures reasonably designed to 
+identify and verify the identities of 
+beneficial owners of legal entity 
+customers. There were no significant 
+objections to this general formulation, 
+and we are adopting it as proposed, 
+with the addition that the procedures 
+adopted will be included in the 
+institution’s AML program. 
+Several commenters questioned the 
+efficacy of having financial institutions 
+collect beneficial ownership 
+information, contending that State 
+government offices responsible for the 
+formation and registration of legal 
+entities and/or the IRS would be better 
+suited to collect this information due to 
+their roles in the company formation 
+process. Although FinCEN supports the 
+collection of beneficial ownership 
+information in these other 
+circumstances as well, it does not 
+believe that such collection would 
+replace the independent obligation of 
+financial institutions to collect this 
+information. As described above, we 
+view this rulemaking as but one part of 
+Treasury’s comprehensive strategy to 
+enhance financial transparency in the 
+U.S. financial system and worldwide, 
+and we believe the beneficial ownership 
+requirement for financial institutions 
+would be necessary even if these other 
+measures were already in place. One of 
+the principal rationales for this new 
+requirement is that financial institutions 
+should know who their customers are to 
+help them more effectively mitigate 
+risks. This requirement is therefore 
+separate from a policy objective of 
+requiring States to obtain beneficial 
+ownership information from the legal 
+entities they create at the time of 
+formation and upon specified 
+circumstances thereafter (although none 
+currently have such requirements). 
+Presently, corporate laws and 
+regulations differ from State to State, 
+and from FinCEN’s regulations, but 
+generally do not require information 
+regarding beneficial ownership. Thus, 
+the information that will be provided 
+under FinCEN’s regulations will 
+significantly augment information 
+presently available to law enforcement 
+from State authorities, thereby 
+improving the overall investigative, 
+regulatory, and prosecutorial processes. 
+In the NPRM, FinCEN proposed that 
+the beneficial ownership requirement 
+would apply only with respect to legal 
+entity customers that open new 
+accounts going forward from the date of 
+implementation, noting that many 
+commenters to the ANPRM viewed a 
+retroactive requirement to obtain 
+beneficial ownership information for all 
+existing accounts as extremely 
+burdensome. We received comments 
+reflecting a wide range of views on this 
+subject. The vast majority of 
+commenters who addressed this issue 
+reiterated this objection to retroactive 
+application of the beneficial ownership 
+obligation. A few commenters, however, 
+urged FinCEN to require covered 
+financial institutions to collect 
+beneficial ownership information on 
+existing accounts on a categorical basis, 
+while some others thought that financial 
+institutions should collect this 
+information retroactively for all higher 
+risk customers. 
+We decline to impose a categorical, 
+retroactive requirement. Based on our 
+understanding of the significant changes 
+to processes and systems that will be 
+required to implement this requirement 
+simply on a prospective basis, we 
+believe that retroactive application 
+would be unduly burdensome. As we 
+noted in the proposal, the absence of a 
+categorical mandate to apply the 
+requirement retroactively would not 
+preclude financial institutions from 
+deciding that collecting beneficial 
+ownership information on some 
+customers on a risk basis during the 
+course of monitoring may be 
+appropriate for their institution. In our 
+assessment, we have concluded that 
+financial institutions should obtain 
+beneficial ownership information from 
+customers existing on the Applicability 
+Date when, in the course of their normal 
+monitoring, the financial institution 
+detects information relevant to assessing 
+or reevaluating the risk of such 
+customer (as more fully described in the 
+sections below addressing the amended 
+AML program requirements). 
+Section 1010.230(b) Identification and 
+Verification. In the NPRM, FinCEN 
+proposed that covered financial 
+institutions be required to develop 
+customer due diligence procedures that 
+enabled institutions to (1) identify the 
+beneficial owner(s) of legal entity 
+customers by collecting a mandatory 
+certification form provided by the 
+individual opening the account on 
+behalf of the legal entity customer; and 
+(2) verify the identity of the identified 
+beneficial owner(s) according to risk- 
+based procedures that are, at a 
+minimum, identical to the institutions’ 
+CIP procedures required for verifying 
+VerDate Sep<11>2014 18:50 May 10, 2016 Jkt 238001 PO 00000 Frm 00008 Fmt 4701 Sfmt 4700 E:\FR\FM\11MYR3.SGM 11MYR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 4 ---
+29405 Federal Register / Vol. 81, No. 91 / Wednesday, May 11, 2016 / Rules and Regulations 
+36 31 CFR 1010.630(b). 
+37 This revision will also require a corresponding 
+change to the Recordkeeping subsection, described 
+in greater detail below. 
+the identity of customers that are 
+individuals. 
+Section 1010.230(b)(1). The NPRM 
+proposed to require the use of a 
+standard certification form (Certification 
+Form) in order to, among other 
+purposes, promote consistent practices 
+and regulatory expectations, reduce 
+compliance burden, and provide a 
+uniform customer experience across 
+much of the U.S. financial system. To 
+facilitate institutions’ abilities to rely 
+upon the Certification Form, the 
+proposed Certification Form included a 
+section that required the individual 
+opening the account on behalf of a legal 
+entity customer to certify that the 
+information provided on the form is true 
+and accurate to the best of his or her 
+knowledge. Commenters raised a 
+number of issues regarding this 
+proposed requirement. Some 
+commenters asked whether the 
+Certification Form must be used to 
+obtain the information, whether the 
+Certification Form should be an official 
+government form, and what individuals 
+representing the customer would be 
+authorized to provide the Certification 
+Form. Several commenters urged a 
+variety of changes to the fields on the 
+Certification Form in order to conform 
+it more closely to current CIP 
+requirements, to otherwise facilitate use 
+of the form, and to promote other 
+regulatory goals. Some commenters also 
+urged FinCEN to provide a safe harbor 
+to institutions that use the model 
+Certification Form adopted in the final 
+rule akin to, for example, the safe harbor 
+provided for foreign bank 
+certifications.
+36 
+The comments FinCEN received 
+related to the Certification Form varied 
+widely. Some commenters urged 
+FinCEN to make the Certification Form 
+an official U.S. Government document, 
+with the certification made under the 
+penalty of perjury (rather than only to 
+the best of the knowledge of the 
+certifying party), and a few commenters 
+thought that the Certification Form 
+should be notarized. However, many 
+commenters requested that the proposed 
+Certification Form be permissive rather 
+than mandatory, and that financial 
+institutions be permitted to obtain the 
+information through their standard 
+account opening process without 
+utilizing the Certification Form. A few 
+commenters thought that the person 
+opening the account should be required 
+to have actual personal knowledge of 
+the information provided on the 
+Certification Form, or that the 
+certification should take the form of a 
+resolution ratified or adopted by the 
+legal entity’s board or governing body. 
+These commenters thought that a 
+Certification Form without attestation 
+requirements more substantial than 
+those in the proposal would reduce 
+accountability for false representations 
+on the Certification Form. 
+As noted above, a primary reason that 
+FinCEN proposed the Form was to 
+balance the benefits and burdens of this 
+new requirement to the financial 
+institution and its customers with the 
+benefits to law enforcement and 
+regulatory authorities. We also note that 
+in the case of many legal entities that 
+are small businesses, the natural person 
+opening the account will often be one of 
+the beneficial owners, who would have 
+direct knowledge of the beneficial 
+ownership information of the legal 
+entity customer. FinCEN understands 
+that many institutions obtain and 
+maintain customer data electronically 
+rather than in paper form to the greatest 
+extent possible, and that mandating the 
+use and retention of a specific form 
+would require significant technological 
+and operational changes that could be 
+costly and challenging to implement for 
+some financial institutions. We have 
+therefore amended the final rule to 
+permit, but not require, financial 
+institutions to use the Certification 
+Form to collect beneficial ownership 
+information. Accordingly, in the final 
+rule, § 1010.230(b)(1) is revised to state 
+that covered financial institutions must 
+identify the beneficial owner(s) of each 
+legal entity customer at the time a new 
+account is opened, unless the customer 
+is otherwise excluded or the account is 
+exempted. A covered financial 
+institution may accomplish this either 
+by obtaining certification in the form of 
+appendix A of the section from the 
+individual opening the account on 
+behalf of the legal entity customer, or by 
+obtaining from the individual the 
+information required by the form by 
+another means, provided the individual 
+certifies, to the best of the individual’s 
+knowledge, the accuracy of the 
+information.
+37 
+Thus, covered financial institutions 
+can satisfy this requirement through (1) 
+the use of FinCEN’s Certification Form; 
+(2) the use of the financial institution’s 
+own forms, so long as they meet the 
+requirements of § 1010.230(b)(1); or (3) 
+any other means that satisfy the 
+substantive requirements of 
+§ 1010.230(b)(1). These records may be 
+retained electronically and incorporated 
+into existing databases as a part of 
+financial institutions’ overall 
+management of customer files, and 
+covered financial institutions will have 
+flexibility in integrating the beneficial 
+ownership information requirement into 
+existing systems and processes. The 
+certification of accuracy by the 
+individual submitting the information 
+may be obtained without use of the 
+Certification Form in the same way the 
+financial institution obtains other 
+information from its customers in 
+connection with its account opening 
+procedures. FinCEN expects that such 
+flexibility will facilitate the 
+implementation of the beneficial 
+ownership requirement—some 
+commenters noted that giving financial 
+institutions flexibility in integrating this 
+requirement would substantially reduce 
+resource outlays to change customer 
+onboarding processes and to train front- 
+line employees. In addition, to facilitate 
+use of the Certification Form by those 
+institutions that choose to utilize it, 
+FinCEN will also make an electronic 
+version available, although it will not be 
+an official U.S. Government form. 
+Some commenters asked that FinCEN 
+clarify who an appropriate individual to 
+certify the identity of the beneficial 
+owners to the financial institution 
+would be, whether by signing the 
+Certification Form or otherwise 
+providing the beneficial ownership 
+information in accordance with this 
+paragraph; some commenters also 
+questioned whether the individual 
+opening an account could be a low-level 
+employee without knowledge of the 
+entity’s owners. In this regard, FinCEN 
+declines to impose specific account- 
+opening procedures on financial 
+institutions, and believes that financial 
+institutions should be able to integrate 
+this new requirement into their 
+institution’s existing procedures with 
+little disruption. FinCEN understands 
+that financial institutions generally have 
+long-standing policies and procedures, 
+based on sound business practices and 
+prudential considerations, governing the 
+documentation required to open an 
+account for a legal entity; these typically 
+include resolutions authorizing the 
+entity to open an account at the 
+institution and identifying the 
+authorized signatories. Such resolutions 
+are typically certified by an appropriate 
+individual, e.g., the secretary or other 
+officer of a corporation, a member or 
+manager of an LLC, or partner of a 
+partnership. It would be appropriate for 
+the same individual to certify the 
+identity of the beneficial owners. Such 
+an individual would typically have at 
+least some familiarity with the entity’s 
+owners and with individuals with 
+responsibility to control or manage the 
+VerDate Sep<11>2014 18:50 May 10, 2016 Jkt 238001 PO 00000 Frm 00009 Fmt 4701 Sfmt 4700 E:\FR\FM\11MYR3.SGM 11MYR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 5 ---
+29406 Federal Register / Vol. 81, No. 91 / Wednesday, May 11, 2016 / Rules and Regulations 
+38 FinCEN notes that in cases where the 
+individual signing the documentation to open the 
+account (and identifying the legal entity’s beneficial 
+owners) does not deliver such documentation to the 
+financial institution, it may be appropriate that the 
+individual’s signature be notarized. 
+39 FinCEN also understands that in cases where 
+a newly formed legal entity opens a financial 
+institution account in order to commence business, 
+the beneficial owner(s) would typically open the 
+account in person and be the signatories on the 
+account, and could readily certify their status as 
+beneficial owners at that time. 
+entity, but may not have personal 
+knowledge of individuals having an 
+indirect ownership interest through, for 
+example, intermediate legal entities or 
+contractual arrangements with nominal 
+owners, and would have to rely on 
+others for any such information. 
+Therefore, while FinCEN anticipates 
+that the certifying individual would 
+generally be able to provide accurate 
+beneficial ownership information, it is 
+appropriate that it be provided to the 
+best of such person’s knowledge, rather 
+than without qualification. Accordingly, 
+FinCEN declines to require a heightened 
+knowledge threshold, or notarization, or 
+board approval requirement for the 
+certification requirement, as some 
+commenters suggested, as any such 
+requirement would increase the amount 
+of time to open an account, without 
+commensurate benefit, and would be 
+inconsistent with FinCEN’s goal of 
+integrating this requirement into 
+existing financial institution onboarding 
+procedures to the greatest extent 
+possible.
+38 FinCEN thus believes that 
+the certification requirement as 
+described in the final rule provides the 
+appropriate level of accountability given 
+the circumstances.
+39 
+Some commenters urged FinCEN to 
+permit financial institutions to rely 
+upon alternative sources, such as 
+previously collected customer 
+information in their databases, or the 
+IRS Form W–8BEN, to satisfy the 
+certification requirement. FinCEN 
+recognizes that this could facilitate 
+financial institutions’ ability to obtain 
+this information. However, to be of 
+greatest use, FinCEN believes that 
+beneficial ownership information must 
+be, at the time of account opening, both 
+(1) current, and (2) certified by an 
+individual authorized by the customer 
+to open accounts at financial 
+institutions to be accurate to the best of 
+his or her knowledge. Furthermore, 
+because FinCEN’s definition of 
+beneficial ownership does not align 
+precisely with, for example, the IRS’s 
+definition in its Form W–8BEN, 
+permitting reliance in some 
+circumstances upon other agencies’ 
+forms would be at odds with FinCEN’s 
+goal of consistent beneficial ownership 
+standards within and across industries 
+for purposes of CDD. Thus, FinCEN 
+declines to permit reliance solely upon 
+previously gathered alternate sources of 
+beneficial ownership information. 
+Several commenters raised specific 
+questions regarding the information in 
+the proposed Certification Form. 
+FinCEN agrees with the suggestions 
+made by several commenters that the 
+title of the person with significant 
+management responsibility, as well as of 
+the person submitting the Certification 
+Form or supplying the information, 
+should be included and has made these 
+changes to the Form. We have also 
+added fields on the Certification Form 
+in which to identify the type of legal 
+entity, and to note its address. Other 
+commenters noted that the address 
+fields as laid out in the proposed 
+Certification Form, along with the 
+description of the address requirement 
+in the general instructions section, were 
+not congruent with CIP’s address 
+requirements, and accordingly asked 
+FinCEN to confirm that the CIP rules’ 
+address requirements remained 
+applicable. As described in greater 
+detail below, covered financial 
+institutions’ procedures for identifying 
+and verifying beneficial owners must 
+contain all the elements of the 
+applicable CIP rule, including the 
+address, date of birth, and Taxpayer 
+Identification Number requirements as 
+set forth therein. Accordingly, FinCEN 
+has revised the Certification Form to 
+clarify this point, and notes that this 
+information will be required whether or 
+not the Certification Form is used. We 
+have also amended item ‘‘a’’ of the 
+Certification Form to clarify that the 
+name of the certifying party should be 
+that of a natural person authorized to 
+open the account (and not of the legal 
+entity itself). FinCEN also agrees with 
+the suggestion made by a number of 
+commenters that the Certification Form 
+state that the information in the 
+Certification Form is required by 
+Federal regulation in order to explain to 
+customers why this new requirement 
+has been put in place; the Form has 
+been edited appropriately. 
+Several commenters sought 
+clarification as to whether a financial 
+institution must identify and verify a 
+legal entity customer’s beneficial 
+owners each time it opens a new 
+account at the institution after the rule’s 
+compliance deadline, or whether the 
+requirement applies only the first time 
+it opens a new account at such 
+institution. FinCEN has concluded that, 
+while it is not requiring periodic 
+updating of the beneficial ownership 
+information of all legal entity customers 
+at specified intervals, the opening of a 
+new account is a relatively convenient 
+and otherwise appropriate occasion to 
+obtain current information regarding a 
+customer’s beneficial owners. 
+Accordingly, FinCEN has added to the 
+final rule as § 1010.230(g) a definition 
+for ‘‘new account’’. 
+One commenter urged FinCEN to 
+mandate the use of the Legal Entity 
+Identifier (LEI), a global standardized 
+unique identifier for legal entities 
+engaged in financial transactions, on the 
+proposed Certification Form. This 
+commenter noted that including such a 
+requirement would further the goals of 
+transparency and financial stability. 
+FinCEN understands that the LEI was 
+developed principally to aggregate data 
+from across markets, products, and 
+regions, giving global regulators a means 
+to quickly identify parties to financial 
+transactions, in order to enhance 
+regulators’ ability to understand 
+systemic risks to the financial system 
+and act accordingly. Although this is an 
+important and laudable purpose, 
+FinCEN does not believe that mandating 
+the LEI’s inclusion on the beneficial 
+ownership Certification Form would 
+further this goal substantially. We 
+believe that the overwhelming majority 
+of legal entities subject to this 
+requirement will be smaller or non- 
+financial entities that would not be 
+typical applicants for LEIs in the first 
+instance, and that the costs of 
+mandating its use solely for the 
+purposes of the Certification Form 
+would not be outweighed by the benefit. 
+FinCEN also understands that the 
+authorized bodies that assign LEIs do 
+not require the beneficial owner to be a 
+natural person, use a 50 (rather than 25) 
+percent threshold, and do not verify the 
+identities of beneficial owners of legal 
+entities, thereby rendering the LEI’s 
+utility as a possible proxy or alternative 
+source of verification minimal. For these 
+reasons, FinCEN declines to mandate 
+the use of the LEI. We do, however, 
+recognize that covered financial 
+institutions may find such information 
+useful for enterprise-wide risk 
+management or other purposes, and 
+have accordingly included an optional 
+LEI field on the Certification Form. 
+Several commenters urged FinCEN to 
+adopt an express safe harbor in the final 
+rule deeming those financial institutions 
+that use the Certification Form 
+compliant with the beneficial 
+ownership requirement. A few 
+commenters recommended that FinCEN 
+model such an express safe harbor on 
+the safe harbor for foreign bank 
+certifications found in § 1010.630. Other 
+commenters opposed the notion of a 
+safe harbor, contending that the 
+Certification Form should serve as the 
+VerDate Sep<11>2014 18:50 May 10, 2016 Jkt 238001 PO 00000 Frm 00010 Fmt 4701 Sfmt 4700 E:\FR\FM\11MYR3.SGM 11MYR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 6 ---
+29407 Federal Register / Vol. 81, No. 91 / Wednesday, May 11, 2016 / Rules and Regulations 
+40 12 U.S.C. 3401 et seq. 
+41 15 U.S.C. 6801 et seq. 
+42 FinCEN stated that ‘‘[i] n light of these 
+considerations, FinCEN is not proposing that 
+financial institutions verify the status of a beneficial 
+owner. Financial institutions may rely on the 
+beneficial ownership information provided by the 
+customer on the standard certification form.’’ On 
+the other hand, the proposal also states that its 
+procedures for verifying beneficial ownership 
+‘‘should enable the financial institution to form a 
+reasonable belief that it knows the true identity of 
+the beneficial owner of each legal entity customer.’’ 
+(79 FR 45162) 
+43 15 U.S.C. 1681 et seq. 
+44 The clause ‘‘in the covered financial 
+institution’s Customer Identification Program 
+procedures’’ in the proposed rule text have been 
+deleted, because, for the reasons described above, 
+the verification procedures for beneficial owners of 
+legal entity customers may be different from the 
+procedures in the covered financial institution’s CIP 
+that apply to individual customers. 
+starting point for financial institutions’ 
+risk-based due diligence into a legal 
+entity’s beneficial ownership. As 
+discussed in greater detail below, we 
+have included in § 1010.230(b)(2) of the 
+final rule a description of the extent to 
+which financial institutions can rely 
+upon the beneficial ownership 
+information provided by the person 
+opening the account. We decline, 
+however, to include in the final rule a 
+blanket safe harbor triggered by the use 
+and collection of the standard 
+Certification Form. 
+FinCEN believes that there are a 
+number of factors present in the context 
+of foreign bank certifications (but absent 
+here) that make a blanket safe harbor 
+appropriate in that context. The foreign 
+bank certification was used to satisfy 
+several obligations arising under 
+Sections 313 and 319(b) of the USA 
+PATRIOT Act, including not only for 
+the foreign bank to certify facts such as 
+its status and in certain cases its owners, 
+but also to set forth its agreement not to 
+provide banking services to foreign shell 
+banks and to appoint a U.S. process 
+agent. Moreover the foreign bank official 
+was required to certify that the 
+information in the document was true 
+and correct, whereas the beneficial 
+ownership information is to be provided 
+to the best of the knowledge of the 
+customer’s agent. In addition, the 
+population of legal entities subject to 
+the final rule is exponentially larger 
+than that of foreign banks with U.S. 
+correspondent accounts, and the 
+proposed certification in the proposed 
+rule does not include affirmative 
+obligations. We believe that the 
+provision inserted into § 1010.230(b)(2) 
+of the final rule describing the extent to 
+which the financial institution may rely 
+on the information provided by the 
+customer strikes the right balance 
+between the need to minimize burden 
+upon covered financial institutions and 
+the risk of abuse of legal entities for 
+illicit purposes. 
+A few commenters raised concerns 
+that the collection of sensitive personal 
+information of beneficial owners would 
+impinge upon their privacy and increase 
+their vulnerability to identity theft. 
+FinCEN recognizes the critical 
+importance of protecting individuals’ 
+privacy interests, as well as the serious 
+threat posed by cyberattacks and 
+identity theft, particularly with respect 
+to the personal information held at 
+financial institutions. These concerns, 
+while valid and significant, are 
+insufficient to justify elimination of the 
+requirement. From both the privacy and 
+identity-theft perspectives, the 
+incremental impact upon the vast 
+majority of beneficial owners will be 
+slight, because, pursuant to CIP 
+requirements, they already have to 
+provide the same sensitive personal 
+information to financial institutions to 
+open individual accounts and access the 
+U.S. financial system. We note that 
+financial institutions are expected to 
+protect this information just as they do 
+CIP information, as well as comply with 
+all applicable Federal and State privacy 
+laws, including, but not limited to, the 
+Right to Financial Privacy Act
+40 and the 
+Gramm-Leach-Bliley Act.41 
+Section 1010.230(b)(2). With respect 
+to verification of identity, we proposed 
+that verification meant that financial 
+institutions were required to verify the 
+identity of the individual identified as a 
+beneficial owner (i.e., to verify the 
+individual’s existence), and not his or 
+her status as a beneficial owner. We 
+proposed that this verification be done 
+via risk-based procedures that are 
+identical to the institutions’ CIP 
+procedures required for verifying the 
+identity of customers that are 
+individuals, to facilitate financial 
+institutions’ implementation of the 
+requirement through leveraging existing 
+procedures and systems. 
+Many commenters sought clarification 
+of the meaning of the verification 
+requirement in proposed 
+§ 1010.230(b)(2) and the means by 
+which it may be accomplished. Some 
+pointed out the potential confusion 
+between two statements in the NPRM 
+discussing the distinction between 
+verifying the identity of the beneficial 
+owner and verifying the status.
+42 In 
+order to resolve any potential confusion 
+regarding the beneficial ownership 
+identification and verification obligation 
+of financial institutions, FinCEN is 
+revising § 1010.230(b)(2) in the final 
+rule to clarify that a covered financial 
+institution may rely on the information 
+supplied by the legal entity customer 
+regarding the identity of its beneficial 
+owner or owners, provided that it has 
+no knowledge of facts that would 
+reasonably call into question the 
+reliability of such information. FinCEN 
+anticipates that, in the overwhelming 
+majority of cases, a covered financial 
+institution should be able to rely on the 
+accuracy of the beneficial owner or 
+owners identified by the legal entity 
+customer, absent the institution’s 
+knowledge to the contrary. FinCEN 
+recognizes the necessity for permitting 
+reliance on the identification supplied 
+by the legal entity customer, considering 
+the fact the customer is generally the 
+best source of this information, and that 
+there is generally no other source of 
+beneficial ownership information 
+available to covered financial 
+institutions, aside from the legal entity 
+itself. 
+Several commenters sought 
+clarification of the requirement as 
+described in the NPRM in proposed 
+§ 1010.230(b)(2) that beneficial 
+ownership information procedures be, 
+at a minimum, ‘‘identical’’ to the 
+existing CIP procedures for verifying the 
+identity of individual customers. Some 
+commenters noted that it would be 
+infeasible to simply replicate, without 
+modification, existing CIP procedures 
+for individual customers to implement 
+the beneficial ownership verification 
+requirement. They noted, for example, 
+that because the beneficial owners will 
+in many cases not be physically present 
+at the financial institution at account 
+opening, an institution using 
+documentary verification may not have 
+access to the documents listed in the 
+relevant paragraph of the CIP rule, and 
+therefore may need to rely on a 
+photocopy or other reproduction of such 
+document. Commenters also noted that 
+some current procedures for non- 
+documentary verification of individual 
+customers could not be applied to non- 
+consenting beneficial owners, because 
+of limitations on the use of credit 
+reports imposed by the Fair Credit 
+Reporting Act.
+43 
+FinCEN agrees that it would be 
+impracticable for covered financial 
+institutions to implement the beneficial 
+ownership verification requirement 
+with procedures that are identical to the 
+institution’s existing CIP rule 
+procedures for individual customers. 
+Accordingly, § 1010.230(b)(2) has been 
+amended to require that at a minimum, 
+these procedures must contain the 
+elements
+44 required for verifying the 
+identity of customers that are 
+individuals under paragraph (a)(2) of 
+VerDate Sep<11>2014 18:50 May 10, 2016 Jkt 238001 PO 00000 Frm 00011 Fmt 4701 Sfmt 4700 E:\FR\FM\11MYR3.SGM 11MYR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 7 ---
+29408 Federal Register / Vol. 81, No. 91 / Wednesday, May 11, 2016 / Rules and Regulations 
+45 Paragraph (a)(2) of each of the CIP rules 
+requires that the relevant financial institution’s CIP 
+includes risk-based procedures to verify the identity 
+of each customer, to the extent reasonable and 
+practicable. The elements of such program must 
+include identifying the customer, verifying the 
+customer’s identity (through documents or non- 
+documentary methods), and procedures for 
+circumstances where the institution cannot form a 
+reasonable belief that it knows the true identity of 
+the individual. 
+46 Relevant documentation may include 
+unexpired government-issued identification 
+evidencing nationality or residence and bearing a 
+photograph or similar safeguard, such as a driver’s 
+license or passport. See, e.g., 31 CFR 
+1020.220(a)(2)(ii)(A)(1). 
+47 Under the CIP rules, a financial institution’s 
+CIP must include procedures for responding to 
+circumstances in which the financial institution 
+cannot form a reasonable belief that it knows the 
+true identity of a customer. These procedures 
+should describe: (A) When the institution should 
+not open an account; (B) The terms under which a 
+customer may use an account while the institution 
+attempts to verify the customer’s identity; (C) When 
+it should close an account, after attempts to verify 
+a customer’s identity have failed; and (D) When it 
+should file a Suspicious Activity Report in 
+accordance with applicable law and regulation. See, 
+e.g., 31 CFR 1020.220(a)(2)(iii). 
+48 See, e.g., Customer Identification Programs for 
+Banks, Savings Associations, Credit Unions and 
+Certain Non-Federally Regulated Banks, 68 FR 
+25090, 25099 (May 9, 2003). 
+the applicable CIP rule,45 but are not 
+required to be identical. In addition, the 
+final rule clarifies that in the case of 
+documentary verification, the financial 
+institution may use photocopies or other 
+reproductions of the documents listed 
+in paragraph (a)(2)(ii)(A)(1)
+46 of the 
+applicable CIP rule. 
+Because the risk-based verification 
+procedures must contain the same 
+elements as required by the applicable 
+CIP rule to verify the identity of 
+individual customers, verification must 
+be completed within a reasonable time 
+after the account is opened. In addition, 
+the beneficial ownership identification 
+procedures must address situations in 
+which the financial institution cannot 
+form a reasonable belief that it knows 
+the true identity of the beneficial owner 
+of a legal entity customer after following 
+the required procedures.
+47 It remains 
+the case that covered financial 
+institutions may generally rely on 
+government-issued identification as 
+verification of an individual’s identity, 
+absent obvious indications of fraud.
+48 
+FinCEN notes that such reliance is also 
+generally appropriate in the case of 
+photocopies or other reproductions 
+obtained pursuant to § 1010.230(b)(2). 
+However, given the vulnerabilities 
+inherent in the reproduction process, 
+covered financial institutions should 
+conduct their own risk-based analyses 
+of the types of photocopies or 
+reproductions that they will accept in 
+accordance with this section, so that 
+such reliance is reasonable. For 
+example, a covered financial institution 
+could determine that it will not accept 
+reproductions below a certain optical 
+resolution, or that it will not accept 
+reproductions transmitted via facsimile, 
+or that it will only accept digital 
+reproductions transmitted in certain file 
+formats. As with CIP, covered financial 
+institutions are not required to maintain 
+these copies or reproductions, but only 
+a description of any document upon 
+which the financial institution relied to 
+verify the identity of the beneficial 
+owner. We note, however, that although 
+covered financial institutions are not 
+required to maintain these 
+reproductions, they are not prohibited 
+from keeping them in a manner 
+consistent with all other applicable laws 
+or regulations. 
+Some commenters urged FinCEN to 
+permit covered financial institutions to 
+take a risk-based, rather than 
+categorical, approach to the 
+identification and verification 
+requirements. Among the objections 
+lodged against a categorical requirement 
+were that: Conducting CIP procedures 
+on non-present beneficial owners would 
+be too difficult; the benefit of a 
+categorical requirement was outweighed 
+by the costs; and expanding the number 
+of natural persons subject to CIP 
+procedures would increase costs, 
+particularly for institutions that rely 
+upon vendors that charge on a per 
+capita basis for CIP. FinCEN believes 
+that categorical application of this 
+requirement across covered financial 
+institutions will reduce illicit actors’ 
+opportunities to slip into the financial 
+system by masking their legal entities 
+with markers indicative of a low risk 
+profile. As to concerns about costs and 
+difficulties, we believe that the above- 
+described changes and clarifications 
+made to this paragraph have given 
+financial institutions greater flexibility 
+in determining how to implement the 
+identification and verification 
+requirements, thereby reducing their 
+impact. As described above, because 
+financial institutions will in most 
+instances be able to rely upon the 
+information provided by the customer, 
+FinCEN believes that financial 
+institutions generally will not expend 
+substantially greater resources by 
+collecting and verifying the information 
+in all cases (subject to permitted 
+exemptions) than by engaging in a risk 
+analysis to determine whether the 
+beneficial ownership information 
+should be collected and verified. We 
+recognize that financial institutions that 
+pay for systems and technology costs 
+associated with CIP procedures on a per 
+capita basis will face increased costs 
+from identifying and verifying the 
+identities of additional natural persons. 
+However, we believe that the benefits of 
+collecting this information, as described 
+at greater length above and below, 
+outweigh these additional costs. FinCEN 
+accordingly declines to alter the 
+categorical nature of the requirement for 
+the final rule. 
+Several commenters questioned the 
+utility of collecting this information in 
+the absence of an authoritative 
+centralized resource against which to 
+verify beneficial ownership status. They 
+contended that the limited benefit of 
+this information would not outweigh 
+the costs imposed by the requirement. 
+Law enforcement commenters, however, 
+identified significant benefits to the 
+collection of beneficial ownership 
+information, regardless of financial 
+institutions’ ability to verify ownership 
+status. They noted that the identities of 
+verified natural persons linked to legal 
+entities of interest had significant value 
+in law enforcement investigations, 
+whether or not those natural persons are 
+the actual beneficial owners, since at a 
+minimum they may have information 
+that can aid law enforcement in 
+identifying the true beneficial owner(s). 
+Furthermore, false beneficial ownership 
+information is of significant use to 
+prosecutors in demonstrating 
+consciousness of guilt, as well as for 
+impeachment purposes at trial. And law 
+enforcement also noted the likely 
+deterrent effect that a categorical 
+collection and verification requirement 
+would have on illicit actors, by making 
+it more difficult for them to maintain 
+anonymity while opening accounts. For 
+these reasons, FinCEN rejects the notion 
+that this requirement is of limited value. 
+A few commenters requested that 
+FinCEN eliminate the verification 
+requirement entirely, contending that 
+verification of the identities of non- 
+present beneficial owners would be too 
+difficult and burdensome, especially for 
+smaller institutions. As described above, 
+we are aware of the challenges 
+associated with verifying the identities 
+of non-present individuals and have 
+accordingly made changes to simplify 
+the process for financial institutions, 
+which we expect will reduce the 
+burden. Importantly, collecting 
+beneficial ownership information 
+without verifying the existence of the 
+named person would substantially 
+diminish the value of the information, 
+and we therefore decline to eliminate 
+the verification requirement. 
+Some commenters asked FinCEN to 
+clarify what we expect financial 
+institutions to do with the beneficial 
+ownership information that they collect 
+and verify. FinCEN generally expects 
+VerDate Sep<11>2014 18:50 May 10, 2016 Jkt 238001 PO 00000 Frm 00012 Fmt 4701 Sfmt 4700 E:\FR\FM\11MYR3.SGM 11MYR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 8 ---
+29409 Federal Register / Vol. 81, No. 91 / Wednesday, May 11, 2016 / Rules and Regulations 
+49 See generally 31 CFR part 500; see also, e.g., 
+31 CFR 590.406 (Ukraine-related sanctions 
+regulations); Office of Foreign Assets Control, 
+Frequently Asked Questions, available at http://
+www.treasury.gov/resource-center/faqs/Sanctions/
+Pages/faq_general.aspx#50_percent. 
+50 See 31 CFR 1010.313; FinCEN, Currency 
+Transaction Report Aggregation for Businesses with 
+Common Ownership FIN–2012–G001, (Mar. 16, 
+2012) (FIN–2012–G001); FinCEN, Currency 
+Transaction Reporting: Aggregation, FinCEN Ruling 
+2001–2, (Aug. 23, 2001). 
+51 31 CFR 1010.313. 
+52 In general, such aggregation would only be 
+appropriate in cases where an individual owns all 
+or substantially all of the legal entity’s equity 
+interests. It is only in such cases that a transaction 
+by a legal entity could be considered ‘‘by or on 
+behalf of’’ the owner of the entity (or vice versa). 
+53 See FIN–2012–G001 at 2. 
+beneficial ownership information to be 
+treated like CIP and related information, 
+and accordingly used to ensure that 
+covered financial institutions comply 
+with other requirements. For example, 
+the Office of Foreign Assets Control 
+(OFAC) requires covered financial 
+institutions to block accounts (or other 
+property and interests in property) of, 
+among others, persons appearing on the 
+Specially Designated Nationals and 
+Blocked Persons List (SDN List), which 
+includes any entity that is 50 percent or 
+more owned, in the aggregate, by one or 
+more blocked persons, regardless of 
+whether the entity is formally listed on 
+the SDN List.
+49 Therefore, institutions 
+should use beneficial ownership 
+information to help ensure that they do 
+not open or maintain an account, or 
+otherwise engage in prohibited 
+transactions or dealings involving 
+individuals or entities subject to OFAC- 
+administered sanctions. Covered 
+financial institutions should also 
+develop risk-based procedures to 
+determine whether and/or when 
+additional screening of these names 
+through, for example, negative media 
+search programs, would be appropriate. 
+With respect to aggregation of 
+transactions for Currency Transaction 
+Reporting (CTR) purposes, FinCEN 
+expects covered financial institutions to 
+apply existing procedures consistent 
+with CTR regulations and applicable 
+FinCEN guidance from 2001 and 2012.
+50 
+Thus, while financial institutions 
+should generally recognize the 
+distinctness of the corporate form and 
+not categorically impute the activities or 
+transactions of a legal entity customer to 
+a beneficial owner, they must aggregate 
+multiple currency transactions if the 
+financial institution has knowledge that 
+these transactions are by or on behalf of 
+any person and result in either cash in 
+or cash out totaling more than $10,000 
+during any one business day.
+51 While 
+the requirement to identify the 
+beneficial owners of legal entity 
+customers does not modify this existing 
+CTR aggregation requirement, the 
+beneficial ownership identification may 
+provide financial institutions with 
+information they did not previously 
+have, in order to determine when 
+transactions are ‘‘by or on behalf of’’ the 
+same person. Thus, if a financial 
+institution determines that a legal entity 
+customer or customers are not being 
+operated independently from each other 
+or from their primary owner—e.g., the 
+institution determines that legal entities 
+under common ownership have 
+common employees and are repeatedly 
+used to pay each other’s expenses or the 
+personal expenses of their primary 
+owner—then the financial institution 
+may determine that aggregating the 
+transactions of a legal entity or entities 
+and their primary owner would be 
+appropriate.
+52 Under such 
+circumstances, if a financial institution 
+were aware that a beneficial owner 
+made a $5,000 cash deposit into his 
+personal account, and later the same 
+business day, he made a $6,000 cash 
+deposit into the account of a legal entity 
+not being operated as an independent 
+entity, the institution would be required 
+to aggregate those transactions and file 
+a CTR.
+53 And to the extent that the 
+financial institution determined that 
+such transactions had no other apparent 
+purpose than to avoid triggering a CTR 
+filing, the financial institution would 
+need to consider whether filing a SAR 
+about the transactions would be 
+appropriate. 
+A few commenters asked FinCEN to 
+provide guidance as to how beneficial 
+ownership information should be 
+incorporated into processes for 
+information sharing pursuant to USA 
+PATRIOT Act Section 314(a); one of 
+these commenters asked FinCEN to 
+declare such information per se outside 
+of the scope of Section 314(a). FinCEN 
+does not expect the information 
+obtained pursuant to the beneficial 
+ownership requirement to add 
+additional requirements with respect to 
+Section 314(a) for financial institutions. 
+The rule implementing Section 314(a), 
+set forth at 31 CFR 1010.520, does not 
+authorize the reporting of beneficial 
+ownership information associated with 
+an account or transaction matching a 
+named subject. Under that rule, 
+financial institutions need only search 
+their records for account or transactions 
+matching a named subject, and report to 
+FinCEN whether such a match exists 
+using the identifying information that 
+FinCEN provides. 
+Section 1010.230(c) Account. See 
+discussion below under ‘‘Legal entity 
+customer.’’ 
+Section 1010.230(d) Beneficial Owner. 
+In the NPRM, we proposed two prongs 
+for the definition of beneficial owner: 
+Each individual, if any, who directly or 
+indirectly owned 25 percent of the 
+equity interests of a legal entity 
+customer (the ownership prong); and a 
+single individual with significant 
+responsibility to control, manage, or 
+direct a legal entity customer, including 
+an executive officer or senior manager 
+or any other individual who regularly 
+performs similar functions (the control 
+prong). We noted that the number of 
+beneficial owners identified would vary 
+from legal entity customer to legal entity 
+customer due to the ownership prong— 
+there could be as few as zero and as 
+many as four individuals who satisfy 
+this prong. All legal entities, however, 
+would be required to identify one 
+beneficial owner under the control 
+prong. We further noted that financial 
+institutions had the discretion to 
+identify additional beneficial owners as 
+appropriate based on risk. 
+Thus, in practice, the number of 
+beneficial owners identified will vary 
+based on the circumstances. For 
+example: 
+• Mr. and Mrs. Smith each hold a 50 
+percent equity interest in ‘‘Mom & Pop, 
+LLC.’’ Mrs. Smith is President of Mom 
+& Pop, LLC and Mr. Smith is its Vice 
+President. Mom & Pop, LLC is required 
+to provide the personal information of 
+both Mr. & Mrs. Smith under the 
+ownership prong. Under the control 
+prong, Mom & Pop, LLC is also required 
+to provide the personal information of 
+one individual with significant 
+responsibility to control Mom & Pop, 
+LLC; this individual could be either Mr. 
+or Mrs. Smith, or a third person who 
+otherwise satisfies the definition. Thus, 
+in this scenario, Mom & Pop, LLC would 
+be required to identify at least two, but 
+up to three distinct individuals—both 
+Mr. & Mrs. Smith under the ownership 
+prong, and either Mr. or Mrs. Smith 
+under the control prong, or both Mr. & 
+Mrs. Smith under the ownership prong, 
+and a third person with significant 
+responsibility under the control prong. 
+• Acme, Inc. is a closely-held private 
+corporation. John Roe holds a 35 
+percent equity stake; no other person 
+holds a 25 percent or higher equity 
+stake. Jane Doe is the President and 
+Chief Executive Officer. Acme, Inc. 
+would be required to provide John Roe’s 
+beneficial ownership information under 
+the ownership prong, as well as Jane 
+Doe’s (or that of another control person) 
+under the control prong. 
+• Quentin, Inc. is owned by the five 
+Quentin siblings, each of whom holds a 
+20 percent equity stake. Its President is 
+Benton Quentin, the eldest sibling, who 
+VerDate Sep<11>2014 18:50 May 10, 2016 Jkt 238001 PO 00000 Frm 00013 Fmt 4701 Sfmt 4700 E:\FR\FM\11MYR3.SGM 11MYR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 9 ---
+29410 Federal Register / Vol. 81, No. 91 / Wednesday, May 11, 2016 / Rules and Regulations 
+is the only individual at Quentin, Inc. 
+with significant management 
+responsibility. Quentin, Inc. would be 
+required to provide Benton Quentin’s 
+beneficial ownership information under 
+the control prong, but no other 
+beneficial ownership information under 
+the ownership prong, because no sibling 
+has a 25 percent stake or greater. 
+One commenter raised a concern that 
+this obligation would effectively require 
+financial institutions to monitor the 
+equity interests and management team 
+of legal entity customers on an ongoing 
+basis and continually update this 
+information. FinCEN notes that it would 
+be impracticable for financial 
+institutions to conduct this type of 
+inquiry, and emphasizes that this 
+obligation should be considered a 
+snapshot, not a continuous obligation. 
+As discussed more fully in the Section- 
+by-Section Analysis addressing the 
+amendments to the AML program rules, 
+FinCEN does expect financial 
+institutions to update this information 
+based on risk, generally triggered by a 
+financial institution learning through its 
+normal monitoring of facts relevant to 
+assessing the risk posed by the 
+customer. 
+The Ownership Prong. Commenters 
+raised a number of points regarding the 
+ownership prong. Several commenters 
+speculated on FinCEN’s intention with 
+respect to this requirement. FinCEN 
+confirms here that by the phrase 
+‘‘directly or indirectly,’’ it intends that 
+the financial institution’s customer 
+identify its ultimate beneficial owner or 
+owners as defined in the rule and not 
+their nominees or ‘‘straw men.’’ In 
+addition, as described in 
+§ 1010.230(b)(2), financial institutions 
+may rely on information provided by 
+the customer to identify and verify the 
+beneficial owner. 
+Many commenters supported 
+FinCEN’s decision in the proposal to set 
+the minimum threshold for equity 
+holdings constituting ownership at 25 
+percent. Some of these commenters 
+requested that FinCEN affirm this 
+threshold as the regulatory expectation, 
+notwithstanding our remarks in the 
+proposal that financial institutions, after 
+their own assessment of risk, could 
+determine that a lower threshold 
+percentage might be warranted. A few 
+commenters, however, urged FinCEN to 
+lower this threshold to 10 percent, 
+contending that the higher threshold 
+would be too easy to evade and is 
+inconsistent with international AML 
+norms and requirements of FATCA, and 
+that the burden of a lower threshold 
+would be minimal because some 
+financial institutions as a matter of 
+practice already collect beneficial 
+ownership information at thresholds 
+lower than 25 percent. 
+FinCEN has considered all of the 
+arguments in favor of lowering the 
+ownership threshold to 10 percent, and 
+we decline to make this change in the 
+final rule. Although it is true that some 
+financial institutions already collect 
+beneficial ownership information at a 
+threshold lower than 25 percent in some 
+cases, we do not believe that this 
+practice is widely established enough to 
+justify its categorical imposition for all 
+legal entity customers across all covered 
+financial institutions. As some 
+proponents of the 10 percent threshold 
+noted, this lower threshold would make 
+it more difficult for illicit actors to 
+structure ownership interests to evade 
+the reporting threshold. However, it 
+would also require financial institutions 
+to identify and verify as many as eleven 
+beneficial owners (including the control 
+prong). In FinCEN’s assessment, the 
+incremental benefit of this approach 
+does not outweigh the burdens 
+associated with having to collect and 
+verify the identities of more than twice 
+as many beneficial owners in some 
+circumstances. Furthermore, the 
+proposed 25 percent threshold is 
+consistent with that of many foreign 
+jurisdictions (including EU member 
+states) and with the FATF standard, 
+which in turn is used to define the 
+controlling persons of an entity in the 
+intergovernmental agreements that the 
+United States has entered into with 
+more than 110 other jurisdictions in 
+order to enforce the requirements of 
+FATCA. FinCEN continues to believe 
+that a 25 percent threshold strikes the 
+appropriate balance between the benefit 
+of identifying key natural persons who 
+have substantial ownership interests in 
+the legal entity and the costs associated 
+with implementing this information- 
+collection requirement. 
+We reiterate that the 25 percent 
+threshold is the baseline regulatory 
+benchmark, but that covered financial 
+institutions may establish a lower 
+percentage threshold for beneficial 
+ownership (i.e., one that regards owners 
+of less than 25 percent of equity 
+interests as beneficial owners) based on 
+their own assessment of risk in 
+appropriate circumstances. As a general 
+matter, FinCEN does not expect covered 
+financial institutions’ compliance with 
+this regulatory requirement to be 
+assessed against a lower threshold. 
+Nevertheless, consistent with the risk- 
+based approach, FinCEN anticipates that 
+some financial institutions may 
+determine that they should identify and 
+verify beneficial owners at a lower 
+threshold in some circumstances; we 
+believe that making this clear in the 
+note accompanying the regulatory text 
+will aid them in doing so with respect 
+to their customers. 
+Some commenters urged FinCEN to 
+include in the ownership prong a 
+‘‘fallback provision’’ to require the 
+collection of beneficial ownership 
+information for at least one individual 
+with a significant equity stake in the 
+legal entity, even if no beneficial owner 
+meets the minimum ownership 
+threshold. Such a provision was 
+initially discussed in the ANPRM for 
+this rulemaking but not included in the 
+NPRM in response to concerns 
+expressed by numerous commenters 
+that the approach was impracticable. As 
+we noted in the NPRM, commenters 
+questioned the feasibility of engaging in 
+a comparative analysis of every owner 
+to determine the individual who ‘‘has at 
+least as great an equity interest in the 
+entity as any other individual.’’ 
+Agreeing with that assessment, we 
+removed this provision, and we do not 
+believe that any benefit from its 
+reintroduction would outweigh the 
+difficulties that customers and front-line 
+employees would face in implementing 
+it. Although we have declined to 
+include this provision in the final rule, 
+financial institutions may determine, 
+pursuant to a risk-based approach for 
+their institutions, that certain higher 
+risk circumstances may warrant the 
+collection of beneficial ownership 
+information for at least one natural 
+person under the ownership prong even 
+if no beneficial owner meets the 25 
+percent threshold. 
+One commenter requested that 
+FinCEN clarify whether covered 
+financial institutions had an obligation 
+to determine whether equity holders of 
+a legal entity managed or structured 
+their holdings to evade the 25 percent 
+threshold for reporting. FinCEN notes 
+that in most cases it would be 
+impracticable for front-line employees 
+to conduct this type of inquiry. Thus, 
+FinCEN expects that financial 
+institutions will generally be able to rely 
+upon information about equity 
+ownership provided by the person 
+opening the account, and not to 
+affirmatively investigate whether equity 
+holders are attempting to avoid the 
+reporting threshold. However, financial 
+institution staff who know, suspect, or 
+have reason to suspect that such 
+behavior is occurring may, depending 
+on the circumstances, be required to file 
+a SAR. 
+A few commenters sought 
+clarification of the definition of ‘‘equity 
+interests’’ provided in the proposal—to 
+wit, an ownership interest in a business 
+entity—contending that although the 
+proposed definition provided a great 
+VerDate Sep<11>2014 18:50 May 10, 2016 Jkt 238001 PO 00000 Frm 00014 Fmt 4701 Sfmt 4700 E:\FR\FM\11MYR3.SGM 11MYR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 10 ---
+29411 Federal Register / Vol. 81, No. 91 / Wednesday, May 11, 2016 / Rules and Regulations 
+deal of latitude and flexibility, it might 
+also cause confusion due to its broad 
+sweep. Thus, commenters requested 
+greater clarification and guidance in the 
+form of examples or additional 
+commentary, to assist customers in 
+understanding and complying with the 
+requirements of the regulation as well as 
+employees in their determinations as to 
+which types of ownership interests are 
+subject to this prong. FinCEN 
+appreciates that some financial 
+institutions may find it challenging in 
+some circumstances to determine 
+whether a particular ownership interest 
+qualifies as an ‘‘equity interest.’’ 
+However, as we noted in the proposal, 
+we deliberately avoided the use of more 
+technical terms of art associated with 
+the exercise of control through 
+ownership; we did so in part based on 
+the preferences expressed by many 
+members of industry. The above- 
+mentioned commenters urged FinCEN 
+to avoid creating a definition using 
+technical and complex legal terms that 
+would also be difficult for customers 
+and front-line employees to understand 
+and apply. Beyond the general examples 
+provided in the proposal, however, we 
+are reluctant to provide additional 
+narrower examples that could be 
+construed to limit a definition that we 
+intend to be broadly applicable, 
+particularly in light of the diversity of 
+types of legal entities formed within the 
+United States and abroad. By the same 
+token, we also decline to provide a 
+formal guidance document listing the 
+types of documents that front-line 
+employees should rely upon to 
+demonstrate the existence of an equity 
+interest over the triggering threshold. 
+We reiterate that it is generally the 
+responsibility of the legal entity 
+customer (and its personnel) to make 
+this determination and to identify the 
+beneficial owners, and not front-line 
+employees at the financial institution, 
+unless the employees have reason to 
+question the accuracy of the information 
+presented. 
+Some commenters noted that while 
+they approved of FinCEN’s general 
+approach to determining indirect 
+ownership of legal entity customers— 
+i.e., that FinCEN does not expect 
+financial institutions or customers to 
+undertake analyses to determine 
+whether an individual is a beneficial 
+owner under the definition—they 
+nevertheless thought that FinCEN 
+should provide additional guidance and 
+examples of how legal entity customers 
+should calculate ownership interests 
+when natural persons have indirect 
+equity interests. As an initial matter, as 
+described above, we emphasize that 
+FinCEN expects that financial 
+institutions will generally be able to rely 
+on the representations of the customer 
+when it identifies its beneficial owners. 
+We also note that it would not be 
+unreasonable to expect that a legal 
+entity that has a complex structure 
+would have personnel who necessarily 
+have a general understanding of the 
+ownership interests of the natural 
+persons behind it for operational, 
+management, accounting, and other 
+purposes. 
+Commenters also sought clarification 
+regarding various scenarios where 25 
+percent or greater equity interests of a 
+legal entity customer are held in such a 
+manner that the interest is not 
+ultimately owned, directly or indirectly, 
+by any individual. This could occur, for 
+example, where a 25 percent or greater 
+ownership interest is held by an entity 
+excluded from the legal entity customer 
+definition under paragraph (e)(2) or by 
+a trust. FinCEN notes that the 
+exclusions in the proposed rule include 
+any entity organized under the laws of 
+the United States or of any State at least 
+51 percent of whose common stock or 
+analogous equity interests are held by 
+an entity listed on a U.S stock exchange. 
+FinCEN believes that this should 
+address the overwhelming majority of 
+situations where an excluded entity is a 
+25 percent or more shareholder. In 
+addition, in the relatively unusual 
+situations where an excluded entity 
+holds a 25 percent or greater equity 
+interest that is not covered by the above- 
+mentioned exclusion, FinCEN notes that 
+covered financial institutions are not 
+required under the ownership prong to 
+identify and verify the identities of a 
+natural person behind these entities; 
+this is because the definition of 
+‘‘beneficial owner’’ under the ownership 
+prong refers to ‘‘[e]ach individual, if 
+any, . . .’’, and in such a case there 
+would not be any individual who is the 
+ultimate owner of such interest. On the 
+other hand, where 25 percent or more of 
+the equity interests of a legal entity 
+customer are owned by a trust (other 
+than a statutory trust), covered financial 
+institutions would satisfy the ownership 
+prong of the beneficial ownership 
+requirement by collecting and verifying 
+the identity of the trustee, and FinCEN 
+has amended the definition consistent 
+with this. For clarity, FinCEN notes that 
+in any such case the legal entity 
+customer would nonetheless be required 
+to identify an individual under the 
+control prong. 
+The Control Prong. Commenters also 
+raised a variety of points regarding this 
+element. 
+A few commenters requested that we 
+narrow or eliminate the control prong, 
+contending that it would be difficult to 
+identify a control person under such a 
+wide-ranging definition. We disagree. 
+FinCEN proposed a broad definition to 
+give legal entities a wide range of 
+options from which to choose. 
+Accordingly, the breadth of the 
+definition will facilitate, rather than 
+hinder, financial institutions’ ability to 
+collect this information—because legal 
+entity customers are required to provide 
+information on only one control person 
+who satisfies the definition, legal 
+entities should be able to readily 
+identify at least one natural person 
+within their management structure who 
+has significant management 
+responsibility, consistent with the 
+multiple examples of positions 
+provided. Furthermore, there may be 
+legal entities for which there are no 
+natural persons who satisfy the 
+ownership prong; without the control 
+prong, this would create a loophole for 
+legal entities seeking to obscure their 
+beneficial ownership information. 
+Requiring the identification and 
+verification of, at a minimum, one 
+control person ensures that financial 
+institutions will have a record of at least 
+one natural person associated with the 
+legal entity, which will benefit law 
+enforcement and regulatory 
+investigations for reasons described 
+previously. 
+A few commenters requested that 
+FinCEN provide additional information 
+about the types of persons who would 
+satisfy the control prong, contending 
+that a level of detail similar to the 
+explanations provided for the 
+ownership prong would be helpful for 
+implementation. We believe that such 
+additional explanation is unnecessary. 
+In contrast with the variety of possible 
+complicated scenarios that a financial 
+institution might encounter when trying 
+to determine beneficial ownership 
+under the ownership prong, the control 
+prong provides for a straightforward 
+test: The legal entity customer must 
+provide identifying information for one 
+person with significant managerial 
+control. It further provides as examples 
+a number of common, well-understood 
+senior job titles, such as President, Chief 
+Executive Officer, and others. Taken 
+together, FinCEN believes that these 
+clauses provide ample information for 
+legal entity customers to easily identify 
+a natural person that satisfies the 
+definition of control person. 
+A few commenters requested that 
+FinCEN expand the reach of the control 
+prong by, among other things, including 
+within it the concept of ‘‘effective 
+control,’’ and proposing a variety of 
+changes to mandate the identification of 
+additional natural persons under this 
+VerDate Sep<11>2014 18:50 May 10, 2016 Jkt 238001 PO 00000 Frm 00015 Fmt 4701 Sfmt 4700 E:\FR\FM\11MYR3.SGM 11MYR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 11 ---
+29419 Federal Register / Vol. 81, No. 91 / Wednesday, May 11, 2016 / Rules and Regulations 
+79 In the proposal, we described these elements, 
+which we believe to be fundamental to an effective 
+AML program, as follows: (i) Identifying and 
+verifying the identity of customers; (ii) identifying 
+and verifying the identity of beneficial owners of 
+legal entity customers (i.e., the natural persons who 
+own or control legal entities); (iii) understanding 
+the nature and purpose of customer relationships; 
+and (iv) conducting ongoing monitoring to maintain 
+and update customer information and to identify 
+and report suspicious transactions. See 79 FR at 
+45152. 
+80 31 CFR 1020.320(a)(2)(iii); see also 31 CFR 
+1023.320(a)(2)(iii), 1024.320(a)(2)(iii), and 
+1026.320(a)(2)(iii). 
+81 FFIEC Manual at 57. 
+concern, we decline to alter the 
+recordkeeping requirement. First, 
+because the Certification Form is no 
+longer mandatory, financial institutions 
+not using it will not have to retain 
+multiple Certification Forms, but will 
+instead have flexibility to record any 
+changes of beneficial ownership 
+information in a manner that works best 
+for their institution. And we believe the 
+benefit from leveraging existing 
+procedures far outweighs any benefit 
+that might arise from a shorter 
+recordkeeping standard, because 
+creating a separate standard for 
+beneficial ownership information would 
+likely require new processes and 
+necessitate training for employees, as 
+well as require line employees to 
+consistently apply different standards 
+for beneficial ownership and CIP 
+information. 
+Section 1010.230(j) Reliance on 
+Another Financial Institution. In the 
+NPRM, we proposed that financial 
+institutions could rely on the 
+performance by another financial 
+institution of the requirements of this 
+section under the same conditions as set 
+forth in the applicable CIP rules. 
+Commenters raised a few points 
+regarding the reliance provision as 
+proposed. A few requested that we 
+lower the standard for reliance below 
+that articulated in the applicable CIP 
+rules, by permitting reliance without a 
+contract and annual certification, and 
+extending the reliance provisions to 
+regulated money services businesses 
+and foreign affiliates of covered 
+financial institutions subject to a global 
+standard at least as rigorous as U.S. CIP 
+and CDD standards. We decline to make 
+any of these proposed changes to the 
+reliance provision at this time. FinCEN 
+believes that there is significant value to 
+financial institutions in terms of 
+account management in having uniform 
+standards to the greatest extent possible, 
+and that having different reliance 
+standards for CIP and for beneficial 
+ownership information might cause 
+confusion and negatively impact 
+compliance. Thus, to the extent that we 
+would make any of the proposed 
+changes to the reliance provision, we 
+believe it would be important to make 
+the same changes concurrently to the 
+applicable CIP provisions, which would 
+require joint rulemaking. 
+One commenter requested that 
+FinCEN clarify reliance responsibilities 
+in the drafting of selling, clearing, or 
+counterparty agreements, without 
+further elaboration upon the type of 
+clarification sought or the need for such 
+clarification. We have considered this 
+request, and in the absence of any 
+specific and persuasive arguments 
+supporting the need for such 
+clarification, we have found no reason 
+to provide any clarification addressing 
+this issue. 
+Another commenter requested that 
+FinCEN amend the reliance provision to 
+enable covered financial institutions to 
+employ the services of non-financial 
+institution third parties as beneficial 
+ownership pre-check service providers, 
+to conduct beneficial ownership due 
+diligence. This commenter contended 
+that amending the proposal in this way 
+might facilitate compliance by 
+permitting third parties specializing in 
+beneficial ownership due diligence to 
+fulfill the requirements of this section at 
+scale, expediting legal entities’ ability to 
+open accounts. Thus, the commenter 
+proposed adding clauses to the reliance 
+provision permitting such reliance on 
+these third parties if the reliance is 
+reasonable; the third party is voluntarily 
+subject to a rule implementing 31 U.S.C. 
+5318(h) and certified by Treasury or 
+FinCEN; and the third party certifies to 
+the financial institution that it has 
+implemented an AML program and that 
+it will perform the requirements of 
+section 1010.230. FinCEN declines to 
+make these changes. Currently, FinCEN 
+does not have an appropriate 
+mechanism to permit a third party to 
+voluntarily subject itself to an AML 
+program requirement, nor to assess and 
+certify that party’s compliance. We thus 
+believe that it would make more sense 
+to postpone any consideration of this 
+approach until after FinCEN and the 
+covered financial institutions have 
+gained experience and understanding 
+from implementing section 1010.230. 
+Section 1020.210 Anti-money 
+laundering program requirements for 
+financial institutions regulated only by 
+a Federal functional regulator, including 
+banks, savings associations, and credit 
+unions. In the NPRM, we proposed to 
+amend FinCEN’s existing AML program 
+rules to expressly incorporate both the 
+minimum statutory elements of an AML 
+program prescribed by 31 U.S.C. 
+5318(h)(1), as well as the elements of 
+the minimum standard of CDD that are 
+not otherwise already accounted for in 
+either the existing AML regulatory 
+scheme (i.e., CIP) or in the proposed 
+beneficial ownership requirement.
+79 
+Paragraphs (b)(1) through (4) correspond 
+to the minimum statutory elements of 
+section 5318(h)(1), while proposed 
+paragraph (b)(5) set forth the remaining 
+elements of CDD by requiring 
+appropriate risk-based procedures for 
+conducting ongoing customer due 
+diligence including, but not limited to, 
+(i) understanding the nature and 
+purpose of customer relationships for 
+the purpose of developing a customer 
+risk profile, and (ii) conducting ongoing 
+monitoring to maintain and update 
+customer information and to identify 
+and report suspicious transactions. We 
+described our understanding that these 
+third and fourth elements of CDD were 
+necessary and critical steps required to 
+comply with the existing requirement 
+under the BSA to identify and report 
+suspicious transactions. Thus, expressly 
+incorporating the third and fourth 
+elements of CDD into the AML program 
+rules would serve to harmonize these 
+elements with existing AML obligations. 
+Because the proposal sought only to 
+clarify and explicitly state existing 
+expectations and requirements, we 
+emphasized that the proposal was not 
+intended to lower, reduce, or limit the 
+due diligence expectations of the 
+Federal functional regulators or limit 
+their existing regulatory discretion, nor 
+to create any new obligations. 
+With respect to the third element, 
+understanding the nature and purpose 
+of customer relationships for the 
+purpose of developing a customer risk 
+profile, we elaborated upon our 
+understanding of the manner in which 
+current expectations satisfied this 
+proposed requirement. We observed that 
+under the existing requirement for 
+financial institutions to report 
+suspicious activity, they must file SARs 
+on a transaction that, among other 
+things, has ‘‘no business or apparent 
+lawful purpose or is not the sort in 
+which the particular customer would 
+normally be expected to engage.’’
+80 
+Banks specifically are expected to 
+‘‘obtain information at account opening 
+sufficient to develop an understanding 
+of normal and expected activity for the 
+customer’s occupation or business 
+operations.’’
+81 In short, to understand 
+the types of transactions in which a 
+particular customer would normally be 
+expected to engage necessarily requires 
+an understanding of the nature and 
+purpose of the customer relationship, 
+which informs the baseline against 
+which aberrant, suspicious transactions 
+are identified. It was this fundamental 
+VerDate Sep<11>2014 18:50 May 10, 2016 Jkt 238001 PO 00000 Frm 00023 Fmt 4701 Sfmt 4700 E:\FR\FM\11MYR3.SGM 11MYR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 12 ---
+29420 Federal Register / Vol. 81, No. 91 / Wednesday, May 11, 2016 / Rules and Regulations 
+82 Id. at 29–30. 
+83 As noted above, the Secretary has delegated to 
+the Director of FinCEN the authority to implement 
+the BSA and associated regulations. 
+expectation that FinCEN sought to 
+encapsulate in its articulation of the 
+third element. Moreover, as FinCEN 
+stated in the proposal, in some 
+circumstances an understanding of the 
+nature and purpose of a customer 
+relationship can also be developed by 
+inherent or self-evident information 
+about the product or customer type, 
+such as the type of customer, the type 
+of account opened, or the service or 
+product offered, or other basic 
+information about the customer, and 
+such information may be sufficient to 
+understand the nature and purpose of 
+the relationship. We further noted that, 
+depending on the facts and 
+circumstances, other relevant facts 
+could include basic information about 
+the customer, such as annual income, 
+net worth, domicile, or principal 
+occupation or business, as well as, in 
+the case of longstanding customers, the 
+customer’s history of activity. 
+Regarding the fourth element, 
+conducting ongoing monitoring to 
+maintain and update customer 
+information and to identify and report 
+suspicious transactions, we noted our 
+understanding that, as with the third 
+element, current industry practice to 
+comply with existing expectations for 
+SAR reporting should already satisfy 
+this proposed requirement. Banks are 
+expected to have in place internal 
+controls to ‘‘provide sufficient controls 
+and monitoring systems for timely 
+detection and reporting of suspicious 
+activity.’’
+82 In short, the proposal 
+served to codify existing supervisory 
+and regulatory expectations for banks as 
+explicit requirements within FinCEN’s 
+AML program requirement in order to 
+make clear that the minimum standards 
+of CDD, as articulated, include ongoing 
+monitoring of all transactions by, at, or 
+through the financial institution. As 
+proposed, the obligation to update 
+customer information as a result of 
+monitoring would generally only be 
+triggered when the financial institution 
+becomes aware of information about the 
+customer in the course of normal 
+monitoring relevant to assessing the risk 
+posed by a customer; it was not 
+intended to impose a categorical 
+requirement to update customer 
+information on a continuous or ongoing 
+basis using the Certification Form in 
+Appendix A or by another means. 
+Commenters raised a number of 
+points about FinCEN’s proposal to 
+expressly incorporate the third and 
+fourth elements of CDD as a ‘‘fifth 
+pillar’’ into the AML program rules. 
+Some questioned whether FinCEN had 
+the statutory authority to adopt these 
+amendments to the program rules. A 
+few commenters expressed general 
+approval of this approach but sought 
+clarification of its application, while 
+other commenters opposed the 
+codification of existing regulatory 
+expectations, questioning the need to do 
+so in light of current regulatory 
+expectations. Some commenters raised 
+concerns about FinCEN’s articulation of 
+the ongoing monitoring requirement, 
+contending that the element as proposed 
+imposed an obligation to continuously 
+update customer information. We 
+address these comments and provide 
+additional clarification for banks below. 
+A few commenters challenged 
+FinCEN’s statutory authority to amend 
+the AML program rules in this fashion. 
+They argued principally that FinCEN’s 
+actions exceeded the scope of its 
+statutory authority because it proposed 
+to incorporate into the regulations 
+implementing the AML program, 
+elements not found in the authorizing 
+statute, 31 U.S.C. 5318(h). This 
+argument is not supported by a plain 
+reading of the statutory text. Section 
+5318(h)(1) provides in relevant part that 
+‘‘each financial institution shall 
+establish anti-money laundering 
+programs, including, at a minimum— 
+[the four statutory pillars]. . . .’’ 
+(emphasis added). And section 
+5318(h)(2) further provides that ‘‘[t]he 
+Secretary of the Treasury, after 
+consultation with the appropriate 
+Federal functional regulator . . . may 
+prescribe minimum standards for 
+programs established under paragraph 
+(1). . . .’’ The first clause by its terms 
+does not limit an AML program 
+exclusively to the four enumerated 
+statutory elements, and the statutory 
+scheme clearly vests the Secretary
+83 
+with discretion to adapt the AML 
+program to changing circumstances as 
+warranted after consultation with the 
+Federal functional regulators. FinCEN’s 
+actions today fall squarely within the 
+scope of its statutory delegation of 
+authority from the Secretary and the 
+plain language of Section 5318(h)(1). 
+One commenter asserted that the 
+creation of this new ‘‘fifth pillar’’ 
+separate from the other elements of CDD 
+that are already incorporated into the 
+‘‘internal controls’’ pillar, could 
+complicate how existing internal 
+controls are identified and managed, 
+possibly requiring the revision of 
+existing systems and programs, 
+including training and audit functions, 
+thereby needlessly consuming banks’ 
+AML resources. As described at greater 
+length above and below, FinCEN views 
+the fifth pillar as nothing more than an 
+explicit codification of existing 
+expectations; as these expectations 
+should already be taken into account in 
+a bank’s internal controls, FinCEN 
+would expect the confusion caused by 
+this codification, if any, to be minimal. 
+Furthermore, FinCEN believes that, in 
+order to bring uniformity and 
+consistency across sectors, it is 
+important that these due diligence 
+elements be made explicit, and that they 
+be part of the AML program of 
+depository institutions (as well as of the 
+other covered financial institutions). We 
+believe that harmonizing these 
+requirements across financial sectors 
+will strengthen the system as a whole, 
+by further limiting opportunities for 
+inconsistent application of unclear or 
+unexpressed expectations. The same 
+commenter also asserted that imposing 
+this requirement unilaterally ‘‘places 
+FinCEN at odds with the prudential 
+regulators.’’ However, FinCEN notes 
+that the proposed CDD rule as well as 
+this final rule, were issued after 
+consultation with the staffs of the 
+prudential regulators. 
+Most bank commenters did not raise 
+objections to the concept of a customer 
+risk profile. The banks that commented 
+on this issue noted generally that they 
+understood the concept as it applied to 
+their industry. One commenter subject 
+to AML requirements for banks, broker- 
+dealers, mutual funds, and insurance 
+companies raised concerns that the 
+concept of a customer risk profile 
+implicated personal privacy interests 
+and that information about personal 
+attributes of customers could be used for 
+inappropriate profiling. We reiterate 
+here that for banks, the term ‘‘customer 
+risk profile’’ is used to refer to the 
+information gathered about a customer 
+to develop the baseline against which 
+customer activity is assessed for 
+suspicious transaction reporting. As 
+such, we would not expect there to be 
+any significant changes to current 
+practice that is consistent with existing 
+expectations and requirements, and 
+certainly not in the form of 
+inappropriate profiling. 
+A few commenters raised objections 
+to the ongoing monitoring element in 
+the proposal, contending that, as 
+articulated, it was inconsistent with 
+current requirements or expectations 
+regarding the monitoring of customers 
+and transactions and appeared to 
+impose a new requirement to monitor, 
+maintain, and update customer 
+information on a continuous basis. 
+Commenters also requested that FinCEN 
+clarify the relationship between ongoing 
+monitoring and updating beneficial 
+VerDate Sep<11>2014 18:50 May 10, 2016 Jkt 238001 PO 00000 Frm 00024 Fmt 4701 Sfmt 4700 E:\FR\FM\11MYR3.SGM 11MYR3mstockstill on DSK3G9T082PROD with RULES3
+--- page 13 ---
+29421 Federal Register / Vol. 81, No. 91 / Wednesday, May 11, 2016 / Rules and Regulations 
+84 The same changes are being made to the 
+ongoing monitoring provisions of the AML program 
+rules for the other covered financial institutions. 
+85 As we noted in the proposal, FinCEN’s current 
+AML program rule for broker-dealers differs from 
+the current program rule issued by FINRA, 
+principally because FINRA has included as a pillar 
+within its AML program rule a requirement with 
+respect to suspicious activity reporting. This 
+integrated treatment of the SAR requirement also 
+differs from the practice of the other financial 
+sectors covered by this rulemaking. We reiterate 
+that FinCEN is not proposing to incorporate, as 
+FINRA has done, a SAR reporting requirement as 
+a separate pillar within the AML program rules, as 
+the existing stand-alone SAR obligation within 
+FinCEN’s regulations is sufficient. However, the 
+decision to not include a SAR requirement within 
+the program rules is not meant to affect its 
+treatment in any way within the FINRA rule. 
+ownership information, asserting that 
+the expectation articulated in the 
+proposal that financial institutions 
+should update beneficial ownership 
+information in connection with ongoing 
+monitoring was unclear. As we noted in 
+the proposal and above, the purpose of 
+articulating the requirement regarding 
+updating customer information was to 
+codify existing practice relating to 
+ongoing monitoring, and not to impose 
+a new categorical requirement to 
+continuously update customer 
+information. However, we agree with 
+the commenters that this element as 
+presented in the proposal could be 
+construed in this fashion. Thus, the 
+final rule amends the ongoing 
+monitoring prong to state that ongoing 
+monitoring is conducted to identify and 
+report suspicious transactions and, on a 
+risk basis, to maintain and update 
+customer information. For these 
+purposes, customer information shall 
+include information regarding the 
+beneficial owners of legal entity 
+customers (as defined in § 1010.230). 
+We believe that this change to the 
+ongoing monitoring clause better 
+encapsulates current practice in the 
+AML/CFT area, and therefore, the 
+nature of the obligation—that is, 
+financial institutions are presently 
+expected to conduct a monitoring- 
+triggered update of customer 
+information when they detect 
+information during the course of their 
+normal monitoring relevant to assessing 
+or reevaluating the risk of a customer 
+relationship. Such information could 
+include, e.g., a significant and 
+unexplained change in customer 
+activity. It could also include 
+information indicating a possible 
+change in beneficial ownership, when 
+such change might be relevant to 
+assessing the risk posed by the 
+customer. In any such event, it is 
+appropriate to update the customer 
+information accordingly. As we noted in 
+the proposal, including the ongoing 
+monitoring element in the AML 
+program rules serves to reflect existing 
+practices to satisfy SAR reporting 
+obligations. Although the beneficial 
+ownership information collection 
+requirement was not in place at the time 
+of the proposal, this information may be 
+relevant in assessing the risk posed by 
+the customer and in assessing whether 
+a transaction is suspicious. Moreover, 
+FinCEN believes it is also consistent 
+that this updating requirement should 
+apply not only to customers with new 
+accounts, but also to customers with 
+accounts existing on the Applicability 
+Date. That is, should the financial 
+institution learn as a result of its normal 
+monitoring that the beneficial owner of 
+a legal entity customer may have 
+changed, it should identify the 
+beneficial owner of such customer. For 
+example, we can envision a situation 
+where an unexpected transfer of all of 
+the funds in a legal entity’s account to 
+a previously unknown individual would 
+trigger an investigation in which the 
+bank learns that the funds transfer was 
+directly related to a change in the 
+beneficial ownership of the legal 
+entity.
+84 FinCEN emphasizes that the 
+obligation to update customer 
+information pursuant to this provision, 
+including beneficial ownership 
+information, is triggered only when, in 
+the course of its normal monitoring, the 
+financial institution detects information 
+relevant to assessing the risk posed by 
+the customer; it is not intended to 
+impose a categorical requirement to 
+update customer or beneficial 
+ownership information on a continuous 
+or ongoing basis. 
+One commenter asserted that it would 
+be difficult to conceive of a scenario 
+where the ongoing monitoring of 
+transactions would provide information 
+to a financial institution indicating a 
+potential change in beneficial 
+ownership. Accordingly, the commenter 
+suggested that we link the expectation 
+to update beneficial ownership 
+information only to monitoring of the 
+customer relationship. We generally 
+agree with the notion that it is unlikely 
+that transaction monitoring will uncover 
+information suggestive of a change of 
+beneficial ownership, because such 
+monitoring generally does not tend to 
+provide insight into the transfer of 
+ownership or operational control. 
+Nevertheless, we do not believe that a 
+categorical exclusion of beneficial 
+ownership information from this 
+element would be appropriate. First, 
+FinCEN believes that the revision of the 
+ongoing monitoring element for the final 
+rule as described above largely 
+addresses this concern—as we have 
+noted repeatedly, our requirement is 
+consistent with current practice, and we 
+expect monitoring-triggered updating of 
+beneficial ownership information (as 
+with other customer information) only 
+to occur on a risk basis when material 
+information about a change in beneficial 
+ownership is uncovered during the 
+course of a bank’s normal monitoring 
+(whether of the customer relationship or 
+of transactions). As noted in the 
+preceding paragraph, there may be 
+unusual cases where transaction 
+monitoring might lead to information 
+about a possible change in beneficial 
+ownership, and we are therefore 
+unwilling to categorically foreclose this 
+avenue of inquiry. However, there is no 
+expectation that a financial institution 
+obtain updated beneficial ownership 
+information from its customers on a 
+regular basis, whether by using the 
+Certification Form in Appendix A or by 
+any other means. 
+This commenter also expressed 
+concern about subjecting all account 
+relationships to the requirement to 
+monitor to identify and report 
+suspicious transactions, contending that 
+this implied a uniform requirement for 
+monitoring transactions that was 
+inconsistent with the risk-based 
+approach. Therefore, the commenter 
+requested that FinCEN expressly 
+articulate that ongoing monitoring be 
+conducted pursuant to the risk-based 
+approach. We clarify first that our 
+expectation that all accounts be subject 
+to ongoing monitoring does not mean 
+that we expect all accounts to be subject 
+to a uniform level of scrutiny. Rather, 
+we fully expect financial institutions to 
+apply the risk-based approach in 
+determining the level of monitoring to 
+which each account will be subjected. 
+Thus, consistent with current practice, 
+we would expect the level of monitoring 
+to vary across accounts based on the 
+financial institution’s assessment of the 
+risk associated with the customer and 
+the account. We also noted that all 
+account relationships would be subject 
+to this requirement merely to reflect the 
+fact that all accounts must necessarily 
+be monitored in some form in order to 
+comply with existing SAR requirements, 
+and not only those subject to the CIP 
+rule. 
+Section 1023.210 Anti-money 
+laundering program requirements for 
+brokers or dealers in securities. The 
+structural changes to this section, as 
+well as the rationale for these 
+amendments, are identical to those 
+articulated for banks above.
+85 
+As in the case of banks described 
+above, FinCEN emphasizes that the 
+incorporation of these elements is 
+VerDate Sep<11>2014 18:50 May 10, 2016 Jkt 238001 PO 00000 Frm 00025 Fmt 4701 Sfmt 4700 E:\FR\FM\11MYR3.SGM 11MYR3mstockstill on DSK3G9T082PROD with RULES3

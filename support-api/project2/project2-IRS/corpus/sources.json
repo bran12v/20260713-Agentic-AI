@@ -1,0 +1,118 @@
+{
+  "project": "Payline",
+  "author": "U.S. Department of the Treasury, Internal Revenue Service",
+  "footer": "This document is an excerpt of federal public-domain material, reproduced as a training artifact for the Payline exercise. It is not a current or authoritative source and is not tax advice. Consult the published source for the governing text.",
+  "ecfr_issue_date": "2026-08-04",
+  "documents": [
+    {
+      "doc_id": "CFR-EMPLOYEE",
+      "title": "26 CFR Part 31 - Who is an employee for federal employment tax purposes",
+      "doc_type": "regulation",
+      "kind": "ecfr",
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/{issue_date}/title-26.xml?part=31",
+      "cite_url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-C/part-31",
+      "sections": ["31.3121(d)-1", "31.3121(d)-2", "31.3306(i)-1", "31.3401(c)-1"],
+      "backs": ["R1"]
+    },
+    {
+      "doc_id": "CFR-DEPOSIT",
+      "title": "26 CFR Part 31 - Deposit rules and return periods for employment taxes",
+      "doc_type": "regulation",
+      "kind": "ecfr",
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/{issue_date}/title-26.xml?part=31",
+      "cite_url": "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-C/part-31",
+      "sections": ["31.6071(a)-1", "31.6302-1"],
+      "backs": ["R4"]
+    },
+    {
+      "doc_id": "RP-2025-10",
+      "title": "Rev. Proc. 2025-10 - Implementation of section 530 of the Revenue Act of 1978",
+      "doc_type": "guidance",
+      "kind": "pdf_pages",
+      "url": "https://www.irs.gov/pub/irs-drop/rp-25-10.pdf",
+      "cite_url": "https://www.irs.gov/pub/irs-drop/rp-25-10.pdf",
+      "publication_date": "2025-02-10",
+      "citation": "Rev. Proc. 2025-10",
+      "page_offset": 0,
+      "excerpts": [
+        {"section_path": "section-530", "label": "The scope of section 530, the reporting consistency requirement, the substantive consistency requirement, the reasonable basis requirement and its safe harbors, and the burden of proof", "printed_pages": "1-23", "pdf_pages": [1, 23]}
+      ],
+      "backs": ["R2"]
+    },
+    {
+      "doc_id": "RR-2025-3",
+      "title": "Rev. Rul. 2025-3 - Section 3509 and the employer's liability for reclassified workers",
+      "doc_type": "guidance",
+      "kind": "pdf_pages",
+      "url": "https://www.irs.gov/pub/irs-drop/rr-25-03.pdf",
+      "cite_url": "https://www.irs.gov/pub/irs-drop/rr-25-03.pdf",
+      "publication_date": "2025-01-21",
+      "citation": "Rev. Rul. 2025-3",
+      "page_offset": 0,
+      "excerpts": [
+        {"section_path": "section-3509", "label": "Five worked situations on the interaction of section 530 relief, the reduced rates of section 3509, and section 7436 Tax Court review, with the law and analysis and the holdings", "printed_pages": "1-13", "pdf_pages": [1, 13]}
+      ],
+      "backs": ["R3"]
+    },
+    {
+      "doc_id": "PUB-15A",
+      "title": "Publication 15-A - Employer's Supplemental Tax Guide, worker classification",
+      "doc_type": "publication",
+      "kind": "pdf_pages",
+      "url": "https://www.irs.gov/pub/irs-pdf/p15a.pdf",
+      "cite_url": "https://www.irs.gov/forms-pubs/about-publication-15-a",
+      "page_offset": 0,
+      "excerpts": [
+        {"section_path": "who-are-employees", "label": "Who are employees, the common-law rules and the three categories of evidence, independent contractors, statutory employees and statutory nonemployees", "printed_pages": "3-10", "pdf_pages": [3, 10]}
+      ],
+      "backs": ["R1"]
+    },
+    {
+      "doc_id": "PUB-15",
+      "title": "Publication 15, Circular E - Employer's Tax Guide, depositing taxes",
+      "doc_type": "publication",
+      "kind": "pdf_pages",
+      "url": "https://www.irs.gov/pub/irs-pdf/p15.pdf",
+      "cite_url": "https://www.irs.gov/forms-pubs/about-publication-15",
+      "page_offset": 0,
+      "excerpts": [
+        {"section_path": "depositing-taxes", "label": "When to deposit, the lookback period, the monthly and semiweekly deposit schedules, the 100,000 dollar next-day deposit rule, accuracy of deposits and the deposit penalty tiers", "printed_pages": "31-38", "pdf_pages": [31, 38]}
+      ],
+      "backs": ["R4"]
+    },
+    {
+      "doc_id": "FORM-SS8",
+      "title": "Form SS-8 - Determination of Worker Status for Purposes of Federal Employment Taxes and Income Tax Withholding",
+      "doc_type": "form",
+      "kind": "pdf_pages",
+      "url": "https://www.irs.gov/pub/irs-pdf/fss8.pdf",
+      "cite_url": "https://www.irs.gov/forms-pubs/about-form-ss-8",
+      "page_offset": 0,
+      "excerpts": [
+        {"section_path": "form", "label": "The form itself, with the general information, behavioral control, financial control and relationship-of-the-parties parts", "printed_pages": "1-5", "pdf_pages": [1, 5]},
+        {"section_path": "instructions", "label": "The instructions, including who may file, the definition of a firm and a worker, and what the determination process does and does not decide", "printed_pages": "1-5", "pdf_pages": [1, 5], "url": "https://www.irs.gov/pub/irs-pdf/iss8.pdf", "source": "Instructions for Form SS-8"}
+      ],
+      "backs": ["R1"]
+    }
+  ],
+  "verification": {
+    "distractors": ["safe harbor", "employee", "substantially similar", "reasonable basis"],
+    "out_of_corpus": [
+      "hazardous waste",
+      "occupational safety",
+      "medical device",
+      "breach notification",
+      "hours of service",
+      "suspicious activity report",
+      "money laundering",
+      "GDPR",
+      "Sarbanes-Oxley",
+      "EMTALA",
+      "two midnights",
+      "employment eligibility verification",
+      "Fair Labor Standards",
+      "economic reality"
+    ],
+    "near_miss": ["statutory employee", "statutory nonemployee", "common-law", "lookback period"]
+  }
+}

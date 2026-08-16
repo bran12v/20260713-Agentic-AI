@@ -1,0 +1,1045 @@
+
+--- page 1 ---
+U.S. Department of Labor    Wage and Hour Division 
+Washington, D.C. 20210 
+ 
+ 
+ 
+FLSA2026-2 
+January 5, 2026 
+Dear Name*: 
+This letter responds to your request for an opinion concerning whether section 7(e) of the Fair 
+Labor Standards Act (FLSA or Act) permits your employer to exclude certain bonus payments 
+from the “regular rate of pay” and, if not, how it must include these payments in the calculation of 
+employee overtime premiums. 
+It is our opinion that, under the facts and circumstances set forth in your request, your employer 
+must include the bonus payments you describe in each employee’s regular rate of pay for every 
+workweek said bonuses are earned.  These payments do not qualify as discretionary bonuses 
+excluded by the Act from the regular rate, or fall within any other statutory exclusion.  Accordingly, 
+your employer must include these incentive bonus payments, in addition to each employee’s base 
+hourly wage, in the regular rate used to calculate overtime, as described below. 
+BACKGROUND 
+You represent that your employer operates in the waste management industry and pays its 
+employee drivers a rate of $12.00 per hour.  Based on the practices described, we presume that 
+your employer classifies its drivers as non-exempt and subject to the requirements of sections 6 
+and 7 of the Act, and, as a result, pays them at least the minimum wage for all hours worked and 
+overtime premiums for all hours worked over 40 in a workweek.1  In addition to this base hourly 
+wage and overtime premium, drivers can earn additional compensation pursuant to a “Safety, Job 
+Duties, and Performance” bonus plan.  Under this plan, an employee can earn supplemental 
+performance-based bonuses each pay period that, if earned, apply to all hours worked in that pay 
+period. 
+Your employer’s bonus plan uses detailed criteria and one or more formulas both to determine 
+whether a bonus is earned and to calculate the hourly bonus amount each employee earns.  The 
+plan rewards an employee’s punctuality, attendance, consistency in completing daily safety tasks, 
+ 
+1 You did not request—and so this letter does not provide—an opinion on whether these drivers qualify for 
+the overtime exemption in 29 U.S.C. § 213(b)(1) (exempting employees from overtime pay requirements 
+based on certain motor carrier activities conducted in interstate commerce). 
+--- page 2 ---
+2 
+ 
+driving safety, compliance with traffic laws, proper attire, and performance efficiency.2  The 
+maximum bonus amount is $9.50 per hour.  We assume the employees receive the bonus plan 
+information before performing the work. 
+Upon applying the bonus plan’s criteria, your employer pays the bonus described above, along 
+with the base hourly wages for each pay period.  Your employer does not, however, include the 
+bonus payments in each employee’s regular rate for purposes of calculating overtime premiums. 
+Instead, your employer calculates all overtime premiums owed using only each employee’s $12.00 
+base hourly rate. 
+GENERAL LEGAL PRINCIPLES 
+The FLSA requires that employers pay at least the federal minimum wage for all hours worked 
+and overtime pay “at a rate not less than one and one-half times the regular rate at which [the 
+employee] is employed” to all non-exempt employees for all hours worked over 40 hours in a 
+workweek.  29 U.S.C. §§ 206, 207(a)(1).  The “regular rate” includes “all remuneration for 
+employment paid to, or on behalf of, the employee,” with limited exceptions.  See id. § 207(e). 
+“[T]he rule for determining the regular rate of pay is to divide the wages actually paid by the hours 
+actually worked in any workweek[.]” Bay Ridge Operating Co. v. Aaron, 334 U.S. 446, 459–60 
+(1948); see also 29 C.F.R. § 778.109.  First, the employer must total the employee’s “straight-
+time” earnings actually paid for that workweek, all remuneration less any amounts excluded under 
+section 7(e).  Then, the employer must total all the hours actually worked in that same workweek. 
+Once the straight-time earnings and hours worked are ascertainable, “the determination of the 
+regular rate becomes a matter of mathematical computation[.]” Bay Ridge, 334 U.S. at 461 
+(citations and quotes omitted). 
+To calculate the regular rate, the employer must divide the total straight-time earnings by the total 
+hours worked in that same workweek.  Then, the employee’s overtime premium is calculated by 
+dividing the regular rate in half (yielding the “half-time” rate) and multiplying that amount by the 
+FLSA overtime hours worked to obtain the FLSA overtime premium pay due for the workweek.  
+See 29 C.F.R. § 778.110.  Of relevance to your request, section 7(e)(3) of the Act permits an 
+employer to exclude from the regular rate “[s]ums paid in recognition of services performed during 
+a given period” if “both the fact that payment is to be made and the amount of the payment are 
+determined at the sole discretion of the employer at or near the end of the period and not pursuant 
+to any prior contract, agreement, or promise causing the employee to expect such payments 
+ 
+2 The bonus plan criteria also provides for adjustments for the “[a]ctual cost of repair or replacement” if 
+there is “[v]ehicle or property damage” when determining whether or to what extent a bonus might be 
+earned.  There is no indication in the materials submitted that any bonus plan criteria ever reduces a driver’s 
+base hourly rate.  Business costs, however, cannot be passed along to an employee to the extent that doing 
+so (whether through payroll deduction or otherwise) results in an underpayment of the minimum wage or 
+an employee’s overtime premium pay.  See Brennan v. Veterans Cleaning Serv., Inc., 482 F.2d 1362, 1369–
+70 (5th Cir. 1973) (citing 29 C.F.R. § 531.35 and holding that the FLSA prohibits deductions from 
+employees’ pay to cover damages to a company vehicle to the extent such deductions reduce employee’s 
+pay below the minimum wage). 
+--- page 3 ---
+3 
+ 
+regularly[.]” 29 U.S.C. § 207(e)(3).  Such a payment is often termed a “discretionary” bonus.  See 
+29 C.F.R. § 778.211. 
+OPINION 
+Based on the specific facts described in your letter, the employer must include the bonus payments 
+in the regular rate of pay in any workweek for which they are earned, because such payments are 
+incentives and do not qualify as a discretionary bonus or meet any other section 7(e) exclusion. 
+Accordingly, the employer has failed to pay in full the overtime premium—i.e., the “half-time” 
+premium—to employees who received the safety, job duties, and performance bonus. 
+A. Additional incentive bonus payments must be included in the regular rate. 
+Section 7(e)(3) of the FLSA requires that three conditions be satisfied for a payment to qualify as 
+an excludable discretionary bonus: (1) the fact and amount of the payment must be “determined at 
+the sole discretion of the employer”; (2) the employer’s determination must occur “at or near the 
+end of the period” when the employee’s work was performed; and (3) the payment must not be 
+made “pursuant to any prior contract, agreement, or promise causing the employee to expect such 
+payments regularly[.]”  29 U.S.C. § 207(e)(3).  Here, the bonus payments are not discretionary 
+because, although the decision to offer the bonuses and on what terms was initially at the 
+employer’s discretion, the fact and amount of such payments are not made at the “sole discretion 
+of the employer at or near the end of the period” in which the work is performed.  Id.; 29 C.F.R. 
+§ 778.211(a).  Rather, the amount of the bonus is calculated using a predetermined plan to 
+incentivize certain work performance.  Thus, regardless of whether the plan used by the employer 
+to calculate any bonus payments constitutes a prior contract, agreement, or promise, the first two 
+statutory requirements of an excludable discretionary bonus are not satisfied. 
+The employer’s plan sets forth criteria such that, once met, the corresponding amount of the bonus 
+is quantifiable under the plan and earned by the eligible employee.  Thus, because the policy 
+automatically triggers the bonus upon meeting the criteria, the employer has effectively 
+“abandoned” its discretion with respect to the fact and amount of the payment.  See 29 C.F.R. 
+§ 778.211(b) (“If the employer promises in advance to pay a bonus, he has abandoned his 
+discretion with regard to it.”).  Moreover, although opinions may differ when deciding whether a 
+particular criterion is satisfied (e.g., whether a vehicle was returned in “clean” condition), such 
+differences do not change the non-discretionary nature of the payment because it is not subject to 
+the sole discretion of the employer—as eligibility for, and the amount of, the bonus are based on 
+terms predetermined before performance.  See 29 U.S.C. § 207(e)(3); 29 C.F.R. § 778.211(b) 
+(stating that abandonment of discretion as to “the amount of the bonus though not with regard to 
+the fact of payment,” results in a non-discretionary bonus); see also WHD Opinion Letter 
+FLSA2004-11 at 3 (Sept. 21, 2004) (explaining that where bonus “criteria [are] tied to productivity 
+in any way and [are] not at the sole discretion of the employer,” the resulting bonus is non-
+discretionary and must be included in the regular rate).  Accordingly, the incentive bonus 
+payments, as described, do not meet the criteria of a discretionary bonus under section 7(e)(3), nor 
+any other statutory exclusion from the regular rate.  As such, the payments must be included in the 
+employees’ regular rate used to calculate overtime premiums.  See 29 C.F.R. § 778.211(c); see 
+also id. § 778.208. 
+--- page 4 ---
+4 
+ 
+Moreover, because the bonus plan you describe is meant to induce employees to meet certain 
+performance metrics, and foreknowledge is a critical component of incentivizing employees to 
+perform, we assume that your employer communicates the requirements of this bonus to the 
+employees before any work is performed.  This foreknowledge further supports the bonus being 
+understood as a non-discretionary bonus that must be included in the regular rate of pay.  See 29 
+C.F.R. § 778.211(c) (“Bonuses which are announced to employees to induce them to work more 
+steadily or more rapidly or more efficiently . . . are regarded as part of the regular rate of pay.”). 
+B. Overtime premium pay should be calculated using one half of an employee’s regular 
+rate of pay for the relevant workweek. 
+Having established that the employer must include the bonus in the regular rate of pay, we turn to 
+how to calculate overtime premiums properly for the employees described in your request.  Here, 
+the employer calculates the hourly bonus such that, even though the amount is not ascertainable 
+until the completion of the pay period, the employer can allocate the bonus based on the hours 
+worked in each of the relevant workweeks and calculate any overtime premium pay due for each 
+separate workweek. 
+Your letter describes an employee who works 50 hours in a workweek, is paid a base hourly wage 
+of $12.00, and also receives $9.50 per hour in bonuses ($1.50 for efficiency and $8.00 for 
+safety/performance) for all hours worked.  This results in a regular rate of $21.50 per hour. You 
+correctly concluded that the employee was due $21.50 for all hours worked up to 40 and $32.25 
+(1.5 × $21.50) for each overtime hour. 
+You state: “By excluding these bonuses, the company pays overtime at $18.00 ($12.00 × 1.5), 
+resulting in a shortfall of $14.25 per overtime hour ($32.25 - $18.00)[.]”  However, this calculation 
+overlooks that, in your hypothetical, the employee received the $9.50 bonus for all 50 hours 
+worked, including each of the 10 overtime hours, in addition to the $12.00 wage.  The employer 
+actually paid $27.50 for each overtime hour: $21.50 in straight-time earnings plus a $6.00 
+premium.  Thus, the correct overtime shortfall is $4.75 per hour, not $14.25. 
+By way of another example: 
+James earns a base hourly rate of $12.00 per hour and works a total of 50 hours in a workweek 
+in which, based on the predetermined incentive terms, the employer pays an additional $5.60 per 
+hour for all hours worked as a non-discretionary bonus.  His total straight-time earnings are 
+$880.00 ((50 hours × $12.00) + (50 hours × $5.60)).3  His regular rate for the workweek is 
+therefore $17.60 ($880.00 ÷ 50 hours) and the half-time rate is $8.80 ($17.60 × 0.5).  Thus, he is 
+entitled to an additional $8.80 per hour for each overtime hour worked for a total overtime 
+premium of $88.00 ($8.80 × 10 overtime hours), increasing his total wages to $968.00 ($880.00 
+(straight-time earnings for all hours worked) + $88.00 (half-time due for all hours worked over 
+40 per workweek)). 
+Notably, employers may structure bonuses to require employees to meet certain conditions, 
+including adherence to safety protocols, codes of conduct, or performance targets, consistent with 
+ 
+3 Alternatively, an employer would reach the same result if it structured this equation for hourly-based pay 
+components using the distributive property: 50 hours × ($12.00 + $5.60) = $880.00. 
+--- page 5 ---
+5 
+ 
+the requirements of the FLSA. Such bonus plans may rely on a variety of factors or criteria such 
+that the amount of an employee’s bonus ultimately earned may vary from workweek to workweek.  
+But if a bonus plan neither satisfies the requirements of 29 U.S.C. § 207(e)(3), nor fits within 
+another statutory exclusion, any bonus payment made must be included in the employee’s regular 
+rate for overtime purposes.  Employers must heed to these core principles, imbued throughout the 
+Act, when structuring pay components to achieve business objectives in a legally compliant 
+manner. 
+This letter is an official interpretation of the governing statutes and regulations by the 
+Administrator of the Wage and Hour Division of the United States Department of Labor for 
+purposes of the Portal-to-Portal Act.  See 29 U.S.C. § 259.  This interpretation may be relied upon 
+in accordance with section 10 of the Portal-to-Portal Act, notwithstanding that after any such act 
+or omission in the course of such reliance, the interpretation is “modified or rescinded or is 
+determined by judicial authority to be invalid or of no legal effect.”  Id. 
+We trust that this letter is responsive to your inquiry. 
+Sincerely, 
+Andrew B. Rogers 
+Administrator 
+*Note: The actual name(s) was removed to protect privacy in accordance with 5 U.S.C. 
+§ 552(b)(6).  You represent that you do not seek this opinion for any party that the Wage and Hour 
+Division (WHD) is currently investigating or for any litigation that commenced prior to your 
+request.  This opinion is based exclusively on the facts and circumstances described in your request 
+and is given based on your representation, express or implied, that you have provided a full and 
+fair description of all the facts and circumstances that would be pertinent to our consideration of 
+the question presented.  The existence of any other factual or historical background not contained 
+in your letter might require a conclusion different from the one expressed herein. 
+
+--- page 6 ---
+U.S. Department of Labor Wage and Hour Division 
+Washington, DC 20210 
+ 
+ 
+ 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+ 
+September 30, 2025 
+Dear Name*: 
+This letter responds to your request for an opinion addressing whether “emergency pay” provided 
+to you and other firefighters in your city can be excluded from the  regular rate of pay when 
+calculating overtime premiums under section 7(e) of the Fair Labor Standards Act (FLSA)  or, 
+alternatively, how to include this payment in the regular rate.  
+It is our opinion that, under the circumstances presented and limited to the specific facts set forth 
+in the request, the “emergency pay” is not excludable from the regular rate of pay because the fact 
+and amount of the payment are not within the sole discretion of the employer at or near the end of 
+the work period, and the pay does not otherwise fit within a statutory exclusion. Accordingly, the 
+employer at issue should include “emergency pay” earned for hours worked within the regular rate 
+for purposes of overtime premium calculations using the method described below.  
+This opinion is based exclusively on the facts as presented below that you provided to the 
+Department and may not apply to different facts in this or other situations. 
+BACKGROUND 
+You describe yourself as a f irefighter/paramedic employed by a city government in Texas. The 
+city has a written policy for emergency pay through which—in relevant part —firefighters and 
+certain other non-exempt employees are paid a premium payment of one half the employee’s 
+regular hourly rate of pay, which we assume means an employee’s base or usual hourly rate, for 
+every hour worked during an “emergency period.” The city’s policy defines emergency periods as 
+periods when, due to a  disaster or emergency  declaration as defined by the city , only some 
+“designated emergency employees” must work.  You state that although employee job duties 
+“substantially remain the same” during certain emergency pay periods, “the extreme weather 
+environment makes those duties more likely to cause physical hardship” for firefighters. 
+You assert that the emergency pay at issue  should be included in the regular rate of pay used to 
+calculate employee overtime premiums on the basis that it does not fall within any of the statutory 
+exclusions from the regular rate provided in section 7(e) of the FLSA. See  29 U.S.C. § 207( e). 
+Additionally, you assert that, as to firefighters specifically, the emergency pay constitutes “hazard 
+pay,” which, in your understanding, should be included in the regular rate.  
+GENERAL LEGAL PRINCIPLES 
+The FLSA requires payment “at a rate not less than one and one-half times the regular rate at which 
+[the employee] is employed” to all non- exempt employees for all hours worked over 40 hours in 
+a workweek. 29 U.S.C. § 207(a)(1).  The “regular rate”  must include “all remuneration for 
+employment paid to, or on behalf of, the employee,” and must reflect all payments earned during 
+the workweek, exclusive of overtime payments. Id. at § 207(e); Bay Ridge Operating Co. v. Aaron, 
+FLSA2025-04 
+--- page 7 ---
+ 
+ 
+2 
+ 
+334 U.S. 446, 461 (1948); see also Madison v. Res. for Human Dev., Inc., 233 F.3d 175, 187 (3d 
+Cir. 2000) (“[T]here is a statutory presumption . . . that remuneration in any form is included in 
+the regular rate calculation.”). 
+The regular rate is subject to eight statutory exclusions  provided in section 7(e) of the FLSA . 29 
+U.S.C. § 207(e). Relevant to this letter , section 7(e)(3) permits an employer to exclude from the 
+regular rate “sums paid in recognition of services performed during a given period” if “both the 
+fact that payment is to be made and the amount of the payment are determined at the sole discretion 
+of the employer at or near the end of the period a nd not made pursuant to any prior contract, 
+agreement, or promise causing the employee to expect such payments regularly.” Id . at 
+§ 207(e)(3); see also 29 CFR 778.211. Such a payment is often termed a “discretionary bonus.” 
+Additionally, sections 7(e)(5), (6), and (7) of the FLSA provide that c ertain premium payments 
+made by employers for work in excess or outside of specified daily or weekly periods or on certain 
+special days are regarded as overtime premiums  which may be excluded from an employee’s 
+regular rate of pay. See 29 U.S.C. § 207(e)(5)–(7).  However, “extra compensation provided by 
+premium rates other than those described in the statute ,” such as “nightshift differentials” a nd 
+“premiums paid for hazardous, arduous [,] or dirty work,”  “cannot be treated as overtime 
+premiums.” 29 CFR 778.207. When such premiums are paid, they must be included in a non-
+exempt employee’s regular rate of pay. Id. 
+OPINION 
+Based on the specific facts described in your letter, the emergency pay at issue does not qualify as 
+a discretionary bonus that may be excluded from an employee’s regular rate of pay. The emergency 
+pay also does not fall under any other exclusion from the regular rate of pay under section 7(e) of 
+the FLSA. Accordingly, under the facts you provided, in workweeks when the city pays emergency 
+pay, the emergency pay must be include d when determining the regular rate of pay  used to 
+calculate employee overtime premiums. 
+The FLSA requires that three conditions be satisfied for a payment to qualify as an excludable  
+discretionary bonus : (1) the fact and amount of the payment must be “determined at the sole 
+discretion of the employer” ; (2) the employer’s determination must occur “at or near the end of 
+the period” when the employee’s work was performed;  and (3) the payment must not be made 
+pursuant to “any prior contract, agreement, or promise” causing employees to expect such 
+payments regularly. 29 U.S.C. § 207(e)(3).  Here, regardless of whether the city’s policy would 
+constitute a prior contract, agreement, or promise, the first two conditions are not satisfied. 
+Although the existence and terms of when emergency pay is available may be at the employer’s 
+discretion, the emergency pay at issue is not “determined at the sole discretion of the employer” 
+once the employee has performed the work under those terms . Specifically, the policy leaves no 
+discretion as to whether to provide emergency pay during an emergency period when  emergency 
+work is performed, nor does it leave discretion regarding the amount of the payment as the amount 
+is set at one half of the employee’s base hourly rate of pay. Moreover, the fact and amount of the 
+emergency pay are determined well before the emergency work is performed —further evidence 
+that the payment is non-discretionary in nature. Id. Accordingly, the emergency pay, as described, 
+does not meet the criteria of a discretionary bonus under section 7(e)(3). 
+--- page 8 ---
+ 
+ 
+3 
+ 
+Similarly, the emergency pay under the specific facts described in your letter also does not qualify 
+as an excludable overtime premium under sections 7(e)(5), (6), or (7) for the following reasons: 
+• The emergency pay is not excludable under section 7(e)(5) because it is not contingent 
+upon the employee working in excess of  any particular amount of hours, i.e. , working 
+beyond 8 hours in a day , 40 hours in a workweek, or the employee’s “normal working 
+hours or regular working hours.” 29 U.S.C. § 207(e)(5). 
+• The emergency pay is not excludable under section 7(e) (6) because it is not contingent 
+upon the work being performed “on Saturdays, Sundays, holidays, or regular days of rest, 
+or on the sixth or seventh day of the workweek.” 29 U.S.C. § 207(e)(6). The emergency 
+periods described in the city’s policy may or may not fall on such “special days,” and, 
+importantly, the emergency pay is not limited to or paid because of such days. 
+• The emergency pay is not excludable under section 7(e)(7) because, regardless of whether 
+the city’s policy would constitute an employment contract, the pay is not contingent upon 
+the work being performed outside “ the basic, normal, or regular workday … [or] 
+workweek” of the employee. 29 U.S.C. § 207(e)(7). 
+Rather, based upon your representations, we agree with you that the emergency pay does not 
+qualify as an excludable overtime premium. As such, the emergency pay should be included in the 
+regular rate of pay used to calculate overtime premiums for any non-exempt city employees who 
+receive such pay.  
+To determine the FLSA’s overtime premium pay, the employer first must calculate the employee’s 
+regular rate. The regular rate is calculated on a workweek -by-workweek basis.
+0F
+1 “The rule for 
+determining the regular rate of pay is to divide the wages actually  paid by the hours actually  
+worked in any workweek”. Bay Ridge Operating Co., 334 U.S. at 460– 61; see also Overnight 
+Motor Transp. Co. v. Missel , 316 U.S. 572, 580 (1942) (“Wage divided by hours equals regular 
+rate”).1F
+2 
+First, the employer must total the  employee’s “straight-time” earnings (except section 7(e) 
+statutory exclusions) actually paid for that workweek. Then, the employer must total all the hours 
+actually worked in that same workweek. Once the straight-time earnings and hours worked are  
+ascertainable, “the determination of the regular rate becomes a matter of mathematical 
+computation”. Bay Ridge Operating Co., 334 U.S. at 461 (citations and quotes omitted ). To 
+calculate the regular rate, t he employer must divide the total straight-time earnings by the total 
+hours worked. Finally, to obtain the overtime premium owed for that workweek, the employer 
+ 
+1 Section 7(k) of the FLSA provides a partial overtime exemption for any employee of a public agency engaged in fire 
+protection activities or any employee engaged in law enforcement activities. See 29 U.S.C. 207(k). Under this 
+provision, whether overtime pay  is owed may be determined based on a “work period” of 7 to 28 consecutive days. 
+Section 7(k) impacts the determination of wh ether overtime pay is due and therefore does not impact this opinion 
+letter—which concerns how to calculate the regular rate when overtime pay is due.  
+2 You asked whether overtime could be determined in accordance with 29 CFR 778.115. The regular rate computation 
+as described here, and in the example provided below, are first principles. The provision at 29 CFR 778.115, on the 
+other hand, is an illustration that would produce the same result.  
+--- page 9 ---
+ 
+ 
+4 
+ 
+must divide the regular rate in half  and multiply that amount, per hour, by all overtime hours 
+worked. 
+ By way of example:  
+John earns a base hourly rate of $20.00 per hour and works a total of 50 hours in a 
+workweek, 20 hours of which are during emergency pay hours  for which he 
+receives a premium of one-half his base hourly rate. His total straight-time earnings 
+would be (50 hours × $20) + (20 hours × $20 × 0.5) = $1,200. His regular rate for 
+the workweek would therefore be ($1,200 ÷ 50 hours) = $24.00. Thus, he would be 
+entitled to an additional $12 for each overtime hour worked ($24 × 0.5), for a total 
+of $120 ($12 × 10 overtime hours), and a grand total of $1,320. 
+Finally, you asked whether, as to firefighters , the emergency pay would qualify as “hazard pay”  
+given that firefighters’ work during emergency periods is “more likely to cause physical hardship.” 
+The Department need not address this question because it is unnecessary to determining  whether 
+the “emergency pay” is included in the regular rate. 
+We trust that this letter is responsive to your inquiry. 
+Sincerely, 
+ 
+James R. Macy 
+Acting Administrator 
+*Note: The actual name(s) was removed to protect privacy in accordance with 5 U.S.C. 
+§ 552(b)(6).  You represent that you do not seek this opinion for any party that the Wage and Hour 
+Division (WHD) is currently investigating or for any litigation that commenced prior to your 
+request. This opinion is based exclusively on the facts and circumstances described in your request 
+and is given based on your representation, express or implied, that you have provided a full and 
+fair description of all the facts and circumstances that would be pe rtinent to our consideration of 
+the question presented. The existence of any other factual or historical background not contained 
+in your letter might require a conclusion different from the one expressed herein. This is an official 
+ruling for purposes of the Portal-to-Portal Act, 29 U.S.C. § 259. 
+
+--- page 10 ---
+U.S.  Department of Labor Wage and Hour Division 
+Washington, D.C. 20210 
+FLSA2026-1 
+January 5, 2026 
+Dear Name*: 
+This letter responds to your request for an opinion regarding your reclassification from exempt to 
+non-exempt status despite your belief that you continue to satisfy the educational and job duties 
+criteria of an exempt “learned professional” under section 13(a)(1) of the Fair Labor Standards Act 
+(FLSA or Act). 
+It is our opinion that, under the circumstances presented, the discontinuation of supervisory 
+responsibilities would not preclude your classification as an exempt learned professional, although 
+your change from being paid on a salary basis to being paid on an hourly basis would likely defeat 
+the exemption.  Moreover, even if you do meet the tests for the learned professional exemption, 
+your employer may nonetheless choose to classify you as non-exempt. 
+BACKGROUND 
+You represent that you are employed as a Licensed Clinical Social Worker (LCSW) for a healthcare 
+organization. Since receiving your professional license in 2018, you state that your employer has 
+classified you as a “salaried (exempt)” employee. 1  You assert that your core job duties include: 
+clinical assessments and psychosocial evaluations ; treatment planning and documentation; 
+participation in interdisciplinary care teams; crisis intervention and discharge planning; and 
+consistent application of professional discretion and judgment in clinical decisions.  In 2020, you 
+became a supervisor and assumed supervisory responsibilities. 
+You state that your employer has recently undergone an internal restructuring and advised that you 
+would be reclassified to “hourly (non-exempt),” and that your supervisory role will be 
+discontinued.  Consequently, you state that your employer has decided to reclassify your position 
+from exempt to non-exempt on the basis that you are no longer a supervisor.  You assert that your 
+role continues to be clinical and aligned with the FLSA’s exemption for learned professionals, as 
+defined in 29 C.F.R. § 541.301.  Although you have not provided any information on the academic 
+prerequisites for your position, you state that you are a LCSW in the state of Utah, which we note 
+requires a master’s or doctoral degree in social work to qualify for professional licensure.  See 
+Utah Code Ann. § 58-60-205(1)(c). 
+1 Although employees and employers often use the terms “salaried” and “exempt” interchangeably, they are 
+not synonyms. Payment on a salary basis alone does not make an employee exempt from the minimum 
+wage or overtime provisions of the Act; an employee also generally must meet a salary level test and meet 
+various duty requirements.  Indeed, while the FLSA ’s exemption for learned professional employees 
+generally requires that exempt employees receive a salary, not all exemptions do.  Moreover, the Act does 
+not prohibit paying non-exempt employees a salary, as long as the proper overtime premium is also paid. 
+--- page 11 ---
+2 
+You have asked the Division to address whether your role meets the criteria for the FLSA’s learned 
+professional exemption and, if so, whether your employer is nevertheless permitted to pay you on 
+an hourly basis and reclassify you as a non-exempt employee. 
+GENERAL LEGAL PRINCIPLES 
+The FLSA generally requires covered employers to pay employees at least the federal minimum 
+wage (currently $7.25 an  hour) for all  hours worked and overtime premium pay of at least one-
+half times the employee’s regular rate of pay for all hours worked over 40 in a workweek.  See 29 
+U.S.C. §§ 206(a), 207(a).  These  wage and hour requirements are minimum standards, a federal 
+floor, and the Act does not prohibit an employer from paying more than the federal minimum wage 
+or establishing a more generous policy for overtime pay.  See 29 U.S.C. § 218(a). 
+The Act includes numerous exemptions from its wage and hour requirements. Of relevance to your 
+request, section  13(a)(1) of the  FLSA provides an exemption from  both minimum wage and 
+overtime pay requirements for any employee employed in a “bona fide executive, administrative, 
+or professional capacity.”  29 U.S.C. § 213(a)(1).  Regulations which define and delimit  these 
+exemptions are set forth at  29 C.F.R. Part 541, including compensation and duties criteria for 
+exempt “learned professionals” in Subparts D and G. 
+The learned professional exemption requires that the employee’s “primary duty” must involve the 
+performance of “work requiring advanced knowledge” “in a field of science or learning” which is 
+“customarily acquired by a prolonged course of specialized intellectual instruction.”  29 C.F.R. 
+§ 541.301(a).  By contrast, the “executive employee” exemption applies to those who customarily 
+and regularly direct the work of two or more other full-time employees or their equivalent, among 
+other requirements.  See 29 C.F.R. §§ 541.100, 541.104.
+OPINION 
+Based on the  facts provided in your letter, it  is likely that  your primary  duty necessitates the 
+requisite advanced knowledge and academic requirements to qualify you as an exempt learned 
+professional. 29 U.S.C. § 213(a)(1).   WHD has previously explained that  “Social Workers with 
+master’s degrees who work in the field of their degree[] will generally meet” the duties 
+requirements for exemption, WHD Opinion Letter FLSA2005-50 (Nov. 4, 2005), and we assume, 
+based on licensing requirements for LCSWs in your state  (Utah), that your professional license 
+similarly requires that you hold at least a master’s degree in a relevant field. Cf. Solis v. Washington, 
+656 F.3d 1079, 1088 (9th Cir. 2011) (holding that   “[a]n educational  requirement that may be 
+satisfied by [bachelor’s] degrees in fields as diverse as anthropology, education, criminal justice, 
+and gerontology”  was not “sufficiently specialized and  relate[d] directly”  to the  social work 
+positions at issue for purposes of the learned professional exemption).  Notably, the possession of 
+a professional license and master’s degree does not alone establish that you are an exempt learned 
+professional; additionally, as part of your primary  duty, you must  perform work requiring that 
+advanced knowledge.  See 29 C.F.R. § 541.301(a)(1), (b).  It appears from the description of your 
+core job duties— e.g., making clinical  assessments and psychosocial evaluations, planning 
+treatments, participating in interdisciplinary care  teams, among others—that  you are performing 
+work which requires your advanced knowledge “in a field of science or learning.” 
+--- page 12 ---
+3 
+However, for the learned professional exemption to apply, an employee must additionally meet the 
+compensation requirements. See 29 C.F.R. §§ 541.300(a); 541.600; 541.602.  Based on your letter, 
+we have assumed that your prior pay structure met the compensation requirements set forth in 
+detail at 29 C.F.R. §§ 541.600 and 541.602. 2  But if, as your letter suggests, your compensation 
+has changed to hourly, you would likely no longer meet the compensation criteria, and would no 
+longer qualify for the exemption, even if your duties remain the same.  Your letter does not contain 
+enough information about your compensation to determine whether these requirements are met. 3 
+Ultimately, even if all the criteria for an FLSA exemption are met, it is the employer—not the 
+employee—that claims the exemption.  In other words, the Act does not require an employer to 
+classify as exempt an employee who meets the requirements of an exemption.  Rather, employers 
+have the discretion to classify such employees as non-exempt as long as they pay at least the federal 
+minimum wage for all hours worked and the overtime premium for work in excess of 40 hours in 
+a workweek.  Employers may decide not to classify any qualified employees as exempt or only a 
+subset of employees (including managers, particular grades or compensation levels, corporate 
+office location, and others).  Please note that, although non-exempt employees are subject to 
+certain recordkeeping requirements which do not apply to exempt individuals employed in an 
+executive, administrative, or professional capacity, see 29 C.F.R. § 516.3, an employer may decide 
+to provide its non-exempt employees with pay structures, employment benefits, and scheduling 
+flexibility similar to those it provides to its exempt employees. 
+Finally, you also ask whether your employer is permitted to reclassify an exempt employee as non-
+exempt solely due to a change in organizational structure.  The FLSA only prohibits the 
+misclassification of a non-exempt employee as an exempt one.  Thus, employers can and do make 
+lawful business decisions to not apply an exemption.  There is no indication based on the facts 
+provided that this action violates the Act, assuming that your wages were calculated properly for 
+the workweek in which the transition occurred.  Although your employer retains the prerogative 
+to classify you as a non-exempt employee, the analysis above may help you in discussing the 
+nature and terms of your employment with your employer. 
+This letter is an official interpretation of the governing statutes and regulations by the 
+Administrator of the Wage and Hour Division of the United States Department of Labor for 
+purposes of the Portal-to-Portal Act.  See 29 U.S.C. § 259.  This interpretation may be relied upon 
+in accordance with section 10 of the Portal-to-Portal Act, notwithstanding that after any such act 
+or omission in the course of such reliance, the interpretation is “modified or rescinded or is 
+determined by judicial authority to be invalid or of no legal effect.”  Id. 
+2 Please note that due to ongoing litigation concerning an update to the salary level test issued in 2024 that 
+was subsequently vacated, see Texas & Plano Chamber of Commerce v. U.S. Dep’ t of Labor, 756 F. Supp. 
+3d 361 (E.D. Tex. 2024), the Department is currently enforcing a $684 per week salary level requirement. 
+3 To satisfy the  learned professional  exemption, an employer  must pay the  employee at or above the 
+regulatory threshold (referenced above) on a “salary basis,” defined at 29 C.F.R. § 541.602, a “fee basis,” 
+defined at  29 C. F.R. § 541.605, or  a time-based rate that includes a minimum guarantee that bears a 
+reasonable relationship (e.g., a ratio of 1.5-to-1 or less) to the employee’s usual time-based earnings. See 
+29 C.F.R. § 541.604(b); WHD Opinion Letter FLSA2018-25 (Nov. 8, 2018) (stating that a ratio of 1.8-
+to-1 is impermissible). 
+--- page 13 ---
+4 
+We trust that this letter is responsive to your inquiry. 
+Sincerely, 
+Andrew B. Rogers 
+Administrator 
+*Note: The actual name(s) was removed to protect privacy in accordance with 5 U.S.C.
+§ 552(b)(6).  You represent that you do not seek this opinion for any party that the Wage and Hour
+Division (WHD) is currently investigating or for any litigation that commenced prior to your
+request.  This opinion is based exclusively on the facts and circumstances described in your request
+and is given based on your representation, express or implied, that you have provided a full and
+fair description of all the facts and circumstances that would be pertinent to our consideration of
+the question presented.  The existence of any other factual or historical background not contained
+in your letter might require a conclusion different from the one expressed herein.
+
+--- page 14 ---
+U.S.  Department of Labor    Wage and Hour Division 
+  Washington, D.C.  20210 
+ 
+ 
+ 
+FLSA2026-5 
+May 28, 2026 
+Dear Name*: 
+This letter responds to your request for an opinion regarding whether an employee exempt pursuant 
+to section 13(a)(1) of the Fair Labor Standards Act (FLSA or Act) can perform additional work in 
+a secondary, non-exempt role at an hourly rate, and if so, what, if any overtime implications arise. 
+It is our opinion that, under the circumstances presented, the performance of additional non-exempt 
+work at an hourly rate is insufficient to alter the employee’s exempt status under the FLSA as long 
+as the employee’s primary duty remains the performance of exempt work and the salary 
+requirements continue to be met.  As such, this arrangement does not intrinsically present overtime 
+implications. 
+BACKGROUND 
+You represent that you are employed by an organization that is an academic medical center and 
+operates as a non-profit acute care hospital.  This hospital employs staff in various capacities, 
+including in “Staff Nurse” and “Nursing Professional Development Specialist” (Specialist) 
+positions. 
+The main functions of a Staff Nurse include formulating clinical decisions for patients utilizing a 
+multi-dimensional plan of care with the nursing process, demonstrating respect for patient rights 
+and privacy, serving as an advocate, assisting in orientation of new employees, and delegating 
+tasks to other personnel.  The main functions of a Specialist include identifying gaps in learning 
+opportunities, designing educational programs, onboarding new staff, advancing the professional 
+development of all staff, and conducting ongoing competency processes.  The Specialist might 
+perform the same interventions as a Staff Nurse, including educating and assisting the latter, but a 
+Specialist does not replace the Staff Nurse as a patient’s primary nurse.  Nevertheless, a Specialist 
+exercises significant autonomy and applies judgment on when and where to provide support to 
+Staff Nurses. 
+You indicate that the employer pays Staff Nurses on an hourly basis, plus additional compensation 
+in the form of night and weekend differentials and bonuses for picking up shifts.  The employer 
+classifies Staff Nurses as non-exempt and, as such, these employees are eligible for overtime 
+compensation.  In contrast, the employer classifies Specialists as exempt from minimum wage and 
+overtime compensation; pays them a salary, currently approximately $4,000 per bi-weekly pay 
+period; and affords no additional compensation for hours worked over 40 in a workweek in the 
+Specialist role.  You explain that Specialists may, and often do, pick up shifts in the Staff Nurse 
+role.  Specialists typically pick up one, and occasionally two, 12-hour shifts as Staff Nurses per 
+week on weekends in addition to their approximately 40 hours worked Monday through Friday in 
+the Specialist role.  Thus, these shifts typically make up about 23 percent, and occasionally about 
+38 percent, of the Specialists’ total hours worked per week.  Based on information you provided, 
+--- page 15 ---
+ 
+ 
+2 
+the employer pays Specialists an hourly rate for such additional work, and the hourly rate is 
+approximately equivalent to the Specialist’s guaranteed weekly salary divided by 40 hours. 
+You ask whether an employer can employ an individual in both an exempt capacity (i.e., a 
+Specialist) and non-exempt capacity (i.e., Staff Nurse).  You also ask what overtime implications 
+may arise if an individual is employed in both exempt and non-exempt roles. 
+GENERAL LEGAL PRINCIPLES 
+A. The Act  
+The FLSA generally requires covered employers to pay employees at least the federal minimum 
+wage ($7.25 an hour) for all hours worked and overtime at a rate of not less than one and one-half 
+times the employee’s regular rate of pay for all hours worked over 40 in a workweek.  See 29 
+U.S.C. §§ 206(a), 207(a).  These wage and hour requirements are minimum standards, and the Act 
+does not prohibit an employer from establishing more generous terms.  See 29 U.S.C. § 218(a). 
+The FLSA includes several exemptions from its wage and hour requirements, including section 
+13(a)(1),1 which exempts from both the minimum wage and overtime requirements any employee 
+employed in a “bona fide executive, administrative, or professional capacity.”  29 U.S.C. 
+§ 213(a)(1).  When construing or applying the Act, the Division must give the text a “fair … 
+interpretation.”  Encino Motorcars, LLC v. Navarro, 584 U.S. 79, 88–89 (2018) (cleaned up); see 
+also CTS Corp. v. Waldburger, 573 U.S. 1, 12 (2014); WHD Op. Ltr. FLSA2026-4 (Jan. 5, 2026); 
+WHD Op. Ltr. FLSA2021-3 (Jan. 15, 2021).  Accordingly, WHD applies a “fair reading” standard 
+to all FLSA provisions, including the section 13(a)(1) exemption.  A fair reading is “neither narrow 
+nor broad,” Dep’t of Lab. v. Bristol Excavating, Inc., 935 F.3d 122, 135 (3d Cir. 2019), and requires 
+the Division to “interpret each FLSA exemption the same way [it] would any other statutory 
+provision—with full attention to its text.”  Munoz-Gonzalez v. D.L.C. Limousine Serv., 904 F.3d 
+208, 216 (2d Cir. 2018). 
+B. Requirements of the Section 13(a)(1) Exemption 
+Though the section 13(a)(1) exemption from both minimum wage and overtime pay requirements 
+can be claimed2 for any employee employed in a “bona fide executive, administrative, or 
+professional capacity[,]” the FLSA does not define the terms “executive,” “administrative,” or 
+“professional.”  Rather, the Act directs the Secretary of Labor to define and delimit those terms.  
+Pursuant to explicit rulemaking authority, the Secretary, through the Administrator of the Wage 
+and Hour Division, has issued regulations to define and delimit the section 13(a)(1) exemption, 
+including compensation and duties criteria, since 1938.  See 29 U.S.C. § 213(a)(1); 29 C.F.R. Part 
+541; see also 3 Fed. Reg. 2518 (Oct. 20, 1938); Secretary’s Order 01-2014 (Dec. 19, 2024), 79 
+Fed. Reg. 77527 (Dec. 24, 2014).ௗ 
+ 
+1 See section 13, subsection (a), paragraph (1) of the FLSA. 
+2 See WHD Op. Ltr. FLSA2026-1 (Jan. 5, 2026) (explaining that even if all criteria for an FLSA exemption 
+are met, it is the employer—not the employee—that claims the exemption). 
+--- page 16 ---
+ 
+ 
+3 
+1. Primary Duty 
+As explained in the regulations, for the section 13(a)(1) exemption to apply, an employee’s 
+“primary duty” must be the performance of exempt work.  See 29 C.F.R. §§ 541.700, 541.702.  
+The phrase “primary duty” means: 
+[The] principal, main, major or most important duty that the employee performs.  
+Determination of an employee’s primary duty must be based on all the facts in a 
+particular case, with the major emphasis on the character of the employee’s job as 
+a whole.  Factors to consider when determining the primary duty of an employee 
+include, but are not limited to, the relative importance of the exempt duties as 
+compared with other types of duties; the amount of time spent performing exempt 
+work; the employee’s relative freedom from direct supervision; and the relationship 
+between the employee’s salary and the wages paid to other employees for the kind 
+of non-exempt work performed by the employee. 
+29 C.F.R. § 541.700(a). 
+The regulation further provides that “the amount of time spent performing exempt work can be a 
+useful guide in determining whether exempt work is the primary duty of an employee,” and thus, 
+an employee who spends more than 50 percent of his time performing qualifying exempt work 
+will generally satisfy the primary duty requirement.  Id. § 541.700(b).  However, the regulation 
+sets forth a more qualitative analysis, and thus, an employee’s status cannot necessarily be inferred 
+solely from time spent.  See id. (“Employees who do not spend more than 50 percent of their time 
+performing exempt duties may nonetheless meet the primary duty requirement if the other factors 
+support such a conclusion”).3  Accordingly, for an employee to qualify for the exemption, “there 
+is no strict percentage limitation on the performance of non-exempt work” as long as the 
+employee’s primary duty remains the performance of exempt work.  69 Fed. Reg. 22122, 22137 
+(Apr. 23, 2004).   
+2. Salary Basis and Level 
+In addition to the duties requirements, to qualify as exempt under section 13(a)(1), an employee 
+must be compensated on a salary basis at a rate equaling or exceeding the level specified in the 
+regulations.  29 C.F.R. § 541.602(a); see generally 29 C.F.R. Part 541, Subpart G.4  The salary 
+basis requirement is met “if the employee regularly receives each pay period . . . a predetermined 
+amount constituting all or part of the employee’s compensation, which amount is not subject to 
+reduction because of variations in the quality or quantity of the work performed.”  29 C.F.R. 
+§ 541.602(a).  With limited exceptions, “an exempt employee must receive the full salary for any 
+ 
+3 See also 29 C.F.R. § 541.700(a) (“Factors to consider when determining the primary duty of an employee 
+include, but are not limited to, the relative importance of the exempt duties as compared with other types 
+of duties; the amount of time spent performing exempt work; the employee’s relative freedom from direct 
+supervision; and the relationship between the employee’s salary and the wages paid to other employees for 
+the kind of nonexempt work performed by the employee.”). 
+4 The minimum salary level is $684 per week.  See 29 C.F.R. § 541.600 (2020); see also 91 Fed. Reg. 
+27833–27837. 
+--- page 17 ---
+ 
+ 
+4 
+week in which the employee performs any work without regard to the number of days or hours 
+worked.”  Id.  Nevertheless, as discussed at length below, a salaried employee may receive 
+additional compensation in most circumstances without losing the exemption, if the employee is 
+guaranteed at least the minimum weekly-required amount paid on a salary basis.  29 C.F.R. 
+§ 541.604(a). 
+OPINION 
+Based on your representations and for present purposes, we assume that an employee working at 
+the hospital solely as a Specialist would meet all the applicable duties, salary level, and salary basis 
+requirements for an exempt employee pursuant to section 13(a)(1) of the FLSA and 29 C.F.R. Part 
+541.5  Likewise, we also assume an employee working at the hospital solely as a Staff Nurse would 
+not meet any of the requirements for a section 13(a)(1) exemption and, therefore, would be non-
+exempt.6  We turn now to your question regarding the overtime implications if an otherwise-
+exempt Specialist performs additional, non-exempt work on an hourly basis. 
+A. Primary Duty Analysis 
+As explained above, if an employee performs work in both exempt (e.g., Specialist) and non-
+exempt (e.g., Staff Nurse) roles in the same workweek, the employee meets the duties requirements 
+for an exemption if the employee’s primary duty remains the performance of exempt work as 
+defined in Part 541. 
+Based on the circumstances you describe, when an otherwise-exempt Specialist picks up one or 
+occasionally two shifts per week in the Staff Nurse role, the employee’s primary duty remains the 
+performance of qualifying exempt Specialist work.  In particular, the substantial majority of the 
+employee’s time (i.e., approximately 40 hours per workweek) is spent in the Specialist role, a 
+factor that generally satisfies the primary duty requirement.  29 C.F.R. § 541.700.  The fact that 
+the Specialist only picks up one or two 12-hour Staff Nurse shifts per week on weekends as a 
+supplement to his work as a Specialist lends further support to our conclusion that the Specialist 
+role remains the primary duty.   
+The main functions of the Specialist role, such as identifying gaps in learning opportunities, 
+designing professional educational programs, and conducting ongoing competency processes, 
+among others—as well as possessing and, more important, exercising the autonomy, flexibility, 
+and discretion required to perform these functions—are also factors indicating that the Specialist 
+would continue to satisfy the primary duty requirement.  This is so even though, while providing 
+educational support to staff, the Specialist may perform some of the same tasks (e.g., patient 
+interventions) as a Staff Nurse.  See 29 C.F.R. § 541.703 (recognizing that exempt work might 
+include otherwise non-exempt activities when the employee is performing them because they are 
+“directly and closely related” to the archetypal exempt work described throughout Part 541); cf. 
+ 
+5 As we recently explained and noted above, the employer may—but is not required to—take or claim the 
+exemption.  See supra note 1. 
+6 Whether a nurse meets the duties test for the learned-professional exemption will generally depend at least 
+in part on whether the nurse is of a type whose position requires a specialized advanced academic degree 
+as a standard prerequisite for entry into the occupation.  See 29 C.F.R. § 541.301(e)(2). 
+--- page 18 ---
+ 
+ 
+5 
+WHD Op. Ltr. FLSA2005-20 (Aug. 19, 2005) (“having some employees within the same job 
+classification who perform the same duties[,] but who are paid on a different (hourly) basis, does 
+not affect the status of any other exempt employees paid on a salary basis.”).  As a result, the 
+employee would continue to satisfy the duties requirement for the exemption.7 
+B. Salary Level and Basis Analysis 
+Based on the information you provided, the Specialist’s base pay—approximately $2,000 per 
+week—exceeds the minimum salary-level requirement set forth at 29 C.F.R. § 541.600.  In 
+addition, we conclude that the Specialist’s base pay structure meets the salary-basis requirement 
+set forth in 29 C.F.R. 541.602(a).  Section 541.602(a) provides an employee receives a “salary” if 
+he is paid “a predetermined amount” “on a weekly[ ] or less frequent basis.” 29 C.F.R § 541.602(a).  
+The regulation requires that “[w]henever an employee works at all in a week, he must get his full 
+salary for that week.”  Helix Energy Sols. Grp. v. Hewitt, 598 U.S. 39, 51 (2023) (cleaned up); 29 
+C.F.R § 541.602(a).  Here, for each week, the employee receives the full Specialist salary, 
+regardless of hours worked, for all work performed during the week in the Specialist role.  Thus, 
+based on the facts presented, the Specialist salary appears to satisfy 29 C.F.R. 541.602(a).  See 
+Helix, 598 U.S. at 52 (explaining that § 541.602(a) requires “what people ordinarily think being 
+‘salaried’ means”). 
+In general, when an employer pays an employee on a salary basis under § 541.602(a), the employer 
+may provide the employee with “additional compensation” without violating the salary-basis 
+requirement, including “additional compensation based on hours worked for work beyond the 
+normal workweek.”8  29 C.F.R. § 541.604(a) (emphasis added) (providing a non-exclusive listing 
+of examples); see also WHD Op. Ltr. FLSA2020-2 (Jan. 7, 2020) (explaining that additional 
+payments for work performed beyond the normal workweek, such as work beyond the original 
+scope, can be made without changing the employee’s exempt status); WHD Op. Ltr. FLSA2005-
+20 (Aug. 19, 2005) (explaining that an employer may pay exempt employees an overtime premium 
+or shift differential pay on an hourly basis without invalidating their otherwise-exempt status).  
+“Such additional compensation may be paid on any basis (e.g., flat sum, bonus payment, straight-
+time hourly amount, time and one-half or any other basis).”  29 C.F.R. § 541.604(a).  Thus, the 
+additional hourly compensation that a Specialist receives for work performed while picking up 
+  
+ 
+7 If, over time, all the work performed by an employee in both roles reflects a primary duty that, in fact, 
+consists of activities that do not meet the duties requirements of Part 541, then the employer could not 
+properly claim the exemption under section (a)(1) of the Act in any workweek.  See, e.g., WHD Op. Ltr. 
+FLSA2005-29 (Aug. 26, 2005) (finding employees’ primary duty to be the performance of their full-time, 
+non-exempt work where the employees only took on the exempt role on a part-time basis).  In that scenario, 
+overtime would be computed based on the combined total remuneration and hours for both positions in 
+accordance with 29 U.S.C. § 207 and 29 C.F.R. Part 778. 
+8 We note that the FLSA does not require additional compensation beyond the predetermined salary based 
+on the performance of additional or different work of any kind, whether voluntary or mandatory, by an 
+employee exempt from overtime.  See, e.g., WHD Op. Ltr. FLSA2005-14 (Mar. 17, 2005). 
+--- page 19 ---
+ 
+ 
+6 
+some hourly shifts as a Staff Nurse does not violate the salary basis requirement or defeat the 
+exemption.9 
+In conclusion, an employee in the circumstances you describe remains exempt from the Act’s 
+minimum wage and overtime requirements even though the employee performs some non-exempt 
+work and receives additional hourly compensation for such work.   
+This letter is an official interpretation of the governing statutes and regulations by the 
+Administrator of the Wage and Hour Division of the United States Department of Labor for 
+purposes of the Portal-to-Portal Act.  See 29 U.S.C. § 259.  This interpretation may be relied upon 
+in accordance with section 10 of the Portal-to-Portal Act, notwithstanding that after any such act 
+or omission in the course of such reliance, the interpretation is “modified or rescinded or is 
+determined by judicial authority to be invalid or of no legal effect.”  Id. 
+We trust that this letter is responsive to your inquiry. 
+Sincerely, 
+ 
+Andrew B. Rogers 
+Administrator 
+ 
+*Note: The actual name(s) was removed to protect privacy in accordance with 5 U.S.C. 
+§ 552(b)(6).  You represent that you do not seek this opinion for any party that the Wage and Hour 
+Division (WHD) is currently investigating or for any litigation that commenced prior to your 
+request.  This opinion is based exclusively on the facts and circumstances described in your request 
+and is given based on your representation, express or implied, that you have provided a full and 
+fair description of all the facts and circumstances that would be pertinent to our consideration of 
+the question presented.  The existence of any other factual or historical background not contained 
+in your letter might require a conclusion different from the one expressed herein. 
+ 
+9 Merely because that the employer opts to derive the hourly rate for the Staff Nurse work from the 
+Specialist’s salary—that satisfies § 541.602—for purposes of computing additional compensation—
+consistent with § 541.604(a)—does not call the salary or the employee’s exempt status into question.  
+Because there is no indication that a Specialist’s underlying compensation is based on an hourly, daily, or 
+shift rate, there is no need to further assess the guaranteed salary.  See 29 C.F.R. § 541.604(b) (requiring a 
+“reasonable relationship” between the guaranteed amount and the amount actually earned in a typical 
+workweek where the employee’s usual earnings are computed on an hourly, daily or shift basis); Helix, 598 
+U.S. at 46–47 (explaining applicability and requirements of § 541.604(b)) ; see also  WHD Op. Ltr. 
+FLSA2018-25 (Nov. 8, 2018) (applying the reasonable-relationship requirement from § 541.604(b) where 
+it was undisputed that the employer began with an hourly rate, set a guaranteed predetermined amount 
+based on that hourly rate, and then also paid that hourly rate for all additional hours worked beyond that 
+time); WHD Op. Ltr. 2020-2 (Jan. 7, 2020) (“As the employee’s underlying compensation is not computed 
+on an hourly, daily, or shift basis, the reasonable relationship requirement does not apply”) (emphasis 
+added). 
+
+--- page 20 ---
+U.S. Department of Labor Wage and Hour Division 
+ Washington, DC  20210 
+ 
+ 
+ 
+FLSA2026-7 
+May 28, 2026 
+Dear Name*: 
+This letter responds to your request for an opinion concerning whether an employer must consider 
+time an employee spends traveling off-site voluntarily for a meal when determining whether a 
+meal period is compensable under the Fair Labor Standards Act (FLSA or Act). Specifically, you 
+ask whether time spent traversing an employer’s premises and passing through a controlled access 
+entry and exit is compensable under the Act when the employer allots employees a 30-minute meal 
+period during which they are allowed to remain on the premises. 
+Based on the information you provided, it is our opinion that the time set aside for the meal period 
+is long enough to allow you to use it on-site for this purpose and is an uninterrupted period during 
+which you are relieved from duty for the purpose of eating or engaging in personal activities.  An 
+employee voluntarily forgoing this option to go off-site does not alter the analysis.  Accordingly, 
+the meal period your employer provides is bona fide pursuant to 29 C.F.R. § 785.19. 
+BACKGROUND 
+You represent that you are employed at a “large, secured facility with controlled access points and 
+parking located a significant distance from work areas.”  We surmise that the secured facility and 
+parking are part of a larger corporate campus.  You state that your employer provides an unpaid 
+30-minute meal period, during which you have the option to leave the premises, or remain at the 
+work site, “in which case no time is lost to walking or access delays.”  Nevertheless, based on the 
+information in your request, because it takes 5 to 10 minutes to walk from your job site to the 
+parking lot, with additional time to pass through the facility’s security gates, and similar time is 
+required upon your return, you state that some employees are left with only 10 to 15 minutes in 
+their meal period.  You feel that this creates a “coercive dynamic” which discourages employees 
+from taking meal breaks off-site. 
+GENERAL LEGAL PRINCIPLES 
+The FLSA generally requires covered employers to pay all non-exempt employees at least the 
+federal minimum wage for all hours worked.  29 U.S.C. § 206.  In addition, the Act requires 
+payment “at a rate not less than one and one-half times the regular rate at which [the employee] is 
+employed” to all non-exempt employees for all hours worked in excess of 40 hours in a workweek.  
+Id. § 207(a)(1).  The amount of wages an employee is entitled to receive cannot be determined 
+without knowing the number of hours worked.  See 29 C.F.R. § 785.1. 
+--- page 21 ---
+ 
+2 
+The Act generally does not require employers to provide employees rest breaks or meal periods.1  
+If such breaks are provided, however, Wage and Hour Division (WHD or Division) regulations 
+explain when such time is compensable.  The relevant regulation, first promulgated in 1955,2 
+addresses the compensability of employees’ mealtimes.  It provides that “[b]ona fide meal periods 
+are not worktime,” and that to be bona fide the employee must be relieved from duty for the 
+purposes of eating regular meals.3  29 C.F.R. § 785.19(a).  Typically, “30 minutes or more is long 
+enough for a bona fide meal period.”  Id.  “It is not necessary that an employee be permitted to 
+leave the premises” if the employee is “freed from duties during the meal period.”  Id. § 785.19(b). 
+The central issue in most meal break cases is whether the employees were required to “work” (as 
+that term is used under the FLSA) during their meal period.  Put another way, we evaluate whether 
+employees actually were relieved from their work duties and tasks.  Courts have generally adopted 
+the “predominant benefit” test, under which time is compensable work time if it is predominantly 
+for the employer’s benefit, and non-compensable if it is predominantly for the employee’s benefit.  
+See, e.g., Reich v. S. New England Telecomms. Corp., 121 F.3d 58, 64 (2d Cir. 1997) (citing 
+Skidmore v. Swift & Co., 323 U.S. 134, 136–37 (1944) and Armour & Co. v. Wantock, 323 U.S. 
+126, 133 (1944)); Leahy v. City of Chicago, 96 F.3d 228, 230 n.2 (7th Cir. 1996).  This requires a 
+fact-intensive analysis that must be applied on a case-by-case basis. 
+The Act does not require absolute freedom for a break to be bona fide and non-compensable.  An 
+employer may place certain limitations or conditions upon a bona fide meal period without having 
+to compensate employees for such time, and courts have agreed that employees need not be 
+permitted to leave the premises to receive a bona fide meal period.  For example, in Ruffin v. 
+MotorCity Casino, 775 F.3d 807 (6th Cir. 2015), the Sixth Circuit ruled that meal breaks for casino 
+security guards were not compensable under the FLSA because even though they were not 
+permitted to leave the premises and were required to monitor their radios, they were otherwise free 
+to eat and socialize.  See also Haviland v. Catholic Health Initiatives-Iowa, Corp., 729 F. Supp. 2d 
+1038, 1062 (S.D. Iowa, 2010) (collecting cases showing that “substantial law supports a finding 
+that merely requiring an employee to remain on the employer’s premises does not convert meal 
+break time into compensable working time”).  These cases and others reinforce the Division’s 
+longstanding position that requiring an employee to remain on the employer’s premises does not 
+convert meal break time into compensable working time. 
+Consistent with the foregoing, we have explained that employees who during their meal periods 
+were “restricted to a small lunchroom and [could] not . . . leave the building[,]” in order to maintain 
+security and avoid theft, nevertheless received a bona fide meal period and were not entitled to 
+compensation.  See WHD Opinion Letter FLSA2004-7NA (Aug. 6, 2004).  Indeed, we confirmed 
+that merely because “the employees are not allowed to leave the premises and are otherwise 
+ 
+1 The Act requires employers to afford breaks in certain circumstances.  For example, most nursing 
+employees have the right to reasonable break time to express breast milk while at work; this right is 
+available for up to one year after the child’s birth.  See 29 U.S.C. § 218d; see also WHD Fact Sheet #73: 
+FLSA Protections for Employees to Pump Breast Milk at Work. 
+2 The regulation was first promulgated in 1955 in 29 C.F.R. § 785.3(d), see 20 Fed. Reg. 9963, 9965 (Dec. 
+24, 1955), and subsequently moved to 29 C.F.R. § 785.19, see 26 Fed. Reg. 190, 192 (Jan. 11, 1961). 
+3 Compensability of rest periods is addressed in 29 C.F.R. § 785.18. 
+--- page 22 ---
+ 
+3 
+slightly restricted in their activities during the meal period” did not transform the time into 
+compensable hours worked.  Id.  In concluding that the meal period at issue did “not constitute 
+compensable worktime[,]” WHD focused on the fact that “the employees [were] completely 
+relieved from their duties, . . . allowed to take their meals uninterrupted by the employer, and 
+[were] provided sufficient time to eat their meal.”   
+OPINION 
+Based on the factual representations in your letter, the Division concludes that your employer 
+provides a bona fide meal period consistent with 29 C.F.R. § 785.19 because you are relieved from 
+your work duties during the 30-minute meal break, and the period is sufficient to allow you to use 
+it for the purpose of eating a meal. 
+Subsection 785.19(b) expressly provides that for a meal period to be bona fide, it “is not necessary 
+that an employee be permitted to leave the premises” if the employee is “freed from duties during 
+the meal period.”  Thus, while your letter indicates that you believe that 30 minutes is insufficient 
+time for an off-site meal due to the physical characteristics of the employer’s facility (e.g., distance 
+to the parking lot and waiting to pass through security, among other things), you nevertheless have 
+the option to leave the employer’s premises during the meal period—which, as explained above, 
+is not required by the Act.   
+As a number of courts have ruled and WHD has previously explained, the fact that an employee 
+is required to eat his or her meal on the employer’s premises or is minimally restricted in the 
+activities they may perform does not convert this meal period into compensable time.  Moreover, 
+because the employer may lawfully require employees to remain on the premises for the meal 
+period, the fact that an off-site meal may be difficult to undertake in the time provided does not 
+affect whether you receive a bona fide meal period.   
+For the same reason, an employer is not obligated to exclude from a bona fide meal period, and to 
+consider as compensable, time voluntarily spent to travel off-site to acquire or eat a meal or to 
+otherwise extend the 30-minute meal period to accommodate time an employee may spend leaving 
+and returning to his or her work area from off-site before and after the meal.4 
+Determining whether a meal break is bona fide also requires consideration of whether “work” was 
+performed by the employee during the meal period.  There is no indication in your request that 
+your employer requires employees to work during a meal period when they are present at the 
+worksite, and it appears that you are relieved from work responsibilities during that time.  As such, 
+you have discretion to use your meal period “for the purpose[] of eating regular meals” or for other 
+personal matters consistent with 29 C.F.R. § 785.19(a) and (b). 
+This letter is an official interpretation of the governing statutes and regulations by the 
+Administrator of the Wage and Hour Division of the United States Department of Labor for 
+purposes of the Portal-to-Portal Act.  See 29 U.S.C. § 259.  This interpretation may be relied upon 
+in accordance with section 10 of the Portal-to-Portal Act, “notwithstanding that after any such act 
+ 
+4 It is also important to remember that applicable state and local wage and hour laws may have rules and 
+requirements that are more stringent than the FLSA’s requirements. 
+--- page 23 ---
+ 
+4 
+or omission” in the course of such reliance, the interpretation is “modified or rescinded or is 
+determined by judicial authority to be invalid or of no legal effect.”  Id. 
+We trust that this letter is responsive to your inquiry. 
+Sincerely, 
+ 
+Andrew B. Rogers 
+Administrator 
+*Note: The actual name(s) was removed to protect privacy in accordance with 5 U.S.C. 
+§ 552(b)(6).  You represent that you do not seek this opinion for any party that the Wage and Hour 
+Division (WHD) is currently investigating or for any litigation that commenced prior to your 
+request.  This opinion is based exclusively on the facts and circumstances described in your request 
+and is given based on your representation, express or implied, that you have provided a full and 
+fair description of all the facts and circumstances that would be pertinent to our consideration of 
+the question presented.  The existence of any other factual or historical background not contained 
+in your letter might require a conclusion different from the one expressed herein. 
+
+--- page 24 ---
+U.S. Department of Labor Wage and Hour Division 
+ Washington, DC  20210 
+ 
+ 
+ 
+ FLSA 2025-05 
+September 30, 2025 
+Dear Name*: 
+This letter is in response to your request for an opinion concerning the application of the overtime 
+requirements of the Fair Labor Standards Act (FLSA) to your work at a restaurant and a members-
+only club (“members club”), which operate on the first and second floors, respectively, of a hotel, 
+and whose ownership, management, and operations, among other things, appear common. 
+It is our opinion that, under the specific facts presented, you are jointly employed by the restaurant 
+and members club . Accordingly, under the se facts, all the hours that you work at the restaurant 
+and members club must be combined for purposes of calculating your  hours worked each 
+workweek, and both the restaurant and members club are jointly and severally liable for all aspects 
+of FLSA compliance. 
+This opinion is based exclusively on the facts as presented below that you provided to the 
+Department and may not apply to different facts in this or other situations. 
+ 
+BACKGROUND 
+You represent that you are employed as a hostess at a restaurant at the rate of $28.00 per hour and 
+have been offered shifts at the members club at the same rate of pay . The restaurant is located 
+inside of a hotel with the members club located on the second floor of the restaurant. The restaurant 
+and members club share a kitchen, offer substantially the same food and beverages , and operate 
+under similar trade names. You further state that other employees also perform work in both the 
+restaurant and members club in the same workweek, such as other hostesses, the bar manager, the 
+wine director, and members of the management teams of each facility . Similarly, you represent 
+that you are  occasionally “clocked in” at the restaurant while assigned to work at the members  
+club at the same hourly rate and that you have observed managers from the restaurant participate 
+in disciplinary matters at the members club when you were working there. Although the restaurant 
+and club are purported to have separate business structures and possibly use different timekeeping 
+and payroll systems, you believe they have common ownership. 
+Your request indicates that you generally work 5 dinner shifts  per workweek at the restaurant , 
+which total 40 hours or less per workweek. You have been asked to “pick up” 4 lunch shifts at the 
+members club, which will increase your total  hours worked in the workweek beyond 40 hours. 
+When you asked whether you would rece ive overtime pay  for hours worked over  40 in a 
+workweek, you state that you were told that you would not , on the basis that the restaurant and 
+members club are different companies. 
+GENERAL LEGAL PRINCIPLES 
+The FLSA defines “employer,” “employee,” and “employ” at 29 U.S.C. § 203 (d), (e) and (g), 
+respectively. An “employee” is “any individual employed by an employer,” an “employer ” 
+--- page 25 ---
+2 
+includes “any person acting directly or indirectly in the interest of an employer in relation to an 
+employee[,]” and the term “ employ” include s “to suffer or permit to work. ” 29 U.S.C. 
+§§ 203(e)(1), 203(d), 203(g). The FLSA separately defines the term “person” to include “any 
+organized group of persons,” which could include groups of “corporations.” 29 U.S.C. 203(a). 
+Separately incorporated entities may be considered a single employer with respect to an employee, 
+or employees, for purposes of compliance with the FLSA. Alternatively, even if two or more 
+entities are considered separate employers , they can nonetheless be “joint employers” under the 
+FLSA if they have related employment relationships with the same employee(s) . See, e.g., Chao 
+v. A-One Medical Services, Inc. , 346 F.3d 908, 917–18 (9th Cir. 2003) . All joint employers are 
+jointly and severally liable for FLSA compliance, including any wages, damages, and penalties 
+owed to the employee(s). See, e.g., Schultz v. Capital Int’l Sec., Inc., 466 F.3d 298, 310 (4th Cir. 
+2006). 
+When one employer employs a worker for one set of hours in a workweek, and another employer 
+employs the same worker for a separate set of hours in the same workweek, that scenario may be, 
+under appropriate circumstances, “horizontal” joint employment . Horizontal joint employment  
+typically occurs when employers are sufficiently associated with respect to the employment of the 
+particular employee(s). See generally Chao, 435 F.3d at 918 (citing 29 CFR 791.2(a) (2003)). As 
+relevant here, this can occur where, among other situations, “there is an arrangement between the 
+employers to share an employee’s services, as, for example, to interchange employees.” Id. at 917 
+(quoting 29 CFR 791.2(b) (2003)). 
+If horizontal joint employment exists , the employee’s total hours worked each workweek for all 
+joint employers must be used (1) to confirm that the employee has received the FLSA minimum 
+wage and (2) to determine the employee’s entitlement to overtime pay —both with respect to 
+whether or to what extent overtime hours have been worked and the total remuneration and total 
+hours worked for purposes of calculating the regular rate and resulting overtime premium due. See, 
+e.g., Chao, 346 F.3d at 918 (aggregating hours from joint employers for the purpose of determining 
+overtime); Wirtz v. Hebert , 368 F.2d 139, 141–42 (5th Cir. 1966) (same). Thus, an employee’s 
+hours worked for all the employee’s joint employers must be a dded together to determine the 
+employee’s total hours for the workweek, and each of the employers is jointly and severally liable 
+for any wages owed under the FLSA . For example, two separate retail establishments might 
+coordinate with each other over the pay or work schedule of the same cashier such that they are 
+joint employers . In this scenario, if the c ashier worked 30 hours per work week for each 
+establishment, the cashier would be entitled to 20 hours of overtime premium pay (60 total hours 
+minus 40), which the cashier could collect from either employer. 
+OPINION 
+Based on your representation of the facts, we agree that your hours worked for both the restaurant 
+and the members  club, because they are joint employers, must be combined to determine your 
+hours worked during each workweek, and that you are entitled to overtime pay if your combined 
+hours exceed 40 in a single workweek. 
+As explained above , w hile the restaurant and members club may be separate legal entities, 
+corporate formalities  do not necessarily override the FLSA’s application. T he facts you have 
+--- page 26 ---
+3 
+provided are sufficient to demonstrate  a horizontal joint -employer relationship under the FLSA, 
+as the restaurant and members club are sufficiently associated with each other with respect to your 
+employment. 
+For example, the two facilities appear to be operational ly integrated with each other , including 
+their physical proximity, their common kitchen, and their similar food and beverage menus. While 
+the restaurant and members  club may have separate management teams, some  managers 
+periodically supervise and manage both, and the facilities apparently have the same owners . See 
+WHD Opinion Letter FLSA2005- 17NA (June 14, 2005) (noting that potentially relevant factors 
+to prove the sufficient association of joint employers include “whether there are common officers 
+or directors of the companies ” and “the nature of the common management support provided”) . 
+That you can be “clocked in” at the restaurant and then directed to work in the members  club 
+likewise indicates sufficient association, as do your identical rates of pay at each facility  and the 
+fact that the additional shifts being offered at the members  club do not conflict with your current 
+restaurant schedule, which suggests that they coordinate when scheduling you. All these factors 
+are indicia that the two operations are at minimum joint employers under the FLSA. 
+Accordingly, the Department  believes that all of the hours that you work each workweek at the 
+restaurant and the members club must be combined for the purposes of FLSA compliance, and that 
+you should be paid the overtime premium in accordance with the FLSA for hours worked over 40 
+in a workweek. 
+We trust that this letter is responsive to your inquiry. 
+Sincerely, 
+ 
+ 
+ 
+James R. Macy 
+Acting Administrator 
+ 
+*Note: The actual name(s) was removed to protect privacy in accordance with 5 U.S.C. 
+§ 552(b)(6). You represent that you do not seek this opinion for any party that the Wage and Hour 
+Division (WHD) is currently investigating or for any litigation that commenced prior to your  
+request. This opinion is based exclusively on the facts and circumstances described in your request 
+and is given based on your representation, express or implied, that you have provided a full and 
+fair description of all the facts and circumst ances that would be pertinent to our consideration of 
+the question presented. The existence of any other factual or historical background not contained 
+in your letter might require a conclusion different from the one expressed herein. This is an official 
+ruling for purposes of the Portal-to-Portal Act, 29 U.S.C. § 259. 

@@ -1,0 +1,698 @@
+
+--- page 1 ---
+Guidance on De-identification of Protected Health Information      November 26, 2012. 
+4 
+ 
+1. Overview 
+ 
+This document provides guidance about methods and approaches to achieve de-
+identification in accordance with the Health Insurance Portability and Accountability Act 
+of 1996 (HIPAA) Privacy Rule. The guidance explains and answers questions regarding 
+the two methods that can be used to satisfy the Privacy Rule‘s de-identification standard: 
+Expert Determination and Safe Harbor
+1.  This guidance is intended to assist covered 
+entities to understand what is de-identification, the general process by which de-
+identified information is created, and the options available for performing de-
+identification. 
+ 
+In developing this guidance, the Office for Civil Rights (OCR) solicited input from 
+stakeholders with practical, technical and policy experience in de-identification.  OCR 
+convened stakeholders at a workshop consisting of multiple panel sessions held March 
+8-9, 2010, in Washington, DC. Each panel addressed a specific topic related to the 
+Privacy Rule‘s de-identification methodologies and policies. The workshop was open to 
+the public and each panel was followed by a question and answer period.  More 
+information about the workshop, including a summary, can be found at 
+http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/De-
+identification/deidentificationworkshop2010.html.  A webcast of the workshop can be 
+viewed through streaming video from the website. 
+  
+1.1. Protected Health Information 
+ 
+The HIPAA Privacy Rule protects most ―individually identifiable health information‖ held 
+or transmitted by a covered entity or its business associate, in any form or medium, 
+whether electronic, on paper, or oral. The Privacy Rule calls this information protected 
+health information (PHI).2 Protected health information is information, including 
+demographic information, which relates to: 
+ 
+ the individual‘s past, present, or future physical or mental health or condition, 
+ the provision of health care to the individual, or 
+ the past, present, or future payment for the provision of health care to the individual, 
+ 
+and that identifies the individual or for which there is a reasonable basis to believe can 
+be used to identify the individual. Protected health information includes many common 
+identifiers (e.g., name, address, birth date, Social Security Number) when they can be 
+associated with the health information listed above.   
+ 
+                                                           
+1 The Health Information Technology for Economic and Clinical Health (HITECH) Act was enacted as part of 
+the American Recovery and Reinvestment Act of 2009 (ARRA).  Section 13424(c) of the HITECH Act 
+requires the Secretary of HHS to issue guidance on how best to implement the requirements for the de-
+identification of health information contained in the Privacy Rule. 
+2Protected health information (PHI) is defined as individually identifiable health information transmitted or 
+maintained by a covered entity or its business associates in any form or medium (45 CFR 160.103).  The 
+definition exempts a small number of categories of individually identifiable health information, such as 
+individually identifiable health information found in employment records held by a covered entity in its role as 
+an employer. 
+--- page 2 ---
+Guidance on De-identification of Protected Health Information      November 26, 2012. 
+5 
+ 
+For example, a medical record, laboratory report, or hospital bill would be PHI 
+because each document would contain a patient‘s name and/or other identifying 
+information associated with the health data content.  
+ 
+By contrast, a health plan report that only noted the average age of health plan 
+members was 45 years would not be PHI because that information, although 
+developed by aggregating information from individual plan member records, does 
+not identify any individual plan members and there is no reasonable basis to 
+believe that it could be used to identify an individual.  
+ 
+The relationship with health information is fundamental.  Identifying information alone, 
+such as personal names, residential addresses, or phone numbers, would not 
+necessarily be designated as PHI.  For instance, if such information was reported as part 
+of a publicly accessible data source, such as a phone book, then this information would 
+not be PHI because it is not related to heath data (see above).  If such information was 
+listed with health condition, health care provision or payment data, such as an indication 
+that the individual was treated at a certain clinic, then this information would be PHI. 
+1.2. 
+Covered Entities, Business Associates, and PHI 
+ 
+In general, the protections of the Privacy Rule apply to information held by covered 
+entities and their business associates.  HIPAA defines a covered entity as 1) a health 
+care provider that conducts certain standard administrative and financial transactions in 
+electronic form; 2) a health care clearinghouse; or 3) a health plan.3  A business 
+associate is a person or entity (other than a member of the covered entity‘s workforce) 
+that performs certain functions or activities on behalf of, or provides certain services to, a 
+covered entity that involve the use or disclosure of protected health information. A 
+covered entity may use a business associate to de-identify PHI on its behalf only to the 
+extent such activity is authorized by their business associate agreement.  
+ 
+See the OCR website http://www.hhs.gov/ocr/privacy/ for detailed information about the 
+Privacy Rule and how it protects the privacy of health information. 
+ 
+1.3. 
+De-identification and its Rationale 
+ 
+The increasing adoption of health information technologies in the United States 
+accelerates their potential to facilitate beneficial studies that combine large, complex 
+data sets from multiple sources.  The process of de-identification, by which identifiers 
+are removed from the health information, mitigates privacy risks to individuals and 
+thereby supports the secondary use of data for comparative effectiveness studies, policy 
+assessment, life sciences research, and other endeavors. 
+ 
+                                                           
+3 Detailed definitions and explanations of these covered entities and their varying types can be found in the 
+―Covered Entity Charts‖ available through the OCR website, at 
+http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/index.html.  Discussion of business 
+associates can be found at 
+http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/businessassociates.html 
+--- page 3 ---
+Guidance on De-identification of Protected Health Information      November 26, 2012. 
+6 
+ 
+The Privacy Rule was designed to protect individually identifiable health information 
+through permitting only certain uses and disclosures of PHI provided by the Rule, or as 
+authorized by the individual subject of the information.  However, in recognition of the 
+potential utility of health information even when it is not individually identifiable, 
+§164.502(d) of the Privacy Rule permits a covered entity or its business associate to 
+create information that is not individually identifiable by following the de-identification 
+standard and implementation specifications in §164.514(a)-(b).  These provisions allow 
+the entity to use and disclose information that neither identifies nor provides a 
+reasonable basis to identify an individual.
+4 As discussed below, the Privacy Rule 
+provides two de-identification methods: 1) a formal determination by a qualified expert; 
+or 2) the removal of specified individual identifiers as well as absence of actual 
+knowledge by the covered entity that the remaining information could be used alone or in 
+combination with other information to identify the individual.  
+ 
+Both methods, even when properly applied, yield de-identified data that retains some 
+risk of identification.  Although the risk is very small, it is not zero, and there is a 
+possibility that de-identified data could be linked back to the identity of the patient to 
+which it corresponds. 
+ 
+Regardless of the method by which de-identification is achieved, the Privacy Rule does 
+not restrict the use or disclosure of de-identified health information, as it is no longer 
+considered protected health information. 
+ 
+1.4. 
+The De-identification Standard 
+ 
+Section 164.514(a) of the HIPAA Privacy Rule provides the standard for de-identification 
+of protected health information.  Under this standard, health information is not 
+individually identifiable if it does not identify an individual and if the covered entity has no 
+reasonable basis to believe it can be used to identify an individual.  
+ 
+§ 164.514 Other requirements relating to uses and disclosures of protected health 
+information. 
+(a) Standard: de-identification of protected health information. Health information that 
+does not identify an individual and with respect to which there is no reasonable basis to 
+believe that the information can be used to identify an individual is not individually 
+identifiable health information. 
+ 
+Sections 164.514(b) and(c) of the Privacy Rule contain the implementation specifications 
+that a covered entity must follow to meet the de-identification standard. As summarized 
+in Figure 1, the Privacy Rule provides two methods by which health information can be 
+designated as de-identified. 
+ 
+                                                           
+4 In some instances, other federal protections also may apply, such as those found in Family Educational 
+Rights and Privacy Act (FERPA) or the Common Rule. 
+--- page 4 ---
+Guidance on De-identification of Protected Health Information      November 26, 2012. 
+7 
+ 
+ 
+Figure 1. Two methods 
+to achieve de-
+identification in 
+accordance with the 
+HIPAA Privacy Rule. 
+ 
+The first is the “Expert Determination” method: 
+ 
+(b) Implementation specifications: requirements for de-identification of protected health 
+information. A covered entity may determine that health information is not individually 
+identifiable health information only if: 
+(1) A person with appropriate knowledge of and experience with generally accepted 
+statistical and scientific principles and methods for rendering information not 
+individually identifiable: 
+(i) Applying such principles and methods, determines that the risk is very small 
+that the information could be used, alone or in combination with other 
+reasonably available information, by an anticipated recipient to identify an 
+individual who is a subject of the information; and 
+(ii) Documents the methods and results of the analysis that justify such 
+determination; or 
+ 
+The second is the “Safe Harbor” method: 
+ 
+(2)(i) The following identifiers of the individual or of relatives, employers, or 
+household members of the individual, are removed: 
+ 
+(A) Names 
+(B) All geographic subdivisions smaller than a state, including street address, 
+city, county, precinct, ZIP code, and their equivalent geocodes, except for the 
+initial three digits of the ZIP code if, according to the current publicly available 
+data from the Bureau of the Census: 
+(1) The geographic unit formed by combining all ZIP codes with the same 
+three initial digits contains more than 20,000 people; and 
+(2) The initial three digits of a ZIP code for all such geographic units 
+HIPAA Privacy Rule
+De-identification Methods
+Removal of 18 types of 
+identifiers
+No actual knowledge 
+residual information can 
+identify individual
+Apply statistical or 
+scientific principles
+Very small risk that 
+anticipated recipient 
+could identify individual
+Safe Harbor
+§ 164.514(b)(2)
+Expert 
+Determination
+§ 164.514(b)(1)
+--- page 5 ---
+Guidance on De-identification of Protected Health Information      November 26, 2012. 
+8 
+ 
+containing 20,000 or fewer people is changed to 000 
+(C) All elements of dates (except year) for dates that are directly related to an 
+individual, including birth date, admission date, discharge date, death date, and 
+all ages over 89 and all elements of dates (including year) indicative of such age, 
+except that such ages and elements may be aggregated into a single category of 
+age 90 or older 
+(D) Telephone numbers (L) Vehicle identifiers and serial numbers, 
+including license plate numbers 
+(E) Fax numbers (M) Device identifiers and serial numbers 
+(F) Email addresses (N) Web Universal Resource Locators (URLs) 
+(G) Social security numbers (O) Internet Protocol (IP) addresses 
+(H) Medical record numbers (P) Biometric identifiers, including finger and 
+voice prints 
+(I) Health plan beneficiary 
+numbers 
+(Q) Full-face photographs and any comparable 
+images 
+(J) Account numbers (R) Any other unique identifying number, 
+characteristic, or code, except as permitted by 
+paragraph (c) of this section [Paragraph (c) is 
+presented below in the section ―Re-
+identification‖]; and 
+(K) Certificate/license numbers 
+ 
+(ii) The covered entity does not have actual knowledge that the information could be 
+used alone or in combination with other information to identify an individual who is a 
+subject of the information. 
+ 
+Satisfying either method would demonstrate that a covered entity has met the standard 
+in §164.514(a) above.  De-identified health information created following these methods 
+is no longer protected by the Privacy Rule because it does not fall within the definition of 
+PHI.  Of course, de-identification leads to information loss which may limit the usefulness 
+of the resulting health information in certain circumstances. As described in the 
+forthcoming sections, covered entities may wish to select de-identification strategies that 
+minimize such loss. 
+ 
+Re-identification 
+ 
+The implementation specifications further provide direction with respect to re-
+identification, specifically the assignment of a unique code to the set of de-identified 
+health information to permit re-identification by the covered entity. 
+ 
+--- page 6 ---
+Guidance on De-identification of Protected Health Information      November 26, 2012. 
+9 
+ 
+ 
+ 
+If a covered entity or business associate successfully undertook an effort to identify the 
+subject of de-identified information it maintained, the health information now related to a 
+specific individual would again be protected by the Privacy Rule, as it would meet the 
+definition of PHI.  Disclosure of a code or other means of record identification designed 
+to enable coded or otherwise de-identified information to be re-identified is also 
+considered a disclosure of PHI. 
+ 
+1.5. Preparation for De-identification 
+ 
+ 
+The importance of documentation for which values in health data correspond to PHI, as 
+well as the systems that manage PHI, for the de-identification process cannot be 
+overstated.  Esoteric notation, such as acronyms whose meaning are known to only a 
+select few employees of a covered entity, and incomplete description may lead those 
+overseeing a de-identification procedure to unnecessarily redact information or to fail to 
+redact when necessary.  When sufficient documentation is provided, it is straightforward 
+to redact the appropriate fields.  See section 3.10 for a more complete discussion. 
+ 
+ 
+ 
+In the following two sections, we address questions regarding the Expert Determination 
+method (Section 2) and the Safe Harbor method (Section 3). 
+ 
+(c) Implementation specifications: re-identification. A covered entity may assign a code 
+or other means of record identification to allow information de-identified under this 
+section to be re-identified by the covered entity, provided that: 
+(1) Derivation. The code or other means of record identification is not derived from or 
+related to information about the individual and is not otherwise capable of being 
+translated so as to identify the individual; and 
+(2) Security. The covered entity does not use or disclose the code or other means of 
+record identification for any other purpose, and does not disclose the mechanism for 
+re-identification. 
+--- page 7 ---
+Guidance on De-identification of Protected Health Information      November 26, 2012. 
+23 
+ 
+3. Guidance on Satisfying the Safe Harbor Method 
+ 
+In §164.514(b), the Safe Harbor method for de-identification is defined as follows: 
+ 
+(2)(i) The following identifiers of the individual or of relatives, employers, or 
+household members of the individual, are removed: 
+ 
+(A) Names 
+(B) All geographic subdivisions smaller than a state, including street address, 
+city, county, precinct, ZIP code, and their equivalent geocodes, except for the 
+initial three digits of the ZIP code if, according to the current publicly available 
+data from the Bureau of the Census: 
+(1) The geographic unit formed by combining all ZIP codes with the same 
+three initial digits contains more than 20,000 people; and 
+(2) The initial three digits of a ZIP code for all such geographic units 
+containing 20,000 or fewer people is changed to 000 
+(C) All elements of dates (except year) for dates that are directly related to an 
+individual, including birth date, admission date, discharge date, death date, and 
+all ages over 89 and all elements of dates (including year) indicative of such age, 
+except that such ages and elements may be aggregated into a single category of 
+age 90 or older 
+(D) Telephone numbers (L) Vehicle identifiers and serial numbers, 
+including license plate numbers 
+(E) Fax numbers (M) Device identifiers and serial numbers 
+(F) Email addresses (N) Web Universal Resource Locators (URLs) 
+(G) Social security numbers (O) Internet Protocol (IP) addresses 
+(H) Medical record numbers (P) Biometric identifiers, including finger and 
+voice prints 
+(I) Health plan beneficiary 
+numbers 
+(Q) Full-face photographs and any comparable 
+images 
+(J) Account numbers (R) Any other unique identifying number, 
+characteristic, or code, except as permitted by 
+paragraph (c) of this section; and (K) Certificate/license numbers 
+ 
+(ii) The covered entity does not have actual knowledge that the information could be 
+used alone or in combination with other information to identify an individual who is a 
+subject of the information. 
+ 
+3.1. When can ZIP codes be included in de-identified information? 
+ 
+Covered entities may include the first three digits of the ZIP code if, according to the 
+current publicly available data from the Bureau of the Census: (1) The geographic unit 
+formed by combining all ZIP codes with the same three initial digits contains more than 
+20,000 people; or (2) the initial three digits of a ZIP code for all such geographic units 
+--- page 8 ---
+Guidance on De-identification of Protected Health Information      November 26, 2012. 
+24 
+ 
+containing 20,000 or fewer people is changed to 000. This means that the initial three 
+digits of ZIP codes may be included in de-identified information except when the ZIP 
+codes contain the initial three digits listed in the Table below.  In those cases, the first 
+three digits must be listed as 000. 
+ 
+OCR published a final rule on August 14, 2002, that modified certain standards in the 
+Privacy Rule.  The preamble to this final rule identified the initial three digits of ZIP 
+codes, or ZIP code tabulation areas (ZCTAs),  that must change to 000 for release. 67 
+FR 53182, 53233-53234 (Aug. 14, 2002)).  
+ 
+Utilizing 2000 Census data, the following 
+three-digit ZCTAs have a population of 
+20,000 or fewer persons. To produce a de-
+identified data set utilizing the safe harbor 
+method, all records with three-digit ZIP 
+codes corresponding to these three-digit 
+ZCTAs must have the ZIP code changed to 
+000. Covered entities should not, however, 
+rely upon this listing or the one found in the 
+August 14, 2002 regulation if more current 
+data has been published. 
+ 
+     The 17 restricted ZIP codes are: 
+036 692 878 
+059 790 879 
+063 821 884 
+102 823 890 
+203 830 893 556 831 
+ 
+ 
+ 
+The Department notes that these three-digit ZIP codes are based on the five-digit ZIP 
+Code Tabulation Areas created by the Census Bureau for the 2000 Census. This new 
+methodology also is briefly described below, as it will likely be of interest to all users of 
+data tabulated by ZIP code. The Census Bureau will not be producing data files 
+containing U.S. Postal Service ZIP codes either as part of the Census 2000 product 
+series or as a post Census 2000 product. However, due to the public‘s interest in having 
+statistics tabulated by ZIP code, the Census Bureau has created a new statistical area 
+called the Zip Code Tabulation Area (ZCTA) for Census 2000. The ZCTAs were 
+designed to overcome the operational difficulties of creating a well-defined ZIP code 
+area by using Census blocks (and the addresses found in them) as the basis for the 
+ZCTAs. In the past, there has been no correlation between ZIP codes and Census 
+Bureau geography. Zip codes can cross State, place, county, census tract, block group, 
+and census block boundaries. The geographic designations the Census Bureau uses to 
+tabulate data are relatively stable over time. For instance, census tracts are only defined 
+every ten years. In contrast, ZIP codes can change more frequently. Because of the ill-
+defined nature of ZIP code boundaries, the Census Bureau has no file (crosswalk) 
+showing the relationship between US Census Bureau geography and U.S. Postal 
+Service ZIP codes. 
+ 
+ZCTAs are generalized area representations of U.S. Postal Service (USPS) ZIP code 
+service areas. Simply put, each one is built by aggregating the Census 2000 blocks, 
+whose addresses use a given ZIP code, into a ZCTA which gets that ZIP code assigned 
+as its ZCTA code. They represent the majority USPS five-digit ZIP code found in a given 
+area. For those areas where it is difficult to determine the prevailing five-digit ZIP code, 
+the higher-level three-digit ZIP code is used for the ZCTA code. For further information, 
+go to: http://www.census.gov/geo/www/gazetteer/places2k.html. 
+--- page 9 ---
+Guidance on De-identification of Protected Health Information      November 26, 2012. 
+25 
+ 
+ 
+The Bureau of the Census provides information regarding population density in the 
+United States.  Covered entities are expected to rely on the most current publicly 
+available Bureau of Census data regarding ZIP codes. This information can be 
+downloaded from, or queried at, the American Fact Finder website 
+(http://factfinder.census.gov).  As of the publication of this guidance, the information can 
+be extracted from the detailed tables of the ―Census 2000 Summary File 1 (SF 1) 100-
+Percent Data‖ files under the ―Decennial Census‖ section of the website. The information 
+is derived from the Decennial Census and was last updated in 2000.  It is expected that 
+the Census Bureau will make data available from the 2010 Decennial Census in the near 
+future.  This guidance will be updated when the Census makes new information 
+available. 
+ 
+3.2. May parts or derivatives of any of the listed identifiers be disclosed 
+consistent with the Safe Harbor Method? 
+ 
+No.  For example, a data set that contained patient initials, or the last four digits of a 
+Social Security number, would not meet the requirement of the Safe Harbor method for 
+de-identification.  
+ 
+3.3. What are examples of dates that are not permitted according to the 
+Safe Harbor Method? 
+ 
+Elements of dates that are not permitted for disclosure include the day, month, and any 
+other information that is more specific than the year of an event.  For instance, the date 
+―January 1, 2009‖ could not be reported at this level of detail. However, it could be 
+reported in a de-identified data set as ―2009‖. 
+Many records contain dates of service or other events that imply age.  Ages that are 
+explicitly stated, or implied, as over 89 years old must be recoded as 90 or above.  For 
+example, if the patient‘s year of birth is 1910 and the year of healthcare service is 
+reported as 2010, then in the de-identified data set the year of birth should be reported 
+as ―on or before 1920.‖  Otherwise, a recipient of the data set would learn that the age of 
+the patient is approximately 100. 
+ 
+3.4. Can dates associated with test measures for a patient be reported in 
+accordance with Safe Harbor? 
+ 
+No. Dates associated with test measures, such as those derived from a laboratory 
+report, are directly related to a specific individual and relate to the provision of health 
+care. Such dates are protected health information.  As a result, no element of a date 
+(except as described in 3.3. above) may be reported to adhere to Safe Harbor.   
+ 
+--- page 10 ---
+Guidance on De-identification of Protected Health Information      November 26, 2012. 
+26 
+ 
+3. 5. What constitutes “any other unique identifying number, characteristic, 
+or code” with respect to the Safe Harbor method of the Privacy Rule?   
+ 
+This category corresponds to any unique features that are not explicitly enumerated in 
+the Safe Harbor list (A-Q), but could be used to identify a particular individual.  Thus, a 
+covered entity must ensure that a data set stripped of the explicitly enumerated 
+identifiers also does not contain any of these unique features.  The following are 
+examples of such features: 
+ 
+Identifying Number 
+There are many potential identifying numbers.  For example, the preamble to the 
+Privacy Rule at 65 FR 82462, 82712 (Dec. 28, 2000) noted that ―Clinical trial 
+record numbers are included in the general category of ‗any other unique 
+identifying number, characteristic, or code.‘ 
+ 
+Identifying Code 
+A code corresponds to a value that is derived from a non-secure encoding 
+mechanism.  For instance, a code derived from a secure hash function without a 
+secret key (e.g., ―salt‖) would be considered an identifying element.  This is 
+because the resulting value would be susceptible to compromise by the recipient 
+of such data. As another example, an increasing quantity of electronic medical 
+record and electronic prescribing systems assign and embed barcodes into 
+patient records and their medications.  These barcodes are often designed to be 
+unique for each patient, or event in a patient‘s record, and thus can be easily 
+applied for tracking purposes.  See the discussion of re-identification. 
+ 
+Identifying Characteristic 
+A characteristic may be anything that distinguishes an individual and allows for 
+identification.  For example, a unique identifying characteristic could be the 
+occupation of a patient, if it was listed in a record as ―current President of State 
+University.‖  
+ 
+Many questions have been received regarding what constitutes ―any other unique 
+identifying number, characteristic or code‖ in the Safe Harbor approach, 
+§164.514(b)(2)(i)(R), above.  Generally, a code or other means of record identification 
+that is derived from PHI would have to be removed from data de-identified following the 
+safe harbor method.  To clarify what must be removed under (R), the implementation 
+specifications at §164.514(c) provide an exception with respect to ―re-identification‖ by 
+the covered entity.  The objective of the paragraph is to permit covered entities to assign 
+certain types of codes or other record identification to the de-identified information so 
+that it may be re-identified by the covered entity at some later date. Such codes or other 
+means of record identification assigned by the covered entity are not considered direct 
+identifiers that must be removed under (R) if the covered entity follows the directions 
+provided in §164.514(c).   
+ 
+--- page 11 ---
+Guidance on De-identification of Protected Health Information      November 26, 2012. 
+27 
+ 
+3.6. What is “actual knowledge” that the remaining information could be 
+used either alone or in combination with other information to identify an 
+individual who is a subject of the information? 
+ 
+In the context of the Safe Harbor method, actual knowledge means clear and direct 
+knowledge that the remaining information could be used, either alone or in combination 
+with other information, to identify an individual who is a subject of the information.  This 
+means that a covered entity has actual knowledge if it concludes that the remaining 
+information could be used to identify the individual.  The covered entity, in other words, 
+is aware that the information is not actually de-identified information.   
+   
+The following examples illustrate when a covered entity would fail to meet the ―actual 
+knowledge‖ provision.     
+ 
+Example 1: Revealing Occupation 
+Imagine a covered entity was aware that the occupation of a patient was listed in 
+a record as ―former president of the State University.‖  This information in 
+combination with almost any additional data – like age or state of residence – 
+would clearly lead to an identification of the patient.  In this example, a covered 
+entity would not satisfy the de-identification standard by simply removing the 
+enumerated identifiers in §164.514(b)(2)(i) because the risk of identification is of 
+a nature and degree that a covered entity must have concluded that the 
+information could identify the patient.   Therefore, the data would not have 
+satisfied the de-identification standard‘s Safe Harbor method unless the covered 
+entity made a sufficient good faith effort to remove the ‗‗occupation‘‘ field from the 
+patient record.  
+ 
+Example 2: Clear Familial Relation 
+Imagine a covered entity was aware that the anticipated recipient, a researcher 
+who is an employee of the covered entity, had a family member in the data (e.g., 
+spouse, parent, child, or sibling). In addition, the covered entity was aware that 
+the data would provide sufficient context for the employee to recognize the 
+relative.  For instance, the details of a complicated series of procedures, such as 
+a primary surgery followed by a set of follow-up surgeries and examinations, for a 
+person of a certain age and gender, might permit the recipient to comprehend 
+that the data pertains to his or her relative‘s case.  In this situation, the risk of 
+identification is of a nature and degree that the covered entity must have 
+concluded that the recipient could clearly and directly identify the individual in the 
+data.  Therefore, the data would not have satisfied the de-identification 
+standard‘s Safe Harbor method.   
+ 
+Example 3: Publicized Clinical Event 
+Rare clinical events may facilitate identification in a clear and direct manner.  For 
+instance, imagine the information in a patient record revealed that a patient gave 
+birth to an unusually large number of children at the same time.  During the year 
+of this event, it is highly possible that this occurred for only one individual in the 
+hospital (and perhaps the country).  As a result, the event was reported in the 
+popular media, and the covered entity was aware of this media exposure.  In this 
+case, the risk of identification is of a nature and degree that the covered entity 
+must have concluded that the individual subject of the information could be 
+--- page 12 ---
+Guidance on De-identification of Protected Health Information      November 26, 2012. 
+28 
+ 
+identified by a recipient of the data.  Therefore, the data would not have satisfied 
+the de-identification standard‘s Safe Harbor method.   
+ 
+Example 4: Knowledge of a Recipient’s Ability 
+Imagine a covered entity was told that the anticipated recipient of the data has a 
+table or algorithm that can be used to identify the information, or a readily 
+available mechanism to determine a patient‘s identity.  In this situation, the 
+covered entity has actual knowledge because it was informed outright that the 
+recipient can identify a patient, unless it subsequently received information 
+confirming that the recipient does not in fact have a means to identify a patient.  
+Therefore, the data would not have satisfied the de- identification standard‘s Safe 
+Harbor method. 
+ 
+3.7. If a covered entity knows of specific studies about methods to re-
+identify health information or use de-identified health information alone or 
+in combination with other information to identify an individual, does this 
+necessarily mean a covered entity has actual knowledge under the Safe 
+Harbor method? 
+ 
+No.  Much has been written about the capabilities of researchers with certain analytic 
+and quantitative capacities to combine information in particular ways to identify health 
+information.32,33,34,35  A covered entity may be aware of studies about methods to identify 
+remaining information or using de-identified information alone or in combination with 
+other information to identify an individual.  However, a covered entity‘s mere knowledge 
+of these studies and methods, by itself, does not mean it has ―actual knowledge‖ that 
+these methods would be used with the data it is disclosing.  OCR does not expect a 
+covered entity to presume such capacities of all potential recipients of de-identified data.   
+This would not be consistent with the intent of the Safe Harbor method, which was to 
+provide covered entities with a simple method to determine if the information is 
+adequately de-identified. 
+   
+ 
+3. 8. Must a covered entity suppress all personal names, such as physician 
+names, from health information for it to be designated as de-identified? 
+ 
+No. Only names of the individuals associated with the corresponding health information 
+(i.e., the subjects of the records) and of their relatives, employers, and household 
+members must be suppressed.  There is no explicit requirement to remove the names of 
+                                                           
+32 K. El Emam, F. Dankar, R. Vaillancourt, T. Roffey, and M. Lysyk. Evaluating the risk of re-identification of 
+patients from hospital prescription records. Canadian Journal of Hospital Pharmacy. 2009; 62(4): 307-319. 
+33 G. Loukides, J. Denny, and B. Malin. The disclosure of diagnosis codes can breach research participants 
+privacy. Journal of the American Medical Informatics Association Annual Symposium. 2010; 17(3): 322-327. 
+34 B. Malin and L. Sweeney. How (not) to protect genomic data privacy in a distributed network: using trail 
+re-identification to evaluate and design anonymity protection systems. Journal of Biomedical Informatics. 
+2004; 37(3): 179-192. 
+35 L. Sweeney. Data sharing under HIPAA: 12 years later.  A presentation at the Workshop on the HIPAA 
+Privacy Rule's De-Identification Standard. Washington, DC. March 8-9, 2010. 
+--- page 13 ---
+Guidance on De-identification of Protected Health Information      November 26, 2012. 
+29 
+ 
+providers or workforce members of the covered entity or business associate.   At the 
+same time, there is also no requirement to retain such information in a de-identified data 
+set. 
+ 
+Beyond the removal of names related to the patient, the covered entity would need to 
+consider whether additional personal names contained in the data should be suppressed 
+to meet the actual knowledge specification.  Additionally, other laws or confidentiality 
+concerns may support the suppression of this information. 
+ 
+3.9. 
+Must a covered entity use a data use agreement when sharing de-
+identified data to satisfy the Safe Harbor Method? 
+ 
+No. The Privacy Rule does not limit how a covered entity may disclose information that 
+has been de-identified.  However, nothing prevents a covered entity from asking a 
+recipient of de-identified information to enter into a data use agreement, such as is 
+required for release of a limited data set under the Privacy Rule.  This agreement may 
+prohibit re-identification. Of course, the use of a data use agreement does not substitute 
+for any of the specific requirements of the Safe Harbor method. Further information 
+about data use agreements can be found on the OCR website.36  Covered entities may 
+make their own assessments whether such additional oversight is appropriate.  
+ 
+ 
+3.10. 
+Must a covered entity remove protected health information from free 
+text fields to satisfy the Safe Harbor Method? 
+ 
+PHI may exist in different types of data in a multitude of forms and formats in a covered 
+entity.  This data may reside in highly structured database tables, such as billing records. 
+Yet, it may also be stored in a wide range of documents with less structure and written in 
+natural language, such as discharge summaries, progress notes, and laboratory test 
+interpretations.  These documents may vary with respect to the consistency and the 
+format employed by the covered entity.  
+ 
+The de-identification standard makes no distinction between data entered into 
+standardized fields and information entered as free text (i.e., structured and unstructured 
+text) -- an identifier listed in the Safe Harbor standard must be removed regardless of its 
+location in a record if it is recognizable as an identifier.  
+ 
+Whether additional information must be removed falls under the actual knowledge 
+provision; the extent to which the covered entity has actual knowledge that residual 
+information could be used to individually identify a patient. Clinical narratives in which a 
+physician documents the history and/or lifestyle of a patient are information rich and may 
+provide context that readily allows for patient identification.   
+ 
+Medical records are comprised of a wide range of structured and unstructured (also 
+known as ―free text‖) documents.  In structured documents, it is relatively clear which 
+fields contain the identifiers that must be removed following the Safe Harbor method.  
+                                                           
+36 Supra note 28.   
+--- page 14 ---
+Guidance on De-identification of Protected Health Information      November 26, 2012. 
+30 
+ 
+For instance, it is simple to discern when a feature is a name or a Social Security 
+Number, provided that the fields are appropriately labeled.  However, many researchers 
+have observed that identifiers in medical information are not always clearly labeled.37.38  
+As such, in some electronic health record systems it may be difficult to discern what a 
+particular term or phrase corresponds to (e.g., is 5/97 a date or a ratio?).  It also is 
+important to document when fields are derived from the Safe Harbor listed identifiers.  
+For instance, if a field corresponds to the first initials of names, then this derivation 
+should be noted.  De-identification is more efficient and effective when data managers 
+explicitly document when a feature or value pertains to identifiers.  Health Level 7 (HL7) 
+and the International Standards Organization (ISO) publish best practices in 
+documentation and standards that covered entities may consult in this process. 
+ 
+ 
+Example Scenario 1 
+The free text field of a patient‘s medical record notes that the patient is the 
+Executive Vice President of the state university.  The covered entity must remove 
+this information.   
+ 
+Example Scenario 2 
+The intake notes for a new patient include the stand-alone notation, ―Newark, 
+NJ.‖  It is not clear whether this relates to the patient‘s address, the location of 
+the patient‘s previous health care provider, the location of the patient‘s recent 
+auto collision, or some other point.  The phrase may be retained in the data.     
+ 
+                                                           
+37 D. Dorr, W. Phillips, S. Phansalkar, S. Sims, and J. Hurdle. Assessing the difficulty and time cost of de-
+identification in clinical narratives. Methods of Information in Medicine. 2006; 45(3): 246-252. 
+38 O. Uzuner, Y. Luo, and P. Szolovits. Evaluating the state-of-the-art in automatic de-identification. Journal 
+of the American Medical Informatics Association. 2007; 14(5): 550-563. 

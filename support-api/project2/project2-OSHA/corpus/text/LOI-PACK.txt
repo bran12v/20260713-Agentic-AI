@@ -1,0 +1,561 @@
+
+OSHA Letters of Interpretation - Part 1904
+==========================================
+
+
+2021-01-08 - Reporting two related reportable events.
+-----------------------------------------------------
+
+Source: https://www.osha.gov/laws-regs/standardinterpretations/2021-01-08
+
+OSHA requirements are set by statute, standards and regulations. Our interpretation letters
+explain these requirements and how they apply to particular circumstances, but they cannot
+create additional employer obligations. This letter constitutes OSHA's interpretation of the
+requirements discussed. Note that our enforcement guidance may be affected by changes to
+OSHA rules. Also, from time to time we update our guidance in response to new information.
+To keep apprised of such developments, you can consult OSHA's website at
+https://www.osha.gov .
+
+Thank you for your letter to the Occupational Safety and Health Administration (OSHA)
+regarding the recordkeeping regulation contained in 29 CFR Part 1904 – Recording and
+Reporting Occupational Injuries and Illnesses. Specifically, you ask OSHA to clarify whether
+two related reportable events under 29 CFR 1904.39, “Reporting fatalities, hospitalizations,
+amputations, and losses of an eye,” should each be cited for the purposes of OSHA
+recordkeeping, or whether a company may report only the initial event.
+
+In employee is seriously injured and is admitted to the hospital. The company reports the
+in-patient hospitalization to OSHA within 24 hours of learning about it, in accordance with
+section 1904.39(a)(2). While hospitalized, the employee undergoes surgery. Five days after
+the surgery, the employee passes away due to this work-related injury. Based upon this
+scenario, is the company required to make a “second report” of the initial injury that
+resulted in the fatality?
+
+An employee’s arm is severely injured at work, and the employee is admitted to the hospital.
+The company reports the in-patient hospitalization to OSHA within 24 hours of learning about
+it, in accordance with section 1904.39(a)(2). While hospitalized, the employee’s arm is
+amputated due to the work-related injury. The amputation occurs within 24 hours of the work-
+related injury. Based upon this scenario, is the company is required to make a “second
+report” of the initial injury that resulted in an amputation?
+
+It is not OSHA’s intention that related events, each of which are reportable under section
+1904.39, be reported twice. If the in-patient hospitalization results in an amputation or a
+fatality, the employer does not need to report the second event as long as the employer
+initially reported the in-patient hospitalization within the 24-hour period. As OSHA
+explained in the preamble to section 1904.39, the agency made amputations reportable because
+data reflect that the majority of amputations do not involve in-patient hospitalizations. 79
+Fed. Reg. 56130, 56146 (Sept. 18, 2014). However, OSHA specifically noted, “for amputations
+involving in-patient hospitalization, employers will only have to make a single report.”
+
+Finally, even though employers do not have to report the second event, they still need to
+record the most serious outcome for each case on their OSHA injury and illness records, if
+they are required to keep such records.
+
+We hope you find this information helpful. OSHA requirements are set by statute, standards,
+and regulations. Our interpretation letters explain these requirements and how they apply to
+particular circumstances, but they cannot create additional employer obligations. This
+letter constitutes OSHA’s interpretation of the requirements discussed. Note that our
+enforcement guidance may be affected by changes to OSHA rules. Also, from time to time we
+update our guidance in response to new information. To keep appraised of such developments,
+consult OSHA’s website at http://www.osha.gov .
+
+Directorate of Technical Support and Emergency Management
+
+
+----------------------------------------------------------------------
+
+
+2015-04-15 - General requirements that applies to workers who drive heavy trucks and other commercial motor vehicles CMV on construction sites
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Source: https://www.osha.gov/laws-regs/standardinterpretations/2015-04-15
+
+General requirements that applies to workers who drive heavy trucks and other commercial
+motor vehicles CMV on construction sites
+
+OSHA requirements are set by statute, standards and regulations. Our interpretation letters
+explain these requirements and how they apply to particular circumstances, but they cannot
+create additional employer obligations. This letter constitutes OSHA's interpretation of the
+requirements discussed. Note that our enforcement guidance may be affected by changes to
+OSHA rules. Also, from time to time we update our guidance in response to new information.
+To keep apprised of such developments, you can consult OSHA's website at
+https://www.osha.gov .
+
+Thank you for your letter to the Occupational Safety and Health Administration (OSHA), which
+we received February 2, 2015. Because your letter involved construction issues, your inquiry
+was forwarded to OSHA's Directorate of Construction. You asked about qualifications for
+workers who drive heavy trucks and other commercial motor vehicles (CMV) on construction
+sites.
+
+OSHA has issued a general requirement that applies to workers at construction sites,
+including drivers of heavy trucks and other CMV, in its Construction Standards at Subpart C
+- General Safety and Health Provisions:
+
+29 CFR 1926.20(b)(4) The employer shall permit only those employees qualified by training or
+experience to operate equipment and machinery.
+
+You can access this standard on OSHA's website at:
+http://www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=STANDARDS&p_id=10606 .
+
+Employers who are transporting hazardous materials must comply with applicable U.S.
+Department of Transportation (DOT) HAZMAT regulations. For more information on HAZMAT
+transportation regulations, you may wish to visit the U.S. DOT, Pipeline and Hazardous
+Materials Safety Administration (PHMSA) website at http://www.phmsa.dot.gov . The PHMSA has
+responsibility for the safe movement of HAZMAT by all modes of transportation.
+
+Washington State operates its own occupational safety and health program under a plan
+approved and monitored by OSHA. The Washington State Plan, which is administered by the
+Department of Labor and Industries (DL&I), Division of Occupational Safety and Health
+(DOSH), adopts and enforces standards and investigates safety and health concerns in
+workplaces throughout the state. State Plans are required to have standards and enforcement
+programs that are at least as effective as OSHA's, but may have different or additional
+requirements. You can find more information about the Washington State Plan at its website:
+http://www.lni.wa.gov/Safety/default.asp .
+
+There is a wealth of information on OSHA's website, www.osha.gov , including the following
+webpages that deal with safe truck driving and the trucking industry:
+
+https://www.osha.gov/SLTC/motorvehiclesafety/construction.html
+
+https://www.osha.gov/SLTC/trucking_industry/index.html
+
+In addition, the following provide links to OSHA's worker rights, complaint, and
+whistleblower webpages:
+
+http://www.osha.gov/as/opa/worker/complain.html
+
+http://www.whistleblowers.gov/complaint_page.html
+
+Thank you for your interest in safety and health. I hope you find this information helpful.
+If you have any further questions, feel free to contact the Directorate of Construction at
+(202) 693-2020.
+
+
+----------------------------------------------------------------------
+
+
+2004-01-13 - Determining work-relatedness when the work event or exposure is only one of the discernable causes; not the sole or predominant cause.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Source: https://www.osha.gov/laws-regs/standardinterpretations/2004-01-13
+
+Determining work-relatedness when the work event or exposure is only one of the discernable
+causes; not the sole or predominant cause.
+
+OSHA requirements are set by statute, standards and regulations. Our interpretation letters
+explain these requirements and how they apply to particular circumstances, but they cannot
+create additional employer obligations. This letter constitutes OSHA's interpretation of the
+requirements discussed. Note that our enforcement guidance may be affected by changes to
+OSHA rules. Also, from time to time we update our guidance in response to new information.
+To keep apprised of such developments, you can consult OSHA's website at
+https://www.osha.gov .
+
+Thank you for your comments pertaining to the Occupational Safety and Health
+Administration's (OSHA) Injury and Illness Recording and Reporting requirements contained in
+29 CFR Part 1904. Please accept my apology for the delay in our response.
+
+Specifically, you ask OSHA to clarify in each scenario you describe; whether the employee
+who sustains an injury or illness while he or she is engaged in an activity such as walking
+or bending is considered work-related. As you note, a case is presumed work-related under
+the recordkeeping rule if an event or exposure in the work environment is a discernable
+cause of the injury or illness. The work event or exposure need only be one of the
+discernable causes; it need not be the sole or predominant cause. The preamble to the rule
+contains a passage that is relevant in determining whether this presumption applies in the
+scenarios in your letter. The preamble states, in relevant part, as follows:
+
+In applying [the presumption of work-relatedness],the question employers must answer is
+whether there is an identifiable event or exposure which occurred in the work environment
+and resulted in the injury or illness. "Thus, if an employee trips while walking across a
+level factory floor, theresulting injury is considered work-related under the geographic
+presumption because the precipitating event - the tripping accident - occurred in the
+workplace. The case is work-related even if the employer cannot determine why the employee
+tripped, or whether any particular workplace hazard caused the accident to occur. "
+
+In each of the eight scenarios in your letter, the activity engaged in by the employee at
+the time of the injury (walking, tripping, climbing a staircase, sneezing, bending down) is
+an "event" which would trigger application of the presumption. In the absence of evidence to
+overcome the presumption, the injury is work-related. Thus, in the absence of evidence to
+overcome the presumption, an ankle injury caused by a trip that occurred while the employee
+was walking down a level seamless hallway at work is work-related, regardless of whether the
+accident is attributable to a defect in the hall. By the same reasoning, if the activity of
+walking down a hallway caused the employee's knee to buckle or to sprain the ankle, the
+injury is work-related. If an injury or illness did not result from an identifiable event or
+exposure in the work environment, but only manifested itself during work, the injury is not
+work-related. For example, if the employee had a non-occupational event or exposure, and
+there is no evidence of a work-related event or exposure that was a cause of the injury or
+illness, the injury should not be recorded.
+
+You also ask whether the determination of work-relationship would be affected by the
+existence of a pre-existing condition, whether work-related or non-work-related, affecting
+the same body part that is injured. Under the rule, a pre-existing condition is an injury or
+illness resulting solely from a non-work-related event or exposure. If an employee's pre-
+existing condition is worsened as a result of an event or exposure at work, the case is not
+work-related unless the work event or exposure "significantly aggravated" the preexisting
+condition (i.e., the case meets the recording criteria contained in Section 1904.5(b)(4). If
+the employee with a pre-existing work-related injury to a body part suffers a subsequent
+work-related injury of the same type to the same body part, the subsequent injury is
+recordable (assuming the general recording criteria are met) if it is a "new case" as
+discussed in Section 1904.6.
+
+Thank you for your interest in occupational safety and health. We hope you find this
+information helpful. OSHA requirements are set by statute, standards and regulations. Our
+interpretation letters explain these requirements and how they apply to particular
+circumstances, but they cannot create additional employer obligations. This letter
+constitutes OSHA's interpretation of the requirements discussed. Note that our enforcement
+guidance may be affected by changes to OSHA rules. In addition, from time to time we update
+our guidance in response to new information. To keep appraised of such developments, you can
+consult OSHA's website at http://www.osha.gov . If you have any further questions, please
+contact the Division of Recordkeeping Requirements, at 202-693-1702.
+
+
+----------------------------------------------------------------------
+
+
+2006-08-03 - Recording an injury when physician recommends restriction but no restricted work is available.
+-----------------------------------------------------------------------------------------------------------
+
+Source: https://www.osha.gov/laws-regs/standardinterpretations/2006-08-03
+
+Recording an injury when physician recommends restriction but no restricted work is
+available.
+
+OSHA requirements are set by statute, standards and regulations. Our interpretation letters
+explain these requirements and how they apply to particular circumstances, but they cannot
+create additional employer obligations. This letter constitutes OSHA's interpretation of the
+requirements discussed. Note that our enforcement guidance may be affected by changes to
+OSHA rules. Also, from time to time we update our guidance in response to new information.
+To keep apprised of such developments, you can consult OSHA's website at
+https://www.osha.gov .
+
+Thank you for your March 24, 2006 letter to the Occupational Safety and Health
+Administration (OSHA) regarding the Injury and Illness Recording and Reporting Requirements
+contained in 29 CFR Part 1904. Specifically, you requested information on how to record a
+work-related injury when a physician recommends a work restriction but the employer sends
+the employee home because no restricted work is available.
+
+Scenario: An employee is injured at work and placed on restricted work by a physician. The
+employer is not able to accommodate the employee in a work restriction and sends the
+employee home. Should the employer follow the physician's mandate and record the injury as
+restricted work, or because no restricted work was available and the employee was sent home,
+must the injury be recorded as days away from work?
+
+Response: Section 1904.7 provides that a work-related injury or illness must be recorded if
+it results in death, days away from work, restricted work or transfer to another job,
+medical treatment beyond first aid, loss of consciousness, or a significant injury or
+illness diagnosed by a physician or other licensed health care professional.
+
+Under the OSHA recordkeeping system, the employer has the ultimate responsibility for making
+good-faith recordkeeping determinations regarding an injury and/or illness. Employers must
+decide if and how a particular case should be recorded and their decision must not be an
+arbitrary one. In addition, determinations concerning how and when to restrict an employee's
+work activities can only be made by the employer.
+
+The preamble to the 2001 final rule addressing OSHA's revised injury and illness
+recordkeeping requirements in Part 1904 states:
+
+"The final rule's restricted work provisions also clarify that work restriction must be
+imposed by the employer or be recommended by a health care professional before the case is
+recordable. Only the employer has the ultimate authority to restrict an employee's work, so
+the definition is clear that, although a health care professional may recommend the
+restriction, the employer makes the final determination of whether or not the health care
+professional's recommended restriction involves the employee's routine functions. Restricted
+work assignments may involve several steps: a Health Care Professional's (HCP)
+recommendation, or employer's determination to restrict the employee's work, the employer's
+analysis of jobs to determine whether a suitable job is available, and assignment of the
+employee to that job. All such restricted work cases are recordable, even if the health care
+professional allows some discretion in defining the type or duration of the restriction..."
+See 66 Federal Register (page 5980, 3 rd column), January 19, 2001.
+
+In the above scenario, the physician determined that the employee should be placed on a work
+restriction, but the employer was not able to accommodate the employee and the employer sent
+the employee home. Under Part 1904, because the employer has the ultimate responsibility to
+determine if and how a case should be recorded, the case should be designated as "Days away
+from work."
+
+You also inquired about "publishing a book that would be easy to refer to in answering
+recordkeeping questions." OSHA has a new publication called The OSHA Recordkeeping Handbook
+on OSHA's Recordkeeping homepage, http://www.osha.gov/recordkeeping. The OSHA Recordkeeping
+Handbook is a compendium of existing agency approved policy, including the 2001
+Recordkeeping rule (Regulatory text and relevant decision discussion from the Preamble to
+the rule), Frequently Asked Questions, and the Letters of Interpretation. The following
+Letter of Interpretation is analogous to your question above, 06/23/2006 - No Restricted
+Work Available, http://www.osha.gov/recordkeeping/RKinterpretations.html.
+
+Thank you for your interest in occupational safety and health. We hope you find this
+information helpful. OSHA requirements are set by statute, standards, and regulations. Our
+interpretation letters explain these requirements and how they apply to particular
+circumstances, but they cannot create additional employer obligations. This letter
+constitutes OSHA's interpretation of the requirements discussed. Note that our enforcement
+guidance may be affected by changes to OSHA rules. In addition, from time to time we update
+our guidance in response to new information. To keep apprised of such developments, you can
+consult OSHA's website at www.osha.gov. If you have any further questions, please contact
+the OSHA Office of Statistical Analysis at 202 693-1876.
+
+
+----------------------------------------------------------------------
+
+
+2024-10-22 - Is the use of paraffin wax as a form of topical heat application considered medical treatment beyond first aid for OSHA recordkeeping purposes
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Source: https://www.osha.gov/laws-regs/standardinterpretations/2024-10-22
+
+Is the use of paraffin wax as a form of topical heat application considered medical
+treatment beyond first aid for OSHA recordkeeping purposes
+
+OSHA requirements are set by statute, standards and regulations. Our interpretation letters
+explain these requirements and how they apply to particular circumstances, but they cannot
+create additional employer obligations. This letter constitutes OSHA's interpretation of the
+requirements discussed. Note that our enforcement guidance may be affected by changes to
+OSHA rules. Also, from time to time we update our guidance in response to new information.
+To keep apprised of such developments, you can consult OSHA's website at
+https://www.osha.gov .
+
+Thank you for your letter to the Occupational Safety and Health Administration (OSHA)
+regarding the recordkeeping regulation contained in 29 CFR Part 1904 - Recording and
+Reporting Occupational Injuries and Illnesses. Specifically, you asked whether the use of
+paraffin wax as a form of topical heat application is considered medical treatment beyond
+first aid for OSHA recordkeeping purposes.
+
+In your letter, you state that the application of paraffin wax is a well-known reputable
+source among the medical community, similar to the use of heat wraps and Epson soaks in warm
+water. You indicate that thermal modalities may help to relieve stiff muscles and joints by
+improving circulation and increasing blood flow. You also state that the application of
+paraffin wax does not require formal training or specialized degrees, and that paraffin wax
+may be purchased over the counter and is often applied in spas and salons.
+
+Section 1904.7(a) of OSHA's recordkeeping regulation requires employers to record work-
+related injuries and illnesses that result in medical treatment beyond first aid. Section
+1904.7(b)(5)(I) states that medical treatment means "the management and care of a patient to
+combat disease or disorder." Under Part 1904, medical treatment does not include "first aid"
+as defined in section 1904.7(b)(5)(ii). Section 1904.7(b)(5)(iii) goes on to state that the
+list of treatments in section 1904.7(b)(5)(ii) is a comprehensive list of first aid
+treatments. Any treatment not included on this list is not considered first aid for OSHA
+recordkeeping purposes.
+
+The regulation at section 1904.7(b)(5)(ii)(E) specifically states that the use of hot and
+cold therapy to treat a work-related injury or illness is first aid for purposes of OSHA
+recordkeeping.
+
+OSHA has determined that the use of paraffin wax to treat a work-related injury or illness
+is a heat treatment within the meaning of “hot or cold therapy” in section
+1904.7(b)(5)(ii)(E) because the warm temperature of the paraffin wax in this application is
+used to relieve pain by increasing blood flow, reducing joint stiffness, and relaxing
+muscles. As such, when heated paraffin wax is used alone to treat a work-related injury or
+illness, the treatment is considered first aid, and the injury or illness is not recordable.
+Please note that the use of such treatments is considered first aid regardless of the number
+of times paraffin wax is applied, where it is applied, or the injury or illness to which it
+is applied.
+
+However, in many cases, heated paraffin wax is used in combination with other methods to
+treat work-related injuries and illnesses. For example, paraffin wax may be used along with
+physical therapy, exercise, or prescription medication. In such cases, the use of paraffin
+wax, in combination with another method that meets the general recording criteria, such as
+medical treatment beyond first aid, job transfer, restricted work activity, or days away
+from work, would make the case recordable. In situations where a worker sustains a
+significant injury or illness, the case almost always involves some other form of medical
+treatment (such as prescription drugs, physical therapy, or chiropractic treatment),
+restricted work, or days away from work. See, OSHA’s discussion of hot and cold therapies in
+the preamble to OSHA’s January 19, 2001, Occupational Injury and Illness Recording and
+Reporting Requirements final rule, published in the Federal Register at 66 FR 5916, 5990.
+
+The State of Indiana operates its own occupational safety and health program under a plan
+approved and monitored by OSHA. Indiana Division of Occupational Safety and Health (IOSHA)
+adopts and enforces standards and investigates safety and health concerns in workplaces
+throughout the state. State Plans are required to have standards and enforcement programs
+that are at least as effective as OSHA’s but may have different or additional requirements.
+
+You may wish to contact Indiana OSHA (IOSHA) at:
+
+Indiana Occupational Safety and Health Administration (IOSHA)
+
+We hope you find this information helpful. OSHA requirements are set by statute, standards,
+and regulations. Our interpretation letters explain these requirements and how they apply to
+particular circumstances, but they cannot create additional employer obligations. This
+letter constitutes OSHA's interpretation of the requirements discussed. Note that our
+enforcement guidance may be affected by changes to OSHA rules.
+
+Directorate of Technical Support and Emergency Management
+
+
+----------------------------------------------------------------------
+
+
+2026-01-20 - Recordability of workplace injuries resulting from personal rechargeable lithium-ion batteries.
+------------------------------------------------------------------------------------------------------------
+
+Source: https://www.osha.gov/laws-regs/standardinterpretations/2026-01-20
+
+Recordability of workplace injuries resulting from personal rechargeable lithium-ion
+batteries.
+
+OSHA requirements are set by statute, standards and regulations. Our interpretation letters
+explain these requirements and how they apply to particular circumstances, but they cannot
+create additional employer obligations. This letter constitutes OSHA's interpretation of the
+requirements discussed. Note that our enforcement guidance may be affected by changes to
+OSHA rules. Also, from time to time we update our guidance in response to new information.
+To keep apprised of such developments, you can consult OSHA's website at
+https://www.osha.gov .
+
+Thank you for your letter to the Occupational Safety and Health Administration (OSHA)
+regarding the recordkeeping regulation contained in 29 CFR Part 1904 - Recording and
+Reporting Occupational Injuries and Illnesses. Specifically, you ask several questions
+concerning whether injuries in the workplace resulting from the use of personal rechargeable
+lithium-ion batteries are work-related for purposes of OSHA recordkeeping.
+
+Scenario: In your letter, you describe a scenario in which employees bring rechargeable
+lithium-ion batteries from home to the workplace for use in e-cigarettes, and that are not
+used in any equipment or device related to employee work duties. You also state that, in
+this scenario, the battery terminals are unprotected and the employee or employees
+improperly carry these batteries in their pants pocket, a fire is sparked by the batteries,
+and that the fire results in employee injury.
+
+Question 1: Does the exception to work-relatedness in 29 CFR 1904.5(b)(3) apply to the
+scenario above because it is not obvious whether the precipitating event occurred in the
+work environment or occurred away from work?
+
+Response: No, section 1904.5(b)(3) of OSHA's recordkeeping regulation does not apply in this
+scenario, assuming that the employee was at your workplace during assigned work hours and
+present as a condition of employment.
+
+OSHA's recordkeeping regulation at 29 CFR 1904.5(a) states, the employer "must consider an
+injury or illness to be work-related if an event or exposure in the work environment either
+caused or contributed to the resulting condition or significantly aggravated a pre-existing
+injury or illness. Work-relatedness is presumed for injuries and illnesses resulting from
+events or exposures occurring in the work environment, unless an exception in § 1904.5(b)(2)
+specifically applies." Section 1904.5(b)(1) defines the work environment as "the
+establishment and other locations where one or more employees are working or are present as
+a condition of their employment."
+
+OSHA's approach to work-relationship in the recordkeeping regulation reflects two important
+principles. The first is that work need only be a causal factor for an injury or illness to
+be work-related. The regulation requires neither precise quantification of the occupational
+cause, nor an assessment of the relative weight of occupational and non-occupational causal
+factors. If work is a tangible, discernible causal factor, the injury or illness is work-
+related. The second principle is that a "geographic presumption" applies for injuries and
+illnesses caused by events or exposures that occur in the work environment. These injuries
+and illnesses must be considered work-related unless an exception to the presumption in
+section 1904.5(b)(2) specifically applies. Accordingly, the presumption encompasses cases in
+which an injury or illness results from an event at work that is outside the employer's
+control, such as a lightning strike, or involves activities that occur at work but that are
+not directly related to production, such as horseplay. See, the preamble to OSHA's January
+19, 2001, Occupational Injury and Illness Recording and Reporting Requirements final rule,
+published in the Federal Register at 66 FR 5916, 5929. See also, e.g., OSHA's May 17, 2023,
+letter of interpretation to Mr. Travis Vance.
+
+In addition, OSHA recognizes that injury and illness rates do not necessarily indicate an
+employer's lack of interest in safety and health. Both the Note to Subpart A of the
+recordkeeping regulation (29 CFR §1904.0) and the Overview to OSHA Form 300, Log of Work-
+Related Injuries and Illnesses ( http://osha.gov/recordkeeping/new-osha300form1-1-04.pdf )
+expressly state that recording a case does not indicate that an employer or employee was at
+fault or that an OSHA standard was violated.
+
+Section 1904.5(b)(3) addresses the determination of work-relatedness only under
+circumstances "when it is not obvious whether the precipitating event or exposure occurred
+in the work environment or occurred away from work." In these situations, the regulation
+requires the employer to evaluate the employee's work duties and environment to decide
+whether it is more likely than not that one or more events or exposures in the work
+environment either caused or contributed to the resulting condition or significantly
+aggravated a pre-existing injury or illness.
+
+Based on the scenario in your letter, the event that caused the injury to an employee is the
+fire that occurred at the workplace. Assuming that, at the time of the injury, if the
+employee was present in the worksite as a condition of their employment, it is "obvious"
+that the event occurred in the work environment and section 1904.5(b)(3) would not apply. In
+such cases, the injury must be considered work-related unless an exception in section
+1904.5(b)(2) specifically applies. With regard to the improper carrying of lithium-ion
+batteries, the nature of the activity which the employee engaged in at the time of the event
+or exposure, the degree of employer control over the employee's activity, the preventability
+of the incident or the concept of fault do not affect the determination of work
+relationship.
+
+Question 2: In the above scenario, is the precipitating event the improper carrying of the
+lithium-ion batteries, or is the precipitating event the fire?
+
+Response: In the above scenario, the precipitating event is the fire in the workplace that
+injured the employee. In other words, the fire was the identifiable event that the burn
+injury resulted from. See OSHA's discussion of precipitating events in the preamble to the
+2001 final rule at 66 FR at 5959. However, as previously discussed, section 1904.5(b)(3) is
+inapplicable in your scenario.
+
+Question 3: Would the exception to work-relatedness at section1904.5(b)(2)(iv) apply in this
+scenario because the injury is solely the result of an employee bringing something personal
+on-site for the employee's personal use?
+
+Response: No, the exception in Section 1904.5(b)(2)(iv) related to eating, drinking, or
+preparing food or drink would not apply to the scenario you describe.
+
+Section 1904.5(b)(2)(iv) provides that injuries and illnesses will not be considered work-
+related if they are solely the result of an employee eating, drinking, or preparing food or
+drink for personal consumption (whether bought on the premises or brought in). The injury
+described in your letter does not fall within the exception in section 1904.5(b)(2)(iv)
+because, at the time of the injury, the employee was not eating, drinking or preparing food
+or drink for personal consumption.
+
+In the preamble to the 2001 recordkeeping final rule, OSHA made clear that the eight
+exceptions listed in section 1904.5(b)(2) are the only exceptions permitted by the
+regulation to the geographic presumption set forth in section 1904.5(a). See, 66 FR at 5950.
+As such, OSHA interprets the exceptions listed in section 1904.5(b)(2) narrowly and the
+exceptions are applied to a given situation only when all conditions within a specific
+exception are met.
+
+In addition, the issue of whether to record injuries and illnesses resulting from employees
+conducting personal tasks in the work environment was directly addressed by OSHA in the 2001
+rulemaking. After careful consideration of the rulemaking record, OSHA concluded that it
+would be difficult in many cases for employers to distinguish between work activities and
+personal activities that occurred during the workday, and that the nature of the activity
+the employee was engaged in at the time of the event or exposure is not relevant in
+determining work-relatedness, except in those limited circumstances addressed by the
+exceptions in section 1904.5(b)(2). See, 66 FR at 5954. Accordingly, the recordkeeping
+regulation contains no general exception for purposes of determining work-relatedness for
+cases involving employees engaged in purely personal tasks.
+
+Finally, note that the recordkeeping regulation does include a specific exception at section
+1904.5(b)(2)(v) that allows employers to exclude injuries and illnesses that are solely the
+result of an employee doing personal tasks unrelated to their employment at the
+establishment when these tasks are conducted outside of the employee's assigned working
+hours. For purposes of the exception in section 1904.5(b)(2)(v), "assigned working hours"
+means those hours the employee is actually expected to work, including overtime, and
+"personal tasks" are those tasks that are unrelated to the employee's job. See, OSHA's
+Frequently Asked Question (FAQ) 5-4 and 5-5. Based on the scenario you describe, there is no
+indication that the injured employee was either carrying or using lithium batteries in the
+work environment outside assigned working hours. As a result, the exception in section
+1904.5(b)(2)(v) would not apply to your scenario.
+
+Question 4: Does the personal grooming exception in section 1904.5(b)(2)(vi) apply under the
+facts described above?
+
+Response: No. The exception in section 1904.5(b)(2)(vi) related to personal grooming also
+would not apply to the scenario you describe. Section 1904.5(b)(2)(vi) provides that a case
+will not be considered work-related if the injury or illness is solely the result of
+personal grooming, self-medication for a non-work-related condition, or is intentionally
+self-inflicted. This exception allows the employer to exclude cases related to personal
+hygiene, self-administered medications and intentional self-inflicted injuries, such as
+attempted suicide. For example, a burn injury from a hair dryer used at work to dry the
+employee's hair would not be work-related. Similarly, a negative reaction to a medication
+brought from home by the employee to treat a non-work condition would not be considered a
+work-related illness, even though it first manifested at work. See, 66 FR at 5951.
+
+A burn injury resulting from carrying a lithium-ion battery for purposes of e-cigarette use
+in the work environment does not fall within the exception in section 1904.5(b)(2)(vi)
+because it does not involve personal grooming, self-medication for a non-work-related
+condition, or an intentionally self-inflicted injury. Again, as noted above, the eight
+exceptions listed in section 1904.5(b)(2) are the only exceptions to the presumption of
+work-relatedness in section 1904.5(a) and, in order for a specific exception to apply, the
+case must meet all conditions within that exception.
+
+Question 5: Does it make any difference if the injury is caused (or was contributed to) by
+the lithium­ ion battery being co-mingled with an employer-provided item, such as a metallic
+key used at work?
+
+Response: No. For reasons described above, none of the exceptions to work-relatedness in
+section 1904.5(b)(2) apply to the scenario you describe. Therefore, for purposes of
+determining work-relatedness, it makes no difference if the employee's injury was caused by
+the lithium-ion battery being co-mingled with an employer provided item used at work.
+
+We hope you find this information helpful. OSHA requirements are set by statute, standards,
+and regulations. Our interpretation letters explain these requirements and how they apply to
+particular circumstances, but they cannot create additional employer obligations. This
+letter constitutes OSHA's interpretation of the requirements discussed. Note that our
+enforcement guidance may be affected by changes to OSHA rules.
+
+Directorate of Technical Support and Emergency Management

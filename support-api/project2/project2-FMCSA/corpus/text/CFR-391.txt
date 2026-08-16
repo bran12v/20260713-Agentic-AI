@@ -1,0 +1,417 @@
+
+49 CFR Part 391 - Qualifications of Drivers
+===========================================
+
+
+§ 391.11 General qualifications of drivers.
+-------------------------------------------
+
+(a) A person shall not drive a commercial motor vehicle unless he/she is qualified to drive
+a commercial motor vehicle. Except as provided in § 391.63, a motor carrier shall not
+require or permit a person to drive a commercial motor vehicle unless that person is
+qualified to drive a commercial motor vehicle.
+
+(b) Except as provided in subpart G of this part, a person is qualified to drive a motor
+vehicle if he/she—
+
+(1) Is at least 21 years old;
+
+(2) Can read and speak the English language sufficiently to converse with the general
+public, to understand highway traffic signs and signals in the English language, to respond
+to official inquiries, and to make entries on reports and records;
+
+(3) Can, by reason of experience, training, or both, safely operate the type of commercial
+motor vehicle he/she drives;
+
+(4) Is physically qualified to drive a commercial motor vehicle in accordance with subpart
+E—Physical Qualifications and Examinations of this part;
+
+(5) Has a currently valid commercial motor vehicle operator's license issued only by one
+State or jurisdiction;
+
+(6) Is not disqualified to drive a commercial motor vehicle under the rules in § 391.15; and
+
+(7) Has successfully completed a driver's road test and has been issued a certificate of
+driver's road test in accordance with § 391.31, or has presented an operator's license or a
+certificate of road test which the motor carrier that employs him/her has accepted as
+equivalent to a road test in accordance with § 391.33.
+
+
+----------------------------------------------------------------------
+
+
+§ 391.41 Physical qualifications for drivers.
+---------------------------------------------
+
+(a)(1)(i) A person subject to this part must not operate a commercial motor vehicle unless
+he or she is medically certified as physically qualified to do so, and, except as provided
+in paragraph (a)(2) of this section, when on-duty has on his or her person the original, or
+a copy, of a current medical examiner's certificate that he or she is physically qualified
+to drive a commercial motor vehicle. NOTE: Effective December 29, 1991, and as amended on
+January 19, 2017, the FMCSA Administrator determined that the Licencia Federal de Conductor
+issued by the United Mexican States is recognized as proof of medical fitness to drive a
+CMV. The United States and Canada entered into a Reciprocity Agreement, effective March 30,
+1999, recognizing that a Canadian commercial driver's license is proof of medical fitness to
+drive a CMV. Therefore, Canadian and Mexican CMV drivers are not required to have in their
+possession a medical examiner's certificate if the driver has been issued, and possesses, a
+valid commercial driver license issued by the United Mexican States, or a Canadian Province
+or Territory, and whose license and medical status, including any waiver or exemption, can
+be electronically verified. Drivers from any of the countries who have received a medical
+authorization that deviates from the mutually accepted compatible medical standards of the
+resident country are not qualified to drive a CMV in the other countries. For example,
+Canadian drivers who do not meet the medical fitness provisions of the Canadian National
+Safety Code for Motor Carriers but are issued a waiver by one of the Canadian Provinces or
+Territories, are not qualified to drive a CMV in the United States. In addition, U.S.
+drivers who received a exemption or waiver from FMCSA are not qualified to drive a CMV in
+Canada.
+
+(ii) A person who qualifies for the medical examiner's certificate by virtue of having
+obtained a medical variance from FMCSA, in the form of an exemption letter or a skill
+performance evaluation certificate, must have on his or her person a copy of the variance
+documentation when on-duty.
+
+(2) CDL/CLP exception. (i)(A) Beginning on January 30, 2015 and through June 22, 2025, a
+driver required to have a commercial driver's license under part 383 of this chapter, and
+who submitted a current medical examiner's certificate to the State in accordance with 49
+CFR 383.71(h) documenting that he or she meets the physical qualification requirements of
+this part, no longer needs to carry on his or her person the medical examiner's certificate
+specified at § 391.43(h), or a copy, for more than 15 days after the date it was issued as
+valid proof of medical certification.
+
+(B) On or after June 23, 2025, a driver required to have a commercial driver's license or a
+commercial learner's permit under 49 CFR part 383, and who has a current medical examiner's
+certificate documenting that he or she meets the physical qualification requirements of this
+part, no longer needs to carry on his or her person the medical examiner's certificate
+specified at § 391.43(h).
+
+(ii) Beginning on July 8, 2015, and through June 22, 2025, a driver required to have a
+commercial learner's permit under part 383 of this chapter, and who submitted a current
+medical examiner's certificate to the State in accordance with § 383.71(h) of this chapter
+documenting that he or she meets the physical qualification requirements of this part, no
+longer needs to carry on his or her person the medical examiner's certificate specified at §
+391.43(h), or a copy for more than 15 days after the date it was issued as valid proof of
+medical certification.
+
+(iii) A CDL or CLP holder required by § 383.71(h) of this chapter to obtain a medical
+examiner's certificate, who obtained such by virtue of having obtained a medical variance
+from FMCSA, must continue to have in his or her possession the original or copy of that
+medical variance documentation at all times when on-duty.
+
+(iv) In the event of a conflict between the medical certification information provided
+electronically by FMCSA and a paper copy of the medical examiner's certificate, the medical
+certification information provided electronically by FMCSA shall control.
+
+(3) A person is physically qualified to drive a commercial motor vehicle if:
+
+(i) That person meets the physical qualification standards in paragraph (b) of this section
+and has complied with the medical examination requirements in § 391.43; or
+
+(ii) That person obtained from FMCSA a medical variance from the physical qualification
+standards in paragraph (b) of this section and has complied with the medical examination
+requirement in § 391.43.
+
+(b) A person is physically qualified to drive a commercial motor vehicle if that person—
+
+(1) Has no loss of a foot, a leg, a hand, or an arm, or has been granted a skill performance
+evaluation certificate pursuant to § 391.49;
+
+(2) Has no impairment of:
+
+(i) A hand or finger which interferes with prehension or power grasping; or
+
+(ii) An arm, foot, or leg which interferes with the ability to perform normal tasks
+associated with operating a commercial motor vehicle; or any other significant limb defect
+or limitation which interferes with the ability to perform normal tasks associated with
+operating a commercial motor vehicle; or has been granted a skill performance evaluation
+certificate pursuant to § 391.49;
+
+(3) Has no established medical history or clinical diagnosis of diabetes mellitus currently
+treated with insulin for control, unless the person meets the requirements in § 391.46;
+
+(4) Has no current clinical diagnosis of myocardial infarction, angina pectoris, coronary
+insufficiency, thrombosis, or any other cardiovascular disease of a variety known to be
+accompanied by syncope, dyspnea, collapse, or congestive cardiac failure;
+
+(5) Has no established medical history or clinical diagnosis of a respiratory dysfunction
+likely to interfere with his/her ability to control and drive a commercial motor vehicle
+safely;
+
+(6) Has no current clinical diagnosis of high blood pressure likely to interfere with
+his/her ability to operate a commercial motor vehicle safely;
+
+(7) Has no established medical history or clinical diagnosis of rheumatic, arthritic,
+orthopedic, muscular, neuromuscular, or vascular disease which interferes with his/her
+ability to control and operate a commercial motor vehicle safely;
+
+(8) Has no established medical history or clinical diagnosis of epilepsy or any other
+condition which is likely to cause loss of consciousness or any loss of ability to control a
+commercial motor vehicle;
+
+(9) Has no mental, nervous, organic, or functional disease or psychiatric disorder likely to
+interfere with his/her ability to drive a commercial motor vehicle safely;
+
+(10)(i) Has distant visual acuity of at least 20/40 (Snellen) in each eye without corrective
+lenses or visual acuity separately corrected to 20/40 (Snellen) or better with corrective
+lenses, distant binocular acuity of at least 20/40 (Snellen) in both eyes with or without
+corrective lenses, field of vision of at least 70° in the horizontal meridian in each eye,
+and the ability to recognize the colors of traffic signals and devices showing standard red,
+green, and amber; or
+
+(ii) Meets the requirements in § 391.44, if the person does not satisfy, with the worse eye,
+either the distant visual acuity standard with corrective lenses or the field of vision
+standard, or both, in paragraph (b)(10)(i) of this section;
+
+(11) First perceives a forced whispered voice in the better ear at not less than 5 feet with
+or without the use of a hearing aid or, if tested by use of an audiometric device, does not
+have an average hearing loss in the better ear greater than 40 decibels at 500 Hz, 1,000 Hz,
+and 2,000 Hz with or without a hearing aid when the audiometric device is calibrated to
+American National Standard (formerly ASA Standard) Z24.5—1951;
+
+(12)(i) Does not use any drug or substance identified in 21 CFR 1308.11 Schedule I, an
+amphetamine, a narcotic, or other habit-forming drug; or
+
+(ii) Does not use any non-Schedule I drug or substance that is identified in the other
+Schedules in 21 CFR part 1308 except when the use is prescribed by a licensed medical
+practitioner, as defined in § 382.107 of this chapter, who is familiar with the driver's
+medical history and has advised the driver that the substance will not adversely affect the
+driver's ability to safely operate a commercial motor vehicle; and
+
+(13) Has no current clinical diagnosis of alcoholism.
+
+
+----------------------------------------------------------------------
+
+
+§ 391.43 Medical examination; certificate of physical examination.
+------------------------------------------------------------------
+
+(a) Except as provided by paragraph (b) of this section, the medical examination must be
+performed by a medical examiner listed on the National Registry of Certified Medical
+Examiners under subpart D of part 390 of this chapter.
+
+(b) Exceptions:
+
+(1) A licensed ophthalmologist or licensed optometrist may perform the part of the medical
+examination that involves visual acuity, field of vision, and the ability to recognize
+colors as specified in § 391.41(b)(10).
+
+(2) A certified VA medical examiner must only perform medical examinations of veteran
+operators.
+
+(c) Medical examiners shall:
+
+(1) Be knowledgeable of the specific physical and mental demands associated with operating a
+commercial motor vehicle and the requirements of this subpart, including the medical
+advisory criteria prepared by the FMCSA as guidelines to aid the medical examiner in making
+the qualification determination; and
+
+(2) Be proficient in the use of and use the medical protocols necessary to adequately
+perform the medical examination required by this section.
+
+(d) Any driver authorized to operate a commercial motor vehicle within an exempt intracity
+zone pursuant to § 391.62 of this part shall furnish the examining medical examiner with a
+copy of the medical findings that led to the issuance of the first certificate of medical
+examination which allowed the driver to operate a commercial motor vehicle wholly within an
+exempt intracity zone.
+
+(e) [Reserved]
+
+(f) The medical examination shall be performed, and its results shall be recorded on the
+Medical Examination Report Form, MCSA-5875, set out in this paragraph (f):
+
+(g) Upon completion of the medical examination required by this subpart:
+
+(1) The medical examiner must date and sign the Medical Examination Report and provide his
+or her full name, office address, and telephone number on the Report.
+
+(2)(i) Before June 23, 2025, if the medical examiner finds that the person examined is
+physically qualified to operate a commercial motor vehicle in accordance with § 391.41(b),
+he or she must complete a certificate in the form prescribed in paragraph (h) of this
+section and furnish the original to the person who was examined. The examiner must provide a
+copy to a prospective or current employing motor carrier who requests it.
+
+(ii) On or after June 23, 2025, if the medical examiner identifies that the person examined
+will not be operating a commercial motor vehicle that requires a commercial driver's license
+or a commercial learner's permit and finds that the driver is physically qualified to
+operate a commercial motor vehicle in accordance with § 391.41(b), he or she must complete a
+certificate in the form prescribed in paragraph (h) of this section and furnish the original
+to the person who was examined. The examiner must provide a copy to a prospective or current
+employing motor carrier who requests it.
+
+(3) On or after June 23, 2025, if the medical examiner finds that the person examined is not
+physically qualified to operate a commercial motor vehicle in accordance with § 391.41(b),
+he or she must inform the person examined that he or she is not physically qualified, and
+that this information will be reported to FMCSA. All medical examiner's certificates
+previously issued to the person are not valid and no longer satisfy the requirements of §
+391.41(a).
+
+(4) Beginning December 22, 2015, if the medical examiner finds that the determination of
+whether the person examined is physically qualified to operate a commercial motor vehicle in
+accordance with § 391.41(b) should be delayed to receive additional information or to
+conduct further examination in order for the medical examiner to make such determination, he
+or she must inform the person examined that the additional information must be provided or
+the further examination completed within 45 days, and that the pending status of the
+examination will be reported to FMCSA.
+
+(5)(i)(A) Once every calendar month, beginning May 21, 2014 and ending on June 22, 2018, the
+medical examiner must electronically transmit to FMCSA, via a secure Web account on the
+National Registry, a completed CMV Driver Medical Examination Results Form, MCSA-5850. The
+Form must include all information specified for each medical examination conducted during
+the previous month for any driver who is required to be examined by a medical examiner
+listed on the National Registry of Certified Medical Examiners.
+
+(B) Beginning June 22, 2018 by midnight (local time) of the next calendar day after the
+medical examiner completes a medical examination for any driver who is required to be
+examined by a medical examiner listed on the National Registry of Certified Medical
+Examiners, the medical examiner must electronically transmit to FMCSA, via a secure FMCSA-
+designated website, a completed CMV Driver Medical Examination Results Form, MCSA-5850. The
+Form must include all information specified for each medical examination conducted for each
+driver who is required to be examined by a medical examiner listed on the National Registry
+of Certified Medical Examiners in accordance with the provisions of this subpart E, and
+should also include information for each driver who is required by a State to be examined by
+a medical examiner listed on the National Registry of Certified Medical Examiners in
+accordance with the provisions of this subpart and any variances from those provisions
+adopted by such State.
+
+(ii) Beginning on June 22, 2015, if the medical examiner does not perform a medical
+examination of any driver who is required to be examined by a medical examiner listed on the
+National Registry of Certified Medical Examiners during any calendar month, the medical
+examiner must report that fact to FMCSA, via a secure FMCSA-designated website, by the close
+of business on the last day of such month.
+
+(h) The medical examiner's certificate shall be completed in accordance with the following
+Form MCSA-5876, Medical Examiner's Certificate:
+
+(i) Each original (paper or electronic) completed Medical Examination Report and a copy or
+electronic version of each medical examiner's certificate must be retained on file at the
+office of the medical examiner for at least 3 years from the date of examination. The
+medical examiner must make all records and information in these files available to an
+authorized representative of FMCSA or an authorized Federal, State, or local enforcement
+agency representative, within 48 hours after the request is made.
+
+
+----------------------------------------------------------------------
+
+
+§ 391.45 Persons who must be medically examined and certified.
+--------------------------------------------------------------
+
+The following persons must be medically examined and certified in accordance with § 391.43
+as physically qualified to operate a commercial motor vehicle:
+
+(a) Any person who has not been medically examined and certified as physically qualified to
+operate a commercial motor vehicle;
+
+(b) Any driver who has not been medically examined and certified as qualified to operate a
+commercial motor vehicle during the preceding 24 months, unless the driver is required to be
+examined and certified in accordance with paragraph (c), (e), (f), (g), or (h) of this
+section;
+
+(c) Any driver authorized to operate a commercial motor vehicle only within an exempt
+intracity zone pursuant to § 391.62, if such driver has not been medically examined and
+certified as qualified to drive in such zone during the preceding 12 months;
+
+(d) [Reserved]
+
+(e) Any driver who has diabetes mellitus treated with insulin for control and who has
+obtained a medical examiner's certificate under the standards in § 391.46, if such driver's
+most recent medical examination and certification as qualified to drive did not occur during
+the preceding 12 months;
+
+(f) Any driver who does not satisfy, with the worse eye, either the distant visual acuity
+standard with corrective lenses or the field of vision standard, or both, in §
+391.41(b)(10)(i) and who has obtained a medical examiner's certificate under the standards
+in § 391.44, if such driver's most recent medical examination and certification as qualified
+to drive did not occur during the preceding 12 months;
+
+(g) Any driver whose ability to perform his or her normal duties has been impaired by a
+physical or mental injury or disease; and
+
+(h) On or after June 23, 2025, any person found by a medical examiner not to be physically
+qualified to operate a commercial motor vehicle under the provisions of paragraph (g)(3) of
+§ 391.43.
+
+
+----------------------------------------------------------------------
+
+
+§ 391.51 General requirements for driver qualification files.
+-------------------------------------------------------------
+
+(a) Each motor carrier shall maintain a driver qualification file for each driver it
+employs. A driver's qualification file may be combined with his/her personnel file.
+
+(b) The qualification file for a driver must include:
+
+(1) The driver's application for employment completed in accordance with § 391.21;
+
+(2) A copy of the motor vehicle record received from each driver's licensing authority
+pursuant to § 391.23(a)(1);
+
+(3) The certificate of driver's road test issued to the driver pursuant to § 391.31(e), a
+copy of the license or certificate which the motor carrier accepted as equivalent to the
+driver's road test pursuant to § 391.33, or the original of the written statement providing
+that the motor carrier determined the driver is not required by § 391.44(d) to complete a
+road test pursuant to § 391.44(d)(3)(ii)(A) and the original, or a copy, of the driver's
+certification required by § 391.44(d)(3)(i);
+
+(4) The motor vehicle record received from each driver's licensing authority to the annual
+driver record inquiry required by § 391.25(a);
+
+(5) A note relating to the annual review of the driver's driving record as required by §
+391.25(c)(2);
+
+(6)(i) The medical examiner's certificate as required by § 391.43(g) or a legible copy of
+the certificate.
+
+(ii) For CDL holders, beginning January 30, 2012, if the CDLIS motor vehicle record contains
+medical certification status information, the motor carrier employer must meet this
+requirement by obtaining the CDLIS motor vehicle record defined at § 384.105 of this
+chapter. That record must be obtained from the current licensing State and placed in the
+driver qualification file. After January 30, 2015, a non-excepted, interstate CDL holder
+without medical certification status information on the CDLIS motor vehicle record is
+designated “not-certified” to operate a CMV in interstate commerce. After January 30, 2015,
+and through June 22, 2025, a motor carrier may use a copy of the driver's current medical
+examiner's certificate that was submitted to the State for up to 15 days from the date it
+was issued as proof of medical certification.
+
+(iii) If that driver obtained the medical certification based on having obtained a medical
+variance from FMCSA, the motor carrier must also include a copy of the medical variance
+documentation in the driver qualification file in accordance with paragraph (b)(7) of this
+section;
+
+(7) A Skill Performance Evaluation Certificate issued by FMCSA in accordance with § 391.49;
+or the Medical Exemption document issued by a Federal medical program in accordance with
+part 381 of this chapter; and
+
+(8)(i) For drivers not required to have a CDL, a note relating to verification of medical
+examiner listing on the National Registry of Certified Medical Examiners required by §
+391.23(m)(1).
+
+(ii) Through June 22, 2025, for drivers required to have a CDL, a note relating to
+verification of medical examiner listing on the National Registry of Certified Medical
+Examiners required by § 391.23(m)(2).
+
+(c) Except as provided in paragraph (d) of this section, each driver's qualification file
+shall be retained for as long as a driver is employed by that motor carrier and for three
+years thereafter.
+
+(d) The following records may be removed from a driver's qualification file three years
+after the date of execution:
+
+(1) The motor vehicle record received from each driver's licensing authority to the annual
+driver record inquiry required by § 391.25(a);
+
+(2) The note relating to the annual review of the driver's driving record as required by §
+391.25(c)(2);
+
+(3) The medical examiner's certificate required by § 391.43(g), a legible copy of the
+certificate, or, for CDL drivers, any CDLIS MVR obtained as required by paragraph (b)(6)(ii)
+of this section;
+
+(4) Any medical variance issued by FMCSA, including a Skill Performance Evaluation
+Certificate issued in accordance with § 391.49; or the Medical Exemption letter issued by a
+Federal medical program in accordance with part 381 of this chapter; and
+
+(5) The note relating to verification of medical examiner listing on the National Registry
+of Certified Medical Examiners required by § 391.23(m).

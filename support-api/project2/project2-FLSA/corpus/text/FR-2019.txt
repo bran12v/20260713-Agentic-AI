@@ -1,0 +1,2576 @@
+
+--- page 1 ---
+51230 Federal Register / Vol. 84, No. 188 / Friday, September 27, 2019 / Rules and Regulations 
+DEPARTMENT OF LABOR 
+Wage and Hour Division 
+29 CFR Part 541 
+RIN 1235–AA20 
+Defining and Delimiting the 
+Exemptions for Executive, 
+Administrative, Professional, Outside 
+Sales and Computer Employees 
+AGENCY: Wage and Hour Division, 
+Department of Labor. 
+ACTION: Final rule. 
+SUMMARY: The Department of Labor is 
+updating and revising the regulations 
+issued under the Fair Labor Standards 
+Act implementing the exemptions from 
+minimum wage and overtime pay 
+requirements for executive, 
+administrative, professional, outside 
+sales, and computer employees. 
+DATES: This final rule is effective on 
+January 1, 2020. 
+FOR FURTHER INFORMATION CONTACT : 
+Amy DeBisschop, Director, Division of 
+Regulations, Legislation, and 
+Interpretation, Wage and Hour Division, 
+U.S. Department of Labor, Room S– 
+3502, 200 Constitution Avenue NW, 
+Washington, DC 20210; telephone: (202) 
+693–0406 (this is not a toll-free 
+number). Copies of this final rule may 
+be obtained in alternative formats (Large 
+Print, Braille, Audio Tape or Disc), upon 
+request, by calling (202) 693–0675 (this 
+is not a toll-free number). TTY/TDD 
+callers may dial toll-free 1–877–889– 
+5627 to obtain information or request 
+materials in alternative formats. 
+Questions of interpretation and/or 
+enforcement of the agency’s regulations 
+may be directed to the nearest WHD 
+district office. Locate the nearest office 
+by calling WHD’s toll-free help line at 
+(866) 4US–WAGE ((866) 487–9243) 
+between 8 a.m. and 5 p.m. in your local 
+time zone, or log onto WHD’s website 
+for a nationwide listing of WHD district 
+and area offices at http://www.dol.gov/ 
+whd/america2.htm. 
+SUPPLEMENTARY INFORMATION: 
+Table of Contents 
+I. Executive Summary 
+II. Background 
+A. The FLSA 
+B. Regulatory History 
+C. Overview of Existing Regulatory 
+Requirements 
+D. The Department’s Proposal 
+E. Final Rule Effective Date 
+III. Need for Rulemaking 
+IV. Final Regulatory Revisions 
+A. Standard Salary Level 
+B. Special Salary Tests 
+C. Inclusion of Nondiscretionary Bonuses, 
+Incentive Payments, and Commissions in 
+the Salary Level Requirement 
+D. Highly Compensated Employees 
+E. Future Updates to the Earnings 
+Thresholds 
+V. Paperwork Reduction Act 
+VI. Analysis Conducted in Accordance With 
+Executive Order 12866, Regulatory 
+Planning and Review, and Executive 
+Order 13563, Improving Regulation and 
+Regulatory Review 
+A. Introduction 
+B. Methodology To Determine the Number 
+of Potentially Affected EAP Workers 
+C. Determining the Revised Salary and 
+Compensation Levels 
+D. Effects of Revised Salary and 
+Compensation Levels 
+VII. Final Regulatory Flexibility Analysis 
+(FRFA) 
+A. Objectives of, and Need for, the Final 
+Rule 
+B. The Agency’s Response to Public 
+Comments 
+C. Comment by the Chief Counsel for 
+Advocacy of the Small Business 
+Administration 
+D. Description of the Number of Small 
+Entities to Which the Final Rule Will 
+Apply 
+E. Projected Reporting, Recordkeeping, and 
+Other Compliance Requirements of the 
+Final Rule 
+F. Steps the Agency Has Taken To 
+Minimize the Significant Economic 
+Impact on Small Entities 
+G. Identification, to the Extent Practicable, 
+of all Relevant Federal Rules That May 
+Duplicate, Overlap, or Conflict With the 
+Final Rule 
+VIII. Unfunded Mandates Reform Act 
+Analysis 
+A. Authorizing Legislation 
+B. Assessment of Costs and Benefits 
+C. Response to Comments 
+D. Least Burdensome Option or 
+Explanation Required 
+IX. Executive Order 13132, Federalism 
+X. Executive Order 13175, Indian Tribal 
+Governments 
+Amendments to Regulatory Text 
+I. Executive Summary 
+The Fair Labor Standards Act (FLSA 
+or Act) requires covered employers to 
+pay employees a minimum wage and, 
+for employees who work more than 40 
+hours in a week, overtime premium pay 
+of at least 1.5 times the regular rate of 
+pay. Section 13(a)(1) of the FLSA, 
+commonly referred to as the ‘‘white 
+collar’’ or ‘‘EAP’’ exemption, exempts 
+from these minimum wage and overtime 
+pay requirements ‘‘any employee 
+employed in a bona fide executive, 
+administrative, or professional 
+capacity.’’ The statute delegates to the 
+Secretary of Labor (Secretary) the 
+authority to define and delimit the 
+terms of the exemption. Since 1940, the 
+regulations implementing the 
+exemption have generally required each 
+of the following three tests to be met: (1) 
+The employee must be paid a 
+predetermined and fixed salary that is 
+not subject to reduction because of 
+variations in the quality or quantity of 
+work performed (the ‘‘salary basis test’’); 
+(2) the amount of salary paid must meet 
+a minimum specified amount (the 
+‘‘salary level test’’); and (3) the 
+employee’s job duties must primarily 
+involve executive, administrative, or 
+professional duties as defined by the 
+regulations (the ‘‘duties test’’). 
+The Department of Labor 
+(Department) has long used the salary 
+level test as a tool to help define the 
+white collar exemption on the basis that 
+employees paid less than the salary 
+level are unlikely to be bona fide 
+executive, administrative, or 
+professional employees, and, 
+conversely, that nearly all bona fide 
+executive, administrative, and 
+professional employees are paid at least 
+that much. The salary level test provides 
+certainty for employers and employees, 
+as well as efficiency for government 
+enforcement agencies. The salary level 
+test’s usefulness, however, diminishes 
+as the wages of employees entitled to 
+overtime increase and inflation reduces 
+the real value of the salary threshold. 
+The Department increased the 
+standard salary level from $455 per 
+week ($23,660 per year) to $913 per 
+week ($47,476 per year) in a final rule 
+published May 23, 2016 (‘‘2016 final 
+rule’’). That rulemaking was challenged 
+in court, and on November 22, 2016, the 
+U.S. District Court for the Eastern 
+District of Texas enjoined the 
+Department from implementing and 
+enforcing the rule. On August 31, 2017, 
+the court granted summary judgment 
+against the Department, invalidating the 
+2016 final rule because it ‘‘makes 
+overtime status depend predominately 
+on a minimum salary level, thereby 
+supplanting an analysis of an 
+employee’s job duties.’’ Nevada v. U.S. 
+Dep’t of Labor, 275 F. Supp. 3d 795, 806 
+(E.D. Tex. 2017). An appeal of that 
+decision to the U.S. Court of Appeals for 
+the Fifth Circuit is being held in 
+abeyance. Currently, the Department is 
+enforcing the regulations in effect on 
+November 30, 2016, including the $455 
+per week standard salary level, which is 
+the level that was set in a final rule 
+issued April 23, 2004 (‘‘2004 final 
+rule’’). 
+Taking into account the Nevada 
+district court’s conclusion with respect 
+to the salary level, public comments 
+received in response to a July 26, 2017 
+Request for Information (RFI), and 
+feedback received at public listening 
+sessions, the Department has 
+undertaken this rulemaking to revise the 
+part 541 regulations so that they 
+VerDate Sep<11>2014 18:58 Sep 26, 2019 Jkt 247001 PO 00000 Frm 00002 Fmt 4701 Sfmt 4700 E:\FR\FM\27SER2.SGM 27SER2jbell on DSK3GLQ082PROD with RULES2
+--- page 2 ---
+51231 Federal Register / Vol. 84, No. 188 / Friday, September 27, 2019 / Rules and Regulations 
+1 69 FR 22171. 
+2 The South Census Region comprises the 
+following: Alabama, Arkansas, Delaware, District of 
+Columbia, Florida, Georgia, Kentucky, Louisiana, 
+Maryland, Mississippi, North Carolina, Oklahoma, 
+South Carolina, Tennessee, Texas, Virginia, and 
+West Virginia. 
+3 In 2004, the Department looked to the 20th 
+percentile of full-time salaried workers in the South 
+and in the retail industry nationally to validate the 
+standard salary level set in the final rule. In this 
+final rule, the Department set the standard salary 
+level at the 20th percentile of the combined 
+subpopulations of full-time salaried employees in 
+the South and full-time salaried employees in the 
+retail industry nationwide. Accordingly, the use of 
+‘‘and/or’’ when describing the salary level 
+methodology in this final rule reflects that this data 
+set includes full-time salaried workers who work: 
+(1) In the South but not in the retail industry; (2) 
+in the retail industry but not in the South; and (3) 
+in the South in the retail industry. 
+4 Specifically, one organization submitted 
+spreadsheets containing over 56,000 comments 
+from individuals. Of the comments contained in 
+this submission, more than 34,000 were duplicates 
+of comments that were submitted separately by 
+these individuals. Additionally, numerous 
+individual comments associated with this campaign 
+were submitted multiple times. Together, these 
+comments make up the vast majority of the 
+comments received. 
+effectively distinguish between the 
+white collar employees whom Congress 
+intended to be protected by the FLSA’s 
+minimum wage and overtime provisions 
+and bona fide executive, administrative, 
+and professional employees whom 
+Congress intended to exempt from those 
+statutory requirements. 
+The Department published a Notice of 
+Proposed Rulemaking (NPRM) on March 
+22, 2019. The NPRM stated that the 
+standard salary level needed to exceed 
+$455 per week to more effectively serve 
+its purpose, but that the 2016 final rule’s 
+increase to $913 per week was 
+inappropriate because it excluded from 
+exemption 4.2 million employees whose 
+duties would have otherwise qualified 
+them for exemption, a result in 
+significant tension with the text of 
+section 13(a)(1). Noting the conclusions 
+of the district court that invalidated the 
+2016 final rule, the Department 
+explained that the 2016 final rule’s 
+inappropriately high salary level 
+‘‘untethered the salary level test from its 
+historical justification’’ of ‘‘[s]etting a 
+dividing line between nonexempt and 
+potentially exempt employees’’ by 
+screening out only those employees 
+who, based on their compensation level, 
+are unlikely to be bona fide executive, 
+administrative, or professional 
+employees. To address the district 
+court’s and the Department’s concern 
+with the 2016 final rule and set a more 
+appropriate salary level, the NPRM 
+proposed to rescind the 2016 final rule 
+and update the salary level by applying 
+the same methodology as the 2004 final 
+rule to current earnings data. 
+In 2004, the Department set the 
+standard salary level at $455 per week 
+($23,660 per year), which was 
+approximately the 20th percentile of 
+full-time salaried workers in the South 
+and in the retail industry nationally.
+1 
+Accordingly, in the NPRM, the 
+Department proposed to update the 
+standard salary level to the 20th 
+percentile of full-time salaried workers 
+in the lowest-wage Census Region (the 
+South)
+2 and/or in the retail industry 
+nationally using current data.3 This 
+methodology resulted in a proposed 
+standard salary level of $679 per week 
+($35,308 per year). Additionally, the 
+Department proposed special salary 
+levels for U.S. territories and an updated 
+base rate for employees in the motion 
+picture producing industry. The 
+Department also proposed to allow 
+employers to count nondiscretionary 
+bonuses and incentive payments toward 
+satisfying up to ten percent of the 
+standard salary level or any of the 
+special salary levels applicable to U.S. 
+territories, so long as such bonuses are 
+paid at least annually. Further, the 
+Department proposed to update the 
+highly compensated employee (HCE) 
+total annual compensation level—a 
+higher compensation level that is paired 
+with a reduced duties requirement to 
+provide an alternative basis for 
+exemption under section 13(a)(1). The 
+HCE level was set at $100,000 in the 
+2004 final rule and increased to 
+$134,004 in the 2016 final rule, but the 
+Department has continued to enforce 
+the $100,000 level in light of the district 
+court’s invalidation of the 2016 final 
+rule. In the NPRM, the Department 
+proposed to update the HCE level by 
+setting it equal to the annualized value 
+of the 90th percentile of weekly 
+earnings of full-time salaried workers 
+nationally, resulting in a level of 
+$147,414 per year. The Department 
+proposed to project both the standard 
+salary level and HCE total annual 
+compensation level to January 2020, the 
+final rule’s anticipated effective date. 
+Finally, the Department explained its 
+commitment to update the standard 
+salary level and HCE total compensation 
+levels more frequently in the future 
+using notice-and-comment rulemaking 
+every four years. The Department 
+proposed no changes to the standard 
+duties tests. 
+The 60-day comment period on the 
+NPRM ended on May 21, 2019, and the 
+Department received more than 116,000 
+comments. The vast majority of these 
+comments, including tens of thousands 
+of duplicate or similar submissions, 
+were campaign comments using similar 
+template language.
+4 After considering 
+the comments, the Department has 
+decided in this final rule to maintain the 
+proposed methodology for updating the 
+part 541 standard salary level, but not 
+to inflate the salary level to January 
+2020. The Department is also finalizing 
+the special salary levels for certain U.S. 
+territories as proposed, and updating the 
+base rate for employees in the motion 
+picture producing industry. 
+Additionally, the Department is 
+finalizing its proposal to permit 
+employers to count nondiscretionary 
+bonuses, incentives, and commissions 
+toward up to 10 percent of the standard 
+salary level or the special salary levels 
+applicable to the U.S. territories, so long 
+as employers pay those amounts at least 
+annually. The Department has also 
+decided to set the HCE total annual 
+compensation threshold equal to the 
+80th percentile of earnings of full-time 
+salaried workers nationally, without 
+inflating the threshold to January 2020. 
+When applied to updated data, these 
+methodologies result in a standard 
+salary level of $684 per week ($35,568 
+per year) and an HCE total annual 
+compensation level of $107,432. Finally, 
+the Department intends to update these 
+thresholds more regularly in the future. 
+The Department estimates that in 
+2020, 1.2 million currently exempt 
+employees who earn at least $455 per 
+week but less than the standard salary 
+level of $684 per week will, without 
+some intervening action by their 
+employers, gain overtime eligibility. The 
+Department also estimates that an 
+additional 2.2 million white collar 
+workers who are currently nonexempt 
+because they do not satisfy the EAP 
+duties tests and currently earn at least 
+$455 per week, but less than $684 per 
+week, will have their overtime-eligible 
+status strengthened in 2020 because 
+these employees will now fail both the 
+salary level and duties tests. Lastly, an 
+estimated 101,800 employees who are 
+currently exempt under the HCE test 
+will be affected by the increase in the 
+HCE total annual compensation level. 
+The Department has not made any 
+changes to the duties tests in this final 
+rule. 
+This rule is considered an Executive 
+Order 13771 deregulatory action. When 
+the Department uses a perpetual time 
+horizon to allow for cost comparisons 
+under Executive Order 13771, and using 
+the 2016 rule as the baseline, the 
+annualized cost savings of this rule is 
+$534.8 million with 7 percent 
+discounting. 
+Because the Department is currently 
+enforcing the 2004 salary level, much of 
+the economic analysis uses the 2004 
+rule as the baseline for calculating costs 
+and transfers. The economic analysis 
+VerDate Sep<11>2014 18:58 Sep 26, 2019 Jkt 247001 PO 00000 Frm 00003 Fmt 4701 Sfmt 4700 E:\FR\FM\27SER2.SGM 27SER2jbell on DSK3GLQ082PROD with RULES2
+--- page 3 ---
+51232 Federal Register / Vol. 84, No. 188 / Friday, September 27, 2019 / Rules and Regulations 
+5 29 U.S.C. 201, et seq. 
+6 3 FR 2518 (Oct. 20, 1938). 
+7 5 FR 4077 (Oct. 15, 1940). The 1940 regulations 
+were informed by what has come to be known as 
+the Stein Report. See ‘‘Executive, Administrative, 
+Professional . . . Outside Salesman’’ Redefined, 
+Wage and Hour Division, U.S. Department of Labor, 
+Report and Recommendations of the Presiding 
+Officer [Harold Stein] at Hearings Preliminary to 
+Redefinition (Oct. 10, 1940) (‘‘Stein Report’’). 
+8 14 FR 7705 (Dec. 24, 1949); 14 FR 7730 (Dec. 
+28, 1949). The 1949 regulations were informed by 
+what has come to be known as the Weiss Report. 
+See Report and Recommendations on Proposed 
+Revisions of Regulations, Part 541, by Harry Weiss, 
+Presiding Officer, Wage and Hour and Public 
+Contracts Divisions, U.S. Department of Labor (June 
+30, 1949) (‘‘Weiss Report’’). 
+9 23 FR 8962 (Nov. 18, 1958). The 1958 
+regulations were informed by what has come to be 
+known at the Kantor Report. See Report and 
+Recommendations on Proposed Revision of 
+Regulations, Part 541, Under the Fair Labor 
+Standards Act, by Harry S. Kantor, Assistant 
+Administrator, Office of Regulations and Research, 
+Wage and Hour and Public Contracts Divisions, 
+U.S. Department of Labor (Mar. 3, 1958) (‘‘Kantor 
+Report’’). 
+10 See 19 FR 4405 (July 17, 1954); 26 FR 8635 
+(Sept. 15, 1961); 28 FR 9505 (Aug. 30, 1963); 32 FR 
+7823 (May 30, 1967); 35 FR 883 (Jan. 22, 1970); 38 
+FR 11390 (May 7, 1973); 40 FR 7091 (Feb. 19, 1975). 
+11 46 FR 3010 (Jan. 13, 1981); 46 FR 11972 (Feb. 
+12, 1981). 
+12 50 FR 47696 (Nov. 19, 1985). 
+13 57 FR 37677 (Aug. 19, 1992). 
+14 57 FR 46742 (Oct. 9, 1992); see Sec. 2, Pub. L. 
+101–583, 104 Stat. 2871 (Nov. 15, 1990), codified 
+at 29 U.S.C. 213 Note. 
+15 69 FR 22122 (Apr. 23, 2004). 
+16 See Nevada v. U.S. Dep’t of Labor, 218 F. Supp. 
+3d 520 (E.D. Tex. 2016). 
+17 See 275 F. Supp. 3d 795. 
+18 Id. at 806. 
+quantifies the direct costs resulting from 
+the rule: (1) Regulatory familiarization 
+costs; (2) adjustment costs; and (3) 
+managerial costs. The Department 
+estimates that annualized direct 
+employer costs in the first 10 years 
+following the rule’s effective date will 
+be $173.3 million with 7 percent 
+discounting, including $543.0 million in 
+Year 1 and $99.1 million in Year 10. 
+This rulemaking will also give 
+employees higher earnings in the form 
+of transfers of income from employers to 
+employees. Annualized transfers are 
+estimated to be $298.8 million over the 
+first ten years, with 7 percent 
+discounting, including $396.4 million in 
+Year 1. 
+II. Background 
+A. The FLSA 
+The FLSA generally requires covered 
+employers to pay their employees at 
+least the federal minimum wage 
+(currently $7.25 an hour) for all hours 
+worked, and overtime premium pay of 
+at least 1.5 times the regular rate of pay 
+for all hours worked over 40 in a 
+workweek.
+5 However, there are a 
+number of exemptions from the FLSA’s 
+minimum wage and overtime 
+requirements. Section 13(a)(1) of the 
+FLSA, codified at 29 U.S.C. 213(a)(1), 
+exempts from both minimum wage and 
+overtime protection ‘‘any employee 
+employed in a bona fide executive, 
+administrative, or professional capacity 
+. . . or in the capacity of outside 
+salesman (as such terms are defined and 
+delimited from time to time by 
+regulations of the Secretary, subject to 
+the provisions of [the Administrative 
+Procedure Act] . . .).’’ The FLSA does 
+not define the terms ‘‘executive,’’ 
+‘‘administrative,’’ ‘‘professional,’’ or 
+‘‘outside salesman.’’ Pursuant to 
+Congress’s grant of rulemaking 
+authority, since 1938 the Department 
+has issued regulations at 29 CFR part 
+541 defining the scope of the section 
+13(a)(1) exemptions. Because Congress 
+explicitly delegated to the Secretary the 
+power to define and delimit the specific 
+terms of the exemptions through notice 
+and comment rulemaking, the 
+regulations so issued have the binding 
+effect of law. See Batterton v. Francis, 
+432 U.S. 416, 425 n.9 (1977). 
+Employees who meet the 
+requirements of part 541 are not subject 
+to the FLSA’s minimum wage and 
+overtime pay requirements. Some state 
+laws have stricter exemption standards 
+than federal law. The FLSA does not 
+preempt any such stricter state 
+standards. If a State establishes a higher 
+standard than the provisions of the 
+FLSA, the higher standard applies in 
+that State. See 29 U.S.C. 218(a); 29 CFR 
+541.4. 
+B. Regulatory History 
+The Department has consistently used 
+its rulemaking authority to define and 
+clarify the section 13(a)(1) exemptions. 
+The implementing regulations have 
+generally required each of three tests to 
+be met for the exemptions to apply: (1) 
+The salary basis test; (2) the salary level 
+test; and (3) the duties test. 
+The first version of part 541, 
+establishing the criteria for exempt 
+status under section 13(a)(1), was 
+promulgated in October 1938.
+6 The 
+Department revised its regulations in 
+1940,
+7 1949,8 1954, 1958,9 1961, 1963, 
+1967, 1970, 1973, and 1975.10 A final 
+rule increasing the salary levels was 
+published on January 13, 1981, but was 
+stayed indefinitely on February 12, 
+1981.
+11 In 1985, the Department 
+published an Advance Notice of 
+Proposed Rulemaking that was never 
+finalized.
+12 In 1992, the Department 
+twice revised the part 541 regulations. 
+First, the Department created a limited 
+exception from the salary basis test for 
+public employees.
+13 The Department 
+then implemented the 1990 law 
+exempting employees in certain 
+computer-related occupations.
+14 
+From 1949 until 2004, the part 541 
+regulations contained two different tests 
+for exemption—a ‘‘long’’ test that paired 
+a more rigorous duties test with a lower 
+salary level, and a ‘‘short’’ test that 
+paired a more flexible duties test with 
+a higher salary level. On April 23, 2004, 
+the Department issued a final rule, 
+which replaced the ‘‘long’’ and ‘‘short’’ 
+test system for determining exemption 
+status with a single ‘‘standard’’ salary 
+level paired with a ‘‘standard’’ duties 
+test.
+15 The Department set the standard 
+salary level at $455 per week, and made 
+other changes, some of which are 
+discussed below. In the 2004 final rule, 
+the Department also created the HCE 
+test for exemption, which paired a 
+reduced duties requirement with a 
+higher compensation level ($100,000 
+per year). 
+On May 23, 2016, the Department 
+issued another final rule, which raised 
+the standard salary level to the 40th 
+percentile of earnings of full-time 
+salaried workers in the lowest-wage 
+Census Region, resulting in a salary 
+level of $913 per week. Additionally, 
+the Department set the HCE total annual 
+compensation level equal to the 90th 
+percentile of earnings of full-time 
+salaried workers nationally ($134,004 
+annually). The Department also 
+included in the final rule a mechanism 
+to automatically update (every three 
+years) the salary and compensation 
+thresholds, and for the first time 
+permitted nondiscretionary bonuses, 
+incentives, and commissions paid at 
+least quarterly to count toward up to 10 
+percent of the required salary level. 
+On November 22, 2016, the United 
+States District Court for the Eastern 
+District of Texas issued a preliminary 
+injunction, enjoining the Department 
+from implementing and enforcing the 
+2016 final rule, pending further 
+review.
+16 On August 31, 2017, the 
+district court granted summary 
+judgment against the Department.
+17 The 
+court held that the 2016 final rule’s 
+salary level exceeded the Department’s 
+authority and that the entire final rule 
+was therefore invalid. The court 
+determined that a salary level that 
+‘‘supplant[s] an analysis of an 
+employee’s job duties’’ conflicts with 
+Congress’s command to exempt bona 
+fide executive, administrative, and 
+professional employees.
+18 As a result of 
+these rulings, the Department has 
+continued to enforce the salary level set 
+in 2004. 
+On July 26, 2017, the Department 
+published an RFI asking for public input 
+VerDate Sep<11>2014 18:58 Sep 26, 2019 Jkt 247001 PO 00000 Frm 00004 Fmt 4701 Sfmt 4700 E:\FR\FM\27SER2.SGM 27SER2jbell on DSK3GLQ082PROD with RULES2
+--- page 4 ---
+51233 Federal Register / Vol. 84, No. 188 / Friday, September 27, 2019 / Rules and Regulations 
+19 82 FR 34616 (July 26, 2017). 
+20 Listening Session transcripts may be viewed at 
+www.regulations.gov, docket ID WHD–2017–0002. 
+21 See, e.g., Idaho Sheet Metal Works, Inc. v. 
+Wirtz, 383 U.S. 190, 209 (1966); Walling v. Gen. 
+Indus. Co., 330 U.S. 545, 547–48 (1947). 
+22 See §§ 541.100 (executive employees); 541.200 
+(administrative employees); 541.300–.303 (teachers 
+and professional employees); 541.400 (computer 
+employees); 541.500 (outside sales employees). 
+23 Alternatively, administrative and professional 
+employees may be paid on a ‘‘fee basis’’ for a single 
+job regardless of the time required for its 
+completion as long as the hourly rate for work 
+performed (i.e., the fee payment divided by the 
+number of hours worked) would total at least the 
+weekly amount specified in the regulation if the 
+employee worked 40 hours. See § 541.605. 
+24 See §§ 541.101; 541.303(d); 541.304(d); 
+541.500(c); 541.600(e). Such employees are also not 
+subject to a fee-basis test. 
+25 See § 541.600(c)–(d). 
+26 69 FR 22123. 
+27 The current text of the Code of Federal 
+Regulations (CFR) reflects the updates made in the 
+2016 final rule. Therefore, unless otherwise 
+indicated, citations to part 541 refer to the current 
+CFR, and the amendments to the regulatory text 
+reflect the current CFR’s inclusion of the 2016 
+updates. However, because the Department is 
+currently enforcing the 2004 standard salary and 
+total annual compensation levels, the final rule 
+references the 2004 standard salary and total annual 
+compensation levels. 
+28 § 541.601. 
+29 § 541.601(d). 
+30 Id. 
+31 84 FR 10900. 
+on what changes the Department should 
+propose in a new NPRM on the EAP 
+exemption.
+19 The Department received 
+over 200,000 comments on the RFI. 
+Between September 7 and October 17, 
+2018, the Department held listening 
+sessions in all five Wage and Hour 
+regions throughout the country, and in 
+Washington, DC, to supplement 
+feedback received as part of the RFI.
+20 
+On October 30, 2017, the Government 
+appealed the Nevada district court’s 
+summary judgment decision to the 
+United States Court of Appeals for the 
+Fifth Circuit. On November 6, 2017, the 
+Fifth Circuit granted the Government’s 
+motion to hold that appeal in abeyance 
+while the Department undertook further 
+rulemaking to set a new salary level. 
+On March 22, 2019, the Department 
+issued its NPRM, proposing to update 
+and revise the EAP regulations. 
+C. Overview of Existing Regulatory 
+Requirements 
+The regulations in 29 CFR part 541 
+contain specific criteria that define each 
+category of exemption provided by 
+section 13(a)(1) for bona fide executive, 
+administrative, professional, and 
+outside sales employees, as well as 
+teachers and academic administrative 
+personnel. The regulations also define 
+those computer employees who are 
+exempt under section 13(a)(1) and 
+section 13(a)(17). The employer bears 
+the burden of establishing the 
+applicability of any exemption from the 
+FLSA’s pay requirements.
+21 Job titles, 
+job descriptions, or the payment of a 
+salary instead of an hourly rate are 
+insufficient, standing alone, to confer 
+exempt status on an employee. 
+To qualify for the EAP exemption, 
+employees must meet certain tests 
+regarding their job duties
+22 and 
+generally must be paid on a salary basis 
+at least the amount specified in the 
+regulations.
+23 Some employees, such as 
+business owners, doctors, lawyers, 
+teachers, and outside sales employees, 
+are not subject to salary tests.
+24 Others, 
+such as academic administrative 
+personnel and computer employees, are 
+subject to special, contingent earnings 
+thresholds.
+25 In 2004, the standard 
+salary level for EAP employees was set 
+at $455 per week (equivalent to $23,660 
+per year for a full-year worker), and the 
+total annual compensation level for 
+highly compensated employees was set 
+at $100,000.
+26 Due to the district court’s 
+decision invalidating the 2016 final 
+rule, these are the salary levels the 
+Department is currently enforcing.
+27 
+The 2004 final rule created the HCE 
+test for exemption. Under the HCE test, 
+employees who receive at least a 
+specified total annual compensation 
+(which must include at least the 
+standard salary amount per week paid 
+on a salary or fee basis) are exempt from 
+the FLSA’s overtime requirements if 
+they customarily and regularly perform 
+at least one of the exempt duties or 
+responsibilities of an executive, 
+administrative, or professional 
+employee identified in the standard 
+tests for exemption.
+28 The HCE test 
+applies only to employees whose 
+primary duty includes performing office 
+or non-manual work.
+29 Non- 
+management production line workers 
+and employees who perform work 
+involving repetitive operations with 
+their hands, physical skill, and energy 
+cannot be exempt under this section.
+30 
+D. The Department’s Proposal 
+On March 22, 2019, the Department 
+issued its proposal to update and revise 
+the regulations issued under section 
+13(a)(1) of the FLSA.
+31 The Department 
+proposed to update the standard salary 
+level by applying to current data the 
+same method as in the 2004 final rule— 
+i.e., by looking at the 20th percentile of 
+earnings of full-time salaried workers in 
+the lowest-wage Census Region (then 
+and now the South) and/or in the retail 
+industry nationwide. The Department 
+also proposed to update the HCE total 
+annual compensation level using the 
+same method used in the 2016 final 
+rule, setting it equivalent to the 90th 
+percentile earnings of full-time salaried 
+workers nationally. The Department 
+proposed to project both levels to 
+January 2020, the anticipated effective 
+date of a final rule. Additionally, the 
+Department proposed a special salary 
+level of $380 per week for American 
+Samoa, a special salary level of $455 per 
+week for Puerto Rico, the U.S. Virgin 
+Islands, Guam, and the Commonwealth 
+of the Northern Mariana Islands, and a 
+special ‘‘base rate’’ threshold of $1,036 
+for employees in the motion picture 
+producing industry. The Department 
+also proposed to permit employers to 
+use nondiscretionary bonuses and 
+incentive payments to satisfy up to 10 
+percent of the standard or special salary 
+levels as long as such payments are 
+made at least annually. As to future 
+updates, the Department reaffirmed its 
+commitment to evaluating the part 541 
+earnings thresholds more frequently, 
+and stated its intent to propose updates 
+to these levels quadrennially. The 
+Department did not propose any 
+changes to the duties tests. 
+The Department received more than 
+116,000 timely comments on the NPRM 
+during the 60-day comment period that 
+ended on May 21, 2019. The 
+Department received comments from a 
+broad array of constituencies, including 
+small business owners, employer and 
+industry associations, individual 
+workers, worker advocacy groups, 
+unions, non-profit organizations, law 
+firms (representing both employers and 
+employees), educational organizations 
+and representatives, religious 
+organizations, economists, Members of 
+Congress, state and local governments, 
+professional associations, and other 
+interested members of the public. All 
+timely received comments may be 
+viewed on the http://
+www.regulations.gov website, docket ID 
+WHD–2019–0001. 
+Some of the comments the 
+Department received were general 
+statements of support or opposition, and 
+the Department also received many 
+identical or nearly identical ‘‘campaign’’ 
+comments sent in response to organized 
+comment initiatives. Nearly all 
+commenters favored some change to the 
+currently enforced regulations, and 
+commenters expressed a wide variety of 
+views on the merits of particular aspects 
+of the Department’s proposal. Some 
+commenters, including tens of 
+thousands who submitted similar 
+comments as part of a comment 
+VerDate Sep<11>2014 18:58 Sep 26, 2019 Jkt 247001 PO 00000 Frm 00005 Fmt 4701 Sfmt 4700 E:\FR\FM\27SER2.SGM 27SER2jbell on DSK3GLQ082PROD with RULES2
+--- page 5 ---
+51234 Federal Register / Vol. 84, No. 188 / Friday, September 27, 2019 / Rules and Regulations 
+32 See supra note 4. 
+33 The Department has issued specific guidance 
+on the application of the FLSA to non-profit 
+entities. See Fact Sheet #14A: Non-Profit 
+Organizations and the Fair Labor Standards Act 
+(FLSA), available at: https://www.dol.gov/whd/regs/ 
+compliance/whdfs14a.pdf. 
+34 See 79 FR 22126. 
+35 The 2004 final rule included several significant 
+changes, including: (1) A significant percentage 
+increase in the salary threshold; (2) a significant 
+campaign (‘‘Campaign Comments’’),32 
+requested that the Department reject the 
+proposal and defend the 2016 final rule. 
+The Department has carefully 
+considered the timely submitted 
+comments addressing the proposed 
+changes. 
+Significant issues raised in the 
+comments are discussed below, along 
+with the Department’s responses to 
+those comments. Some commenters 
+appear to have mistakenly filed 
+comments intended for this rulemaking 
+into the dockets for the Department’s 
+rulemakings concerning the regular rate 
+(docket ID WHD–2019–0002) or joint 
+employer status (docket ID WHD–2019– 
+0003) under the FLSA. The Department 
+did not consider these misfiled 
+comments in this rulemaking. 
+The Department received a number of 
+comments that are beyond the scope of 
+this rulemaking. These include, for 
+example, a request that the Department 
+reconsider the scope of the exemption at 
+29 U.S.C. 207(i) for certain employees of 
+retail and service establishments, and a 
+request for tax write-offs for businesses 
+that pass an annual audit by the 
+Department. In addition, some non- 
+profit organizations asked the 
+Department to work with other federal 
+agencies to create a mechanism that 
+non-profits with government grants and 
+contracts could use to adjust 
+reimbursement rates to cover 
+unanticipated increased costs, such as 
+labor costs due to this rule. For 
+example, in a joint comment, the 
+National Council of Nonprofits and 
+others recommended addressing this 
+issue through changes to the relevant 
+Federal Acquisition Regulations. The 
+Department does not address such 
+issues in this final rule. 
+Some commenters raised 
+miscellaneous issues that more directly 
+relate to other parts of the Department’s 
+regulations. For example, one 
+commenter urged the Department to 
+amend its regular rate regulations to 
+allow the exclusion of any payments 
+that do not count toward the salary level 
+test; one commenter requested that 
+private colleges and universities be 
+permitted to use compensatory time off 
+instead of cash payments for overtime 
+hours; two commenters requested a safe 
+harbor from joint-employment liability 
+for franchisors who help their 
+franchisees implement this rule; and 
+one commenter asked the Department to 
+permit hourly paid employees (beyond 
+just computer employees) to qualify for 
+the exemption. Some commenters 
+requested that the Department make 
+changes to the duties test, either as an 
+alternative to raising the salary level 
+more significantly or regardless of what 
+salary level applies. The Department did 
+not propose any of these changes in the 
+NPRM, and declines to make such 
+changes in this final rule. 
+A number of commenters asked the 
+Department to provide guidance on how 
+the FLSA applies to non-profit 
+organizations. See, e.g., Colorado 
+Nonprofit Association; Independent 
+Sector; National Council of Nonprofits. 
+The Department notes that the FLSA 
+does not provide special rules for non- 
+profit organizations or their employees, 
+nor does this final rule.
+33 
+E. Final Rule Effective Date 
+In the NPRM, the Department 
+referenced an anticipated effective date 
+of January 2020 for purposes of 
+projecting forward the proposed 
+standard salary level and proposed HCE 
+total annual compensation level. Many 
+commenters, while not expressly 
+referencing the effective date, conveyed 
+their view that updates to these 
+regulations are ‘‘long overdue.’’ See, 
+e.g., Legal Aid at Work; Public Housing 
+Authorities Directors Association; 
+Washington State Budget and Policy 
+Center. Similarly, a few commenters 
+encouraged the Department to increase 
+the standard salary threshold, or to 
+promulgate a final rule, ‘‘as soon as 
+possible.’’ See, e.g., International 
+Foodservice Distributors Association; 
+Sergeants Benevolent Association. 
+Other commenters did specifically 
+address the final rule’s effective date. 
+Nearly all of these commenters 
+conveyed the need for employers to 
+have sufficient time to adjust to and 
+implement the rule, but they disagreed 
+on how much time the Department 
+should provide. The National 
+Association of Landscape Professionals 
+favored a period of 90 to 120 days 
+between the rule’s publication and its 
+effective date, while several other 
+commenters favored a minimum of 120 
+days, which was the applicable period 
+of time in the 2004 final rule. See, e.g., 
+Seyfarth Shaw LLP (Seyfarth Shaw); 
+Society for Human Resource 
+Management (SHRM). SHRM thought 
+the effective date should be at least 120 
+days from the date of publication of the 
+final rule, but acknowledged that the 
+proposed regulations are far more 
+familiar to employers than the changes 
+made in 2004. Other commenters 
+favored a longer period, ranging from 
+six to eighteen months from publication. 
+The U.S. Public Interest Research Group 
+suggested a two-year delay for public 
+interest advocacy groups. Several 
+employer representatives who opposed 
+the proposed HCE level stated that 
+adjusting to the new level would be 
+particularly burdensome. For example, 
+the National Association of 
+Manufacturers stated that the proposed 
+increase would require employers to 
+spend significant time determining 
+whether employees who previously met 
+the HCE test satisfy the standard duties 
+test (and thus remain exempt), and 
+requested that if the Department were to 
+finalize that increase as proposed, it 
+should set a future compliance date that 
+provides sufficient time for employers 
+to adjust to the new HCE level. 
+Relatedly, multiple commenters 
+requested that the Department ‘‘phase 
+in’’ any new salary/compensation levels 
+over a period of time. Suggested phase- 
+in periods varied widely. Independent 
+Sector and the National Council of 
+Young Men’s Christian Associations of 
+the United States of America (YMCA) 
+favored a two-year phase-in period. An 
+individual employee commenter 
+proposed a 3- to 5-year phase-in period 
+for non-profit organizations. Some 
+commenters who requested a phase-in 
+period did not specify a particular 
+timeframe. Many commenters who 
+supported a phase-in cited the 
+importance of providing sufficient time 
+for employers to adapt to and 
+implement the new levels. See, e.g., 
+Lutheran Services in America; National 
+Grocers Association (NGA). 
+The Department has set an effective 
+date of January 1, 2020, for the final 
+rule. The Department agrees with the 
+commenters who expressed the view 
+that this update to the regulations is 
+‘‘long overdue,’’ and with those who 
+encouraged the Department to increase 
+the salary level as soon as possible. The 
+time between this rule’s publication and 
+effective date exceeds the 30-day 
+minimum required under the 
+Administrative Procedure Act (APA), 5 
+U.S.C. 553(d), and the 60 days 
+mandated for a ‘‘major rule’’ under the 
+Congressional Review Act, 5 U.S.C. 
+801(a)(3)(A). While the 2004 rule 
+provided for 120 days between the 
+rule’s publication and effective date,
+34 
+the Department agrees with commenters 
+who acknowledged that this final rule 
+will be far more familiar to employers 
+than the substantial changes provided in 
+the 2004 final rule.
+35 
+VerDate Sep<11>2014 18:58 Sep 26, 2019 Jkt 247001 PO 00000 Frm 00006 Fmt 4701 Sfmt 4700 E:\FR\FM\27SER2.SGM 27SER2jbell on DSK3GLQ082PROD with RULES2
+--- page 6 ---
+51235 Federal Register / Vol. 84, No. 188 / Friday, September 27, 2019 / Rules and Regulations 
+reorganization of the part 541 regulations; (3) the 
+elimination of the short and long test structure that 
+had been in place for more than 50 years and the 
+creation of a single standard test; and (4) the 
+creation of a new test for highly compensated 
+employees. In contrast, here the Department is not 
+changing the standard duties test or reorganizing 
+the regulations, and so this rule will be much less 
+complicated for employers to implement. 
+36 3 FR 2518. 
+37 Stein Report at 9, 20–21, 30–31. 
+38 Weiss Report at 10, 14–17, 19–20. 
+Additionally, while the 2016 rule 
+provided 192 days from the rule’s 
+publication until its effective date, the 
+salary level increase in this rule is more 
+modest, and affects fewer workers—two 
+factors that favor a shorter period. 
+Moreover, given that the Department is 
+currently enforcing the 2004 standard 
+salary level, which an overwhelming 
+majority of commenters agreed needs to 
+be updated, the Department concludes 
+that a lengthier delayed effective date 
+would be imprudent. Additionally, a 
+January 1 date may be convenient for 
+those employers who use the calendar 
+year as their fiscal year, or who use 
+budgets, software systems, or other 
+practices on a calendar-year basis. The 
+Department is also declining to delay 
+the effective date, or create a phase-in, 
+specifically for non-profits. As 
+discussed in more detail in the standard 
+salary level discussion below, consistent 
+with past practice, the Department is 
+declining to create special rules for the 
+application of the part 541 exemptions 
+to non-profits. 
+While some employer representatives 
+expressed concern that the proposed 
+HCE level increase would pose unique 
+challenges for employers compared to 
+the change to the standard salary level, 
+given the change in methodology for 
+setting the HCE threshold in the final 
+rule, discussed in further detail below, 
+the Department does not believe a 
+delayed effective date for this provision 
+is necessary. The Department believes 
+that the January 1, 2020 effective date 
+will provide employers adequate time to 
+make any changes that are necessary to 
+comply with the final regulations, and 
+for similar reasons concludes that a 
+phase-in of the new thresholds is not 
+warranted. The Department will also 
+provide significant outreach and 
+compliance assistance, and will issue a 
+number of guidance documents in 
+connection with the publication of this 
+final rule. 
+III. Need for Rulemaking 
+The primary goal of this rulemaking is 
+to update the standard salary level that 
+helps define and delimit the EAP 
+exemption. This will ensure that the 
+level works effectively with the 
+standard duties test to distinguish 
+potentially exempt EAP employees from 
+overtime-protected white collar 
+workers. Due to the Nevada district 
+court’s decision invalidating the 2016 
+final rule, the Department has been 
+enforcing the standard salary level of 
+$455 a week. The Department 
+recognizes that this level should be 
+updated to reflect current earnings. In 
+the NPRM, the Department proposed 
+using the methodology from the 2004 
+final rule to calculate the salary 
+threshold using current data. The 
+Department explained that this method 
+would keep the standard salary level 
+aligned with the intervening years’ 
+growth in earnings. It further stated that 
+the 2004 approach has withstood the 
+test of time, would restore the salary 
+level to its traditional purpose of serving 
+as a dividing line between nonexempt 
+and potentially exempt employees, 
+would address concerns that led to the 
+2016 rule’s invalidation, and would 
+ensure that the FLSA’s intended 
+overtime protections are fully 
+implemented. 
+The Department is also updating the 
+total annual compensation requirement 
+for the HCE test for exemption to ensure 
+that this threshold remains a meaningful 
+and appropriate standard when paired 
+with the more-lenient HCE duties test. 
+In an effort to modernize the part 541 
+regulations to account for changing 
+methods of workplace compensation, 
+the Department also proposed allowing 
+nondiscretionary bonuses and incentive 
+payments (including commissions) to 
+count toward up to 10 percent of the 
+standard or special salary levels. 
+Finally, in its proposal the Department 
+explained the importance of updating 
+the salary thresholds more frequently. 
+Regular updates promote greater 
+stability, avoid the disruptive salary 
+level increases that can result from 
+lengthy gaps between updates, and 
+provide appropriate wage protection for 
+those under the threshold. With these 
+goals in mind, in the NPRM, the 
+Department affirmed its intention to 
+issue a proposal to update the earnings 
+thresholds every four years, unless the 
+Secretary determines that economic or 
+other factors warrant forestalling such 
+an update. 
+IV. Final Regulatory Revisions 
+The Department is formally 
+rescinding the 2016 final rule and is 
+replacing it with a new rule that updates 
+the part 541 earnings thresholds. The 
+Department is setting the standard 
+salary level by applying the 
+methodology from the 2004 final rule to 
+current data, resulting in a new standard 
+salary level of $684 per week. In 
+addition, the Department is setting a 
+special salary level of $455 per week for 
+Puerto Rico, the U.S. Virgin Islands, 
+Guam, and the Commonwealth of the 
+Northern Mariana Islands; a special 
+salary level of $380 per week for 
+American Samoa; and an updated 
+weekly ‘‘base rate’’ of $1,043 per week 
+for the motion picture producing 
+industry. Nondiscretionary bonuses and 
+incentive payments (including 
+commissions) paid on an annual or 
+more frequent basis may be used to 
+satisfy up to 10 percent of the standard 
+salary level or the special salary levels 
+applicable to the U.S. territories. The 
+Department is also setting the HCE 
+annual compensation amount at the 
+80th percentile of full-time salaried 
+workers nationally, resulting in a new 
+HCE level of $107,432. These revisions 
+are discussed in further detail below. 
+A. Standard Salary Level 
+i. History of the Standard Salary Level 
+Congress enacted the FLSA on June 
+25, 1938, and the first version of part 
+541, which the Department issued in 
+October 1938, set a salary level of $30 
+per week for executive and 
+administrative employees.
+36 The 
+Department updated the salary levels in 
+1940, maintaining the salary level for 
+executive employees, increasing the 
+salary level for administrative 
+employees, and establishing a salary 
+level for professional employees. In 
+setting those rates, the Department 
+considered surveys of private industry 
+by federal and state government 
+agencies, experience gained under the 
+National Industrial Recovery Act, and 
+Federal Government salaries to identify 
+a salary level that reflected a reasonable 
+‘‘dividing line’’ between employees 
+performing exempt and nonexempt 
+work.
+37 Taking into account salaries 
+paid in numerous industries and the 
+percentage of employees earning below 
+these amounts, the Department set the 
+salary level for each exemption slightly 
+below the average salary dividing 
+exempt and nonexempt employees. 
+In 1949, the Department evaluated 
+salary data from state and federal 
+agencies, including the Bureau of Labor 
+Statistics (BLS). The Department 
+considered wages in small towns and 
+low-wage industries, wages of federal 
+employees, average weekly earnings for 
+exempt employees, starting salaries for 
+college graduates, and salary ranges for 
+different occupations such as 
+bookkeepers, accountants, chemists, and 
+mining engineers.
+38 The Department 
+also looked at data showing increases in 
+exempt employee salaries since 1940, 
+VerDate Sep<11>2014 18:58 Sep 26, 2019 Jkt 247001 PO 00000 Frm 00007 Fmt 4701 Sfmt 4700 E:\FR\FM\27SER2.SGM 27SER2jbell on DSK3GLQ082PROD with RULES2
+--- page 7 ---
+51246 Federal Register / Vol. 84, No. 188 / Friday, September 27, 2019 / Rules and Regulations 
+82 The special salary tests do not apply to 
+employees of the Federal government employed in 
+Puerto Rico, the U.S. Virgin Islands, Guam, the 
+Commonwealth of the Northern Mariana Islands, or 
+American Samoa. 
+83 See 69 FR 22172. 
+84 See Public Law 114–187, 130 Stat. 549 (June 
+30, 2016). 
+85 See 48 U.S.C. 2193(a)–(b). The Comptroller 
+General’s report was published on June 29, 2018 
+and is available at: https://www.gao.gov/products/ 
+GAO-18-483. 
+86 In Guam and the CNMI, the Department has 
+applied the salary level test(s) applicable to the 
+States. In the Virgin Islands, the Department 
+applied a special salary level test prior to 2004, but 
+applied the standard salary level beginning in 2004. 
+87 See 69 FR 22172. 
+88 See Sec. 1, Public Law 114–61, 129 Stat. 545 
+(Oct. 7, 2015). 
+89 See, e.g., 69 FR 22172. 
+90 See 84 FR 10912. 
+91 See § 541.709. 
+currently stayed litigation. See, e.g., 
+AFL–CIO; Campaign Comments; 
+Senator Patty Murray; The Leadership 
+Conference on Civil and Human Rights. 
+The Department is finalizing the 
+formal rescission of the 2016 final rule 
+as proposed. Thus, in addition to 
+replacing the 2016 final rule 
+functionally by revising the part 541 
+regulatory text in the Code of Federal 
+Regulations, this final rule also formally 
+rescinds the 2016 final rule. This 
+rescission operates independently of the 
+new content in this final rule, as the 
+Department intends it to be severable 
+from the substantive rule for revising 
+part 541. Thus, even if the substantive 
+provisions of this final rule revising part 
+541 are invalidated, enjoined, or 
+otherwise not put into effect, the 
+Department intends the 2004 final rule 
+to remain operative, not the enjoined 
+2016 final rule that it is rescinding. 
+Particularly given the recent history of 
+litigation in this area, the rescission of 
+the 2016 final rule is necessary to 
+provide certainty and clarity to 
+employees and employers about what 
+salary level will be effective if this final 
+rule were to be invalidated, enjoined, or 
+otherwise not put into effect. As 
+explained at length above, the 
+Department believes that the salary level 
+set in the 2016 final rule was 
+inappropriate. Moreover, given the 
+district court’s invalidation of the 2016 
+final rule, the 2004 final rule, which has 
+never been challenged in court, is the 
+logical framework to take the place of 
+this rule if this rule were to be struck 
+down. 
+B. Special Salary Tests 
+i. Puerto Rico, Virgin Islands, Guam, 
+and the Commonwealth of the Northern 
+Mariana Islands
+82 
+The Department has applied the 
+standard salary level to Puerto Rico 
+since 2004.
+83 In 2016, Congress passed 
+the Puerto Rico Oversight, Management, 
+and Economic Stability Act 
+(PROMESA).
+84 Section 404 of 
+PROMESA states that ‘‘any final 
+regulations issued related to’’ the 
+Department’s 2015 overtime rule 
+NPRM—i.e., the 2016 final rule—‘‘shall 
+have no force or effect’’ in Puerto Rico 
+until the Comptroller General of the 
+Unites States completes and transmits a 
+report to Congress assessing the impact 
+of applying the final regulations to 
+Puerto Rico, and the Secretary of Labor, 
+‘‘taking into account the assessment and 
+report of the Comptroller General, 
+provides a written determination to 
+Congress that applying such rule to 
+Puerto Rico would not have a negative 
+impact on the economy of Puerto 
+Rico.’’
+85 
+It is the Department’s belief that 
+PROMESA does not apply to this final 
+rule as it is a new rulemaking, and thus 
+not ‘‘related to’’ the 2015 overtime rule 
+NPRM within the meaning of 
+PROMESA. Section 404, however, 
+reflected Congress’s apprehension with 
+increasing the salary level in Puerto 
+Rico, and given the current economic 
+climate there, the Department proposed 
+to set a special salary level in Puerto 
+Rico of $455 per week—the level that 
+currently applies under PROMESA. 
+The Department also currently applies 
+the standard salary level to the Virgin 
+Islands, Guam, and the Commonwealth 
+of the Northern Mariana Islands 
+(CNMI).
+86 The Department understands 
+that U.S. territories face their own 
+economic challenges and that an 
+increase in the salary level affects them 
+differently than the States. In 
+recognition of these challenges, and to 
+promote special salary level consistency 
+across U.S. territories, the Department 
+proposed setting a special salary level of 
+$455 per week for the Virgin Islands, 
+Guam, and the CNMI. 
+Few commenters addressed this issue, 
+but those who did all supported the 
+Department’s proposal. The Saipan 
+Chamber of Commerce, for example, 
+stated that ‘‘U.S. territories face 
+economic challenges not experienced by 
+businesses and employers on the U.S. 
+mainland,’’ and the World Floor 
+Covering Association (WFCA) similarly 
+cited the ‘‘unique economies’’ in these 
+territories. The Hotel Association of the 
+Northern Mariana Islands referenced 
+several CNMI-specific concerns, 
+including that ‘‘[w]ages across all 
+industries in the CNMI, including the 
+hospitality industry, have been 
+historically lower than their stateside 
+counterparts.’’ The CNMI chapter of 
+SHRM expressed similar concerns. 
+After reviewing the comments 
+received, the Department is finalizing 
+this aspect of the NPRM as proposed. As 
+such, in this final rule the Department 
+will set a special salary level of $455 per 
+week for Puerto Rico, the Virgin Islands, 
+Guam, and the CNMI. 
+ii. American Samoa 
+As discussed in the NPRM, the 
+Department has historically applied a 
+special salary level test to employees in 
+American Samoa because minimum 
+wage rates there have remained lower 
+than the federal minimum wage.
+87 The 
+Fair Minimum Wage Act of 2007, as 
+amended, provides that industry- 
+specific minimum wage rates in 
+American Samoa will increase every 
+three years until each equals the federal 
+minimum wage.
+88 The disparity with 
+the federal minimum wage is expected 
+to remain for the foreseeable future. 
+The special salary level test for 
+employees in American Samoa has 
+historically equaled approximately 84 
+percent of the standard salary level.
+89 
+The Department proposed to maintain 
+this percentage and considered whether 
+to set the special salary level in 
+American Samoa equal to 84 percent of 
+the proposed standard salary level ($679 
+per week)—resulting in a special salary 
+level of $570 per week—or to set it 
+equal to approximately 84 percent of the 
+proposed special salary level applicable 
+to the other U.S. territories ($455 per 
+week)—resulting in a special salary 
+level of $380 per week. The Department 
+proposed a special salary level of $380 
+per week in American Samoa. It 
+explained that this approach would not 
+only maintain the special salary level 
+that the Department is currently 
+enforcing in American Samoa, but 
+would also ensure that American 
+Samoa, which has a lower minimum 
+wage than the other U.S. territories, 
+would not have a higher special salary 
+level.
+90 
+The Department received no 
+comments on this proposal and will 
+adopt the methodology set forth in the 
+NPRM. Accordingly, in this final rule 
+the Department will set a special salary 
+level of $380 per week for employees in 
+American Samoa. 
+iii. Motion Picture Producing Industry 
+The Department has permitted 
+employers to classify as exempt 
+employees in the motion picture 
+producing industry who are paid a 
+specified base rate per week (or a 
+proportionate amount based on the 
+number of days worked), so long as they 
+meet the duties tests for the EAP 
+exemption.
+91 This exception from the 
+VerDate Sep<11>2014 18:58 Sep 26, 2019 Jkt 247001 PO 00000 Frm 00018 Fmt 4701 Sfmt 4700 E:\FR\FM\27SER2.SGM 27SER2jbell on DSK3GLQ082PROD with RULES2
+--- page 8 ---
+51247 Federal Register / Vol. 84, No. 188 / Friday, September 27, 2019 / Rules and Regulations 
+92 18 FR 2881 (May 19, 1953). 
+93 The Department calculated this figure by 
+dividing the weekly salary level ($684) by $455, and 
+then multiplying this result (rounded to the nearest 
+hundredth) by the base rate set in the 2004 final 
+rule ($695 per week). This produced a new base rate 
+of $1,043 (per week), when rounded to the nearest 
+whole dollar. 
+94 Although a federal district court subsequently 
+invalidated the 2016 final rule, the court’s summary 
+judgment decision did not address the bonuses 
+provision. 275 F. Supp. 3d 795. 
+95 For the same reason, some commenters 
+specifically requested the Department allow 
+employers to credit the value of board and lodging 
+towards the standard salary level. See AHLA (‘‘If an 
+employer must include a non-hourly payment in 
+the regular rate, that payment should likewise count 
+towards the salary threshold.’’); see also CUPA–HR; 
+PPWO; Seyfarth Shaw. AHLA and CUPA–HR 
+asserted that board and lodging benefits are 
+especially common for exempt employees in 
+hospitality and higher education, respectively. 
+96 The Chamber stated that such a consideration 
+is ‘‘beyond the Department’s proper purview.’’ The 
+Chamber and IFA additionally stated that 
+government and non-profit employers do not 
+typically compete with for-profit employers over 
+the same employee, and that the proposal would 
+not alter any existing competitive imbalance in any 
+event. 
+‘‘salary basis’’ requirement was created 
+in 1953 to address the ‘‘peculiar 
+employment conditions existing in the 
+[motion picture producing] industry,’’ 
+and applies, for example, when a 
+motion picture producing industry 
+employee works less than a full 
+workweek and is paid a daily base rate 
+that would yield the weekly base rate if 
+6 days were worked.
+92 Consistent with 
+its practice since the 2004 final rule, the 
+Department proposed to increase the 
+required base rate proportionally to the 
+proposed increase in the standard salary 
+level test, resulting in a proposed base 
+rate of $1,036 per week. 
+The Department did not receive any 
+comments on the proposed base rate for 
+motion picture employees. The final 
+rule adopts the methodology set forth in 
+our proposal, which using the new 
+standard salary level ($684 per week) 
+results in a base rate of $1,043 per week 
+(or a proportionate amount based on the 
+number of days worked).
+93 
+C. Inclusion of Nondiscretionary 
+Bonuses, Incentive Payments, and 
+Commissions in the Salary Level 
+Requirement 
+In the 2016 final rule, the Department 
+for the first time allowed employers to 
+count nondiscretionary bonuses and 
+incentive payments toward the standard 
+or special salary levels.
+94 Under that 
+rule, such bonuses must be paid 
+quarterly or more frequently and may 
+satisfy up to 10 percent of the standard 
+or special salary level. In the NPRM, the 
+Department again proposed to permit 
+nondiscretionary bonuses and incentive 
+payments (including commissions) to 
+satisfy up to 10 percent of the standard 
+or special salary level tests for the EAP 
+exemption. However, unlike the 2016 
+final rule’s requirement that such 
+payments must be paid on a quarterly or 
+more frequent basis, the Department 
+proposed to allow the crediting of 
+payments made on an annual or more 
+frequent basis. Additionally, the 
+Department proposed to permit 
+employers to make a final ‘‘catch-up’’ 
+payment within one pay period after the 
+end of each 52-week period to bring an 
+employee’s compensation up to the 
+required level. See 84 FR 10912–13. 
+Most commenters representing 
+employers supported allowing 
+nondiscretionary bonuses and incentive 
+payments to count towards the standard 
+salary level requirement. Employer 
+representatives supporting the bonuses 
+proposal (or an expanded version of it) 
+asserted that nondiscretionary bonuses 
+and incentive payments constitute a 
+large and important part of the total 
+compensation package for many exempt 
+employees. Several commenters, 
+including the Chamber, FMI, IFA, and 
+NRA, noted that, in light of commenter 
+feedback, the Department has 
+previously acknowledged this point in 
+the NPRM and in the 2016 final rule. 
+See 81 FR 32423–24; 84 FR 10912. The 
+Chamber additionally cited a survey 
+from 2018 showing that 80 percent of 
+non-profit and government employers 
+surveyed use some type of ‘‘short-term 
+incentive plan.’’ The National 
+Association of Truck Stop Operators 
+and PPWO asserted that the majority of 
+employees who receive bonuses and 
+incentive payments otherwise qualify 
+for exempt status, while SIGMA and 
+WFCA asserted that bonuses and 
+incentive payments tied to an 
+employer’s success ‘‘foster a sense of 
+ownership’’ among the managerial 
+employees who receive them. Many 
+employer representatives specifically 
+approved of the Department’s proposal 
+to allow the crediting of 
+nondiscretionary bonuses and incentive 
+payments paid on an annual basis 
+(rather than quarterly, as provided by 
+the 2016 final rule), agreeing that annual 
+bonuses are a common form of 
+compensation for many EAP employees. 
+See PPWO; SIGMA. 
+Although several employer 
+representatives supported the proposal 
+without reservation, a larger number 
+objected to the proposal’s restriction 
+that nondiscretionary bonuses and 
+incentive payments could only satisfy 
+up to 10 percent of the standard salary 
+level. Some of these commenters urged 
+the Department to allow bonuses to 
+satisfy more than 10 percent of the 
+standard salary level, but declined to 
+specify an exact amount. See Center for 
+Workplace Compliance; National 
+Association of Federally-Insured Credit 
+Unions; NGA. Others specifically 
+proposed a higher percentage limit, 
+including: WFCA (suggesting 20 
+percent); Small Business Legislative 
+Council and TechServe Alliance (25 
+percent); ASTA (30 percent); National 
+Independent Automobile Dealers 
+Association (30 or 40 percent); and HR 
+Policy Association and the Kentucky 
+Retail Federation (50 percent). Finally, 
+many employer representatives urged 
+the Department not to impose any limit. 
+See, e.g., American Network of 
+Community Options and Resources; 
+American Staffing Association; IFA; 
+Mortgage Bankers Association; NRF; 
+PPWO; Seyfarth Shaw. 
+Some commenters critical of the 
+proposed 10 percent limit asserted that 
+it is not reflective of the compensation 
+practices in their industry, where 
+bonuses and incentive payments often 
+exceed 10 percent of an employee’s 
+fixed salary. See, e.g., ASTA; NGA; 
+WFCA. Others contended that to 
+‘‘harmonize’’ the respective regulations, 
+any non-hourly payments that count 
+toward an employee’s ‘‘regular rate of 
+pay’’ when calculating overtime pay, see 
+29 CFR 778.211(c), should count 
+towards the salary threshold as well. 
+See, e.g., AGC; HR Policy Association; 
+PPWO; Worldwide Cleaning Industry 
+Association.
+95 The Chamber, IFA, and 
+the National Lumber and Building 
+Material Dealers Association criticized 
+the NPRM’s rationale that the 10 percent 
+limit was necessary to help maintain 
+parity between sectors that use such pay 
+methods and those that traditionally 
+have not done so,
+96 while ASTA and 
+TechServe Alliance asserted that the 10 
+percent limit would have a negative 
+impact on employers in industries that 
+rely on incentive pay. 
+Although few organizations 
+representing employees commented on 
+the bonuses proposal, those who did 
+were unanimous in voicing their 
+opposition. NELA, Nichols Kaster, Rudy 
+Exelrod, and Smith Summerset & 
+Associates LLC (Smith Summerset) 
+asserted that allowing annual bonuses 
+and incentive payments to satisfy any 
+portion of the salary level test would 
+undermine the premise that only 
+workers with a minimum level of 
+dependable and predictable pay should 
+be exempt from the FLSA’s overtime 
+protections. Relatedly, the AFL–CIO 
+expressed concern that the proposal 
+would ‘‘provide a means for employers 
+to manipulate employees’ salaries to 
+VerDate Sep<11>2014 18:58 Sep 26, 2019 Jkt 247001 PO 00000 Frm 00019 Fmt 4701 Sfmt 4700 E:\FR\FM\27SER2.SGM 27SER2jbell on DSK3GLQ082PROD with RULES2
+--- page 9 ---
+51248 Federal Register / Vol. 84, No. 188 / Friday, September 27, 2019 / Rules and Regulations 
+97 NELA and other commenters asserted that 
+‘‘[d]etermining whether bonuses are discretionary 
+or nondiscretionary already generates considerable 
+litigation in the context of whether certain kinds of 
+bonuses must be included in the regular rate for 
+purposes of calculating the overtime rate.’’ See also 
+Nichols Kaster; Rudy Exelrod; TELA. 
+98 Specifically, this rule permits employers to use 
+nondiscretionary bonuses and incentive payments 
+to satisfy up to 10 percent of the standard salary 
+level or any of the special salary levels applicable 
+to U.S. territories. As discussed in greater detail 
+below, however, HCEs must receive at least the 
+standard salary amount each pay period on a salary 
+or fee basis without regard to the payment of 
+nondiscretionary bonuses and incentive payments. 
+99 The employer may use any 52-week period, 
+such as a calendar year, a fiscal year, or an 
+anniversary of the hire year. 
+avoid paying overtime[.]’’ See also 
+NELA. Given these concerns, some 
+employee representatives asserted that 
+the proposal would be particularly 
+inappropriately paired with a salary 
+level substantially lower than the figure 
+adopted in the 2016 final rule. See, e.g., 
+NELA; Smith Summerset. 
+Several commenters disputed that 
+nondiscretionary bonuses and incentive 
+payments are indicative of exempt 
+status. For example, NELA and TELA 
+emphasized that such payments do not 
+convey ownership interests in the 
+business, and asserted that their 
+members ‘‘have represented many 
+categories of employees who receive 
+various nondiscretionary bonuses, 
+including middle management and 
+lower level employees[.]’’ By contrast, 
+Smith Summerset asserted that 
+nondiscretionary bonuses and incentive 
+payments ‘‘are not an important pay 
+component for the relatively lowly paid 
+employees who would be affected by 
+the [proposal],’’ who the firm described 
+as ‘‘most in need of the certainty and 
+regularity of a salary’’ (emphasis in 
+original). 
+Finally, employee representatives 
+worried that the proposal would 
+undermine the clarity and effectiveness 
+of the salary level test. For example, 
+AFL–CIO stated that ‘‘[i]ncluding 
+bonuses in the calculation could create 
+confusion as to whether employees meet 
+the salary threshold test and are 
+overtime eligible.’’ See also Nichols 
+Kaster. Several commenters, including 
+NELA, Rudy Exelrod, and TELA, 
+asserted that the proposal would 
+increase monitoring and compliance 
+costs. Smith Summerset asserted that 
+employers would have to keep new 
+payroll and timekeeping records for 
+their exempt staff, including for some 
+individuals no longer employed by the 
+company who might be awaiting a 
+deferred compensation payment. 
+Several employee representatives 
+predicted that the proposal would result 
+in increased litigation, particularly over 
+the distinction between discretionary 
+and nondiscretionary bonuses.
+97 Smith 
+Summerset emphasized that the back 
+wage claims in such disputes would be 
+substantial, and could pose ‘‘a 
+surprising and unexpected liability to 
+those unsophisticated employers who 
+might stumble into the violation simply 
+by reason of administrative oversight.’’ 
+After carefully considering 
+commenter feedback, the Department 
+has decided to adopt the proposal 
+without modification—i.e., allowing 
+employers to satisfy up to 10 percent of 
+the standard or special salary levels
+98 
+with nondiscretionary bonuses and 
+incentive payments (including 
+commissions), provided that such 
+payments are paid no less frequently 
+than on an annual basis.
+99 This 
+provision appropriately modernizes the 
+regulations to account for EAP 
+compensation practices in a growing 
+number of workplaces, while at the 
+same time preserving the important role 
+of the salary basis and salary level tests 
+in identifying EAP employees, 
+simplifying compliance, and preventing 
+abuse. 
+Feedback from employer 
+representatives responding to the NPRM 
+has reinforced the Department’s view in 
+the previous rulemaking that the 
+provision of nondiscretionary bonus 
+and incentive payments has become 
+sufficiently correlated with EAP status. 
+At the same time, the Department 
+acknowledges that nonexempt 
+employees may receive 
+nondiscretionary bonuses and incentive 
+payments, and that the part 541 
+regulations have historically looked 
+only to payments made on a salary or 
+fee basis to satisfy the minimum salary 
+level. The Department believes that 
+allowing employers to credit 
+nondiscretionary bonuses towards up to 
+10 percent of the standard or special 
+salary levels strikes an appropriate 
+balance between accommodating 
+legitimate pay practices for a growing 
+number of bona fide EAP employees, 
+while not undermining the salary basis 
+requirement. 
+The Department has decided against 
+raising or eliminating the proposal’s 10 
+percent limitation. The Department 
+continues to believe in the basic logic of 
+the salary requirement. Capping the 
+crediting of nondiscretionary bonuses 
+and incentive payments at 10 percent of 
+the standard salary level ensures that 
+the salary level test remains 
+predominantly a test of salaried 
+earnings, requiring that EAP employees 
+subject to the salary criteria must earn 
+at least 90 percent of the standard salary 
+level on a salaried basis. Additionally, 
+while several employer commenters 
+asserted that nondiscretionary bonuses 
+and incentive pay often comprise more 
+than 10 percent of the total 
+compensation paid to EAP employees, 
+few specifically asserted that any 
+significant number of EAP employees 
+earn salaries of less than 90 percent of 
+the proposed salary threshold (i.e., 
+$614.70 per week, or $31,964.40 per 
+year). Thus, the Department disagrees 
+that the cumulative effect of raising the 
+standard salary level while limiting the 
+amount that can be satisfied through 
+nondiscretionary bonuses and incentive 
+pay will result in a significant reduction 
+in such payments. The regulations do 
+not limit the amount of bonuses EAP 
+employees may earn; it only limits the 
+amount that can count toward the 
+standard salary level. 
+For similar reasons, the Department 
+has decided against expanding the 
+proposal to allow additional kinds of 
+payments to count towards the standard 
+salary level, such as discretionary 
+bonuses, employer benefit 
+contributions, or the value of board, 
+lodging, and facilities. The Department 
+has never allowed such payments to 
+count towards any of the earning 
+thresholds required for the EAP 
+exemption, including under the HCE 
+test created in 2004. See 541.601(b)(1). 
+The Department did not propose to 
+allow such payments to count towards 
+the salary level test, and declines 
+commenter suggestions to do so in this 
+final rule. 
+NELA, Smith Summerset, and other 
+commenters questioned how the 
+proposed rule would treat employees 
+affected by the proposal whose 
+employment ends before the end of a 
+52-week period. Here, consistent with 
+the treatment of employees under the 
+existing HCE test, see § 541.601(b)(3), 
+the Department has amended the 
+proposed regulatory text at 
+§ 541.602(a)(3) to clarify that employers 
+may pay employees a prorated amount 
+for a designated 52-week period where 
+an employee does not work for the 
+entire period, because the employee 
+either is newly hired after the period’s 
+start or ends employment before the 
+period’s end. Determining an 
+employer’s payment obligation to such 
+employees to maintain their exempt 
+status depends on the number of 
+workweeks that the employee works 
+within the 52-week period. Where 
+employment ends before the end of the 
+52-week period, employers must ensure 
+that the employee receives enough in 
+pay to satisfy the standard salary level 
+by the end of the next pay period 
+VerDate Sep<11>2014 18:58 Sep 26, 2019 Jkt 247001 PO 00000 Frm 00020 Fmt 4701 Sfmt 4700 E:\FR\FM\27SER2.SGM 27SER2jbell on DSK3GLQ082PROD with RULES2
+--- page 10 ---
+51249 Federal Register / Vol. 84, No. 188 / Friday, September 27, 2019 / Rules and Regulations 
+100 FMI, IFA, and other employer representatives 
+requested giving employers more than one pay 
+period to make any necessary catch-up payments, 
+pointing out that the HCE test permits employers 
+to make catch-up payments within one month after 
+the end of the 52-week period used for that test. See 
+29 CFR 541.601(b)(2). The Department declines this 
+request because this new provision specifically 
+affects the standard salary level requirement, not 
+additional income received on top of that threshold 
+by highly compensated employees. 
+101 69 FR 22174 (quoting Weiss Report at 22). 
+102 § 541.601(a). 
+103 § 541.601(d). 
+104 § 541.601(b)(1). However, total annual 
+compensation does not include board, lodging, and 
+other facilities, or payments for medical insurance, 
+life insurance, retirement plans, or other fringe 
+benefits. Id. 
+105 § 541.601(b)(2). 
+106 § 541.601(b)(3). 
+107 84 FR 10913. 
+108 Id. The Department concluded that ‘‘in the 
+rare instances when these employees do not meet 
+all other requirements of the regulations, a 
+determination that such employees are exempt 
+would not defeat the objectives of section 13(a)(1) 
+of the Act.’’ 69 FR 22174 (quoting Weiss Report at 
+22–23). 
+following the employee’s end of 
+employment. 
+The final rule permits employers to 
+meet the salary level requirement by 
+making a catch-up payment within one 
+pay period of the end of the 52-week 
+period.
+100 In plain terms, each pay 
+period an employer must pay the EAP 
+employee on a salary basis at least 90 
+percent of the standard salary level and, 
+if at the end of the 52-week period the 
+sum of the salary paid plus the 
+nondiscretionary bonuses and incentive 
+payments (including commissions) paid 
+does not equal the standard salary level 
+for the 52-week period, the employer 
+has one pay period to make up for the 
+shortfall (up to 10 percent of the 
+required salary level). Any such catch- 
+up payment will count only toward the 
+previous 52-week period’s salary 
+amount and not toward the salary 
+amount in the 52-week period in which 
+it was paid. 
+The Department is sensitive to 
+concerns raised by employee 
+representatives and some employer 
+commenters that the bonuses provision 
+may increase compliance costs and 
+litigation. These effects, however, are 
+mitigated by the fact that crediting 
+nondiscretionary bonuses and incentive 
+pay towards the standard salary level is 
+purely optional. Employers, who would 
+predominantly bear the cost of 
+compliance and litigation expenses, are 
+presumably best positioned to evaluate 
+whether the potential costs of such 
+crediting would outweigh the potential 
+benefits. While the AFL–CIO contends 
+that the bonuses proposal could 
+theoretically ‘‘lead to anomalous results, 
+where employees working side by side 
+performing the same job would be 
+exempt and nonexempt, simply because 
+inclusion of the bonus would raise one 
+employee over the salary threshold[,]’’ 
+this has always been true of the salary 
+level test, given that employees 
+performing identical job duties may 
+receive different salaries. 
+The Department emphasizes that this 
+rulemaking does not change the 
+requirement in § 541.601(b)(1) that 
+highly compensated employees must 
+receive at least the standard salary 
+amount each pay period on a salary or 
+fee basis without regard to the payment 
+of nondiscretionary bonuses and 
+incentive payments. While 
+nondiscretionary bonuses and incentive 
+payments (including commissions) may 
+be counted toward the HCE total annual 
+compensation requirement, the HCE test 
+does not allow employers to credit these 
+types of payments toward the standard 
+salary requirement. The Department 
+continues to believe that permitting 
+employers to use nondiscretionary 
+bonuses and incentive payments to 
+satisfy the standard salary portion of the 
+HCE test is not appropriate because 
+employers are already permitted to 
+fulfill more than three quarters of the 
+HCE total annual compensation 
+requirement with commissions, 
+nondiscretionary bonuses, and other 
+forms of nondiscretionary deferred 
+compensation (paid at least annually). 
+Thus, when conducting the HCE 
+analysis, employers must remain 
+mindful that HCEs must receive the full 
+standard salary amount each pay period 
+on a salary or fee basis. 
+Finally, nothing adopted in this final 
+rule alters the Department’s 
+longstanding position that employers 
+may pay their exempt EAP employees 
+additional compensation of any form 
+beyond the minimum amount needed to 
+satisfy the salary basis and salary level 
+tests. See § 541.604(a). Similarly, the 
+Department emphasizes that nonexempt 
+employees may continue to receive 
+bonuses and incentive payments. Where 
+nondiscretionary bonuses or incentive 
+payments are made to nonexempt 
+employees, the payments must be 
+included in the regular rate when 
+calculating overtime pay. The 
+Department’s regulations at §§ 778.208– 
+.210 explain how to include 
+nondiscretionary bonuses in the regular 
+rate calculation. 
+D. Highly Compensated Employees 
+As noted in the NPRM, the 
+Department’s 2004 final rule created a 
+new test under the EAP exemption, 
+known as the highly compensated 
+employee (HCE) test, based on the 
+rationale that it is unnecessary to apply 
+the standard duties test in its entirety to 
+employees who earn at least a certain 
+amount annually—an amount 
+substantially higher than the annual 
+equivalent of the weekly standard salary 
+level—because such employees ‘‘have 
+almost invariably been found to meet all 
+the other requirements of the 
+regulations for exemption.’’
+101 The HCE 
+test combines a high compensation 
+requirement with a less-stringent duties 
+test. 
+To meet the HCE test, an employee 
+must earn at least the amount specified 
+in the regulation in total annual 
+compensation and must customarily 
+and regularly perform any one or more 
+of the exempt duties or responsibilities 
+of an executive, administrative, or 
+professional employee.
+102 This test 
+applies ‘‘only to employees whose 
+primary duty includes performing office 
+or non-manual work.’’
+103 Such an 
+employee must receive at least the 
+standard salary level each pay period on 
+a salary or fee basis, while the 
+remainder of the employee’s total 
+annual compensation may include 
+commissions, nondiscretionary bonuses, 
+and other nondiscretionary 
+compensation.
+104 An employee is 
+permitted to make a final ‘‘catch-up’’ 
+payment ‘‘during the last pay period or 
+within one month after the end of the 
+52-week period’’ to bring an employee’s 
+compensation up to the required 
+level.
+105 If an employee works for less 
+than a full year, either because the 
+employee is newly hired after the 
+beginning of the 52-week period or ends 
+the employment before the end of this 
+period, the employee may still qualify 
+for exemption under the HCE test if the 
+employee receives a pro rata portion of 
+the required annual compensation, 
+based upon the number of weeks of 
+employment.
+106 
+The Department stated in the NPRM 
+that it continues to believe that the HCE 
+test is a useful alternative to the 
+standard salary level and duties tests for 
+highly compensated employees.
+107 At 
+the time this level was initially set in 
+2004 at $100,000, the Department 
+concluded that ‘‘white collar’’ 
+employees who earn above this 
+threshold would nearly always satisfy 
+any duties test.
+108 The Department 
+proposed updating the HCE threshold to 
+ensure that it remains a meaningful and 
+appropriate standard when paired with 
+the more-lenient HCE duties test. 
+Specifically, the Department proposed 
+setting the HCE threshold at the 90th 
+percentile of all full-time salaried 
+workers nationally using 2017 CPS data, 
+then inflated to January 2020, resulting 
+VerDate Sep<11>2014 18:58 Sep 26, 2019 Jkt 247001 PO 00000 Frm 00021 Fmt 4701 Sfmt 4700 E:\FR\FM\27SER2.SGM 27SER2jbell on DSK3GLQ082PROD with RULES2
+--- page 11 ---
+51250 Federal Register / Vol. 84, No. 188 / Friday, September 27, 2019 / Rules and Regulations 
+109 84 FR 10913–14. Consistent with the 2016 
+final rule, the Department’s proposal did not permit 
+employers to use nondiscretionary bonuses to 
+satisfy the weekly standard salary level requirement 
+for HCE workers. Id. at 10914 n.129. As previously 
+stated, the Department believes that permitting 
+employers to use nondiscretionary bonuses and 
+incentive payments to satisfy the standard salary 
+portion of the HCE test is not appropriate because 
+employers are already permitted to fulfill the 
+majority of the HCE total annual compensation 
+requirement with commissions, nondiscretionary 
+bonuses, and other forms of nondiscretionary 
+deferred compensation (paid at least annually). 
+110 At least one individual commenter supported 
+the proposed increase in the HCE compensation 
+level. 
+111 In the economic analysis below in section 
+VI.B.v, the Department estimated that, under the 
+baseline scenario in which the HCE threshold 
+remains at $100,000, approximately 9.3 million 
+workers will pass both the standard and HCE tests 
+and 343,000 will pass only the HCE test. Stated 
+differently, of those workers who will earn at least 
+$100,000, approximately 96.4 percent would pass 
+the standard duties test. 
+112 84 FR 10913 n.123. 
+113 In the NPRM, the Department used 2017 CPS 
+data to set the HCE compensation level. See id. at 
+10913. To be consistent with the methodology for 
+setting the standard salary level, in the final rule the 
+Department is setting the HCE compensation level 
+using pooled CPS data for July 2016 to June 2019, 
+adjusted to reflect 2018/2019. 
+114 The Department notes that no regional 
+adjustment has been made to the HCE threshold in 
+this final rule, just as this was not part of the 
+determination of the HCE threshold in either the 
+2004 or 2016 final rules. 
+115 84 FR 10914 (internal citation omitted). 
+in a proposed HCE threshold of 
+$147,414, of which $679 would have to 
+be paid weekly on a salary or fee 
+basis.
+109 
+The Department received fewer 
+comments addressing the HCE proposal 
+than on many other issues in the NPRM, 
+and those who addressed the HCE 
+proposal often did not provide detailed 
+feedback. Nearly all the commenters on 
+the HCE proposal were employer 
+representatives, most of whom opposed 
+the Department’s proposal to increase 
+the HCE compensation level to a level 
+equal to the 90th percentile of all full- 
+time salaried workers ($147,414). These 
+commenters instead supported keeping 
+the HCE level at $100,000, see, e.g., HR 
+Policy Association; National 
+Association of Manufacturers; NRF, or 
+increasing the HCE level but by a lower 
+amount (resulting in a threshold 
+between $100,000 and $147,414), see, 
+e.g., Chamber; National Lumber and 
+Building Material Dealers Association; 
+WFCA. For example, some commenters 
+suggested lowering the percentile from 
+90 percent to 80 percent of full-time 
+salaried employees nationwide. See, 
+e.g., Center for Workplace Compliance; 
+WorldatWork. A few employer 
+representatives noted that they did not 
+object to the proposed HCE salary level. 
+See ASTA; Credit Human Federal Credit 
+Union. By and large, employee 
+representatives did not specifically 
+address the HCE proposal.
+110 
+Commenters who favored keeping the 
+HCE threshold at $100,000 or increasing 
+it by a lower amount expressed concern 
+that the proposed level was so high as 
+to put the HCE test for the EAP 
+exemption out of reach for employers in 
+lower-wage regions and industries. For 
+example, the Chamber stated that such 
+employers would not be able to access 
+the HCE test ‘‘on equal terms,’’ because 
+‘‘[w]hether an employee qualifies for 
+exemption under the highly 
+compensated test would depend more 
+on where the employee works than how 
+much the employer values the 
+employee’s duties.’’ Some of these 
+commenters suggested that the 
+Department should calculate the HCE 
+threshold using data from a lower-wage 
+region of the country, such as the South 
+Census Region or a subset thereof, 
+which would result in a lower threshold 
+than using a national data set. See, e.g., 
+Chamber; NRA. Others suggested that 
+the Department should continue to use 
+national data, but should lower the 
+threshold by pegging the HCE threshold 
+at the 80th percentile of full-time 
+salaried workers, rather than the 90th 
+percentile proposed in the NPRM. See 
+Center for Workforce Opportunity; 
+WorldatWork. WorldatWork asserted 
+that this approach would ‘‘result in a far 
+more workable standard, given the 
+fluctuation in weekly earnings in 
+different parts of the country and in 
+different industries’’ and would still 
+‘‘identify[ ] those individuals who 
+should be eligible for a more relaxed 
+duties test.’’ 
+Other commenters objected to the 
+Department’s proposed HCE threshold 
+on the ground that it would require 
+employers to reassess the exempt status 
+of many employees using the standard 
+duties test, rather than the simpler HCE 
+test. The HR Policy Association and 
+PPWO explained that ‘‘[a] significant 
+amount of administrative effort will be 
+needed to determine that an employee 
+who had been classified as exempt 
+through application of the HCE test 
+remains exempt under application of 
+the standard duties test.’’ The National 
+Association of Manufacturers explained 
+that this process ‘‘is certain to be 
+lengthy’’ as ‘‘employers will need to 
+survey managers, conduct follow-up 
+interviews, hold new budget 
+discussions, and plan and implement 
+changes to each individual employee’s 
+duties or status.’’ 
+The Department has considered the 
+comments regarding the HCE test for 
+exemption and decided to lower the 
+percentile at which to set the HCE 
+threshold from that proposed in the 
+NPRM. The Department agrees with 
+commenters that increasing the HCE 
+threshold so dramatically would result 
+in significant administrative burdens 
+and compliance costs, including costs 
+associated with reassessing the exempt 
+status of many highly paid white collar 
+workers under the standard duties test. 
+Yet while employers would incur these 
+burdens and costs, the vast majority of 
+currently exempt HCE employees would 
+remain exempt (under the standard 
+test).
+111 In short, the Department would 
+be imposing significant administrative 
+costs on employers for a limited effect. 
+Additionally, the Department agrees 
+with commenters that the proposed 
+level was so high that it would have 
+excluded employees who should be 
+exempt under the provision, 
+particularly those in lower-wage regions 
+and industries. However, the 
+Department disagrees with commenters 
+who oppose any increase in the HCE 
+threshold beyond the currently enforced 
+level. The number of full-time salaried 
+workers who earn above $100,000 per 
+year has increased significantly.
+112 The 
+Department believes that some increase 
+to the HCE threshold is necessary to 
+ensure that the HCE threshold continues 
+to provide a meaningful and appropriate 
+complement to the more lenient HCE 
+duties test. 
+Accordingly, the Department is 
+setting the HCE total annual 
+compensation level at the 80th 
+percentile of full-time salaried workers 
+nationally using pooled 2018/2019 CPS 
+data.
+113 This results in a level of 
+$107,432, of which $684 must be paid 
+weekly on a salary or fee basis.
+114 The 
+Department believes this threshold is 
+sufficiently high to ensure that it 
+provides a meaningful and appropriate 
+complement to the more lenient HCE 
+duties test, and that nearly all of the 
+highly-paid white collar workers 
+earning above this threshold ‘‘would 
+satisfy any duties test.’’ Additionally, to 
+be consistent with the methodology for 
+setting the standard salary level, the 
+Department now uses three-year pooled 
+data to estimate the HCE compensation 
+level. The Department further believes 
+that this straightforward approach will 
+lower administrative costs, as compared 
+to the initial proposal, while still 
+ensuring that nearly all of the highly 
+paid white collar workers earning above 
+this threshold ‘‘would satisfy any duties 
+test.’’
+115 
+E. Future Updates to the Earnings 
+Thresholds 
+As the Department noted in the 
+NPRM, even a well-calibrated salary 
+VerDate Sep<11>2014 18:58 Sep 26, 2019 Jkt 247001 PO 00000 Frm 00022 Fmt 4701 Sfmt 4700 E:\FR\FM\27SER2.SGM 27SER2jbell on DSK3GLQ082PROD with RULES2
+--- page 12 ---
+51251 Federal Register / Vol. 84, No. 188 / Friday, September 27, 2019 / Rules and Regulations 
+116 275 F. Supp. 3d at 808. 
+level that is fixed becomes obsolete as 
+wages for nonexempt workers increase 
+over time. Long lapses between 
+rulemakings have resulted in EAP salary 
+levels based on outdated salary data. 
+Such levels are ill-equipped to help 
+employers assess which employees are 
+unlikely to meet the duties tests for the 
+part 541 exemptions. As the Department 
+noted in 2004, outdated regulations 
+‘‘allow unscrupulous employers to 
+avoid their overtime obligations and can 
+serve as a trap for the unwary but well- 
+intentioned employer;’’ they can also 
+lead increasing numbers of nonexempt 
+employees to ‘‘resort to lengthy court 
+battles to receive their overtime pay.’’ 69 
+FR 22212. 
+Throughout the years, various 
+stakeholders have submitted comments 
+asking the Department to establish a 
+mechanism to update the thresholds 
+automatically. The Department has 
+twice declined such requests, once in 
+1970, when it concluded that ‘‘such a 
+proposal [would] require further study,’’ 
+35 FR 884, and once in 2004, 69 FR 
+22171–72. However, in the 2016 final 
+rule, the Department for the first time 
+adopted a mechanism to automatically 
+update the earnings thresholds every 
+three years, applying the same 
+methodology used to initially set each 
+threshold in that rulemaking. 81 FR 
+32430. The district court’s summary 
+judgment decision invalidating the 2016 
+final rule stated that because the 
+standard salary level established by the 
+2016 final rule was unlawful, the 
+mechanism to automatically update that 
+standard salary level was ‘‘similarly 
+. . . unlawful.’’
+116 
+In the NPRM, the Department 
+expressed its intent to evaluate the part 
+541 earnings thresholds more frequently 
+through rulemaking. 84 FR 10914–15. 
+Specifically, the Department stated in 
+the NPRM that it intended to propose 
+updates to the standard salary level and 
+HCE total compensation threshold on a 
+quadrennial basis (i.e., once every four 
+years) through notice-and-comment 
+rulemaking, and that each proposal 
+would use the same methodology as the 
+most recently published final rule. The 
+Secretary, however, could forestall 
+proposed updates if economic or other 
+factors so indicated. The Department 
+also described how it could revise the 
+part 541 regulations if it were to codify 
+this intention in a final rule. Id. at 10915 
+n.140. 
+Some commenters supported the 
+Department’s proposal to propose 
+updates to the earnings thresholds every 
+four years unless unwarranted due to 
+economic or other factors. See National 
+Association of Convenience Stores; 
+National Association of Landscape 
+Professionals; NGA; National 
+Multifamily Housing Council and the 
+National Apartment Association; SBA 
+Advocacy. These commenters generally 
+agreed that the Department’s proposal 
+would help the salary level keep pace 
+with earnings growth, thus preventing 
+dramatic increases after long gaps 
+between updates. See, e.g., Credit Union 
+National Association; Joint Comment 
+from Golf Industry Representatives. 
+Many of these commenters specifically 
+expressed support for the Department’s 
+proposal to use notice-and-comment 
+rulemaking to set future salary 
+thresholds; such as NAHB, which 
+commented that ‘‘[b]y continuing its 
+current practice of engaging the 
+regulated community . . . DOL will 
+receive timely and important 
+information as it moves forward with 
+proposed updates in the future.’’ 
+Commenters who supported the 
+Department’s proposal generally 
+characterized this reliance on notice- 
+and-comment rulemaking as preferable 
+to the 2016 final rule’s automatic 
+updating provision, see, e.g., Job 
+Creators Network; Joint Comment of 5 
+Senators, with some asserting that 
+automatic updating, without notice-and- 
+comment rulemaking, would be 
+unlawful, see, e.g., Joint Comment by 
+International Public Management 
+Association for Human Resources and 
+others; SIGMA. 
+Other commenters did not support the 
+Department’s commitment to evaluate 
+the thresholds regularly. Many 
+commenters felt that there was no need 
+to adhere to a fixed schedule, with some 
+asserting that doing so could deprive the 
+Department of flexibility to adapt to 
+unanticipated circumstances. These 
+commenters advocated for the 
+Department to continue its practice of 
+updating the salary whenever it deems 
+such updates appropriate. See, e.g., 
+AGC; Argentum and American Seniors 
+Housing Association; HR Policy 
+Association; Independent Bakers 
+Association. A few commenters 
+questioned the Department’s authority 
+to bind itself to conducting regular 
+evaluations of the salary level. See 
+AHLA; PPWO. Others felt that the 
+proposed updating framework could 
+expose the Department to legal risk 
+because parties might challenge a 
+decision by the Department not to 
+engage in the anticipated rulemaking. 
+See Associated Builders and 
+Contractors; FMI. Some commenters 
+who opposed the updating proposal 
+asserted that it was unnecessary since 
+the Department can engage in 
+rulemaking at any time. See Associated 
+Builders and Contractors, FMI, NRA. 
+Other commenters, including 
+employee representatives, took the 
+opposite tack, requesting that the 
+Department automatically update the 
+salary thresholds. See, e.g., Center for 
+Popular Democracy; Demos; Oxfam 
+America. Some of these commenters 
+asserted that past experience, including 
+the long gaps between the most recent 
+updates, has demonstrated that in the 
+absence of regular updates, the salary 
+level becomes obsolete, and that an 
+announced intent to propose updates 
+does not sufficiently ensure that the 
+levels will, in fact, be updated. See, e.g., 
+AARP; Joint Comment from 77 Members 
+of Congress; Nichols Kaster. Many 
+commenters who favored automatic 
+updating specifically supported the 
+updating provision that was included in 
+the 2016 final rule. See AARP; NELA; 
+NELP; NWLC; State AGs; The 
+Leadership Conference on Civil and 
+Human Rights. Some maintained that 
+the lack of automatic updating would 
+result in decreased earnings for workers, 
+citing EPI’s estimates that the gap in 
+projected earnings transfers to workers 
+between the 2016 final rule and the 
+proposal would increase from $1.2 
+billion to $1.6 billion due to the lack of 
+automatic updates. See, e.g., EPI; NELP; 
+UAW. NELP further stated that 
+‘‘[i]ndexing would ensure predictability 
+for workers and employers alike and 
+eliminate the need for time-consuming 
+federal regulations.’’ 
+A number of commenters generally 
+supported regular updates to the 
+earnings thresholds, but suggested a 
+frequency other than every four years. 
+For instance, ASTA suggested that a six- 
+year gap ‘‘would strike a better balance 
+in recognizing [its] and [its] member 
+employers’ legitimate concerns . . . 
+than the four-year interval included in 
+the NPRM.’’ The Pennsylvania Credit 
+Union Association wrote in support of 
+updating the thresholds no less 
+frequently than every three years, while 
+Representative Daniel Lipinski ‘‘urge[d] 
+the Department to review the [standard 
+salary] threshold more frequently than 
+once every four years.’’ AFSCME 
+supported annual updates. 
+In this final rule, the Department 
+reaffirms its intent to update the 
+standard salary level and HCE total 
+annual compensation threshold more 
+regularly in the future using notice-and- 
+comment rulemaking. The Department 
+agrees with those commenters who 
+stated that long periods without updates 
+serve neither employee nor employer 
+interests, since they diminish the 
+usefulness of the salary level test and 
+cause future increases to be larger and 
+VerDate Sep<11>2014 18:58 Sep 26, 2019 Jkt 247001 PO 00000 Frm 00023 Fmt 4701 Sfmt 4700 E:\FR\FM\27SER2.SGM 27SER2jbell on DSK3GLQ082PROD with RULES2

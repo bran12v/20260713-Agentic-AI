@@ -1,0 +1,545 @@
+
+40 CFR Part 268 - Land Disposal Restrictions
+============================================
+
+
+§ 268.9 Special rules regarding wastes that exhibit a characteristic.
+---------------------------------------------------------------------
+
+(a) The initial generator of a solid waste must determine each EPA Hazardous Waste Number
+(waste code) applicable to the waste in order to determine the applicable treatment
+standards under subpart D of this part. This determination may be made concurrently with the
+hazardous waste determination required in § 262.11 of this chapter. For purposes of part
+268, the waste will carry the waste code for any applicable listed waste (40 CFR part 261,
+subpart D). In addition, where the waste exhibits a characteristic, the waste will carry one
+or more of the characteristic waste codes (40 CFR part 261, subpart C), except when the
+treatment standard for the listed waste operates in lieu of the treatment standard for the
+characteristic waste, as specified in paragraph (b) of this section. If the generator
+determines that their waste displays a hazardous characteristic (and is not D001
+nonwastewaters treated by CMBST, RORGS, OR POLYM of § 268.42, Table 1), the generator must
+determine the underlying hazardous constituents (as defined at § 268.2(i)) in the
+characteristic waste.
+
+(b) Where a prohibited waste is both listed under 40 CFR part 261, subpart D and exhibits a
+characteristic under 40 CFR part 261, subpart C, the treatment standard for the waste code
+listed in 40 CFR part 261, subpart D will operate in lieu of the standard for the waste code
+under 40 CFR part 261, subpart C, provided that the treatment standard for the listed waste
+includes a treatment standard for the constituent that causes the waste to exhibit the
+characteristic. Otherwise, the waste must meet the treatment standards for all applicable
+listed and characteristic waste codes.
+
+(c) In addition to any applicable standards determined from the initial point of generation,
+no prohibited waste which exhibits a characteristic under 40 CFR part 261, subpart C may be
+land disposed unless the waste complies with the treatment standards under subpart D of this
+part.
+
+(d) Wastes that exhibit a characteristic are also subject to § 268.7 requirements, except
+that once the waste is no longer hazardous, a one-time notification and certification must
+be placed in the generator's or treater's on-site files. The notification and certification
+must be updated if the process or operation generating the waste changes and/or if the
+subtitle D facility receiving the waste changes.
+
+(1) The notification must include the following information:
+
+(i) Name and address of the RCRA Subtitle D facility receiving the waste shipment; and
+
+(ii) A description of the waste as initially generated, including the applicable EPA
+hazardous waste code(s), treatability group(s), and underlying hazardous constituents (as
+defined in § 268.2(i)), unless the waste will be treated and monitored for all underlying
+hazardous constituents. If all underlying hazardous constituents will be treated and
+monitored, there is no requirement to list any of the underlying hazardous constituents on
+the notice.
+
+(2) The certification must be signed by an authorized representative and must state the
+language found in § 268.7(b)(4).
+
+(i) If treatment removes the characteristic but does not meet standards applicable to
+underlying hazardous constituents, then the certification found in § 268.7(b)(4)(iv)
+applies.
+
+(ii) [Reserved]
+
+
+----------------------------------------------------------------------
+
+
+§ 268.48 Universal treatment standards.
+---------------------------------------
+
+(a) Table UTS identifies the hazardous constituents, along with the nonwastewater and
+wastewater treatment standard levels, that are used to regulate most prohibited hazardous
+wastes with numerical limits. For determining compliance with treatment standards for
+underlying hazardous constituents as defined in § 268.2(i), these treatment standards may
+not be exceeded. Compliance with these treatment standards is measured by an analysis of
+grab samples, unless otherwise noted in the following Table UTS.
+
+
+Universal Treatment Standards[Note: NA means not applicable]
+------------------------------------------------------------
+
+Regulated constituentcommon name                                             CAS 1number      Wastew  Nonwas
+                                                                                              aterst  tewate
+                                                                                              andard  rstand
+                                                                                                      ard
+
+Concentration 2 in mg/l                                                      Concentration 3
+                                                                             in mg/kg unless
+                                                                             noted as “mg/l
+                                                                             TCLP”
+
+Organic Constituents
+Acenaphthylene                                                               208-96-8         0.059   3.4
+Acenaphthene                                                                 83-32-9          0.059   3.4
+Acetone                                                                      67-64-1          0.28    160
+Acetonitrile                                                                 75-05-8          5.6     38
+Acetophenone                                                                 96-86-2          0.010   9.7
+2-Acetylaminofluorene                                                        53-96-3          0.059   140
+Acrolein                                                                     107-02-8         0.29    NA
+Acrylamide                                                                   79-06-1          19      23
+Acrylonitrile                                                                107-13-1         0.24    84
+Aldrin                                                                       309-00-2         0.021   0.066
+4-Aminobiphenyl                                                              92-67-1          0.13    NA
+Aniline                                                                      62-53-3          0.81    14
+o-Anisidine (2-methoxyaniline)                                               90-04-0          0.010   0.66
+Anthracene                                                                   120-12-7         0.059   3.4
+Aramite                                                                      140-57-8         0.36    NA
+alpha-BHC                                                                    319-84-6         0.0001  0.066
+                                                                                              4
+
+beta-BHC                                                                     319-85-7         0.0001  0.066
+                                                                                              4
+
+delta-BHC                                                                    319-86-8         0.023   0.066
+gamma-BHC                                                                    58-89-9          0.0017  0.066
+Benzene                                                                      71-43-2          0.14    10
+Benz(a)anthracene                                                            56-55-3          0.059   3.4
+Benzal chloride                                                              98-87-3          0.055   6.0
+Benzo(b)fluoranthene (difficult to distinguish from benzo(k)fluoranthene)    205-99-2         0.11    6.8
+Benzo(k)fluoranthene (difficult to distinguish from benzo(b)fluoranthene)    207-08-9         0.11    6.8
+Benzo(g,h,i)perylene                                                         191-24-2         0.0055  1.8
+Benzo(a)pyrene                                                               50-32-8          0.061   3.4
+Bromodichloromethane                                                         75-27-4          0.35    15
+Bromomethane/Methyl bromide                                                  74-83-9          0.11    15
+4-Bromophenyl phenyl ether                                                   101-55-3         0.055   15
+n-Butyl alcohol                                                              71-36-3          5.6     2.6
+Butyl benzyl phthalate                                                       85-68-7          0.017   28
+2-sec-Butyl-4,6-dinitrophenol/Dinoseb                                        88-85-7          0.066   2.5
+Carbon disulfide                                                             75-15-0          3.8     4.8
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+Carbon tetrachloride                                                         56-23-5          0.057   6.0
+Chlordane (alpha and gamma isomers)                                          57-74-9          0.0033  0.26
+p-Chloroaniline                                                              106-47-8         0.46    16
+Chlorobenzene                                                                108-90-7         0.057   6.0
+Chlorobenzilate                                                              510-15-6         0.10    NA
+2-Chloro-1,3-butadiene                                                       126-99-8         0.057   0.28
+Chlorodibromomethane                                                         124-48-1         0.057   15
+Chloroethane                                                                 75-00-3          0.27    6.0
+bis(2-Chloroethoxy)methane                                                   111-91-1         0.036   7.2
+bis(2-Chloroethyl)ether                                                      111-44-4         0.033   6.0
+Chloroform                                                                   67-66-3          0.046   6.0
+bis(2-Chloroisopropyl)ether                                                  39638-32-9       0.055   7.2
+p-Chloro-m-cresol                                                            59-50-7          0.018   14
+2-Chloroethyl vinyl ether                                                    110-75-8         0.062   NA
+Chloromethane/Methyl chloride                                                74-87-3          0.19    30
+2-Chloronaphthalene                                                          91-58-7          0.055   5.6
+2-Chloropchenol                                                              95-57-8          0.044   5.7
+3-Chloropropylene                                                            107-05-1         0.036   30
+Chrysene                                                                     218-01-9         0.059   3.4
+p-Cresidine                                                                  120-71-8         0.010   0.66
+o-Cresol                                                                     95-48-7          0.11    5.6
+m-Cresol (difficult to distinguish from p-cresol)                            108-39-4         0.77    5.6
+p-Cresol (difficult to distinguish from m-cresol)                            106-44-5         0.77    5.6
+Cyclohexanone                                                                108-94-1         0.36    0.75
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+o,p′-DDD                                                                     53-19-0          0.023   0.087
+p,p′-DDD                                                                     72-54-8          0.023   0.087
+o,p′-DDE                                                                     3424-82-6        0.031   0.087
+p,p′-DDE                                                                     72-55-9          0.031   0.087
+o,p′-DDT                                                                     789-02-6         0.0039  0.087
+p,p′-DDT                                                                     50-29-3          0.0039  0.087
+Dibenz(a,h)anthracene                                                        53-70-3          0.055   8.2
+Dibenz(a,e)pyrene                                                            192-65-4         0.061   NA
+1,2-Dibromo-3-chloropropane                                                  96-12-8          0.11    15
+1,2-Dibromoethane/Ethylene dibromide                                         106-93-4         0.028   15
+Dibromomethane                                                               74-95-3          0.11    15
+m-Dichlorobenzene                                                            541-73-1         0.036   6.0
+o-Dichlorobenzene                                                            95-50-1          0.088   6.0
+p-Dichlorobenzene                                                            106-46-7         0.090   6.0
+Dichlorodifluoromethane                                                      75-71-8          0.23    7.2
+1,1-Dichloroethane                                                           75-34-3          0.059   6.0
+1,2-Dichloroethane                                                           107-06-2         0.21    6.0
+1,1-Dichloroethylene                                                         75-35-4          0.025   6.0
+trans-1,2-Dichloroethylene                                                   156-60-5         0.054   30
+2,4-Dichlorophenol                                                           120-83-2         0.044   14
+2,6-Dichlorophenol                                                           87-65-0          0.044   14
+2,4-Dichlorophenoxyacetic acid/2,4-D                                         94-75-7          0.72    10
+1,2-Dichloropropane                                                          78-87-5          0.85    18
+cis-1,3-Dichloropropylene                                                    10061-01-5       0.036   18
+trans-1,3-Dichloropropylene                                                  10061-02-6       0.036   18
+Dieldrin                                                                     60-57-1          0.017   0.13
+Diethyl phthalate                                                            84-66-2          0.20    28
+p-Dimethylaminoazobenzene                                                    60-11-7          0.13    NA
+2,4-Dimethylaniline (2,4-xylidine)                                           95-68-1          0.010   0.66
+2,4-Dimethyl phenol                                                          105-67-9         0.036   14
+Dimethyl phthalate                                                           131-11-3         0.047   28
+Di-n-butyl phthalate                                                         84-74-2          0.057   28
+1,4-Dinitrobenzene                                                           100-25-4         0.32    2.3
+4,6-Dinitro-o-cresol                                                         534-52-1         0.28    160
+2,4-Dinitrophenol                                                            51-28-5          0.12    160
+2,4-Dinitrotoluene                                                           121-14-2         0.32    140
+2,6-Dinitrotoluene                                                           606-20-2         0.55    28
+Di-n-octyl phthalate                                                         117-84-0         0.017   28
+Di-n-propylnitrosamine                                                       621-64-7         0.40    14
+1,4-Dioxane                                                                  123-91-1         12.0    170
+Diphenylamine (difficult to distinguish from diphenylnitrosamine)            122-39-4         0.92    13
+Diphenylnitrosamine (difficult to distinguish from diphenylamine)            86-30-6          0.92    13
+1,2-Diphenylhydrazine                                                        122-66-7         0.087   NA
+Disulfoton                                                                   298-04-4         0.017   6.2
+Endosulfan I                                                                 959-98-8         0.023   0.066
+Endosulfan II                                                                33213-65-9       0.029   0.13
+Endosulfan sulfate                                                           1031-07-8        0.029   0.13
+Endrin                                                                       72-20-8          0.0028  0.13
+Endrin aldehyde                                                              7421-93-4        0.025   0.13
+Ethyl acetate                                                                141-78-6         0.34    33
+Ethyl benzene                                                                100-41-4         0.057   10
+Ethyl cyanide/Propanenitrile                                                 107-12-0         0.24    360
+Ethyl ether                                                                  60-29-7          0.12    160
+bis(2-Ethylhexyl)phthalate                                                   117-81-7         0.28    28
+Ethyl methacrylate                                                           97-63-2          0.14    160
+Ethylene oxide                                                               75-21-8          0.12    NA
+Famphur                                                                      52-85-7          0.017   15
+Fluoranthene                                                                 206-44-0         0.068   3.4
+Fluorene                                                                     86-73-7          0.059   3.4
+Heptachlor                                                                   76-44-8          0.0012  0.066
+1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin (1,2,3,4,6,7,8-HpCDD)              35822-46-9       0.0000  .0025
+                                                                                              35
+
+1,2,3,4,6,7,8-Heptachlorodibenzofluran (1,2,3,4,6,7,8-HpCDF)                 67562-39-4       0.0000  .0025
+                                                                                              35
+
+1,2,3,4,7,8,9-Heptachlorodibenzofluran (1,2,3,4,7,8,9-HpCDF)                 55673-89-7       0.0000  .0025
+                                                                                              35
+
+Heptachlor epoxide                                                           1024-57-3        0.016   0.066
+Hexachlorobenzene                                                            118-74-1         0.055   10
+Hexachlorobutadiene                                                          87-68-3          0.055   5.6
+Hexachlorocyclopentadiene                                                    77-47-4          0.057   2.4
+HxCDDs (All Hexachlorodibenzo-p-dioxins)                                     NA               0.0000  0.001
+                                                                                              63
+
+HxCDFs (All Hexachlorodibenzofurans)                                         NA               0.0000  0.001
+                                                                                              63
+
+Hexachloroethane                                                             67-72-1          0.055   30
+Hexachloropropylene                                                          1888-71-7        0.035   30
+Indeno(1,2,3-c,d) pyrene                                                     193-39-5         0.0055  3.4
+Iodomethane                                                                  74-88-4          0.19    65
+Isobutyl alcohol                                                             78-83-1          5.6     170
+Isodrin                                                                      465-73-6         0.021   0.066
+Isosafrole                                                                   120-58-1         0.081   2.6
+Kepone                                                                       143-50-0         0.0011  0.13
+Methacrylonitrile                                                            126-98-7         0.24    84
+Methanol                                                                     67-56-1          5.6     0.75
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+Methapyrilene                                                                91-80-5          0.081   1.5
+Methoxychlor                                                                 72-43-5          0.25    0.18
+3-Methylcholanthrene                                                         56-49-5          0.0055  15
+4,4-Methylene bis(2-chloroaniline)                                           101-14-4         0.50    30
+Methylene chloride                                                           75-09-2          0.089   30
+Methyl ethyl ketone                                                          78-93-3          0.28    36
+Methyl isobutyl ketone                                                       108-10-1         0.14    33
+Methyl methacrylate                                                          80-62-6          0.14    160
+Methyl methanesulfonate                                                      66-27-3          0.018   NA
+Methyl parathion                                                             298-00-0         0.014   4.6
+Naphthalene                                                                  91-20-3          0.059   5.6
+2-Naphthylamine                                                              91-59-8          0.52    NA
+o-Nitroaniline                                                               88-74-4          0.27    14
+p-Nitroaniline                                                               100-01-6         0.028   28
+Nitrobenzene                                                                 98-95-3          0.068   14
+5-Nitro-o-toluidine                                                          99-55-8          0.32    28
+o-Nitrophenol                                                                88-75-5          0.028   13
+p-Nitrophenol                                                                100-02-7         0.12    29
+N-Nitrosodiethylamine                                                        55-18-5          0.40    28
+N-Nitrosodimethylamine                                                       62-75-9          0.40    2.3
+N-Nitroso-di-n-butylamine                                                    924-16-3         0.40    17
+N-Nitrosomethylethylamine                                                    10595-95-6       0.40    2.3
+N-Nitrosomorpholine                                                          59-89-2          0.40    2.3
+N-Nitrosopiperidine                                                          100-75-4         0.013   35
+N-Nitrosopyrrolidine                                                         930-55-2         0.013   35
+1,2,3,4,6,7,8,9-Octachlorodibenzo-p-dioxin (OCDD)                            3268-87-9        0.0000  0.005
+                                                                                              63
+
+1,2,3,4,6,7,8,9-Octachlorodibenzofluran (OCDF)                               39001-02-0       0.0000  0.005
+                                                                                              63
+
+Parathion                                                                    56-38-2          0.014   4.6
+Total PCBs (sum of all PCB isomers, or all Aroclors) 8                       1336-36-3        0.10    10
+Pentachlorobenzene                                                           608-93-5         0.055   10
+PeCDDs (All Pentachlorodibenzo-p-dioxins)                                    NA               0.0000  0.001
+                                                                                              63
+
+PeCDFs (All Pentachlorodibenzofurans)                                        NA               0.0000  0.001
+                                                                                              35
+
+Pentachloroethane                                                            76-01-7          0.055   6.0
+Pentachloronitrobenzene                                                      82-68-8          0.055   4.8
+Pentachlorophenol                                                            87-86-5          0.089   7.4
+Phenacetin                                                                   62-44-2          0.081   16
+Phenanthrene                                                                 85-01-8          0.059   5.6
+Phenol                                                                       108-95-2         0.039   6.2
+1,3-Phenylenediamine                                                         108-45-2         0.010   0.66
+Phorate                                                                      298-02-2         0.021   4.6
+Phthalic acid                                                                100-21-0         0.055   28
+Phthalic anhydride                                                           85-44-9          0.055   28
+Pronamide                                                                    23950-58-5       0.093   1.5
+Pyrene                                                                       129-00-0         0.067   8.2
+Pyridine                                                                     110-86-1         0.014   16
+Safrole                                                                      94-59-7          0.081   22
+Silvex/2,4,5-TP                                                              93-72-1          0.72    7.9
+1,2,4,5-Tetrachlorobenzene                                                   95-94-3          0.055   14
+TCDDs (All Tetrachlorodibenzo-p-dioxins)                                     NA               0.0000  0.001
+                                                                                              63
+
+TCDFs (All Tetrachlorodibenzofurans)                                         NA               0.0000  0.001
+                                                                                              63
+
+1,1,1,2-Tetrachloroethane                                                    630-20-6         0.057   6.0
+1,1,2,2-Tetrachloroethane                                                    79-34-5          0.057   6.0
+Tetrachloroethylene                                                          127-18-4         0.056   6.0
+2,3,4,6-Tetrachlorophenol                                                    58-90-2          0.030   7.4
+Toluene                                                                      108-88-3         0.080   10
+Toxaphene                                                                    8001-35-2        0.0095  2.6
+Tribromomethane/Bromoform                                                    75-25-2          0.63    15
+1,2,4-Trichlorobenzene                                                       120-82-1         0.055   19
+1,1,1-Trichloroethane                                                        71-55-6          0.054   6.0
+1,1,2-Trichloroethane                                                        79-00-5          0.054   6.0
+Trichloroethylene                                                            79-01-6          0.054   6.0
+Trichlorofluoromethane                                                       75-69-4          0.020   30
+2,4,5-Trichlorophenol                                                        95-95-4          0.18    7.4
+2,4,6-Trichlorophenol                                                        88-06-2          0.035   7.4
+2,4,5-Trichlorophenoxyacetic acid/2,4,5-T                                    93-76-5          0.72    7.9
+1,2,3-Trichloropropane                                                       96-18-4          0.85    30
+1,1,2-Trichloro-1,2,2-trifluoroethane                                        76-13-1          0.057   30
+tris-(2,3-Dibromopropyl) phosphate                                           126-72-7         0.11    0.10
+Vinyl chloride                                                               75-01-4          0.27    6.0
+Xylenes-mixed isomers (sum of o-, m-, and p-xylene concentrations)           1330-20-7        0.32    30
+Inorganic Constituents
+Antimony                                                                     7440-36-0        1.9     1.15
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+Arsenic                                                                      7440-38-2        1.4     5.0
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+Barium                                                                       7440-39-3        1.2     21
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+Beryllium                                                                    7440-41-7        0.82    1.22
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+Cadmium                                                                      7440-43-9        0.69    0.11
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+Chromium (Total)                                                             7440-47-3        2.77    0.60
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+Cyanides (Total) 4                                                           57-12-5          1.2     590
+Cyanides (Amenable) 4                                                        57-12-5          0.86    30
+Fluoride 5                                                                   16984-48-8       35      NA
+Lead                                                                         7439-92-1        0.69    0.75
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+Mercury—Nonwastewater from Retort                                            7439-97-6        NA      0.20
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+Mercury—All Others                                                           7439-97-6        0.15    0.025
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+Nickel                                                                       7440-02-0        3.98    11
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+Selenium 7                                                                   7782-49-2        0.82    5.7
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+Silver                                                                       7440-22-4        0.43    0.14
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+Sulfide 5                                                                    18496-25-8       14      NA
+Thallium                                                                     7440-28-0        1.4     0.20
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+Vanadium 5                                                                   7440-62-2        4.3     1.6
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+Zinc 5                                                                       7440-66-6        2.61    4.3
+                                                                                                      mg/l
+                                                                                                      TCLP
+
+
+
+Footnotes to Table UTS
+----------------------
+
+1  CAS means Chemical Abstract Services. When the waste code and/or regulated constituents are described as
+   a combination of a chemical with it's salts and/or esters, the CAS number is given for the parent
+   compound only.
+
+2  Concentration standards for wastewaters are expressed in mg/l and are based on analysis of composite
+   samples.
+
+3  Except for Metals (EP or TCLP) and Cyanides (Total and Amenable) the nonwastewater treatment standards
+   expressed as a concentration were established, inpart, based upon incineration in units operated in
+   accordance with the technical requirements of 40 CFR part 264, subpart O or 40 CFR part 265, subpart O,
+   or based upon combustion in fuel substitution units operating in accordance with applicable technical
+   requirements. A facility may comply with these treatment standards according to provisions in 40 CFR
+   268.40(d). All concentration standards for nonwastewaters are based on analysis of grab samples.
+
+4  Both Cyanides (Total) and Cyanides (Amenable) for nonwastewaters are to be analyzed using Method 9010C or
+   9012B, found in “Test Methods for Evaluating Solid Waste, Physical/Chemical Methods,” EPA Publication
+   SW-846, as incorporated by reference in 40 CFR 260.11, with a sample size of 10 grams and a distillation
+   time of one hour and 15 minutes.
+
+5  These constituents are not “underlying hazardous constituents” in characteristic wastes, according to the
+   definition at § 268.2(i).
+
+6  [Reserved]
+7  This constituent is not an underlying hazardous constituent as defined at § 268.2(i) of this Part because
+   its UTS level is greater than its TC level, thus a treatment selenium waste would always be
+   characteristically hazardous, unless it is treated to below its characteristic level.
+
+8  This standard is temporarily deferred for soil exhibiting a hazardous characteristic due to D004-D011
+   only.
+
+
+
+----------------------------------------------------------------------
+
+
+§ 268.49 Alternative LDR treatment standards for contaminated soil.
+-------------------------------------------------------------------
+
+(a) Applicability. You must comply with LDRs prior to placing soil that exhibits a
+characteristic of hazardous waste, or exhibited a characteristic of hazardous waste at the
+time it was generated, into a land disposal unit. The following chart describes whether you
+must comply with LDRs prior to placing soil contaminated by listed hazardous waste into a
+land disposal unit:
+
+If LDRs                           And if LDRs      And if                                     Then you
+Applied to the listed waste when  Apply to the                                                Must comply
+it contaminated the soil*         listed waste                                                with LDRs
+                                  now
+
+Didn't apply to the listed waste  Apply to the     The soil is determined to contain the      Must comply
+when it contaminated the soil*    listed waste     listed waste when the soil is first        with LDRs.
+                                  now              generated
+
+Didn't apply to the listed waste  Apply to the     The soil is determined not to contain the  Needn't comply
+when it contaminated the soil*    listed waste     listed waste when the soil is first        with LDRs.
+                                  now              generated
+
+Didn't apply to the listed waste  Don't apply to                                              Needn't comply
+when it contaminated the soil*    the listed                                                  with LDRs.
+                                  waste now
+
+* For dates of LDR
+applicability, see 40 CFR Part
+268 Appendix VII. To determine
+the date any given listed
+hazardous waste contaminated any
+given volume of soil, use the
+last date any given listed
+hazardous waste was placed into
+any given land disposal unit or,
+in the case of an accidental
+spill, the date of the spill.
+
+
+(b) Prior to land disposal, contaminated soil identified by paragraph (a) of this section as
+needing to comply with LDRs must be treated according to the applicable treatment standards
+specified in paragraph (c) of this section or according to the Universal Treatment Standards
+specified in 40 CFR 268.48 applicable to the contaminating listed hazardous waste and/or the
+applicable characteristic of hazardous waste if the soil is characteristic. The treatment
+standards specified in paragraph (c) of this section and the Universal Treatment Standards
+may be modified through a treatment variance approved in accordance with 40 CFR 268.44.
+
+(c) Treatment standards for contaminated soils. Prior to land disposal, contaminated soil
+identified by paragraph (a) of this section as needing to comply with LDRs must be treated
+according to all the standards specified in this paragraph or according to the Universal
+Treatment Standards specified in 40 CFR 268.48.
+
+(1) All soils. Prior to land disposal, all constituents subject to treatment must be treated
+as follows:
+
+(A) For non-metals except carbon disulfide, cyclohexanone, and methanol, treatment must
+achieve 90 percent reduction in total constituent concentrations, except as provided by
+paragraph (c)(1)(C) of this section.
+
+(B) For metals and carbon disulfide, cyclohexanone, and methanol, treatment must achieve 90
+percent reduction in constituent concentrations as measured in leachate from the treated
+media (tested according to the TCLP) or 90 percent reduction in total constituent
+concentrations (when a metal removal treatment technology is used), except as provided by
+paragraph (c)(1)(C)of this section.
+
+(C) When treatment of any constituent subject to treatment to a 90 percent reduction
+standard would result in a concentration less than 10 times the Universal Treatment Standard
+for that constituent, treatment to achieve constituent concentrations less than 10 times the
+universal treatment standard is not required. Universal Treatment Standards are identified
+in 40 CFR 268.48 Table UTS.
+
+(2) Soils that exhibit the characteristic of ignitability, corrosivity or reactivity. In
+addition to the treatment required by paragraph (c)(1) of this section, prior to land
+disposal, soils that exhibit the characteristic of ignitability, corrosivity, or reactivity
+must be treated to eliminate these characteristics.
+
+(3) Soils that contain nonanalyzable constituents. In addition to the treatment requirements
+of paragraphs (c)(1) and (2) of this section, prior to land disposal, the following
+treatment is required for soils that contain nonanalyzable constituents:
+
+(A) For soil that contains only analyzable and nonanalyzable organic constituents, treatment
+of the analyzable organic constituents to the levels specified in paragraphs (c)(1) and (2)
+of this section; or,
+
+(B) For soil that contains only nonanalyzable constituents, treatment by the method(s)
+specified in § 268.42 for the waste contained in the soil.
+
+(d) Constituents subject to treatment. When applying the soil treatment standards in
+paragraph (c) of this section, constituents subject to treatment are any constituents listed
+in § 268.48 Table UTS-Universal Treatment Standards that are reasonably expected to be
+present in any given volume of contaminated soil, except fluoride, selenium, sulfides,
+vanadium, zinc, and that are present at concentrations greater than ten times the universal
+treatment standard. PCBs are not constituent subject to treatment in any given volume of
+soil which exhibits the toxicity characteristic solely because of the presence of metals.
+
+(e) Management of treatment residuals. Treatment residuals from treating contaminated soil
+identified by paragraph (a) of this section as needing to comply with LDRs must be managed
+as follows:
+
+(1) Soil residuals are subject to the treatment standards of this section;
+
+(2) Non-soil residuals are subject to:
+
+(A) For soils contaminated by listed hazardous waste, the RCRA Subtitle C standards
+applicable to the listed hazardous waste; and
+
+(B) For soils that exhibit a characteristic of hazardous waste, if the non-soil residual
+also exhibits a characteristic of hazardous waste, the treatment standards applicable to the
+characteristic hazardous waste.

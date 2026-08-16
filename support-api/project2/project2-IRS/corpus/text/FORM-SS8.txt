@@ -1,0 +1,740 @@
+
+--- page 1 ---
+Form SS-8
+(Rev. December 2023)
+Determination of Worker Status for Purposes 
+ of Federal Employment Taxes and  
+Income Tax WithholdingDepartment of the Treasury 
+Internal Revenue Service Go to www.irs.gov/FormSS8 for instructions and the latest information.
+OMB. No. 1545-0004
+For IRS Use Only: 
+Case Number:  
+Earliest Receipt Date:
+Disclosure of Information
+The information provided on Form SS-8 may be disclosed to the firm, worker, or payer named below to assist the IRS in the determination process. 
+For example, if you are a worker, we may disclose the information you provide on Form SS-8 to the firm or payer named below. The information can 
+only be disclosed to assist with the determination process. See Privacy Act and Paperwork Reduction Act Notice in the separate instructions for more 
+information. If you do not want this information disclosed to other parties, do not file Form SS-8.
+IMPORTANT THINGS YOU SHOULD KNOW
+• The Form SS-8 must be fully completed.  If you provide incomplete information, we may not be able to process 
+your request.
+• All questions in Parts I through IV must be explained with clear concise answers. 
+• Part V must be completed if the worker provides a service directly to customers or is a salesperson. 
+• If you cannot answer a question, enter “Unknown” or “Does not apply.”  
+• If you need more space for a question, attach another sheet with the part and question number clearly identified.  Write 
+your firm’s name (or worker’s name) and employer identification number (or social security number) at the top of each 
+additional sheet attached to this form.
+• You MUST include copies of the Forms W-2, 1099-MISC, and/or 1099-NEC for each year you are contesting. See instructions.
+Name of firm (or person) for whom the worker performed services
+Firm’s mailing address (include street address, apt. or suite no., city, state, and ZIP code)
+Trade name
+Firm’s fax number Firm’s website
+Firm’s telephone number (include area code) Firm’s employer identification number
+Worker’s name
+Worker’s mailing address (include street address, apt. or suite no., city, state, and ZIP code)
+Worker’s daytime telephone number Worker’s alternate telephone number
+Worker’s fax number Worker’s social security number
+Worker’s employer identification number (if any)
+Note: If the worker is paid for services performed for a business or individual not listed above, enter the name, address, and taxpayer identification number 
+of that business/individual who paid the worker, if known. Explain the relationship between the firm and the business/individual who paid the worker.
+Part I General Information
+1 This form is being completed by: Firm Worker 
+for services performed from beginning date
+MM/YYYY
+to ending date
+MM/YYYY
+.
+Caution: Filing Form SS-8 does not prevent the expiration of the time in which a claim for refund must be filed.
+2 Explain your reason(s) for filing this form.
+You received a bill from the IRS You believe you erroneously received a Form 1099 or Form W-2
+You are unable to get workers’ compensation benefits You were audited or are being audited by the IRS
+Other (specify)
+Don’t complete this form if payment was received for reasons unrelated to Form SS-8. See instructions.
+Did you remember to answer all questions and 
+refer to the Instructions for Form SS-8 at www.irs.gov/pub/irs-pdf/iss8.pdf?
+For Privacy Act and Paperwork Reduction Act Notice, see the separate instructions. Cat. No. 16106T Form SS-8 (Rev. 12-2023)
+--- page 2 ---
+Form SS-8 (Rev. 12-2023) Page 2
+Part I General Information (continued)
+3 Total number of workers who performed or are performing the same or similar services: .
+4 How did the worker obtain the job? Attach any advertisement.
+Application Bid Employment agency Other (specify)
+5 Attach copies of all supporting documentation (for example, contracts; invoices; memos; Forms W-2, Forms 1099-MISC, or Forms 
+1099-NEC issued or received; IRS closing agreements; or IRS rulings). 
+a Inform us of any current or past litigation concerning the worker’s status.
+b If no income reporting forms (Form 1099-MISC, 1099-NEC, or W-2) were furnished to the worker, enter the amount of income earned for the 
+year(s) at issue $ .
+c If both Form W-2 and Form 1099-MISC, or both Form W-2 and Form 1099-NEC, were issued or received, explain why.
+6 Describe the firm’s business.
+7 Did the worker receive pay from more than one entity (for example, two or more entities with different taxpayer identification numbers) because 
+of a business sale, merger, acquisition, or reorganization? No. Skip to line 8. Yes. Complete the rest of line 7.
+Name of the firm’s previous owner:
+Previous owner’s taxpayer identification number: Change was a: Sale Merger Acquisition Reorganization
+Other (specify)
+Description of above change:
+Date of change (MM/DD/YY):
+8 What is the worker’s job title?
+Describe the worker’s duties.
+9 Which do you believe the worker is? Check only one. Employee Independent contractor
+Explain.
+10 Did the worker perform any services for the firm before or after the dates entered on line 1 on page 1 of this form? . . Yes No
+If “Yes,” what were the dates of service?
+If “Yes,” explain any differences between the services provided.
+11a Is the work done under a written agreement between the firm and the worker? . . . . . . . . . . . . . Yes No
+If “Yes,” attach a copy (preferably signed by both parties).
+If “Yes,” describe the terms and conditions of the work arrangement.
+b Is the work done under an oral agreement? . . . . . . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” describe the details of the agreement.
+Part II Behavioral Control (Provide names and titles of specific individuals, if applicable.)
+1 What specific training and/or instruction is the worker given by the firm?
+2 Who gives the worker work assignments?
+How are the assignments received? In person Phone Email Text message
+Other (specify)
+3 Who determines the methods by which the assignments are performed?
+4 If problems or complaints arise, who is contacted?
+Who is responsible for their resolution?
+Did you remember to answer all questions and 
+refer to the Instructions for Form SS-8 at www.irs.gov/pub/irs-pdf/iss8.pdf?
+Form SS-8 (Rev. 12-2023)
+--- page 3 ---
+Form SS-8 (Rev. 12-2023) Page 3
+Part II Behavioral Control (Provide names and titles of specific individuals, if applicable.) (continued)
+5 Is the worker required to complete reports? . . . . . . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” attach examples.
+6a How frequently does the worker perform services? As scheduled As needed As available
+Other (specify)
+b Describe the worker’s primary services. Sales Timesheets Patient logs
+Other (specify)
+7 Where are the services performed? If more than one location, what percentage of the worker’s time is spent at each location?
+Firm premises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . %
+Worker’s office or shop . . . . . . . . . . . . . . . . . . . . . . . . . . . . %
+Customer’s location . . . . . . . . . . . . . . . . . . . . . . . . . . . . . %
+Other (specify) %
+8a Is the worker required to attend meetings? . . . . . . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” what type of meetings? Sales Staff Other (specify)
+b Is the worker penalized if unable to attend a meeting? . . . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” what is the penalty?
+9 Is the worker required to provide the services personally? . . . . . . . . . . . . . . . . . . . Yes No
+10 Can the worker hire substitutes or helpers? . . . . . . . . . . . . . . . . . . . . . . . Yes No
+11 If the worker hires the substitutes or helpers, is approval required? . . . . . . . . . . . . . . . . Yes No
+If “Yes,” who approves the hiring? Firm Other (specify)
+12 Does the worker pay substitutes or helpers? . . . . . . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” is the worker reimbursed? . . . . . . . . . . . . . . . . . . . . . . . . . . Yes No
+If the worker is reimbursed, explain who reimburses them.
+Part III Financial Control (Provide names and titles of specific individuals, if applicable.)
+1a List the supplies, equipment, materials, and property provided by
+The firm:
+The worker:
+b Are supplies, equipment, materials, or property provided by another party? . . . . . . . . . . . . . . Yes No
+If “Yes,” explain.
+2 Does the worker lease equipment, space, or a facility? . . . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” what are the terms of the lease? (Attach a copy or explanatory statement.)
+3 Are expenses incurred by the worker in the performance of services for the firm? . . . . . . . . . . . . Yes No
+If “Yes,” explain.
+4a Are expenses reimbursed by the firm? . . . . . . . . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” provide the frequency and amount.
+b Are expenses reimbursed by another party? . . . . . . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” explain.
+5a What type of pay does the worker receive? Salary Commission Hourly wage Piece work Lump sum
+Other (specify)
+b If paid commission, does the firm guarantee a minimum amount of pay? . . . . . . . . . . . . . . . Yes No
+If “Yes,” explain.
+6 Can the worker request advance pay? . . . . . . . . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” how often? Daily Weekly Monthly Other (specify)
+7 Whom does the customer pay? . . . . . . . . . . . . . . . . . . . . . . . . . Firm Worker
+If worker, does the worker pay the total amount to the firm? Yes No If “No,” explain.
+8 Does the firm carry workers’ compensation insurance on the worker? . . . . . . . . . . . . . . . Yes No
+Did you remember to answer all questions and 
+refer to the Instructions for Form SS-8 at www.irs.gov/pub/irs-pdf/iss8.pdf?
+Form SS-8 (Rev. 12-2023)
+--- page 4 ---
+Form SS-8 (Rev. 12-2023) Page 4
+Part III Financial Control (Provide names and titles of specific individuals, if applicable.) (continued)
+9a Does the worker take a financial risk by performing services? . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” explain.
+b Can the worker suffer a financial loss by performing services? . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” explain.
+10a Who sets the rate of pay for the services performed? Firm Worker Other (specify)
+b If products are sold, who sets the product price? Firm Worker Other (specify)
+Part IV Relationship of the Worker and Firm
+1 Are benefits made available to the worker? . . . . . . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” which benefits are available? Paid vacations Sick pay Paid holidays
+Personal days Pensions Insurance benefits Bonuses
+Other (specify)
+2 Can the firm or worker end the work relationship without penalty? . . . . . . . . . . . . . . . . Yes No
+If “No,” explain.
+3 Did the worker perform similar services for others during the time period entered in Part I, line 1? . . . . . . . Yes No
+If “Yes,” is the worker required to get approval from the firm? . . . . . . . . . . . . . . . . . . Yes No
+4 Is there an agreement prohibiting competition between the firm and the worker? . . . . . . . . . . . . Yes No
+If “Yes,” explain or attach available documentation.
+5 Reserved for future use. 
+6 Does the worker advertise? . . . . . . . . . . . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” what type of advertising does the worker do? Provide copies, if available.
+7 Does the worker assemble or process a product at home? . . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” who provides the materials and instructions or patterns?
+If “Yes,” what does the worker do with the finished product? Return to the firm Provide to another party Sell it
+Other (specify)
+8a Does the firm introduce the worker to its customers? . . . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” how is the worker introduced? Employee Partner Representative Contractor
+Other (specify)
+b Under whose name are services performed? Firm Worker
+Other (specify)
+9 Does the worker still perform services for the firm? . . . . . . . . . . . . . . . . . . . . . Yes No
+If “No,” how did the work relationship end? Firm ended the work relationship Worker ended the work relationship
+Job completed Contract ended Firm or worker went out of business
+Other (specify)
+Part V For Service Providers or Salespersons. You must complete this part if the worker provided a service 
+directly to customers or is a salesperson.
+1 Is the worker responsible for contacting potential new customers? . . . . . . . . . . . . . . . . Yes No
+If “Yes,” what are the worker’s specific responsibilities?
+2 Is the worker provided leads (names and contact information) for potential new customers? . . . . . . . . . Yes No
+If “Yes,” who provides the leads?
+3 Is the worker required to report on potential new customers contacted? . . . . . . . . . . . . . . . Yes No
+If “Yes,” what are the reporting requirements?
+4 Does the firm set terms and conditions of sale? . . . . . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” explain.
+5 Are orders submitted and subject to the firm’s approval? . . . . . . . . . . . . . . . . . . . Yes No
+6 Who determines the worker’s sales territory? Firm Worker
+Other (specify)
+Did you remember to answer all questions and 
+refer to the Instructions for Form SS-8 at www.irs.gov/pub/irs-pdf/iss8.pdf?
+Form SS-8 (Rev. 12-2023)
+--- page 5 ---
+Form SS-8 (Rev. 12-2023) Page 5
+Part V For Service Providers or Salespersons. You must complete this part if the worker provided a service 
+directly to customers or is a salesperson. (continued)
+7 Did the worker pay for the privilege of serving customers on the route or in the territory? . . . . . . . . . . Yes No
+If “Yes,” whom did the worker pay?
+If “Yes,” how much did the worker pay? . . . . . . . . . . . . . . . . . . . . $
+8 Where does the worker sell the product? Home Retail establishment Online
+Other (specify)
+9 List the product and/or services distributed by the worker (for example, meat, vegetables, fruit, bakery products, beverages, or laundry or dry 
+cleaning services). If more than one type of product and/or service is distributed, specify the principal one.
+10 Does the worker sell life insurance full time? . . . . . . . . . . . . . . . . . . . . . . . Yes No
+11 Does the worker sell other types of insurance for the firm? . . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” enter the percentage of the worker’s total working time spent in selling other types of insurance . . . . . %
+12 Does the worker solicit orders from wholesalers, retailers, contractors, or operators of hotels, restaurants, or other similar 
+establishments? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Yes No
+If “Yes,” what percentage of the worker’s time is spent in solicitation? . . . . . . . . . . . . . . . %
+Is the merchandise purchased by the customers for resale or use in their business operations? . . . . . . . . Yes No13
+Describe the merchandise and state whether it is equipment installed on the customers’ premises.
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this request, including accompanying documents, and to the best of my knowledge and belief, the 
+facts presented are true, correct, and complete.
+Print your name Signature Date 
+Did you remember to answer all questions and 
+refer to the Instructions for Form SS-8 at www.irs.gov/pub/irs-pdf/iss8.pdf? 
+Did you sign Form SS-8? 
+Did you attach copies of your Form W-2 or Form 1099 for each year contested?
+Form SS-8 (Rev. 12-2023)
+--- page 6 ---
+Userid: CPM Schema: instrx Leadpct: 100% Pt. size: 9  Draft  Ok to Print
+AH XSL/XML Fileid: … ns/iss-8/202401/a/xml/cycle04/source (Init. & Date) _______
+Page 1 of 5  12:17 - 19-Dec-2023
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Instructions for Form SS-8
+(Rev. January 2024)
+Determination of Worker Status for Purposes of Federal Employment Taxes and 
+Income Tax Withholding
+Department of the T reasury
+Internal Revenue Service
+Section references are to the Internal Revenue Code unless 
+otherwise noted.
+Future Developments
+For the latest information about developments related to Form 
+SS-8 and its instructions, such as legislation enacted after they 
+were published, go to IRS.gov/FormSS8.
+What’s New
+We have redesigned the Form SS-8 and these instructions.
+Reminders
+See IRS.gov/CompleteSS8 for additional information about Form 
+SS-8 and worker classification.
+General Instructions
+If you do not want the information on your Form 
+SS-8 disclosed to other parties, do not file Form 
+SS-8.
+Purpose of Form
+Firms and workers file Form SS-8 to request a determination of 
+the status of a worker under the common law rules for purposes 
+of federal employment taxes and income tax withholding. 
+Generally, under the common law rules a worker is an employee 
+if the firm has the right to control and direct what will be done and 
+how it will be done. See Pub. 15-A, Employer's Supplemental 
+T ax Guide, for more information on how to determine whether a 
+worker providing services is an employee or independent 
+contractor. The SS-8 unit doesn't handle supplemental wage 
+issues.
+Form SS-8 limitations. A Form SS-8 determination may be 
+requested only in order to resolve federal tax matters. The IRS 
+does not issue a determination letter for:
+• Proposed transactions,
+• Hypothetical situations,
+• Cases involving current worker classification litigation,
+• Cases involving state or local government workers who may 
+be performing services under an agreement entered into 
+pursuant to Section 218 of the Social Security Act (see Only the 
+Social Security Administration (SSA) makes Section 218 
+Agreement determinations next),
+• Business-to-business transactions, or
+• Other reasons not in the best interests of tax administration.
+We may, however, issue an information letter when it is 
+considered appropriate.
+Only the Social Security Administration (SSA) makes 
+Section 218 Agreement determinations. Only the SSA can 
+determine if a Section 218 Agreement covers a position with a 
+state or local government entity. The state or local government 
+firm or the worker should contact the State Social Security 
+Administrator for assistance. See Section 218 Agreement under 
+Definitions next.
+CAUTION
+!
+Definitions
+Firm. For the purposes of this form, the term “firm” means any 
+individual, business enterprise, organization, state, or other 
+entity for which a worker has performed services. The firm may 
+or may not have paid the worker directly for these services.
+If the firm was not responsible for payment for services, 
+be sure to enter the name, address, and employer 
+identification number of the payer on the first page of 
+Form SS-8, below the identifying information for the firm and the 
+worker.
+Section 218 Agreement. Workers for state and local 
+governments and/or interstate instrumentalities may be covered 
+by a Section 218 Agreement. A Section 218 Agreement is a 
+written, voluntary agreement between the State Social Security 
+Administrator and the SSA. All 50 states, Puerto Rico, the Virgin 
+Islands, and approximately 60 interstate instrumentalities have 
+Section 218 Agreements extending social security coverage to 
+specified employees. Workers covered under a Section 218 
+Agreement are subject to social security and Medicare tax 
+regardless of any determinations made under the common law 
+rules.
+For further clarification on a Section 218 Agreement, refer to 
+Pub. 963, Federal-State Reference Guide.
+Whether a state or local government worker is subject to 
+social security and Medicare tax depends on which of the 
+following three categories the worker falls into:
+1. Subject to social security under a Section 218 
+Agreement, or
+2. Subject to social security under mandatory coverage 
+provisions, or
+3. Excluded from social security because there is no Section 
+218 Agreement and the employee is covered by a qualified 
+retirement plan.
+The Form SS-8 Determination 
+Process
+The IRS will acknowledge the receipt of your Form SS-8.
+Third party information. Because there are usually two (or 
+more) parties who could be affected by a determination of 
+employment status, the IRS attempts to get information from all 
+parties involved by sending those parties blank Forms SS-8 for 
+completion. Some or all of the information provided on this Form 
+SS-8 may be shared with the other parties listed on page 1 of the 
+form.
+Review of information. The case will be assigned to a 
+technician who will review the facts, apply the law, and render a 
+decision. The technician may ask for additional information from 
+the requestor, from other involved parties, or from third parties 
+that could help clarify the work relationship before rendering a 
+decision.
+Issuance of determination. The IRS will generally issue a 
+formal determination to the firm or payer (if that is a different 
+entity), and will send a copy to the worker. A determination letter 
+applies only to a worker (or a class of workers) requesting it, and 
+CAUTION
+!
+Dec 19, 2023 Cat. No. 66200M
+--- page 7 ---
+Page 2 of 5  Fileid: … ns/iss-8/202401/a/xml/cycle04/source 12:17 - 19-Dec-2023
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+the decision is binding on the IRS if there is no change in the 
+facts or law that form the basis for the ruling. In certain cases, a 
+formal determination will not be issued. Instead, an information 
+letter may be issued. Although an information letter is advisory 
+only and is not binding on the IRS, a worker may use it in fulfilling 
+their federal tax obligations.
+Reconsideration of determination. Neither the Form SS-8 
+determination process nor the review of any records in 
+connection with the determination constitutes an examination 
+(audit) of any federal tax return. If the periods under 
+consideration have previously been examined, the Form SS-8 
+determination process will not constitute a reexamination under 
+IRS reopening procedures. Because this is not an examination of 
+any federal tax return, the appeal rights available in connection 
+with an examination do not apply to a Form SS-8 determination. 
+If you disagree with a determination, you can identify facts that 
+were part of the original submission that you think were not fully 
+considered. If you have additional information concerning the 
+relationship that was not part of the original submission, you can 
+submit the additional information and request that the office 
+reconsider the determination.
+Specific Instructions
+Completing Form SS-8
+Form SS-8 will be returned to the requestor if all required 
+information is not provided.
+The IRS cannot make a determination on your Form SS-8 
+unless you complete all questions in Parts I through IV . In 
+addition, Part V must be completed if the worker provides a 
+service directly to customers or is a salesperson. See below for 
+more information on service providers.
+Parts I through V. Y ou should provide full, clear, and concise 
+responses to the questions in Parts I through IV , and, if 
+applicable, Part V . Incomplete Forms SS-8 will not be processed.
+• If you cannot answer a question, enter “Unknown” or “Does 
+not apply.”
+• If you need more space for a question, continue your answer 
+on another sheet with the part and question number clearly 
+identified. Attach that sheet to your Form SS-8. Write your firm's 
+name (or worker's name) and employer identification number (or 
+social security number (SSN)) at the top of each additional sheet 
+attached to your Form SS-8.
+• If the worker provided a service directly to customers (for 
+example, dry cleaning service, massage therapy, grocery 
+delivery, beverage delivery, etc.), or is a salesperson who sells to 
+individuals or businesses, complete Part V, For Service 
+Providers or Salespersons.
+Part I, line 1. Provide all the years you provided services to the 
+firm.
+A determination can only be made for years with open 
+statutes. See later for information on the time for filing a claim for 
+refund.
+Part I, line 5. Include copies of the Forms 1099-MISC, Forms 
+1099-NEC, and/or Forms W-2 that were issued from the firm for 
+all years in question. If you are unable to provide copies of these 
+forms, submit a letter with a breakdown of how much was earned 
+for each year, along with any copies of checks, paystubs, bank 
+statements, etc.
+If you have any current or past litigation involving you and the 
+worker or firm, please explain on Part I, line 5a, of your Form 
+SS-8. The IRS won't provide a ruling in cases where there's 
+pending worker classification litigation. If you believe the 
+litigation doesn't involve worker classification, or the litigation has 
+CAUTION
+!
+been settled, please include documentation (for example, a 
+Copy of Complaint, First Pleading, Court Docket, or any other 
+supporting information you want us to consider).
+Part IV. When answering the questions in Part IV , indicate if 
+there were any significant changes in the work relationship 
+between the firm and the worker over the service term. 
+Determinations are based on the entire relationship between the 
+firm and the worker.
+Part V. Complete Part V , For Service Providers or Salespersons, 
+if the worker provided a service directly to customers (for 
+example, dry cleaning service, massage therapy, grocery 
+delivery, beverage delivery, etc.), or is a salesperson who sells to 
+individuals or businesses.
+Where To Find Form SS-8
+Form SS-8 may be downloaded at IRS.gov/Forms, or received 
+by mail when you order the copies on IRS.gov/OrderForms, or by 
+calling 800-TAX-FORM (800-829-3676). For more information, 
+see IRS.gov/CompleteSS8.
+Fee
+There is no fee for requesting a Form SS-8 determination letter.
+Signature
+Form SS-8 must be signed and dated by the taxpayer. Neither a 
+stamped signature nor your power of attorney representative's 
+signature will be accepted. A Form SS-8 that is not properly 
+signed and dated by the taxpayer cannot be processed and will 
+be returned.
+The original of a request for an SS-8 determination should 
+generally include:
+• An original handwritten signature; or
+• An electronic signature (for example, a faxed or digitally 
+signed PDF Adobe document).
+The person who signs for a corporation must be an officer of 
+the corporation who has personal knowledge of the facts of the 
+business. If the corporation is a member of an affiliated group 
+filing a consolidated return, the Form SS-8 must be signed by an 
+officer of the common parent of the group.
+The person signing for a trust, partnership, or limited liability 
+company must be, respectively, a trustee, general partner, or 
+member-manager who has personal knowledge of the facts of 
+the business.
+When To File
+Statute of limitations. If Form SS-8 is submitted for a tax year 
+for which the statute of limitations on the tax return has expired, a 
+determination letter will not be issued. For more information on 
+the statute of limitations for individual income tax returns, see 
+How Long Should Records Be Kept? in the Instructions for Form 
+1040.
+Where To File
+Y ou can mail or fax your completed and signed Form SS-8. Do 
+not submit Form SS-8 with your tax return as that will delay 
+the processing time.
+Mail. If you are mailing the form, send the completed and signed 
+Form SS-8 and attachments to:
+Internal Revenue Service
+Form SS-8 Determinations
+P .O. Box 630
+Stop 631
+Holtsville, NY 11742-0630
+2 Instructions for Form SS-8 (Rev. 01/2024)
+--- page 8 ---
+Page 3 of 5  Fileid: … ns/iss-8/202401/a/xml/cycle04/source 12:17 - 19-Dec-2023
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Fax. If you are faxing the form, fax the completed and signed 
+Form SS-8 and attachments to the IRS at 855-242-4481.
+Instructions for Workers
+Form SS-8 is not a claim for refund of social security and 
+Medicare taxes or federal income tax withholding.
+If you are requesting a determination for more than one firm, 
+complete a separate Form SS-8 for each firm.
+If the IRS determines that you are an employee, you are 
+responsible for filing an amended return for any corrections 
+related to this decision as applicable. A determination that you 
+are an employee does not necessarily reduce any current or 
+prior tax liability. For more information, call 800-829-1040.
+Filing Form SS-8 does not alter the requirement to timely 
+file an income tax return or pay taxes. Do not delay filing 
+your tax return in anticipation of an answer to your Form SS-8 
+request. In addition, if applicable, do not delay in responding to a 
+request for payment while waiting for a determination of your 
+worker status.
+Time for filing a claim for refund. Generally, you must file 
+your claim for a credit or refund within 3 years from the date your 
+original return was filed or within 2 years from the date the tax 
+was paid, whichever is later.
+Filing Form SS-8 does not prevent the expiration of 
+the time in which a claim for a refund must be filed.
+Protecting your statute of limitations on credits and re-
+funds. If you are concerned about a refund, and the statute of 
+limitations for filing a claim for refund for the year(s) at issue has 
+not yet expired, you should file Form 1040-X, Amended U.S. 
+Individual Income T ax Return, to protect your statute of 
+limitations. File a separate Form 1040-X for each year.
+On the Form 1040-X you file, do the following.
+• Enter your name, current address, and SSN or taxpayer 
+identification number on the front of your Form 1040-X.
+• Write “Protective Claim” at the top of page 1.
+• Enter the following statement in Explanation of Changes: 
+“Filed Form SS-8 with the Internal Revenue Service Office in 
+Holtsville, NY . By filing this protective claim, I reserve the right to 
+file a claim for any refund that may be due after a determination 
+of my employment tax status has been completed.”
+• Sign and date the form.
+• Leave the rest of your Form 1040-X blank.
+Instructions for Firms
+Worker requests determination. If a worker has requested a 
+determination of his or her status while working for you, you will 
+receive a request from the IRS to complete a Form SS-8. In 
+cases of this type, the IRS usually gives each party an 
+opportunity to present a statement of the facts because any 
+decision will affect the employment tax status of the parties. 
+Failure to respond to this request will not prevent the IRS from 
+issuing an information letter based on the facts available to it so 
+that the worker can fulfill their federal tax obligations. However, 
+the information that you provide is extremely valuable in 
+determining the status of the worker.
+Firm requests determination. If you are requesting a 
+determination of worker status, the information you must provide 
+depends on what you are requesting.
+• If you are requesting a determination for a specific worker, 
+complete the form with that worker’s information.
+• If you are requesting a determination for a particular class of 
+worker, complete the form for one worker in that class of workers 
+CAUTION
+!
+CAUTION
+!
+and provide a list with the names, addresses, and SSNs (if 
+available) of all workers potentially affected by the determination.
+• If you want a written determination for more than one class of 
+workers, complete a separate Form SS-8 for each class and 
+provide a list with the names, addresses, and SSNs (if available) 
+of all workers potentially affected by the determination.
+Y our request will be returned as incomplete if more than one 
+person provides the same services but a list of workers providing 
+the service is not provided.
+Relief from employment taxes is not considered with Form 
+SS-8 determinations. If you have a reasonable basis for not 
+treating a worker as an employee, you may be relieved from 
+having to pay employment taxes for that worker under section 
+530 of the Revenue Act of 1978. However, this relief provision 
+cannot be considered in conjunction with a Form SS-8 
+determination because the determination does not constitute an 
+examination of any tax return. For more information regarding 
+section 530 of the Revenue Act of 1978 and to determine if you 
+qualify for relief under this section, visit IRS.gov.
+How To Get Tax Help
+If you have questions about a tax issue; need help preparing 
+your tax return; or want to download free publications, forms, or 
+instructions, go to IRS.gov to find resources that can help you 
+right away.
+Online tax information in other languages. Y ou can find 
+information on IRS.gov/MyLanguage if English isn’t your native 
+language.
+Free Over-the-Phone Interpreter (OPI) Service. The IRS is 
+committed to serving taxpayers with limited-English proficiency 
+(LEP) by offering OPI services. The OPI Service is a federally 
+funded program and is available at T axpayer Assistance Centers 
+(TACs), most IRS offices, and every VITA/TCE tax return site. 
+The OPI Service is accessible in more than 350 languages.
+Accessibility Helpline available for taxpayers with disabili-
+ties. T axpayers who need information about accessibility 
+services can call 833-690-0598. The Accessibility Helpline can 
+answer questions related to current and future accessibility 
+products and services available in alternative media formats (for 
+example, braille, large print, audio, etc.). The Accessibility 
+Helpline does not have access to your IRS account. For help 
+with tax law, refunds, or account-related issues, go to IRS.gov/
+LetUsHelp.
+Note. Form 9000, Alternative Media Preference, or Form 
+9000(SP) allows you to elect to receive certain types of written 
+correspondence in the following formats.
+• Standard Print.
+• Large Print.
+• Braille.
+• Audio (MP3).
+• Plain T ext File (TXT).
+• Braille Ready File (BRF).
+Understanding an IRS notice or letter you’ve received. Go 
+to IRS.gov/Notices to find additional information about 
+responding to an IRS notice or letter.
+Responding to an IRS notice or letter. Y ou can now upload 
+responses to all notices and letters using the Document Upload 
+T ool. For notices that require additional action, taxpayers will be 
+redirected appropriately on IRS.gov to take further action. T o 
+learn more about the tool, go to IRS.gov/Upload.
+Note. Y ou can use Schedule LEP (Form 1040), Request for 
+Change in Language Preference, to state a preference to receive 
+notices, letters, or other written communications from the IRS in 
+an alternative language. Y ou may not immediately receive written 
+Instructions for Form SS-8 (Rev. 01/2024) 3
+--- page 9 ---
+Page 4 of 5  Fileid: … ns/iss-8/202401/a/xml/cycle04/source 12:17 - 19-Dec-2023
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+communications in the requested language. The IRS’s 
+commitment to LEP taxpayers is part of a multi-year timeline that 
+began providing translations in 2023. Y ou will continue to receive 
+communications, including notices and letters, in English until 
+they are translated to your preferred language.
+The Taxpayer Advocate Service (TAS) Is Here To 
+Help You
+What Is TAS?
+TAS is an independent organization within the IRS that helps 
+taxpayers and protects taxpayer rights. TAS strives to ensure 
+that every taxpayer is treated fairly and that you know and 
+understand your rights under the T axpayer Bill of Rights.
+How Can You Learn About Your Taxpayer Rights?
+The T axpayer Bill of Rights describes 10 basic rights that all 
+taxpayers have when dealing with the IRS. Go to 
+T axpayerAdvocate.IRS.gov to help you understand what these 
+rights mean to you and how they apply. These are your rights. 
+Know them. Use them.
+What Can TAS Do for You?
+TAS can help you resolve problems that you can’t resolve with 
+the IRS. And their service is free. If you qualify for their 
+assistance, you will be assigned to one advocate who will work 
+with you throughout the process and will do everything possible 
+to resolve your issue. TAS can help you if:
+• Y our problem is causing financial difficulty for you, your family, 
+or your business;
+• Y ou face (or your business is facing) an immediate threat of 
+adverse action; or
+• Y ou’ve tried repeatedly to contact the IRS but no one has 
+responded, or the IRS hasn’t responded by the date promised.
+How Can You Reach TAS?
+TAS has offices in every state, the District of Columbia, and 
+Puerto Rico. T o find your advocate’s number:
+• Go to T axpayerAdvocate.IRS.gov/Contact-Us;
+• Download Pub. 1546, The T axpayer Advocate Service Is Y our 
+Voice at the IRS, available at IRS.gov/pub/irs-pdf/p1546.pdf;
+• Call the IRS toll free at 800-TAX-FORM (800-829-3676) to 
+order a copy of Pub. 1546;
+• Check your local directory; or
+• Call TAS toll free at 877-777-4778.
+How Else Does TAS Help Taxpayers?
+TAS works to resolve large-scale problems that affect many 
+taxpayers. If you know of one of these broad issues, report it to 
+TAS at IRS.gov/SAMS. Be sure to not include any personal 
+taxpayer information.
+Low Income Taxpayer Clinics (LITCs)
+LITCs are independent from the IRS and TAS. LITCs represent 
+individuals whose income is below a certain level and who need 
+to resolve tax problems with the IRS. LITCs can represent 
+taxpayers in audits, appeals, and tax collection disputes before 
+the IRS and in court. In addition, LITCs can provide information 
+about taxpayer rights and responsibilities in different languages 
+for individuals who speak English as a second language. 
+Services are offered for free or a small fee. For more information 
+or to find an LITC near you, go to the LITC page at 
+T axpayerAdvocate.IRS.gov/LITC or see IRS Pub. 4134, Low 
+Income T axpayer Clinic List, at IRS.gov/pub/irs-pdf/p4134.pdf.
+Representation
+Y ou may either represent yourself or, with proper written 
+authorization, have someone else represent you. Y our 
+representative must be someone who is allowed to practice 
+before the IRS, such as an attorney, certified public accountant, 
+or enrolled agent (a person enrolled to practice before the IRS). 
+Use Form 2848, Power of Attorney and Declaration of 
+Representative, to authorize someone else to represent you 
+before the IRS. On your Form 2848 or 8821, line 3, enter 
+“Employment T ax,” “SS-8,” and the related years in the 
+appropriate columns. If completing Form 8821, line 3, see the 
+instructions for the form to determine what you should enter in 
+column (d).
+Privacy Act and Paperwork Reduction Act Notice. We ask 
+for the information on Form SS-8 to carry out the Internal 
+Revenue laws of the United States. This information will be used 
+to determine the employment status of the worker(s) described 
+on the form. Subtitle C, Employment T axes, of the Internal 
+Revenue Code imposes employment taxes on wages, including 
+income tax withholding. Sections 3121(d), 3306(a), and 3401(c) 
+and (d), and the related regulations, define employee and 
+employer for purposes of employment taxes imposed under 
+Subtitle C. Section 6001 authorizes the IRS to request 
+information needed to determine if a worker(s) or firm is subject 
+to these taxes. Section 6109 requires you to provide your 
+identification number. Neither workers nor firms are required to 
+request a status determination, but if you choose to do so, you 
+must provide the information requested on this form. Failure to 
+provide the requested information may prevent us from 
+making a status determination. If any worker or the firm has 
+requested a status determination and you are being asked to 
+provide information for use in that determination, you are not 
+required to provide the requested information. However, failure to 
+provide such information will prevent the IRS from considering it 
+in making the status determination. Providing false or fraudulent 
+information may subject you to penalties. Generally, tax returns 
+and return information are confidential, as required by section 
+6103. However, section 6103 allows or requires the IRS to 
+disclose or give the information shown on this form to others as 
+described in the Code. Routine uses of this information include 
+providing it to the Department of Justice for use in civil and 
+criminal litigation, to the Social Security Administration for the 
+administration of social security programs, and to cities, states, 
+the District of Columbia, and U.S. commonwealths and territories 
+for the administration of their tax laws. We may also disclose this 
+information to other countries under a tax treaty, to federal and 
+state agencies to enforce federal nontax criminal laws, or to 
+federal law enforcement and intelligence agencies to combat 
+terrorism. We may provide this information to the affected 
+worker(s), the firm, or payer as part of the status determination 
+process.
+Y ou are not required to provide the information requested on 
+a form that is subject to the Paperwork Reduction Act unless the 
+form displays a valid OMB control number. Books or records 
+relating to a form or its instructions must be retained as long as 
+their contents may become material in the administration of any 
+Internal Revenue law.
+The time needed to complete and file this Form SS-8 will vary 
+depending on individual circumstances. The estimated average 
+time is:
+4 Instructions for Form SS-8 (Rev. 01/2024)
+--- page 10 ---
+Page 5 of 5  Fileid: … ns/iss-8/202401/a/xml/cycle04/source 12:17 - 19-Dec-2023
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Recordkeeping .......................... 18 hr., 53 min.
+Learning about the law or the form .............. 53 min.
+Preparing and sending the form................ 1 hr., 14 min.
+If you have comments concerning the accuracy of these time 
+estimates or suggestions for making this form simpler, we would 
+be happy to hear from you. Y ou can send your comments 
+through IRS.gov/FormComments. Or you can send your 
+comments to Internal Revenue Service, T ax Forms and 
+Publications, 1111 Constitution Ave. NW, IR-6526, Washington, 
+DC 20224. Don’t send the form to this address. Instead, see 
+Where T o File, earlier.
+Instructions for Form SS-8 (Rev. 01/2024) 5

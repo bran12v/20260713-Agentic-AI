@@ -1,0 +1,345 @@
+
+--- page 1 ---
+1 
+ 
+  
+I.R.C. Section 3509—Determination of Employer's Liability for Certain Employment 
+Taxes 
+    (Also: I.R.C. Section 7436 and Section 530 of the Revenue Act of 1978) 
+ 
+ 
+ 
+Rev. Rul.  2025-3  
+ 
+  
+ISSUES  
+1.  Whether section 530 of the Revenue Act of 1978, Pub. L. No. 95-600, as 
+amended (section 530), or the reduced rates of § 3509 of the Internal Revenue Code 
+(the Code) apply in the five situations set out below.  
+2.  Whether the Internal Revenue Service (IRS) will issue a Notice of 
+Employment Tax Determination Under IRC § 7436 (§ 7436 Notice) in the five situations, 
+set out below. 
+FACT SITUATIONS 
+Situation 1.  Taxpayer (TP) hires individuals who provide services to TP during 
+the year.  For those services, TP pays each individual a weekly fixed amount and a 
+weekly bonus amount.  TP does not withhold or pay federal employment taxes with 
+regard to any of the payments and reports the total amount of the fixed weekly amounts 
+and the weekly bonus amounts on Form 1099-NEC “Nonemployee Compensation.”  
+During an audit of TP by the IRS for the year, the IRS determines (1) that TP does not 
+meet the statutory requirements for section 530 relief, and (2) that the individuals are 
+employees of TP.  The IRS proposes to assess federal employment taxes on the 
+--- page 2 ---
+2 
+ 
+weekly fixed amounts and the weekly bonus amounts, which should have been reported 
+as wages on Form 941 “Employer’s QUARTERLY Federal Tax Return,” and Forms W-2 
+“Wage and Tax Statement.”  TP claims it satisfies the statutory requirements for section 
+530 relief and does not agree that the individuals are its employees. 
+Situation 2.  TP employs individuals who perform services during the year.  TP 
+treats the individuals as employees for the services that they perform.  For those 
+services, TP pays each individual a weekly salary and a weekly bonus amount.  TP 
+treats the weekly salary as wages for federal employment tax purposes.  TP withholds 
+and pays federal employment taxes with respect to the weekly salary and reports the 
+salary and federal employment taxes on Form 941 and Forms W-2.  TP does not treat 
+the weekly bonus amounts as wages for federal employment tax purposes. It does not 
+withhold or pay any federal employment taxes with regard to the bonus amounts and 
+reports the bonus amounts on Forms 1099-NEC.  During an audit of TP by the IRS for 
+the year, the IRS concludes that the bonus amounts are wages.  The IRS proposes to 
+assess federal employment taxes on the bonus amounts, which should have been 
+reported as wages on Form 941 and Forms W-2.  TP claims it satisfies the statutory 
+requirements for section 530 relief with respect to the bonus amounts and does not 
+agree that the bonus amounts are wages. 
+Situation 3.  Same facts as situation 2 except TP does not report the weekly 
+bonus amounts on Forms 1099-NEC or any other information return. 
+--- page 3 ---
+3 
+ 
+Situation 4.  Same facts as situation 2 except TP does not report the weekly 
+bonus amounts on Forms 1099-NEC or any other information return and does not claim 
+it satisfies the statutory requirements for section 530 relief with respect to the bonus 
+amounts. 
+Situation 5.  TP employs individuals who perform services during the year.  TP 
+enters into a contract with a third party (3P) to pay each individual a weekly salary, 
+withhold and pay federal employment taxes, and file federal employment tax returns.1  
+3P pays the weekly salaries, withholds, pays federal employment taxes, and reports the 
+weekly salaries and taxes on Form 941 and Forms W-2 using its own employer 
+identification number (EIN).  In December of that same year, TP pays a year-end bonus 
+amount directly to each individual for the individual’s services during the year but does 
+not treat the year-end bonus amounts as wages.  TP does not withhold or pay any 
+federal employment taxes or report the bonus amounts on any information return.  
+During an audit of TP by the IRS for the year, the IRS concludes that the bonus 
+amounts are wages.  The IRS proposes to assess federal employment taxes on the 
+bonus amounts, which should have been reported as wages on Form 941 and Forms 
+ 
+1 A taxpayer may choose to enter into an agreement with a third party in which the third party agrees to 
+perform some or all of the employer’s federal employment payment, withholding, and reporting 
+responsibilities.  For purposes of simplicity, this revenue ruling does not address the different variations of 
+third-party payor arrangements, and assumes 3P correctly used its own EIN.  However, depending on the 
+facts and circumstances and the type of arrangement, an employer who uses a third party to perform 
+federal employment tax functions on its behalf may remain solely liable for federal employment taxes, 
+may become jointly and severally liable for such taxes, or may be relieved of liability for such taxes.  This 
+revenue ruling does not address which party will be ultimately liable for any unpaid employment taxes, as 
+these discussions are beyond the scope of this revenue ruling. 
+--- page 4 ---
+4 
+W-2.  TP claims it satisfies the statutory requirements for section 530 relief with respect 
+to the bonus amounts and does not agree the bonus amounts are wages. 
+LAW AND ANALYSIS 
+An employer is liable for federal employment taxes on wages paid to employees.  
+Federal employment taxes include Federal Insurance Contributions Act (FICA) taxes, 
+Railroad Retirement Tax Act (RRTA) taxes,2 Federal Unemployment Tax Act (FUTA) 
+taxes, and the collection of income tax at source on wages (income tax withholding). 
+In general, § 3102 of the Code requires an employer to withhold and pay to the 
+IRS the employee share of FICA taxes from wages when paid to the employee.  
+Furthermore, § 3111 generally also requires the employer to pay to the IRS the 
+employer share of FICA taxes at the same time. Section 3121(a) defines “wages” for 
+FICA tax purposes as all remuneration for employment, including the cash value of all 
+remuneration (including benefits) paid in any medium other than cash, unless 
+specifically excepted.  Section 3121(b) generally defines "employment" as any service, 
+of whatever nature, performed by an employee for the person employing him unless a 
+specific exception applies.  Similarly, § 3301 imposes on every employer an obligation 
+to pay FUTA taxes on wages as defined in § 3301b).  Section 3306(b) and (c) contain 
+similar definitions to FICA for “wages” and “employment,” respectively, for FUTA tax 
+2   For purposes of simplicity, this revenue procedure does not discuss the application of these rules to 
+RRTA.  However, rules similar to those discussed with respect to Section 530 apply for purposes of 
+determining whether a taxpayer will not be liable for RRTA taxes, with respect to an individual or class of 
+workers (though the reduced rates of § 3509 discussed in this revenue procedure do not apply for 
+purposes of RRTA). 
+--- page 5 ---
+5 
+ 
+purposes.  Section 3402(a) imposes the obligation on an employer to withhold income 
+taxes from wages as defined in § 3401(a).  Section 3401(a) provides that the term 
+“wages” means all remuneration for services performed by an employee for his 
+employer including the cash value of all remuneration (including benefits) paid in any 
+medium other than cash, unless a specific exception applies. 
+The definitions of “wages” and “employment” for FICA, FUTA, and income tax 
+withholding purposes are premised on an individual being an employee and are not 
+applied when an individual is properly classified as an independent contractor or has 
+some other non-employee status.  If an individual is properly classified as an 
+independent contractor, the individual’s earnings are subject to self-employment tax, 
+which consists of social security and Medicare taxes, if the other requirements for 
+reporting self-employment taxes are met.  There is no FUTA tax for self-employed 
+individuals.   
+For employment tax purposes, an employee generally is any individual who, 
+under the usual common law rules applicable in determining the employer-employee 
+relationship, has the status of an employee.  See §§ 31.3121(d)-1(c), 31.3306(i)-1, and 
+31.3401(c)-1 of the Employment Tax Regulations.  Generally, an employer-employee 
+relationship exists when the person for whom services are performed has the right to 
+direct and control the individual who performs the services, not only as to the result to 
+be accomplished by the work but also as to the details and means by which that result 
+is accomplished.  That is, an employee is subject to the direction and control of the 
+--- page 6 ---
+6 
+ 
+employer not only as to what shall be done but how it shall be done.  Individuals who 
+are not employees under the common law rules may still be employees by statute under 
+certain FICA, FUTA, and income tax withholding provisions.  See, e.g., § 3121(d) and 
+the accompanying regulations. 
+Section 530 provides that a taxpayer will not be liable for federal employment 
+taxes, with respect to an individual or class of workers, if certain statutory requirements 
+are met.3  Under section 530, the taxpayer, not the individual worker4, is entitled to relief 
+from the employment tax liability that would otherwise apply under subtitle C of the 
+Code, and any related interest or penalties attributable to that employment tax liability.  
+The taxes imposed by subtitle C include FICA taxes, RRTA taxes, FUTA taxes, and 
+income tax withholding. 
+Section 530 relief applies only if the taxpayer did not treat the individual as an 
+employee for federal employment tax purposes for the period at issue and meets each 
+of the following requirements for such period: (1) the taxpayer filed
+5 all required federal 
+tax returns, including information returns, consistent with the taxpayer’s treatment of the 
+ 
+3 Section 530 (entitled “Controversies Involving Whether Individuals are Employees for Purposes of 
+Employment Taxes”) was originally enacted as a temporary measure to provide relief for taxpayers who 
+were involved in employment status (worker classification) disputes with the IRS, and who faced large 
+employment tax assessments as a result of the IRS’s proposed reclassifications of workers.  Section 530 
+was extended indefinitely by the Tax Equity and Fiscal Responsibility Act of 1982.   Section 530 is not 
+part of the Internal Revenue Code (Code). 
+4 Section 530 relief does not extend to individual workers, who remain liable for their personal income 
+taxes and the employee share of FICA taxes. 
+5 In no event will a return filed after the date on which the IRS first contacts the taxpayer concerning an 
+examination of the period to which the return relates be considered as filed on a basis consistent with 
+good faith treatment by the taxpayer of an individual as a non-employee. Additionally, section 530 relief is 
+not available for any year and for any worker for whom the taxpayer did not file the required returns.
+ 
+--- page 7 ---
+7 
+ 
+individual as not being an employee (reporting consistency requirement); (2) the 
+taxpayer did not treat the individual or any individual holding a substantially similar 
+position as an employee (substantive consistency requirement); and (3) the taxpayer 
+had a reasonable basis for not treating the individual as an employee (reasonable basis 
+requirement).  A taxpayer will be treated as having a reasonable basis if the taxpayer's 
+treatment was in reasonable reliance on any of the following: 
+ (a)  judicial precedent, published rulings, technical advice with respect to 
+the taxpayer, or a letter ruling to the taxpayer (judicial precedent); 
+ (b) a past IRS audit of the taxpayer in which there was no assessment 
+attributable to the treatment (for employment tax purposes) of the individuals 
+holding substantially similar positions (prior audit); 
+ (c) long-standing recognized practice of a significant segment of the 
+industry in which that individual was engaged (industry practice); or 
+ (d) some other reasonable basis for not treating the individual as an 
+employee.  
+Section 530 relief applies only to controversies involving the proper classification 
+of individuals as employees or non-employees.  Section 530 is not applicable when a 
+taxpayer treated an individual as an employee and then paid additional compensation to 
+the employee for the same services but failed to characterize the payment as wages.  
+This includes situations where the taxpayer contends that the payment does not meet 
+the definition of wages because the payment is a lease payment, bonus, 
+--- page 8 ---
+8 
+ 
+reimbursement, severance payment, dividend, or other comparable characterization, 
+but the payment is, in fact, paid solely for the individual’s service as an employee. 
+Section 530(a)(1)(A) provides that a taxpayer is entitled to relief if the taxpayer 
+“did not treat an individual as an employee for any period” for purposes of employment 
+taxes (emphasis added).  Legislative history demonstrates that section 530 applies 
+exclusively to taxpayers involved in employment status controversies with the IRS.  The 
+legislative history explains that the relief measure was for taxpayers that were “involved 
+in employment tax status controversies with the [IRS], and who potentially face large 
+assessments, as a result of the [IRS’s] proposed reclassifications of workers” and 
+explains that the bill prevents the IRS from reclassifying as employees certain 
+individuals whom the taxpayer has previously treated as independent contractors.  S. 
+Rep. No. 95-1263, at 210 (1978). 
+In determining whether a taxpayer did not “treat” an individual as an employee 
+within the meaning of section 530, Rev. Proc. 2025-10, 2025-4 IRB XX, modifying and 
+superseding Rev. Proc. 85-18, 1985-1 CB 518, provides a list of guidelines used to 
+determine whether there was “treatment” of an individual as an employee for a period 
+within the meaning of section 530(a)(1).  Among other actions, with respect to any 
+individual, the following indicate “treatment” of the individual as an employee: the 
+withholding of income tax or FICA taxes from any payments made; the filing of an 
+original or amended employment tax return; the filing or issuance of a Form W-2; and 
+the contracting with a third party to perform acts required of employers.   
+--- page 9 ---
+9 
+ 
+In enacting section 530, Congress looked to the taxpayer’s treatment of the 
+individual, not to the characterization of particular payments made to the individual.  If 
+an employer treated the individual as an employee, section 530 relief is not applicable 
+to a dispute involving characterization of particular payments because the worker is not 
+being reclassified from non-employee to employee status.
+6  Thus, section 530 does not 
+apply to controversies concerning whether a particular type of payment made to an 
+employee constitutes “wages” as defined under the FICA, FUTA, or income tax 
+withholding provisions, or whether particular services performed by an employee 
+constitute “employment,” as defined under the FICA, FUTA, or income tax withholding 
+provisions. 
+If an employer failed to properly treat an individual as an employee, and the 
+employer does not meet the statutory requirements for section 530 relief, the employer 
+may be eligible for relief under § 3509 of the Code.  Section 3509(a) allows an employer 
+to remit unpaid taxes at reduced rates if an employer fails to deduct and withhold 
+income tax or the employee share of FICA tax with respect to any of its employees 
+because the employer treated that employee as a non-employee.  Pursuant to § 
+3509(c), the reduced rates do not apply to the determination of the employer’s liability 
+ 
+6 In unusual cases, an individual may perform services for a taxpayer that are completely separate and 
+distinct from the services giving rise to the employment relationship, and is separately compensated for 
+those services.  To be completely separate and distinct, there must be no interrelation either as to duties 
+or remuneration in the two capacities.  Compare Rev. Rul. 58-505, 1958-2 CB 728, with Rev. Rul. 2004-
+109, 2004-2 CB 958, and Rev. Rul. 2004-110, 2004-2 CB 960.  In these circumstances, the status of the 
+individual as an employee or non-employee, and the application of section 530, will be considered 
+separately with respect to the distinct relationships under which the separate services are provided . 
+--- page 10 ---
+10 
+ 
+for income tax withholding or the employee portion of FICA tax if such liability is due to 
+the employer’s intentional disregard of the requirement to deduct and withhold such 
+taxes. 
+The concept of “treatment” of an individual as not being an employee in § 3509 is 
+similar to “treatment” in section 530.  The legislative history indicates that § 3509 of the 
+Code was intended to provide relief for employers in cases in which a worker treated as 
+a non-employee by the employer is reclassified by the IRS as an employee, and to 
+deter employers from misclassifying employees to avoid employment taxes.7 
+Similar to section 530, if an employer treated an individual as an employee, 
+§ 3509 of the Code will not apply since the worker is not being reclassified from non-
+employee to employee.8  Thus, § 3509 is not applicable when determining whether 
+particular payments made to an employee are “wages” or whether particular services 
+performed by an employee are “employment” as defined under the FICA, FUTA, or 
+income tax withholding provisions. 
+Section 7436 of the Code provides that the Tax Court may review two types of 
+employment tax determinations made by the IRS and the proper amount of employment 
+tax, penalties, and additions to tax resulting from the determinations.   
+ 
+7 See Staff of Joint Committee on Taxation, 97th Cong., General Explanation of the Revenue Provisions 
+of the Tax Equity and Fiscal Responsibility Act of 1982 (JCS-38-82), at 384-86 (Comm. Print 1982); H.R. 
+Rep. No. 97-760, at 650-52 (1982) (Conf. Rep.); S. Rep. No. 97-494, Vol. 1, at 370-72 (1982). 
+8 As stated in footnote 5, an individual may perform services for a taxpayer that are completely separate 
+and distinct from the services giving rise to the employment relationship, and is separately compensated 
+for those services.  In these circumstances, the status of the individual as an employee or non- employee, 
+and the application of § 3509, will be considered separately with respect to each of the distinct 
+relationships under which the separate services are provided. 
+--- page 11 ---
+11 
+ 
+In order to obtain Tax Court review, the following elements must be present: 
+(1) an examination in connection with the audit of any person;  
+(2) a determination that – 
+(a) one or more individuals performing services for such person are 
+employees of such person for purposes of subtitle C, or 
+(b) such person is not entitled to relief under section 530(a) with respect to 
+such an individual; 
+(3) an “actual controversy” involving the determination as part of an examination; 
+and 
+(4) the filing of an appropriate pleading in the Tax Court. 
+See American Airlines Inc. v. Commissioner, 144 T.C. 24, at 32 (2015).  When the first 
+three elements are met, the IRS will issue a § 7436 Notice.  A taxpayer will satisfy the 
+fourth element by filing a timely petition for review of the § 7436 Notice with the Tax 
+Court.  Revenue Procedure 2022-13, 2022-6 IRB 477, superseding Notice 2002-5, 
+2002-1 CB 320, provides guidance concerning when and how the IRS will issue a 
+§ 7436 Notice that will document the determination necessary to give the taxpayers the 
+option to petition for Tax Court review.  The IRS will not issue a § 7436 Notice if the 
+taxpayer has agreed to the employment tax liabilities.  Agreement is generally 
+accomplished using Form 2504-T “Agreement to Assessment and Collection of 
+Additional Employment Tax and Acceptance of Overassessment (Employment Tax 
+Adjustments Subject to IRC 7436).”  
+HOLDINGS 
+--- page 12 ---
+12 
+ 
+Holding 1.  Section 530 is applicable to this situation because the TP did not 
+treat the individuals as employees, and the IRS is reclassifying the individuals as 
+employees.  Whether TP is entitled to section 530 relief depends on whether the TP 
+satisfies the substantive consistency, reporting consistency, and reasonable basis 
+requirements.  If section 530 does not apply, § 3509 of the Code may be applicable 
+because the TP treated the individuals as non-employees and did not deduct and 
+withhold federal employment taxes from the weekly fixed amounts and bonus amounts 
+that it paid to the individuals, and the IRS is reclassifying the individuals as employees.  
+Whether TP is entitled to § 3509 reduced rates depends on whether it meets the 
+statutory requirements in § 3509.  The IRS will issue TP a § 7436 Notice at the 
+conclusion of the audit or after Appeals consideration if no agreement is reached. A  
+§ 7436 Notice will be issued because (1) there was an examination in connection with 
+an audit, (2) there were determinations that (a) the individuals were employees of TP, 
+and (b) TP was not entitled to relief under section 530 with respect to these individuals
+9, 
+and (3) the IRS and TP disagree on the employment status of the workers and whether 
+the statutory requirements for section 530 relief have been met (there is an actual 
+controversy involving the determination as part of the audit).  
+Holding 2.  Section 530 is not applicable to this situation because the IRS is not 
+reclassifying the individuals as employees.  TP treated the individuals as employees for 
+the services they performed and paid additional wages in the form of bonuses for the 
+ 
+9 If the IRS were to make only one of these determinations, a § 7436 Notice would still be issued.  
+--- page 13 ---
+13 
+ 
+same services; there is no controversy over whether the individuals are employees or 
+independent contractors with respect to their services.10  The reduced rates under 
+§ 3509 of the Code are not applicable for the same reason.  The IRS will issue TP a 
+§ 7436 Notice at the conclusion of the audit or after Appeals consideration if no 
+agreement is reached. A  § 7436 Notice will be issued because (1) there was an 
+examination in connection with an audit, (2) a determination was made that TP was not 
+entitled to relief under section 530 with respect to the bonuses paid to the individuals, 
+and (3) the IRS and TP disagree on whether the statutory requirements for section 530 
+relief have been met (there is an actual controversy involving the determination as part 
+of the audit).   
+Holding 3.  Section 530 and § 3509 of the Code are not applicable to this 
+situation for the same reasons stated in Holding 2.  The IRS will issue TP a § 7436 
+Notice at the conclusion of the audit or after Appeals consideration if no agreement is 
+reached. A  § 7436 Notice will be issued because (1) there was an examination in 
+connection with an audit, (2) a determination was made that TP was not entitled to relief 
+under section 530 with respect to the bonuses paid to the individuals, and (3) the IRS 
+and TP disagree on whether the statutory requirements for section 530 relief have been 
+met (there is an actual controversy involving the determination as part of the audit).  
+ 
+10 Compare SECC Corp. v. Commissioner, 142 T.C. 225, 235 (2014) (dispute over “whether petitioner's 
+workers can serve in a dual capacity”). 

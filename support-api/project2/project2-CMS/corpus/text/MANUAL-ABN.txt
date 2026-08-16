@@ -1,0 +1,658 @@
+
+--- page 1 ---
+50 - Form CMS-R-131 Advance Beneficiary Notice of Noncoverage 
+(ABN) 
+(Rev. 1587, Issued: 09-05-08, Effective: 03-03-08, Implementation: 03-01-09) 
+ 
+50.1 - Introduction - General Information 
+(Rev. 2782, Issued: 09-06-13, Effective: 12-09-13, Implementation: 12-09-13) 
+ 
+Section 50 of the Medicare Claims Processing Manual establishes the standards for use 
+by providers and suppliers (including laboratories) in implementing the Advance 
+Beneficiary Notice of Noncoverage (ABN), Form CMS-R-131.  This section provides 
+--- page 2 ---
+instructions regarding the notice issued by providers to beneficiaries in advance of 
+providing what they believe to be noncovered items or services.  The ABN must meet all 
+of the standards found in Chapter 30.  
+ 
+ABN - Quick Glance Guide1 
+ 
+Notice Name:  Advance Beneficiary Notice of Noncoverage (ABN) 
+Notice Number:  Form CMS-R-131 
+Issued by:  Providers and suppliers of Medicare Part B items and services; 
+Hospice and Religious Non-medical HealthCare Institute (RNHCI) providing Medicare Part A items 
+and services; and home health agencies(HHAs) for Part A and Part B items and services  
+ 
+Recipient:  Original Medicare (fee for service) beneficiary  
+Additional Information:   
+ The ABN, Form CMS-R-131 replaces the following notices:  
+• ABN-G 
+• ABN-L 
+• Notice of Exclusion of Medicare Benefits (NEMB) 
+• Home Health Advance Beneficiary Notice of Noncoverage (HHABN), Form CMS-R-296, 
+Option Box 1  (effective 2013) 
+Type of 
+notice: 
+Must be issued: Timing of notice:  Optional/Voluntary 
+use: 
+ 
+Financial 
+liability 
+notice  
+ 
+• Prior to providing an item or service that 
+is usually paid for by Medicare under Part 
+B (or under Part A for hospice, HHA, and 
+RNHCI providers only) but may not be 
+paid for in this particular case because it 
+is not considered medically reasonable 
+and necessary 
+• Prior to providing custodial care 
+• For hospice providers, prior to caring for 
+a patient who is not terminally ill 
+• For DME suppliers, additional situations 
+requiring issuance are outlined in 50.3.1 
+• For HHA providers, prior to providing 
+care when the individual is not confined 
+to the home or does not need intermittent 
+skilled nursing care. 
+ 
+Prior to delivery of the item or 
+service in question. Provide 
+enough time for the beneficiary 
+to make an informed decision 
+on whether or not to receive the 
+service or item in question and 
+accept potential financial 
+liability. 
+ 
+ 
+Yes.  Prior to providing 
+an item or service that 
+is never covered by 
+Medicare (not a 
+Medicare benefit).  
+ 
+ 
+ 
+50.2 - General Statutory Authority - Financial Liability Protection 
+Provisions (FLP) of Title XVIII 
+(Rev. 2480, Issued: 06-01-12, Effective: 09-04-12, Implementation: 09-04-12) 
+ 
+The Financial Liability Protection provisions (FLP) of the Social Security Act (the Act) 
+protect beneficiaries, health care providers and suppliers under certain circumstances 
+                                                 
+1  This is an abbreviated reference tool and is not meant to replace or supersede any of the directives contained in Section 50.  
+ 
+--- page 3 ---
+from unexpected liability for charges associated with claims that Medicare does not pay. 
+The FLP provisions include: 
+ 
+• Limitation On Liability (LOL) under §1879(a)-(g) of the Act; 
+ 
+• Refund Requirements (RR) for Non-assigned Claims for Physicians Services 
+under §1842(l) of the Act; and 
+ 
+• Refund Requirements (RR) for Assigned and Non-assigned Claims for 
+Medical Equipment and Supplies under §§1834(a)(18), 1834(j)(4), and 
+1879(h) of the Act. 
+ 
+Additional information on the FLP provisions can be found in Sections 10 and 20 of this 
+chapter. 
+ 
+50.2.1 - Applicability to Limitation On Liability (LOL) 
+(Rev. 2480, Issued: 06-01-12, Effective: 09-04-12, Implementation: 09-04-12) 
+ 
+The Limitation On Liability (LOL) protections of §1879 of the Act apply only when a 
+provider believes that a Medicare covered item or service may be denied in a particular 
+instance because it is not reasonable and necessary under §1862(a)(1) of the Act or 
+because the item or service constitutes custodial care under §1862(a)(9) of the Act. §1879 
+of the Act requires a provider to notify a beneficiary in advance when s/he believes that 
+items or services will likely be denied either as not reasonable and necessary or as 
+constituting custodial care. If such notice (in the form of an ABN or as otherwise noted in 
+§40.2) is not given, providers may not shift financial liability to beneficiaries for these 
+items or services if Medicare denies the claim.  Beneficiaries are afforded LOL protection 
+when items or services are denied for reasons listed in §50.3.1. 
+ 
+50.2.2 - Compliance with Limitation On Liability Provisions 
+(Rev. 2480, Issued: 06-01-12, Effective: 09-04-12, Implementation: 09-04-12) 
+ 
+A healthcare provider/supplier (herein also referred to as a “notifier”) who fails to 
+comply with the ABN instructions risks financial liability and/or sanctions. LOL 
+provisions shall apply as required by law, regulations, rulings and program instructions. 
+Additionally, when authorized by law and regulations, sanctions under the Conditions of 
+Participation (COPs) may be imposed. 
+ 
+The Medicare contractor will hold any provider who either failed to give notice when 
+required or gave defective notice financially liable. A notifier who can demonstrate that 
+s/he did not know and could not reasonably have been expected to know that Medicare 
+would not make payment will not be held financially liable for failing to give notice. 
+However, a notifier who gave defective notice may not claim that s/he did not know or 
+could not reasonably have been expected to know that Medicare would not make 
+payment as the issuance of the notice (albeit defective) is clear evidence of knowledge. 
+See §50.12 for Refund Requirements. 
+ 
+--- page 4 ---
+50.3 - ABN Scope 
+(Rev. 2782, Issued: 09-06-13, Effective: 12-09-13, Implementation: 12-09-13) 
+ 
+The ABN is an Office of Management and Budget (OMB)-approved written notice issued 
+by providers and suppliers for items and services provided under Medicare Part B, 
+including hospital outpatient services, and certain care provided under Part A (hospice 
+and religious non-medical healthcare institutes only). Providers and suppliers who are not 
+enrolled in Medicare cannot issue the ABN to beneficiaries.  
+ 
+Provider use of the ABN has expanded to include home health agency (HHA) issuance 
+for Part A and Part B items and services.  The ABN will replace the Home Health 
+Advance Beneficiary Notice (HHABN), Form CMS-R-296, Option Box 1 issued by HHAs.  
+The mandatory date for HHAs to use the ABN instead of the HHABN, Option Box 1 will 
+be posted on the web link for home health notices found at 
+http://www.cms.gov/Medicare/Medicare-General-Information/BNI/index.html
+. 
+Information specific to HHA use of the ABN has been added in §50.15.4. The guidelines 
+for ABN use published in this section and the ABN form instructions apply to HHAs 
+unless noted otherwise. 
+ 
+The ABN is given to beneficiaries enrolled in the Medicare Fee-For-Service (FFS) 
+program.  It is not used for items or services provided under the Medicare Advantage 
+(MA) Program or for prescription drugs provided under the Medicare Prescription Drug 
+Program (Part D).  The ABN is used to fulfill both mandatory and voluntary notice 
+functions. 
+ 
+The ABN replaces the following notices: 
+ 
+• ABN-G (CMS-R-131-G) 
+• ABN-L (CMS-R-131-L) 
+• NEMB (CMS-20007) 
+• Home Health Advance Beneficiary Notice of Noncoverage (HHABN), Form CMS-
+R-296, Option Box 1  (effective 2013) 
+ 
+Skilled Nursing Facilities (SNFs) issue the ABN for Part B services only. The Skilled 
+Nursing Facility Advance Beneficiary Notice of Noncoverage (SNFABN), CMS Form 
+10055, is issued for Part A SNF items and services. Section 70 of this chapter contains 
+information on SNFABN issuance. 
+ 
+50.3.1 - Mandatory ABN Uses 
+(Rev. 2782, Issued: 09-06-13, Effective: 12-09-13, Implementation: 12-09-13) 
+ 
+The following provisions necessitate delivery of the ABN: 
+ 
+• §1862(a)(1) of the Act (not reasonable and necessary); 
+ 
+--- page 5 ---
+• §1834(a)(17)(B) of the Act (violation of the prohibition on unsolicited telephone 
+contacts); 
+ 
+• §1834(j)(1) of the Act (medical equipment and supplies supplier number 
+requirements not met); 
+ 
+• §1834(a)(15) of the Act (medical equipment and/or supplies denied in advance); 
+ 
+• §1862(a)(9) of the Act (custodial care); 
+ 
+• §1879(g)(2) of the Act (hospice patient who is not terminally ill); or 
+ 
+• §1879(g)(1) of the Act (home health services requirements are not met – not 
+confined to the home or no need for intermittent skilled nursing care). 
+ 
+• §1833(g)(5) of the Act (when outpatient therapy services are in excess of therapy 
+cap amounts and don’t qualify for a therapy cap exception – effective January 1, 
+2013). 
+ 
+When Medicare considers an item or service experimental (e.g., a “Research Use Only” 
+or “Investigational Use Only” laboratory test), payment for the experimental item or 
+service is denied under §1862(a)(1)
+ of the Act as not reasonable and necessary. In 
+circumstances such as this, the beneficiary must be given an ABN.  
+ 
+Expanded mandatory ABN use in 2011 
+ 
+The Patient Protection and Affordable Care Act, P.L. 111-148, §4103(d)(1)(C) added a 
+new subparagraph (P) to 1862(a)(1)of the Act. Per §1862(a)(1)(P), Medicare covered 
+personalized prevention plan services (as defined in section 1861(hhh)(1)) that are 
+performed more frequently than indicated per coverage guidelines are not reasonable and 
+necessary for the diagnosis or treatment of illness or injury or to improve the functioning 
+of a malformed body member. The LOL provisions of §1879 apply to this new 
+subparagraph; thus, providers must issue an ABN prior to providing a preventative 
+service that is usually covered by Medicare but will not be covered in this instance 
+because frequency limitations have been exceeded.  
+ 
+In addition, delivery of an ABN is mandatory under 42 CFR §414.408(e)(3)(ii) when a 
+noncontract supplier furnishes an item included in the Durable Medical Equipment, 
+Prosthetic, Orthotics, and Supplies (DMEPOS) Competitive Bidding Program (CBP) for 
+a Competitive Bidding Area (CBA). Although all other denial reasons triggering 
+mandatory use of the ABN are found in §1879 of the Act, in this situation, 
+§1847(b)(5)(D) of the Act permits use of the ABN with respect to these items and 
+services. 
+ 
+50.3.2 - Voluntary ABN Uses 
+(Rev. 2480, Issued: 06-01-12, Effective: 09-04-12, Implementation: 09-04-12) 
+--- page 6 ---
+ 
+ABNs are not required for care that is either statutorily excluded from coverage under 
+Medicare (i.e. care that is never covered) or most care that fails to meet a technical 
+benefit requirement (i.e. lacks required certification). However, the ABN can be issued 
+voluntarily in place of the Notice of Exclusion from Medicare Benefits (NEMB) for care 
+that is never covered such as: 
+ 
+• Care that fails to meet the definition of a Medicare benefit as defined in §1861 
+of the Social Security Act; 
+ 
+• Care that is explicitly excluded from coverage under §1862 of the Social 
+Security Act.  Examples include: 
+ 
+° Services for which there is no legal obligation to pay; 
+° Services paid for by a government entity other than Medicare (this 
+exclusion does not include services paid for by Medicaid on behalf of 
+dual-eligibles); 
+° Services required as a result of war; 
+° Personal comfort items; 
+° Routine eye care; 
+° Dental care; and 
+° Routine foot care. 
+ 
+The voluntary ABN serves as a courtesy to the beneficiary in forewarning him/her of 
+impending financial obligation. When an ABN is used as a voluntary notice, the 
+beneficiary should not be asked to choose an option box or sign the notice. The provider 
+or supplier is not required to adhere to the issuance guidelines for the mandatory notice 
+(as set forth below) when using the ABN for voluntary notification. 
+ 
+NOTE:  Certain DME items/services that fail to meet a technical requirement may 
+require an ABN as outlined in the mandatory use section above. 
+ 
+50.4 - Issuance of the ABN 
+(Rev. 1587, Issued: 09-05-08, Effective: 03-03-08, Implementation: 03-01-09) 
+ 
+50.4.1 - Issuers of ABNs (Notifiers) 
+(Rev. 2782, Issued: 09-06-13, Effective: 12-09-13, Implementation: 12-09-13) 
+ 
+Entities who issue ABNs are collectively known as “notifiers”. These entities can 
+include physicians, practitioners, providers (including laboratories), and suppliers, and/or 
+utilization review committees for the care provider.  In 2013, HHAs are added as ABN 
+issuers. 
+ 
+--- page 7 ---
+The notifier may direct an employee or a subcontractor to deliver an ABN.  The billing 
+entity will always be held responsible for effective delivery regardless of who gives the 
+notice. When multiple entities are involved in rendering care, it is not necessary to give 
+separate ABNs.  Either party involved in the delivery of care can be the notifier when: 
+ 
+• There are separate “ordering” and “rendering” providers (e.g. a physician orders a 
+lab test and an independent laboratory delivers the ordered tests); 
+ 
+• One provider delivers the “technical” and the other the “professional” component 
+of the same service ( e.g. a radiological test that an independent diagnostic testing 
+facility renders and a physician interprets); or  
+ 
+• The entity that obtains the signature on the ABN is different from the entity that 
+bills for services (e.g. when one laboratory refers a specimen to another laboratory 
+which then bills Medicare for the test). 
+ 
+When the notifier is not the billing entity, the notifier must know how to direct the 
+beneficiary who received the ABN to the billing entity for questions and should annotate 
+the Additional Information section of the ABN with this information. It is permissible to 
+enter the names of more than one entity in the header of the notice. 
+ 
+50.4.2.-Recipients of the ABN 
+(Rev. 2480, Issued: 06-01-12, Effective: 09-04-12, Implementation: 09-04-12) 
+ 
+Notifiers are required to give an ABN to a FFS Medicare beneficiary or his/her 
+representative before providing him/her with a Medicare covered item or service that may 
+not be covered in this particular instance or before providing custodial care. Recipients of 
+ABNs include beneficiaries who have Medicaid coverage in addition to Medicare (i.e. 
+dual-eligible). A notifier’s inability to give notice to a beneficiary or his/her 
+representative does not allow the notifier to shift financial liability to the beneficiary. 
+Note: See §§40.3.4.6 and 50.6.5.B in this chapter for information on beneficiary refusals. 
+ 
+50.4.3 - Representatives of Beneficiaries 
+(Rev. 2782, Issued: 09-06-13, Effective: 12-09-13, Implementation: 12-09-13) 
+ 
+Notifiers are responsible for determining who may act as a beneficiary’s authorized 
+representative for the purposes of ABN issuance under applicable State or other law.  An 
+individual who may make health care and financial decisions on a beneficiary’s behalf 
+(e.g. the beneficiary’s legal guardian or someone appointed according to a properly 
+executed “durable medical power of attorney”) is an authorized representative.  If the 
+beneficiary has a known, legally authorized representative, the ABN must be issued to 
+the existing representative.  If a beneficiary does not have a representative and one is 
+necessary, a representative may be appointed for purposes of receiving notice following 
+CMS guidelines and as permitted by State and Local law.  See §40.3.5 of this chapter for 
+more detailed guidance on representatives. 
+ 
+--- page 8 ---
+When a representative is signing the ABN on behalf of a beneficiary, the ABN should be 
+annotated to identify that the signature was penned by the “rep” or “representative”.  If 
+the representative’s signature is not clearly legible, the representative’s name should be 
+printed on the ABN. 
+ 
+50.5 - ABN Triggering Events 
+(Rev. 2480, Issued: 06-01-12, Effective: 09-04-12, Implementation: 09-04-12) 
+ 
+Notifiers are required to issue ABNs when an item or service is expected to be denied 
+based on one of the provisions in §50.3.1. This may occur at any one of three points 
+during a course of treatment which are initiation, reduction, and termination, also known 
+as “triggering events”. 
+ 
+A.  Initiations 
+ 
+An initiation is the beginning of a new patient encounter, start of a plan of care, or 
+beginning of treatment. If a notifier believes that certain otherwise covered items or 
+services will be noncovered (e.g. not reasonable and necessary) at initiation, an ABN 
+must be issued prior to the beneficiary receiving the non-covered care. 
+ 
+Example: Mrs. S. asks her physician for an EKG because her sister was recently 
+diagnosed with atrial fibrillation. Mrs. S. has no diagnosis that warrants medical necessity 
+of an EKG but insists on having an EKG even if she has to pay out of pocket for it. The 
+physician’s office personnel issue an ABN to Mrs. S. before the EKG is done. 
+ 
+B.  Reductions 
+ 
+A reduction occurs when there is a decrease in a component of care (i.e. frequency, 
+duration, etc.). The ABN is not issued every time an item or service is reduced. But, if a 
+reduction occurs and the beneficiary wants to receive care that is no longer considered 
+medically reasonable and necessary, the ABN must be issued prior to delivery of this 
+noncovered care. 
+ 
+Example: Mr. T , is receiving outpatient physical therapy five days a week, and after 
+meeting several goals, therapy is reduced to three days per week. Mr. T wants to achieve 
+a higher level of proficiency in performing goal related activities and wants to continue 
+with therapy 5 days a week. He is willing to take financial responsibility for the costs of 
+the 2 days of therapy per week that are no longer medically reasonable and necessary.  
+An ABN would be issued prior to providing the additional days of therapy weekly. 
+ 
+C.  Terminations 
+ 
+A termination is the discontinuation of certain items or services. The ABN is only issued 
+at termination if the beneficiary wants to continue receiving care that is no longer 
+medically reasonable and necessary. 
+ 
+--- page 9 ---
+Example: Ms. X has been receiving covered outpatient speech therapy services, has met 
+her treatment goals, and has been given speech exercises to do at home that do not 
+require therapist intervention.  Ms. X wants her speech therapist to continue to work with 
+her even though continued therapy is not medically reasonable or necessary. Ms. X is 
+issued an ABN prior to her speech therapist resuming therapy that is no longer considered 
+medically reasonable and necessary. 
+ 
+50.6 - ABN Standards 
+(Rev. 1587, Issued: 09-05-08, Effective: 03-03-08, Implementation: 03-01-09) 
+ 
+50.6.1 - Proper Notice Documents 
+(Rev. 2782, Issued: 09-06-13, Effective: 12-09-13, Implementation: 12-09-13) 
+ 
+The ABN, Form CMS-R-131, is the Office of Management and Budget (OMB) 
+approved standard notice. Failure to use this notice as mandated could result in the 
+notice being invalidated and/or the notifier being held liable for the items or services 
+in question. 
+ 
+The online replicable copies of the OMB approved ABN (CMS-R-131) and instructions 
+for notice completion are available on the CMS website at:  
+http://www.cms.gov/Medicare/Medicare-General-Information/BNI/ABN.html
+ 
+ 
+A.  Language Choice 
+ 
+The ABN is available in English and Spanish under a dedicated link on the web page 
+given above.  Notifiers should choose the appropriate version of the ABN based on the 
+language the beneficiary best understands. Insertions must be in English when the 
+English language ABN is used.  Similarly, when a Spanish language ABN is used, the 
+notifier should make insertions on the notice in Spanish, if applicable.  In addition, verbal 
+assistance in other languages may be provided to assist beneficiaries in understanding the 
+document.  However, the printed document is limited to the OMB-approved English and 
+Spanish versions.  Notifiers should document any types of translation assistance that are 
+used in the “Additional Information” section of the notice. 
+ 
+B.  Effective Versions 
+ 
+ABNs are effective as of the OMB approval date given at the bottom of each notice.  The 
+routine approval is for 3-year use. Notifiers are expected to exclusively use the current 
+version of the ABN.  Providers/suppliers must be attentive to the OMB approval date on 
+the notice and seek instruction from the CMS website 
+http://www.cms.gov/Medicare/Medicare-General-Information/BNI/index.html
+ on 
+obtaining current versions of notices.  CMS will allow a transition period for providers 
+and suppliers to switch from using expiring notices to newly approved notices.  The date 
+of mandatory use of newly approved notices will be announced on the CMS website with 
+the notice’s release. 
+ 
+ 
+--- page 10 ---
+50.6.2 - General Notice Preparation Requirements 
+(Rev. 2480, Issued: 06-01-12, Effective: 09-04-12, Implementation: 09-04-12) 
+ 
+The following are the general instructions that notifiers must follow in preparing an ABN 
+for mandatory use: 
+ 
+A.  Number of Copies:  A minimum of two copies, including the original, must be made 
+so the beneficiary and notifier each have one. The notifier should retain the original 
+whenever possible. 
+ 
+B.  Reproduction:  Notifiers may reproduce the ABN by using self-carbonizing paper, 
+photocopying, digitized technology, or another appropriate method. All reproductions 
+must conform to applicable form and manual instructions. 
+ 
+C.  Length and Size of Page:  The ABN form must not exceed one page in length; 
+however, attachments are permitted for listing additional items and services.  If 
+attachments are used, they must allow for clear matching of the items or services in 
+question with the reason and cost estimate information. The ABN is designed as a letter-
+sized form. If necessary, it may be expanded to a legal-sized page. 
+ 
+D.  Contrast of Paper and Print:  A visually high-contrast combination of dark ink on a 
+pale background must be used. Do not use reversed print (i.e. white print on black paper), 
+or block-shaded (highlighted) text. 
+ 
+E.  Font:  To the extent practicable, the fonts as they appear in the ABN downloaded 
+from the CMS web site should be used. Any changes in the font type must be based 
+solely on limitations of the notifier’s software and/or hardware. In such cases, notifiers 
+should use alternative fonts that are easily readable, such as Arial, Arial Narrow, Times 
+New Roman, and Courier. Font style and formatting must be maintained regardless of 
+font type used.  
+ 
+Any other changes to the font, such as italics, embossing, bold, etc., should not be used 
+since they can make the ABN more difficult to read. The font size generally should be 12 
+point. Titles should be 14-16 point, but insertions in blanks of the ABN can be as small as 
+10 point if needed. 
+ 
+Information inserted by notifiers in the blank spaces on the ABN may be typed or legibly 
+hand-written. 
+ 
+F.  Customization:  Notifiers are permitted to do some customization of ABNs, such as 
+pre-printing information in certain blanks to promote efficiency and to ensure clarity for 
+beneficiaries. Notifiers may develop multiple versions of the ABN specialized to 
+common treatment scenarios, using the required language and general formatting of the 
+ABN. Blanks (G)-(I) must be completed by the beneficiary or his/her representative when 
+the ABN is issued and may never be pre-filled. Lettering of the blanks (A-J) should be 
+removed prior to issuance of an ABN.  
+ 
+--- page 11 ---
+If pre-printed information is used to describe items/services and/or common reasons for 
+noncoverage, the notifier must clearly indicate on the ABN which portions of the pre-
+printed information are applicable to the beneficiary. For example, pre-printed items or 
+services that are inapplicable may be crossed out, or applicable items/services may be 
+checked off.   
+ 
+Providers who pre-print a menu of items or services may wish to list a cost estimate 
+alongside each item or service.  For example, notifiers may merge the items/service 
+section (Blank D) with the estimated cost section (Blank F) as long as the beneficiary can 
+clearly identify the services and related costs that may not be covered by Medicare. 
+ 
+G.  Modification:  The ABN may not be modified except as specifically allowed by 
+these instructions. 
+ 
+Notifiers must exercise caution before adding any customizations beyond these 
+guidelines, since changing ABNs too much could result in invalid notice and provider 
+liability for noncovered charges. Validity judgments are generally made by Medicare 
+contractors, usually when reviewing ABN-related claims; however, any complaints 
+received may be investigated by contractors and/or CMS central or regional offices. 
+ 
+See appendix B for an example of an approved customization of the ABN which can be 
+used by providers of laboratory services. 
+ 
+50.6.3 - Completing the ABN 
+(Rev. 2782, Issued: 09-06-13, Effective: 12-09-13, Implementation: 12-09-13) 
+ 
+Step by step instructions for notice completion are posted along with the notice on the 
+CMS website and can be downloaded via this link: 
+http://www.cms.gov/Medicare/Medicare-General-Information/BNI/ABN.html
+  
+ 
+Notifiers must follow guidance provided in this section and the instructions posted on the 
+CMS website to construct a valid notice. 
+ 
+50.6.4 – Retention Requirements 
+(Rev. 2480, Issued: 06-01-12, Effective: 09-04-12, Implementation: 09-04-12) 
+ 
+The ABN must be prepared with an original and at least one copy. The beneficiary is 
+given his/her copy of the signed and dated ABN immediately, and the notifier should 
+retain the original ABN in the beneficiary’s record. In certain situations, such as delivery 
+by fax, the notifier may not have access to the original document upon signing. Retention 
+of a copy of the signed document would be acceptable in specific cases such as this. 
+ 
+In a case where the notifier that gives an ABN is not the entity that ultimately bills 
+Medicare for the item or service (e.g. when a physician issues an ABN, draws a test 
+specimen, and sends it to a laboratory for testing), the notifier must give a copy of the 
+signed ABN to the billing entity. The copy provided must be legible and may be a 
+carbon, fax, electronically scanned, or photo reproduction copy. 
+ 
+--- page 12 ---
+ 
+Applicable retention periods for the ABN are discussed in Chapter 1 of this manual, 
+§110. In general, it is 5 years from discharge/completion of delivery of care when there 
+are no other applicable requirements under State law. Retention is required in all cases, 
+including those cases in which the beneficiary declined the care, refused to choose an 
+option, or refused to sign the notice. Electronic retention of the signed paper document is 
+acceptable. Notifiers may scan the signed paper or “wet” version of the ABN for 
+electronic medical record retention and if desired, give the paper copy to the beneficiary. 
+ 
+50.6.5 - Other Considerations During ABN Completion 
+(Rev. 2782, Issued: 09-06-13, Effective: 12-09-13, Implementation: 12-09-13) 
+ 
+A.  Beneficiary Changes His/Her Mind    
+ 
+If after completing and signing the ABN, a beneficiary changes his/her mind, the notifier 
+should present the previously completed ABN to the beneficiary and request that the 
+beneficiary annotate the original ABN. The annotation must include a clear indication of 
+his/her new option selection along with the beneficiary's signature and date of annotation. 
+In situations where the notifier is unable to present the ABN to the beneficiary in person, 
+the notifier may annotate the form to reflect the beneficiary's new choice and 
+immediately forward a copy of the annotated notice to the beneficiary to sign, date, and 
+return.   
+ 
+In both situations, a copy of the annotated ABN must be provided to the beneficiary as 
+soon as possible. If a related claim has been filed, it should be revised or cancelled if 
+necessary to reflect the beneficiary’s new choice.  
+ 
+B.  Beneficiary Refuses to Complete or Sign the Notice  
+ 
+If the beneficiary refuses to choose an option and/or refuses to sign the ABN when 
+required, the notifier should annotate the original copy of the ABN indicating the refusal 
+to sign or choose an option and may list witness(es) to the refusal on the notice although 
+this is not required. If a beneficiary refuses to sign a properly delivered ABN, the notifier 
+should consider not furnishing the item/service, unless the consequences (health and 
+safety of the patient, or civil liability in case of harm) are such that this is not an option. 
+ 
+In any case, the notifier must provide a copy of the annotated ABN to the beneficiary, 
+and keep the original version of the annotated notice in the patient’s file. 
+ 
+50.7 - ABN Delivery Requirements 
+(Rev. 1587, Issued: 09-05-08, Effective: 03-03-08, Implementation: 03-01-09) 
+ 
+50.7.1 - Effective Delivery 
+(Rev. 2782, Issued: 09-06-13, Effective: 12-09-13, Implementation: 12-09-13) 
+ 
+A. Delivery Requirements 
+ 
+--- page 13 ---
+ABN delivery is considered to be effective when the notice is:  
+ 
+1. Delivered by a suitable notifier to a capable recipient and comprehended by that 
+recipient. 
+ 
+2. Provided using the correct OMB approved notice with all required blanks 
+completed. 
+ 
+Failure to use the correct notice may lead to the notifier being found liable since the 
+burden of proof is on the notifier to show that knowledge was conveyed to the 
+beneficiary according to CMS instructions. 
+ 
+3. Delivered to the beneficiary in person if possible. 
+ 
+4. Provided far enough in advance of delivering potentially noncovered items or 
+services to allow sufficient time for the beneficiary to consider all available options. 
+ 
+5. Explained in its entirety, and all of the beneficiary’s related questions are answered 
+timely, accurately, and completely to the best of the notifier’s ability. 
+ 
+The notifier should direct the beneficiary to call 1-800-MEDICARE if the beneficiary has 
+questions s/he cannot answer. If a Medicare contractor finds that the notifier refused to 
+answer a beneficiary’s inquiries or direct them to 1-800-MEDICARE, the notice delivery 
+will be considered defective, and the notifier will be held financially liable for 
+noncovered care.  
+ 
+6. Signed by the beneficiary or his/her representative. 
+ 
+B.  Period of Effectiveness/ Repetitive or Continuous Noncovered Care 
+ 
+An ABN can remain effective for up to one year.  Notifiers may give a beneficiary a 
+single ABN describing an extended or repetitive course of noncovered treatment 
+provided that the ABN lists all items and services that the notifier believes Medicare will 
+not cover.  If applicable, the ABN must also specify the duration of the period of 
+treatment.  If there is any change in care from what is described on the ABN within the 1-
+year period, a new ABN must be given.  If during the course of treatment additional 
+noncovered items or services are needed, the notifier must give the beneficiary another 
+ABN.  There is a one year limit for using a single ABN for an extended course of 
+treatment. A new ABN is required when the specified treatment extends beyond one year. 
+ 
+If a beneficiary is receiving repetitive non-covered care, but the provider or supplier 
+failed to issue an ABN before the first or the first few episodes of care were provided, the 
+ABN may be issued at any time during the course of treatment.  However, if the ABN is 
+issued after repetitive treatment has been initiated, the ABN cannot be retroactively dated 
+or used to shift liability to the beneficiary for care that had been provided before ABN 
+issuance.  In cases such as this, care that was provided before ABN delivery would be the 
+financial responsibility of the supplier/provider. 
+--- page 14 ---
+ 
+C.  Incomplete ABNs 
+ 
+Allegations of improper or incomplete notices will be investigated by Medicare 
+contractors. If the notifier is found to have given improper or incomplete written notice, 
+the applicable Medicare contractor will not hold the beneficiary liable in the individual 
+case.  
+ 
+D.  Electronic Issuance of the ABN 
+ 
+Electronic issuance of ABNs is not prohibited.  If a provider elects to issue an ABN that 
+is viewed on an electronic screen before signing, the beneficiary must be given the option 
+of requesting paper issuance over electronic if that is what s/he prefers.  Also, regardless 
+of whether a paper or electronic version is issued and regardless of whether the signature 
+is digitally captured or manually penned, the beneficiary must be given a paper copy of 
+the signed ABN to keep for his/her own records.  As stated earlier in §50.6.4, electronic 
+retention of the signed ABN is permitted. 
+ 
+50.7.2 - Options for Delivery Other than In-Person 
+(Rev. 2782, Issued: 09-06-13, Effective: 12-09-13, Implementation: 12-09-13) 
+ 
+ABNs should be delivered in-person and prior to the delivery of medical care which is 
+presumed to be noncovered. In circumstances when in-person delivery is not possible, 
+notifiers may deliver an ABN through one of the following means:  
+ 
+• Direct telephone contact;  
+• Mail;  
+• Secure fax machine; or  
+• Internet e-mail  
+ 
+All methods of delivery require adherence to all statutory privacy requirements under 
+HIPAA.  The notifier must receive a response from the beneficiary or his/her 
+representative in order to validate delivery. 
+ 
+When delivery is not in-person, the notifier must verify that contact was made in his/her 
+records.  In order to be considered effective, the beneficiary should not dispute such 
+contact.  Telephone contacts must be followed immediately by either a hand-delivered, 
+mailed, emailed, or faxed notice.  The beneficiary or representative must sign and retain 
+the notice and send a copy of this signed notice to the notifier for retention in the 
+patient’s record. 
+ 
+The notifier must keep a copy of the unsigned notice on file while awaiting receipt of the 
+signed notice.  If the beneficiary does not return a signed copy, the notifier must 
+document the initial contact and subsequent attempts to obtain a signature in appropriate 
+records or on the notice itself. 
+ 

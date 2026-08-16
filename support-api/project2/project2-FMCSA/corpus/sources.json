@@ -1,0 +1,116 @@
+{
+  "project": "Roadwatch",
+  "author": "U.S. Department of Transportation, Federal Motor Carrier Safety Administration",
+  "footer": "This document is an excerpt of federal public-domain material, reproduced as a training artifact for the Roadwatch exercise. It is not a current or authoritative source and is not safety or legal guidance. Consult the published source for the governing text.",
+  "ecfr_issue_date": "2026-08-04",
+  "documents": [
+    {
+      "doc_id": "CFR-395",
+      "title": "49 CFR Part 395 - Hours of Service of Drivers",
+      "doc_type": "regulation",
+      "kind": "ecfr",
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/{issue_date}/title-49.xml?part=395",
+      "cite_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-395",
+      "sections": ["395.1", "395.2", "395.3", "395.5", "395.8", "395.13"],
+      "backs": ["R1", "R2", "R3"]
+    },
+    {
+      "doc_id": "CFR-391",
+      "title": "49 CFR Part 391 - Qualifications of Drivers",
+      "doc_type": "regulation",
+      "kind": "ecfr",
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/{issue_date}/title-49.xml?part=391",
+      "cite_url": "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-391",
+      "sections": ["391.11", "391.41", "391.43", "391.45", "391.51"],
+      "backs": ["R4"]
+    },
+    {
+      "doc_id": "HOS-GUIDE",
+      "title": "FMCSA Interstate Truck Driver's Guide to Hours of Service for Property Carriers",
+      "doc_type": "guide",
+      "kind": "pdf_pages",
+      "url": "https://www.fmcsa.dot.gov/sites/fmcsa.dot.gov/files/2022-04/FMCSA-HOS-395-DRIVERS-GUIDE-TO-HOS(2022-04-28)_0.pdf",
+      "cite_url": "https://www.fmcsa.dot.gov/regulations/hours-service/interstate-truck-drivers-guide-hours-service",
+      "edition_date": "2022-04-28",
+      "page_offset": 0,
+      "excerpts": [
+        {"section_path": "rest-break", "label": "The 30-minute rest break and the 34-hour restart", "printed_pages": "10-11", "pdf_pages": [10, 11]},
+        {"section_path": "adverse", "label": "What is the adverse driving conditions exception", "printed_pages": "12-13", "pdf_pages": [12, 13]},
+        {"section_path": "short-haul", "label": "The 16-hour short-haul exception", "printed_pages": "14-15", "pdf_pages": [14, 15]},
+        {"section_path": "rods", "label": "Record of duty status requirements and a completed log grid", "printed_pages": "16-19", "pdf_pages": [16, 19]},
+        {"section_path": "app-a", "label": "Appendix A, the exceptions tables", "printed_pages": "20-27", "pdf_pages": [20, 27]}
+      ],
+      "backs": ["R1", "R2", "R3"]
+    },
+    {
+      "doc_id": "FR-2020",
+      "title": "85 FR 33396 - Hours of Service of Drivers, final rule",
+      "doc_type": "preamble",
+      "kind": "pdf_pages",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2020-06-01/pdf/2020-11469.pdf",
+      "cite_url": "https://www.federalregister.gov/documents/2020/06/01/2020-11469/hours-of-service-of-drivers",
+      "publication_date": "2020-06-01",
+      "citation": "85 FR 33396",
+      "page_offset": 33395,
+      "excerpts": [
+        {"section_path": "comments-adverse", "label": "Comment analysis on the adverse driving conditions exception", "printed_pages": "33412-33416", "pdf_pages": [17, 21]},
+        {"section_path": "discussion", "label": "Discussion of the final rule and the section-by-section analysis", "printed_pages": "33435-33438", "pdf_pages": [40, 43]}
+      ],
+      "backs": ["R2"]
+    },
+    {
+      "doc_id": "GUIDE-PACK",
+      "title": "FMCSA Regulatory Guidance on the Hours of Service Rules",
+      "doc_type": "interpretation",
+      "kind": "html_pages",
+      "url_template": "https://www.federalregister.gov/documents/{slug}",
+      "cite_url": "https://www.federalregister.gov/agencies/federal-motor-carrier-safety-administration",
+      "cache_prefix": "GD",
+      "content_selectors": ["fulltext_content_area"],
+      "boilerplate_start": "See the Document Drafting Handbook",
+      "boilerplate_stop": "[FR Doc.",
+      "min_paragraph_chars": 45,
+      "title_segment": -1,
+      "items": [
+        {"label": "77 FR 33331", "slug": "2012/06/06/2012-13657/regulatory-guidance-on-the-applicability-of-property-carrier-hours-of-service-rules-to-the-driveaway", "title": "Applicability of Property-Carrier Hours-of-Service Rules to the Driveaway Operation of Vehicles Designed to Transport Passengers", "resolves": "A vehicle designed to carry passengers is not automatically a passenger-carrying operation; on a driveaway trip the property-carrier limits apply", "backs": ["R1", "R3"]},
+        {"label": "78 FR 76757", "slug": "2013/12/19/2013-30205/regulatory-guidance-on-hours-of-service-of-drivers-rest-break-requirement-drivers-who-become", "title": "Rest Break Requirement; Drivers Who Become Ineligible for the Short-Haul Exception During the Duty Day", "resolves": "A driver who begins the day exempt from the 30-minute break and loses the exception mid-day", "backs": ["R1"]},
+        {"label": "83 FR 26377", "slug": "2018/06/07/2018-12256/hours-of-service-of-drivers-of-commercial-motor-vehicles-regulatory-guidance-concerning-the-use-of-a", "title": "Use of a Commercial Motor Vehicle for Personal Conveyance", "resolves": "When movement of a commercial motor vehicle counts as off-duty time rather than driving time", "backs": ["R1", "R3"]},
+        {"label": "83 FR 26374", "slug": "2018/06/07/2018-12250/hours-of-service-of-drivers-of-commercial-motor-vehicles-regulatory-guidance-concerning-the", "title": "Transportation of Agricultural Commodities", "resolves": "How far the agricultural commodity exception reaches, including unladen return trips", "backs": ["R1", "R3"]},
+        {"label": "75 FR 32860", "slug": "2010/06/10/2010-13900/regulatory-guidance-concerning-the-preparation-of-drivers-record-of-duty-status-to-document", "title": "Preparation of Drivers' Record of Duty Status To Document Compliance With the Hours-of-Service Requirements", "resolves": "What satisfies the requirement to prepare the record of duty status in duplicate", "backs": ["R1"]},
+        {"label": "79 FR 39342", "slug": "2014/07/10/2014-15951/hours-of-service-for-commercial-motor-vehicle-drivers-regulatory-guidance-concerning-records-of-duty", "title": "Records of Duty Status Generated by Logging Software Programs", "resolves": "A record produced by logging software is still the driver's own record, and what that means for its accuracy", "backs": ["R1"]}
+      ]
+    },
+    {
+      "doc_id": "FORM-MER",
+      "title": "FMCSA Form MCSA-5875, Medical Examination Report Form",
+      "doc_type": "form",
+      "kind": "pdf_pages",
+      "url": "https://www.fmcsa.dot.gov/sites/fmcsa.dot.gov/files/2025-04/Medical%20Examination%20Report%20Form%20MCSA-5875%20508pdf.pdf",
+      "cite_url": "https://www.fmcsa.dot.gov/medical/driver-medical-requirements/medical-applications-and-forms",
+      "page_offset": 0,
+      "excerpts": [
+        {"section_path": "form", "label": "The Medical Examination Report Form, including the driver health history grid and the examiner determination", "printed_pages": "1-5", "pdf_pages": [1, 5]},
+        {"section_path": "instructions", "label": "Instructions for completing the Medical Examination Report Form", "printed_pages": "6-9", "pdf_pages": [6, 9]}
+      ],
+      "backs": ["R4"]
+    }
+  ],
+  "verification": {
+    "distractors": ["adverse driving", "personal conveyance", "8 consecutive hours", "off-duty"],
+    "out_of_corpus": [
+      "minimum wage",
+      "overtime pay",
+      "family and medical leave",
+      "workers compensation",
+      "unemployment insurance",
+      "collective bargaining",
+      "prevailing wage",
+      "sexual harassment",
+      "non-compete",
+      "GDPR",
+      "Sarbanes-Oxley",
+      "HIPAA"
+    ],
+    "near_miss": ["sleeper berth", "short-haul", "34 consecutive hours", "oilfield"]
+  }
+}

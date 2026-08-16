@@ -1,0 +1,1191 @@
+
+FMCSA Regulatory Guidance on the Hours of Service Rules
+=======================================================
+
+
+77 FR 33331 - Regulatory Guidance on the Applicability of Property-Carrier Hours-of-Service Rules to the Driveaway Operation of Vehicles Designed to Transport Passengers
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Source: https://www.federalregister.gov/documents/2012/06/06/2012-13657/regulatory-guidance-
+on-the-applicability-of-property-carrier-hours-of-service-rules-to-the-driveaway
+
+Federal Motor Carrier Safety Administration (FMCSA), DOT.
+
+The property-carrier hours-of-service (HOS) rules in 49 CFR 395.3 are applicable to drivers
+operating commercial motor vehicles designed or used to transport passengers on "driveaway-
+towaway" trips, as defined in 49 CFR 390.5 . This notice provides Federal and State
+enforcement personnel, and the motor carrier industry, with uniform guidance concerning
+these rules.
+
+Effective Date: This regulatory guidance is effective June 6, 2012.
+
+Thomas L. Yager, Chief, Driver and Carrier Operations Division, Federal Motor Carrier Safety
+Administration, 1200 New Jersey Ave. SE., Washington, DC 20590. Email: MCPSD@dot.gov . Phone
+(202) 366-4325.
+
+The Motor Carrier Act of 1935 provides that "The Secretary of Transportation may prescribe
+requirements for (1) qualifications and maximum hours of service of employees of, and safety
+of operation and equipment of, a motor carrier; and (2) qualifications and maximum hours of
+service of employees of, and standards for equipment of, a motor private carrier, when
+needed to promote safety of operation" [ 49 U.S.C. 31502(b) ].
+
+The Motor Carrier Safety Act of 1984 (MCSA) confers on the Secretary the authority to
+regulate drivers, motor carriers, and vehicle equipment. It requires the Secretary to
+prescribe safety standards for commercial motor vehicles (CMVs). At a minimum, the
+regulations must ensure that (1) CMVs are maintained, equipped, loaded, and operated safely;
+(2) the responsibilities imposed on operators of CMVs do not impair their ability to operate
+the vehicles safely; (3) the physical condition of operators of CMVs is adequate to enable
+them to operate the vehicles safely; and (4) the operation of CMVs does not have a
+deleterious effect on the physical condition of the operator [ 49 U.S.C. 31136(a) ]. The Act
+also grants the Secretary broad power to "prescribe recordkeeping and reporting
+requirements" and to "perform other acts the Secretary considers appropriate" [ 49 U.S.C.
+31133(a)(8) and (10) ].
+
+The Administrator of FMCSA has been delegated authority to carry out the functions vested in
+the Secretary by the Motor Carrier Act of 1935 [ 49 CFR 1.73(l) ], and the MCSA
+[§&thinsp;1.73(g)]. The provisions affected by this Notice of Regulatory Guidance are based
+on these statutes.
+
+This document adds regulatory guidance on the applicability of the hours-of-service (HOS)
+regulations for property-carrying drivers in 49 CFR 395.3 to drivers of vehicles designed or
+used to transport passengers, while operating the vehicle on a "driveaway-towaway" trip as
+defined 49 CFR 390.5 . These drivers often work for motor carriers that specialize in
+delivery of commercial motor vehicles (CMVs), and they do not operate CMVs to transport
+passengers on a regular basis.
+
+The §&thinsp;390.5 definition of "driveaway-towaway" is "* * * an operation in which an
+empty or unladen motor vehicle with one or more sets of wheels on the surface of the roadway
+is being transported: (1) Between vehicle manufacturer's facilities; (2) between a vehicle
+manufacturer and a dealership or purchaser; (3) between a dealership, or other entity
+selling or leasing the vehicle, and a purchaser or lessee; (4) to a motor carrier's terminal
+or repair facility for the repair of disabling damage (as defined in §&thinsp;390.5)
+following a crash; (5) to a motor carrier's terminal or repair facility for repairs
+associated with the failure of a vehicle component or system; or (6) by means of a saddle-
+mount or tow-bar."
+
+Section 395.3 prescribes the primary HOS regulations applicable to property-carrying
+drivers, and §&thinsp;395.5 prescribes the comparable regulations for passenger-carrying
+drivers. Neither the term "property-carrying" nor "passenger-carrying" is defined in these
+regulations. The FMCSA has received inquiries from motor carriers as to whether the
+property-carrying or passenger-carrying HOS rules would apply in driveaway situations
+usually involving the delivery of a bus, motorcoach, or similar CMV from the manufacturer or
+distributor to the dealer, or similar scenario. The Agency agrees that regulatory guidance
+is needed to clarify applicability of the HOS regulations. For the reasons explained above,
+FMCSA issues Regulatory Guidance Question 1 to §&thinsp;395.5 of the FMCSRs.
+
+"Maximum driving time for passenger-carrying vehicles."
+
+" Question 1: Would a driver delivering an empty commercial motor vehicle designed or used
+to carry passengers, from the manufacturer or distributor to a dealer, or otherwise engaged
+in a "driveaway-towaway" trip as defined in §&thinsp;390.5, be required to comply with the
+hours-of-service regulations for passenger-carrying drivers?
+
+No. The property-carrier hours-of-service rules in §&thinsp;395.3 are applicable to drivers
+operating commercial motor vehicles designed or used to transport passengers in a
+"driveaway-towaway" operation, as defined in §&thinsp;390.5."
+
+
+----------------------------------------------------------------------
+
+
+78 FR 76757 - Regulatory Guidance on Hours of Service of Drivers Rest Break Requirement; Drivers Who Become Ineligible for the “Short-Haul” Exception During the Duty Day
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Source: https://www.federalregister.gov/documents/2013/12/19/2013-30205/regulatory-guidance-
+on-hours-of-service-of-drivers-rest-break-requirement-drivers-who-become
+
+Federal Motor Carrier Safety Administration (FMCSA), DOT.
+
+This regulatory guidance addresses application of the 30-minute break rule to interstate
+drivers of commercial motor vehicles (CMVs) who begin their duty days as "short haul"
+drivers exempt from the break rule, but who occasionally exceed the short haul distance or
+time limits. Such drivers are then subject to the break requirement and must prepare a
+record-of-duty-status (RODS) for the day. The intent of the break rule would be satisfied if
+drivers in these situations take a break at the earliest safe opportunity after exceeding
+the short haul limits and explain in a RODS annotation why the rest break was not taken
+within the required 8 hours of the last off-duty break of at least 30 minutes.
+
+Effective Date: This regulatory guidance is effective December 19, 2013.
+
+Thomas L. Yager, Chief, Driver and Carrier Operations Division, Federal Motor Carrier Safety
+Administration, 1200 New Jersey Ave. SE., Washington, DC 20590. Email: MCPSD@dot.gov . Phone
+(202) 366-4325.
+
+The Motor Carrier Act of 1935 provides that "The Secretary of Transportation may prescribe
+requirements for (1) qualifications and maximum hours of service of employees of, and safety
+of operation and equipment of, a motor carrier; and (2) qualifications and maximum hours of
+service of employees of, and standards for equipment of, a motor private carrier, when
+needed to promote safety of operation" [ 49 U.S.C. 31502(b) ]. This guidance is based on the
+Secretary's authority to regulate maximum hours of service.
+
+The Motor Carrier Safety Act of 1984 (MCSA) requires the Secretary to prescribe safety
+standards for CMVs. At a minimum, the regulations must ensure that (1) CMVs are maintained,
+equipped, loaded, and operated safely; (2) the responsibilities imposed on operators of CMVs
+do not impair their ability to operate the vehicles safely; (3) the physical condition of
+operators of CMVs is adequate to enable them to operate the vehicles safely; and (4) the
+operation of CMVs does not have a deleterious effect on the physical condition of the
+operator [ 49 U.S.C. 31136(a)(1)-(4) ]. Section 32911 of the Moving Ahead for Progress in
+the 21st Century Act (MAP-21) [ Pub. L. 112-141 , 126 Stat. 405, 818, July 6, 2012] enacted
+a fifth requirement, i.e., that the regulations ensure that (5) an operator of a CMV is not
+coerced by a motor carrier, shipper, receiver, or transportation intermediary to operate a
+CMV in violation of a regulation promulgated under §&thinsp;31136, Chapter 51
+[Transportation of Hazardous Material], or chapter 313 [Commercial Vehicle Operators]. This
+guidance clarifies the applicability of a portion of the hours-of-service (HOS) regulations
+based on authority of §&thinsp;31136(a)(1), (2) and (4); it is unrelated to
+§&thinsp;31136(a)(5) and only peripherally related to §&thinsp;31136(a)(3).
+
+The MCSA also gives the Secretary broad power to "prescribe recordkeeping and reporting
+requirements" and to "perform other acts the Secretary considers appropriate" [ 49 U.S.C.
+31133(a)(8) and (10) ]. Clarification of the regulations is an "appropriate" act. The
+functions vested in the Secretary by the Motor Carrier Act of 1935 and the MCSA have been
+delegated to the FMCSA Administrator by 49 CFR 1.87(i) and (f) , respectively.
+
+On December 27, 2011 ( 76 FR 81133 ), FMCSA published a final rule amending its HOS
+regulations for drivers of property-carrying commercial motor vehicles (CMVs). The final
+rule adopted several changes to the HOS regulations, including a new provision requiring
+drivers to take a rest break during the work day under certain circumstances. Drivers may
+drive a CMV only if 8 hours or less have passed since the end of the driver's last off-duty
+or sleeper-berth period of at least 30 minutes. FMCSA did not specify when drivers must take
+the 30-minute break, but the rule requires that they wait no longer than 8 hours after the
+last off-duty or sleeper-berth period of that length or longer to take the break. Drivers
+who already take shorter breaks during the work day could comply with the rule by taking one
+of the shorter breaks and extending it to 30 minutes. The new requirement took effect on
+July 1, 2013.
+
+On August 2, 2013, the U.S. Court of Appeals for the District of Columbia Circuit issued its
+opinion on petitions for review of the 2011 HOS rule filed by the American Trucking
+Associations, Public Citizen, and others [ American Trucking Associations, Inc., v. Federal
+Motor Carrier Safety Administration, No. 12-1092 (D.C. Cir. Aug. 2, 2013)]. The Court upheld
+the 2011 HOS regulations in all respects except for the 30-minute break provision as it
+applies to short haul drivers. By guidance effective August 2, 2013, FMCSA has declared that
+it would no longer enforce the break rule against any driver that qualifies for either of
+the "short-haul operation" exceptions in 49 CFR 395.1(e)(1) or (2) [ See
+www.fmcsa.dot.gov/&#8203;documents/&#8203;HOS/&#8203;30-minute-guidance.pdf ]. Section
+395.1(e) defines two categories of drivers who qualify as being engaged in short-haul
+operations: the "100 air-mile radius driver" and "operators of property-carrying CMVs not
+requiring a commercial driver's license (CDL)." To qualify for the exception, the 100 air-
+mile radius driver must remain within a 100 air-mile radius of the normal work reporting
+location, return to that location at the end of the duty day, and be released from duty
+within 12 consecutive hours of the beginning of the duty day. The operator of a property-
+carrying CMV not requiring a CDL must remain within a 150 air-mile radius of the normal work
+reporting location and must return to that location at the end of the duty day.
+
+Drivers meeting the requirements to qualify for the short haul exception in
+§&thinsp;395.1(e) are not required to maintain the standard RODS ("logbooks") described in
+§&thinsp;395.8.
+
+Occasionally, a CMV driver will begin the duty day fully expecting to meet all the
+requirements of "short-haul operations" as defined by §&thinsp;395.1(e). Nevertheless,
+circumstances beyond the driver's control may arise and result in operations that do not
+meet those requirements. For example, a driver engaged in short-haul operations would no
+longer qualify for that exception if he or she is unable to remain within the required
+radius of operation (100 or 150 air-miles), or, in the case of the 100 air-mile radius
+driver, when a CMV driver cannot complete the duty day within 12 hours of its start.
+
+When the driver first learns of the changes to his or her itinerary and subsequent
+ineligibility for the short-haul exemption, the driver may have already missed the first
+mandatory rest break of the break rule; i.e., more than 8 hours may have elapsed since the
+driver was last off duty, or in the sleeper
+
+( printed page 76758) berth, for at least 30 minutes. To address this issue, FMCSA advises
+that in such situations, the driver should not be considered to be in violation of the break
+rule. The driver should annotate the RODS to indicate why the required rest break was not
+taken earlier, and should take the break at the earliest safe opportunity. Ideally, this
+would be prior to preparing the RODS or immediately following the preparation of the RODS.
+Under FMCSA's existing HOS requirements and guidance, drivers would begin preparing the RODS
+as soon as they determine they are no longer eligible for the RODS exemption.
+
+For the reasons explained above, FMCSA issues Regulatory Guidance Question 33 to
+§&thinsp;395.1 of the FMCSRs:
+
+Question 33. If a driver using either short-haul exception in §&thinsp;395.1(e) finds it
+necessary to exceed the exception limitations for unforeseen reasons, is the driver in
+violation of the §&thinsp;395.3 rest break provision if more than 8 hours have passed
+without having taken the required rest break?
+
+Guidance. No. A driver using a §&thinsp;395.1(e) short-haul exception who finds it necessary
+to exceed the exception limitations for unforeseen reasons, is not in violation of the
+§&thinsp;395.3 rest-break requirements if 8 or more hours have passed at the time the driver
+becomes aware of the inability to use the short-haul exception. The driver should annotate
+the record-of-duty-status to indicate why the required rest break was not taken earlier, and
+should take the break at the earliest safe opportunity.
+
+
+----------------------------------------------------------------------
+
+
+83 FR 26377 - Hours of Service of Drivers of Commercial Motor Vehicles: Regulatory Guidance Concerning the Use of a Commercial Motor Vehicle for Personal Conveyance
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Source: https://www.federalregister.gov/documents/2018/06/07/2018-12256/hours-of-service-of-
+drivers-of-commercial-motor-vehicles-regulatory-guidance-concerning-the-use-of-a
+
+Federal Motor Carrier Safety Administration (FMCSA), DOT.
+
+On December 19, 2017, FMCSA proposed revisions to the regulatory guidance concerning driving
+a commercial motor vehicle (CMV) for personal use while off-duty, referred to as "personal
+conveyance." Over 380 comments were received in response to the draft guidance. This
+document provides revised guidance and addresses issues raised by commenters. This guidance
+applies to all CMV drivers required to record their hours of service (HOS) who are permitted
+by their carrier to use the vehicle for personal use.
+
+This guidance is applicable on June 7, 2018 and expires June 7, 2023.
+
+For information concerning this notice contact Ms. LaTonya Mimms, Transportation Specialist,
+Enforcement Division, FMCSA. Ms. Mimms may be reached at 202-366-0991 and by email at
+LaTonya.Mimms@dot.gov . If you have questions on viewing or submitting material to the
+docket, contact Docket Services, telephone (202) 366-9826.
+
+The Federal Motor Carrier Safety Regulations (FMCSRs) require drivers to document their HOS
+on records of duty status (RODS), identifying one of four duty status options: (1) On-duty
+not driving, (2) driving, (3) sleeper berth, and (4) off-duty ( 49 CFR 395.8 ). The use of
+personal conveyance is a tool used to account for the movement of a CMV while the driver is
+off-duty.
+
+Motor carriers are responsible for ensuring that drivers are not operating while ill or
+fatigued. However, motor carriers, at their discretion, may authorize their drivers to use a
+CMV while off-duty for personal conveyance. When this occurs, drivers are required to
+document such use as off-duty on their RODS, irrespective of the method used to record the
+driver's HOS ( e.g., paper logs, automatic on-board recording device, electronic logging
+devices (ELDs), etc.)
+
+The minimum performance and design standards for ELDs in the Agency's final rule on
+"Implementation of Electronic Logging Devices and Hours of Service Supporting Documents"
+(ELD rule) ( 80 FR 78292 , December 15, 2015) include the automatic recording of data
+related to the off-duty movement and location of the CMV. As part of the ELD rule, ELD
+manufacturers are required to include a special driving category for personal conveyance.
+This may be used by drivers at the motor carriers' discretion.
+
+The previous guidance on personal conveyance ( 49 CFR 395.8 , Question 26) was issued by the
+Federal Highway Administration (FHWA), FMCSA's predecessor agency, in a memorandum dated
+November 18, 1996, and later published in a compilation of guidance ( 62 FR 16370 , 16426 ,
+April 4, 1997). The guidance reiterated the basic principle that a driver in off-duty status
+must be relieved from work and all responsibility for performing work. It highlighted the
+use of the CMV as a personal conveyance in traveling to and from the place of employment (
+e.g., the normal work reporting location). The 1997 guidance included discussion of CMVs
+used to travel short distances from a driver's en route lodgings to restaurants in the
+vicinity of such lodgings. In addition, the 1997 guidance explicitly excluded the use of
+laden vehicles as personal conveyance and the operation of the CMV as personal conveyance by
+drivers who have been placed out of service for HOS violations. The guidance has remained
+unchanged since 1997.
+
+On December 19, 2017. FMCSA issued revised guidance and requested comments. ( 82 FR 60269 )
+In changing the guidance, the Agency focused on the reason the driver is operating a CMV
+while off-duty, without regard to whether the CMV is laden.
+
+This notice clarifies issues raised such as using personal conveyance to leave a shipper or
+receiver and travel to a safe location for rest, the fact that the use of personal
+conveyance does not impact on-duty time, and provides additional scenarios in the guidance
+as to when the use of personal conveyance is allowable, and, includes passenger carrier
+specific scenarios.
+
+FMCSA received over 380 comments on the proposed guidance. Over 300 of the comments were
+from individuals, with approximately 240 representing drivers of property-carrying CMVs. The
+remaining comments came from companies, associations, safety organizations, and two States.
+Companies included Cowboy Up Transport, Boyle Transportation, Crete Carrier, C.H. Robinson,
+and Schneider National. The associations included the American Bus Association, the American
+Trucking Associations, the Owner Operator Independent Drivers Association, the Truckload
+Carriers Association, and Western States Trucking Association. The safety organizations
+included the Commercial Vehicle Safety Alliance, Advocates for Highway and Auto Safety
+(AHAS), the Truck Safety Coalition and Road Safe America.
+
+The majority of commenters supported expanding the definition to include laden vehicles.
+However, the Truck Safety Coalition and Road Safe America opposed this change, expressing
+concern that FMCSA was proposing to replace an objective standard with a subjective standard
+and that it would be difficult for law enforcement to assess a driver's intent to determine
+if the CMV is being used for personal conveyance. In addition, the Truck Safety Coalition
+and Road Safe America noted studies conducted by the FMCSA, National Institute of
+Occupational Safety and Health, Federal Highway Administration and National Highway Traffic
+Safety Administration, relating to the incidence of fatigue reported by long haul truck
+drivers and impact of pressures from the shipping community on fatigue.
+
+AHAS also opposed this change for similar reasons and questioned the disparate impact on
+drivers of single unit trucks that FMCSA noted in the December 2017 notice.
+
+Also, several motor carriers reiterated that the decision to allow the use of personal
+conveyance should remain with the company.
+
+The purpose of the guidance is to provide additional clarity on the use of personal
+conveyance as a type of off-duty status. The guidance provides additional details to
+determine if a movement of the CMV is an appropriate off-duty use. The new guidance will
+improve uniformity for the industry and the enforcement communities. The clarity provided in
+this notice will lead to greater uniformity in the enforcement of the HOS rules.
+
+In response to concerns that this guidance will somehow increase fatigue, FMCSA notes that
+there are no changes to the HOS rules in this document. In fact, because the current
+requirement to record HOS using ELDs makes the time spent driving a CMV as personal
+conveyance transparent to the motor carrier and enforcement, the Agency believes that
+consistency and uniformity in the application of the guidance by both the industry and
+enforcement will be increased. FMCSA recognizes that much of the pressure on drivers
+referenced in the comments results from delays during the loading or unloading process
+causing a driver to run out of hours. This guidance will have a positive impact on the
+concerns expressed by the Truck Safety Coalition, Road Safe America, and AHAS by giving
+drivers the flexibility to locate and obtain adequate rest as this would be off-duty time in
+personal conveyance status. In addition, as described above, this guidance, used in
+conjunction with the ELD rule will lead to greater uniformity in enforcement.
+
+According to the FMCSA's records in the Motor Carrier Management Information System, there
+are approximately 2.3 million straight trucks that operate in interstate commerce. Under the
+previous guidance, the drivers of many straight trucks were not permitted to operate in an
+off-duty status for personal conveyance because they were laden. The revised guidance allows
+these vehicles, under the circumstances described in the guidance to be driven as a personal
+conveyance.
+
+Other recurring issues or questions raised are discussed individually below.
+
+Some commenters provided suggestions or requests that are outside of the scope of guidance.
+Those included modifying the HOS regulations so that there is a definition of personal
+conveyance consistent with the Canadian HOS regulation and establishing mileage or time
+limits for the use of personal conveyance.
+
+In addition, some motor carriers and drivers questioned who would be liable in a crash when
+the driver is operating in the personal conveyance mode. FMCSA notes that this issue is
+outside of its authority and would be determined based on the contract or agreement between
+the motor carrier or owner of the commercial motor vehicle and the liability insurance
+provider as well as principles of State tort law.
+
+Numerous commenters asked for clarification on how the use of personal conveyance impacts
+on-duty hours.
+
+Personal conveyance is an off-duty status. Therefore, there are no impacts to the 11- or
+14-hour limitations for truck drivers, the 10- or 15-hour limitations for bus drivers, the
+60/70-hour limitations, the 34-hour restart provisions, or any other on-duty status.
+
+Leaving a Shipper or Receiver to go to a Safe Place for Required Rest
+
+Crete Carrier, Vilma Kuprescenko, Desiree Wood, Paul Tyler and many others suggested that a
+driver should be allowed to identify movement from a receiver or shipper, after exhausting
+his or her HOS, as personal conveyance, if that movement is to allow the driver to arrive at
+a safe location to obtain the required rest. Crete Carrier believes that not allowing the
+driver to identify such a movement as personal conveyance would be contrary to the coercion
+rule ( 49 CFR 390.6 ), as the shipper is forcing a driver to leave the premises even after
+exhausting his or her hours of service limits. Schneider National also asked for
+clarification on this issue.
+
+The movement from a shipper or receiver to the nearest safe resting area may be identified
+as personal conveyance, regardless of whether the driver exhausted his or her HOS, as long
+as the CMV is being moved solely to enable the driver to obtain the required rest at a safe
+location. The Agency recognizes that the driver may not be aware of the direction of the
+next dispatch and that in some instances the nearest safe resting location may be in the
+direction of that dispatch. If the driver proceeds to the nearest reasonable and safe
+location and takes the required rest, this would qualify as personal conveyance. FMCSA
+recommends that the driver annotate on the log if he/she cannot park at the nearest location
+and must proceed to another location.
+
+FMCSA also notes that the Coercion Rule is intended to protect drivers from motor carriers,
+shippers, receivers, or transportation intermediaries who threaten to withhold work from,
+take employment action against, or punish a driver for refusing to operate in violation the
+FMCSRs, Hazardous Materials Regulations, and the Federal Motor Carrier Commercial
+Regulations. Crete Carrier's reference to the coercion rule in the context of having to
+leave a shipper's/receiver's property is not accurate, provided that the shipper or receiver
+does not threaten to retaliate or take adverse action against the driver in violation of the
+rule.
+
+Jeff Muzik asked about the impacts to the 10-hour break if a safety official requires the
+driver to move the CMV.
+
+If a Federal, State or local law enforcement official requires a driver to relocate the CMV
+during the 10-hour break period for truck drivers or the 8-hour break period for bus
+drivers, personal conveyance may be used to document the movement. Again, as this is off-
+duty time, this does not require a restart of the rest period. However, the CMV must be
+moved no farther than the nearest reasonable and safe area to complete the rest period.
+
+Schneider National noted that the draft scenarios in section (a) of the guidance to Question
+26 implied that the driver must return to the last on-duty location but that other scenarios
+in the same section indicate otherwise. Allen England and Billy Barnes Enterprises expressed
+disagreement with any requirement to return to the last on-duty location.
+
+The driver is not required to return to the previous on-duty location. A driver may resume
+on-duty status immediately after an off-duty status regardless of the location of the CMV.
+
+Danny Schnautz, Brian Ausloos, and Doug Pope questioned FMCSA's description of "enhancing
+operational readiness." Other carriers also provided examples of movements that they
+believed are personal conveyance but enhance operational readiness.
+
+Enhancing operational readiness includes on-duty movement of a CMV that provides a
+commercial benefit to the motor carrier. For example, if the movement places the load closer
+to the destination, it may not be considered personal conveyance, except under circumstances
+outlined specifically in the examples provided in the guidance. Additionally, if a driver
+who is under dispatch stops at a location such as his/her home, because the driver's home is
+closer to the next destination or pick up location, then this would not be personal
+conveyance.
+
+Application of Guidance to Passenger Carrying Vehicles
+
+The American Bus Association (ABA) stated that the proposed guidance did not mention
+motorcoaches. ABA and others requested examples that specifically reference motorcoach
+operations. The United Motorcoach Association provided examples of personal conveyance,
+including use of a motorcoach to reach restaurants or pursue personal activities after
+dropping off passengers at a hotel or when a driver is using a motorcoach to transport
+drivers who are off-duty to pursue personal activities.
+
+In addition, Michael Letlow requested confirmation that motorcoaches with luggage only are
+not considered laden.
+
+Examples have been added to the final guidance that make clear that drivers of passenger-
+carrying operations may also use their vehicles for personal conveyance in appropriate
+circumstances. In addition, FMCSA reminds commenters that this guidance now applies
+regardless of whether the vehicle is laden. However, the requirement for the driver to be
+off-duty still exists. Therefore, if a driver is taking luggage to a hotel and is on-duty,
+personal conveyance would not apply. However, if the driver is off-duty and using a
+motorcoach with luggage on board to get lunch, personal conveyance would be appropriate.
+
+FMCSA replaces Question 26 as noted below. In accordance with the requirement in Section
+5203(a)(2)(A) of the Fixing America's Surface Transportation (FAST) Act, Public Law 114-94 ,
+129 Stat. 1312, 1535, Dec. 4, 2015, the guidance above will be posted on FMCSA's website,
+http://www.fmcsa.dot.gov and expires no later than June 7, 2023. The Agency will then
+consider whether the guidance should be withdrawn, reissued for another period of up to five
+years, or incorporated into the safety regulations at that time.
+
+FMCSA reminds motor carriers and drivers that additional information about ELDs is available
+at www.fmcsa.dot.gov/&#8203;eld .
+
+FMCSA updates the guidance for §&thinsp;395.8 Driver's Record of Duty Status to read as
+follows:
+
+Question 26: Under what circumstances may a driver operate a commercial motor vehicle (CMV)
+as a personal conveyance?
+
+Guidance: A driver may record time operating a CMV for personal conveyance ( i.e., for
+personal use or reasons) as off-duty only when the driver is relieved from work and all
+responsibility for performing work by the motor carrier. The CMV may be used for personal
+conveyance even if it is laden, since the load is not being transported for the commercial
+benefit of the carrier at that time. Personal conveyance does not reduce a driver's or motor
+carrier's responsibility to operate a CMV safely. Motor carriers can establish personal
+conveyance limitations either within the scope of, or more restrictive than, this guidance,
+such as banning use of a CMV for personal conveyance purposes, imposing a distance
+limitation on personal conveyance, or prohibiting personal conveyance while the CMV is
+laden.
+
+(a) Examples of appropriate uses of a CMV while off-duty for personal conveyance include,
+but are not limited to:
+
+1. Time spent traveling from a driver's en route lodging (such as a motel or truck stop) to
+restaurants and entertainment facilities.
+
+2. Commuting between the driver's terminal and his or her residence, between trailer-drop
+lots and the driver's residence, and between work sites and his or her residence. In these
+scenarios, the commuting distance combined with the release from work and start to work
+times must allow the driver enough time to obtain the required restorative rest as to ensure
+the driver is not fatigued.
+
+3. Time spent traveling to a nearby, reasonable, safe location to obtain required rest after
+loading or unloading. The time driving under personal conveyance must allow the driver
+adequate time to obtain the required rest in accordance with minimum off-duty periods under
+49 CFR 395.3(a)(1) (property-carrying vehicles) or 395.5(a) (passenger-carrying vehicles)
+before returning to on-duty driving, and the resting location must be the first such
+location reasonably available.
+
+4. Moving a CMV at the request of a safety official during the driver's off-duty time
+
+5. Time spent traveling in a motorcoach without passengers to en route lodging (such as
+motel or truck stop), or to restaurants and entertainment facilities and back to the
+lodging. In this scenario, the driver of the motorcoach can claim personal conveyance
+provided the driver is off-duty. Other off-duty drivers may be on board the vehicle, and are
+not considered passengers.
+
+6. Time spent transporting personal property while off-duty.
+
+7. Authorized use of a CMV to travel home after working at an offsite location.
+
+(b) Examples of uses of a CMV that would not qualify as personal conveyance include, but are
+not limited to, the following:
+
+1. The movement of a CMV in order to enhance the operational readiness of a motor carrier.
+For example, bypassing available resting locations in order to get closer to the next
+loading or unloading point or other scheduled motor carrier destination.
+
+2. After delivering a towed unit, and the towing unit no longer meets the definition of a
+CMV, the driver returns to the point of origin under the direction of the motor carrier to
+pick up another towed unit.
+
+3. Continuation of a CMV trip in interstate commerce in order to fulfill a business purpose,
+including bobtailing or operating with an empty trailer in order to retrieve another load or
+repositioning a CMV (tractor or trailer) at the direction of the motor carrier.
+
+4. Time spent driving a passenger-carrying CMV while passenger(s) are on board. Off-duty
+drivers are not considered passengers when traveling to a common destination of their own
+choice within the scope of this guidance.
+
+5. Time spent transporting a CMV to a facility to have vehicle maintenance performed.
+
+6. After being placed out of service for exceeding the maximum periods permitted under part
+395, time spent driving to a location to obtain required rest, unless so directed by an
+enforcement officer at the scene.
+
+7. Time spent traveling to a motor carrier's terminal after loading or unloading from a
+shipper or a receiver.
+
+8. Time spent operating a motorcoach when luggage is stowed, the passengers have disembarked
+and the driver has been directed to deliver the luggage.
+
+
+----------------------------------------------------------------------
+
+
+83 FR 26374 - Hours of Service of Drivers of Commercial Motor Vehicles; Regulatory Guidance Concerning the Transportation of Agricultural Commodities
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Source: https://www.federalregister.gov/documents/2018/06/07/2018-12250/hours-of-service-of-
+drivers-of-commercial-motor-vehicles-regulatory-guidance-concerning-the
+
+Federal Motor Carrier Safety Administration (FMCSA), DOT
+
+FMCSA announces regulatory guidance to clarify the applicability of the "Agricultural
+commodity" exception in the "Hours of Service (HOS) of Drivers" regulations. This regulatory
+guidance clarifies the exception with regard to: drivers operating unladen vehicles
+traveling either to pick up an agricultural commodity or returning from a delivery point;
+drivers engaged in trips beyond 150 air-miles from the source of the agricultural commodity;
+determining the "source" of agricultural commodities under the exemptions; and how the
+exception applies when agricultural commodities are loaded at multiple sources during a
+trip. This regulatory guidance is issued to ensure consistent understanding and application
+of the exception by motor carriers and State officials enforcing HOS rules identical to or
+compatible with FMCSA's requirements.
+
+This guidance is applicable on June 7, 2018 and expires June 7, 2023.
+
+Mr. Thomas Yager, Chief, Driver and Carrier Operations Division, Federal Motor Carrier
+Safety Administration, U.S. Department of Transportation, 1200 New Jersey Avenue SE,
+Washington, DC 20590, phone (202) 366-4325, email MCPSD@dot.gov .
+
+To view comments, as well as documents mentioned in this preamble as being available in the
+docket, go to www.regulations.gov and insert the docket number, "FMCSA-2017-0360" in the
+"Keyword" box and click "Search." Next, click the "Open Docket Folder" button and choose the
+document to review. If you do not have access to the internet, you may view the docket
+online by visiting the Docket Management Facility in Room W12-140 on the ground floor of the
+DOT West Building, 1200 New Jersey Avenue SE, Washington, DC 20590, between 9 a.m. and 5
+p.m., e.t., Monday through Friday, except Federal holidays.
+
+The National Highway System Designation Act of 1995, Public Law 104-59 , sec. 345, 109 Stat.
+568. 613 (Nov. 28, 1995) (the Act), provided the initial exception for drivers transporting
+agricultural commodities or farm supplies for agricultural purposes. The Act limited the
+exception to a 100 air-mile radius from the source of the commodities or distribution point
+for the farm supplies and during the planting and harvesting seasons as determined by the
+applicable State.
+
+The Safe, Accountable, Flexible, Efficient Transportation Act: A Legacy for Users (SAFETEA-
+LU) revised this provision, redesignated it as new section 229 of Title II of the Motor
+Carrier Safety Improvement Act of 1999, and defined the terms "agricultural commodity" and
+"farm supplies for agricultural purposes." Public Law 109-59 , sections 4115 and 4130, 119
+Stat. 1144, 1726, 1743 (Aug. 10, 2005). These terms are now defined in 49 CFR 395.2 .
+
+Most recently, the statute was amended by section 32101(d) of the Moving Ahead for Progress
+in the 21st Century Act (MAP-21), Public Law 112-141 , 126 Stat. 405, 778 (July 6, 2012).
+This provision revised the description of the exception's scope and extended the applicable
+distance from 100 air-miles to 150 air-miles from the source.
+
+The focus of today's guidance is limited to the application of the 150 air-mile exception
+for the transportation of "agricultural commodities," 49 CFR 395.1(k)(1) . It does not
+address "farm supplies for agricultural purposes"
+
+( printed page 26375) under §&thinsp;395.1(k)(2) or (3), since few questions have been
+raised about their applicability, nor does it address the specifics of the definition of an
+agricultural commodity as defined in §&thinsp;395.2. While the regulatory provision
+governing the agricultural commodity exception closely tracks the statutory provisions
+discussed above, the language is susceptible to multiple interpretations, and the Agency
+acknowledges that various stakeholders and enforcement officials in different States have
+expressed inconsistent understandings of the exception from time to time.
+
+On December 20, 2017, FMCSA published a Federal Register notice proposing regulatory
+guidance concerning the transportation of agricultural commodities and requested public
+comment on the proposals ( 82 FR 60360 ). The comment period ended on January 19, 2018, but
+was extended to February 20, 2018 ( 83 FR 2765 , Jan. 19, 2018). There were 566 comments
+submitted to the docket. Approximately one-half of them addressed issues other than this
+regulatory guidance, such as electronic logging devices (ELDs), other aspects of the HOS
+rules, and other provisions of the Federal Motor Carrier Safety Regulations (FMCSRs). Some
+commenters suggested specific revisions to the FMCSRs, which are beyond the scope of
+regulatory guidance. Of the remaining comments, most were supportive of the proposed
+guidance and suggested only minor revisions. Many were from umbrella agricultural
+associations, some representing as many as 15 other associations. Additional details
+regarding the public comments are provided under the topical headings below.
+
+Interpreted literally, the agricultural commodity exception could be read as applicable only
+during the period during which the commodity is being transported, and not to movements of
+an unladen commercial motor vehicle (CMV) either traveling to pick up a load or returning
+after a delivery. The Agency does not consider that view consistent with the de-regulatory
+purpose of the exception since applying HOS rules on these unladen trips would limit the
+relief that Congress intended to grant, while needlessly complicating the regulatory
+monitoring task that enforcement officials are asked to perform. It is unreasonable to
+assume that the 1995 statute intended to exempt, for example, farmers hauling soy beans from
+the field to an elevator, while subjecting them to the full extent of the HOS regulations
+during the empty return trip to the field to pick up the next load. The Agency has therefore
+informally advised stakeholders that both legs of a trip are covered. In the proposed
+guidance (Question 34), FMCSA sought to clarify how the agricultural commodity exception
+applies to someone driving an unladen CMV either to a source to pick up an agricultural
+commodity or on a return trip following delivery of an agricultural commodity. The proposed
+Guidance to Question 34 stated that the agricultural commodity exception
+(§&thinsp;395.1(k)(1)) does apply while driving unloaded to a source where an agricultural
+commodity will be loaded, and to an unloaded return trip after delivering an agricultural
+commodity, provided that the trip does not involve transporting other cargo and the sole
+purpose of the trip is to complete the delivery or pick up of of agricultural commodities,
+as defined in §&thinsp;395.2.
+
+Comments: All comments on this issue were supportive. The American Farm Bureau Federation
+(Farm Bureau) agrees with the Agency's interpretation that unladen vehicles traveling to and
+from a source of an agricultural commodity should be able to take advantage of the
+agricultural commodity exception. The Oregon Cattleman's Association supports FMCSA's view
+that time spent driving an unladen or empty vehicle to or from a source of an agricultural
+commodity should be exempt from the hours-of-service (HOS) provisions. The New Mexico Farm
+and Livestock Bureau agrees, commenting that unladen vehicles hauling to and from an
+agricultural source or multiple sources should fall under the exception. A number of
+multiple-group filers commented that the Agency must clearly define that unladen trucks are
+covered under the agricultural exception. The Owner-Operator Independent Drivers Association
+(OOIDA) supports the revised guidance that would allow the exception for drivers while
+driving unloaded to a source where an agricultural commodity will be loaded, and to an
+unloaded return trip after delivering an agricultural commodity. The Agricultural and Food
+Transporters Conference, an affiliate of the American Trucking Associations (ATA), commented
+that the Question 34 guidance is crucial for the movement of agricultural commodities and
+farm supplies. When a carrier is delivering an agricultural commodity, it must have the
+ability to unload and travel back to reload, all while under the exception. Not only does
+this minimize confusion for the carrier in having to travel exempt and non-exempt over and
+over, but it also significantly minimizes confusion for enforcement officials who are
+working with the carriers.
+
+FMCSA Response: The Agency agrees that the §&thinsp;395.1(k)(1) exception should apply to
+all portions of a round-trip involving agricultural commodities that occur within the 150
+air-mile radius of the source, regardless of whether the CMV is loaded or empty or whether
+the destination is outside the 150 air-mile radius. The Guidance in Question 34 to
+§&thinsp;395.1 is revised to this effect.
+
+2. Loads Beyond a 150 Air-Mile Radius (Question 35)
+
+The Agency recognizes that some enforcement personnel and other stakeholders have
+interpreted the agricultural commodity exception as inapplicable to any portion of a trip if
+the destination exceeds 150 air-miles from the source. Under that reading, the word
+"location" in §&thinsp;395.1(k)(1) is interpreted as reflecting only the final destination
+of the load. FMCSA considers the statutory language, as amended, [ 1 ] and the implementing
+regulation&thinsp; [ 2 ] to be ambiguous, given the legislative intent to create an exempt
+zone with a radius of 150 air miles. The Agency believes that a narrow interpretation is
+unwarranted. In the proposed regulatory guidance (Question 35), the Agency stated that
+"location" means the outer limit of the exception distance, i.e., 150 air-miles from the
+source. Thus, the Agency proposed to interpret the exception as available to a driver
+transporting agricultural commodities for a distance up to 150 air-miles from the source,
+regardless of the distance between the source and final destination or place of delivery.
+
+( printed page 26376) Upon crossing the 150 air-mile point, however, the driver would be
+subject to the HOS rules for the remainder of the trip to the destination. The hours
+accumulated within the 150-mile radius are not counted toward the driver's hours of service.
+Returning empty, the driver would be subject to the HOS rules until returning within the 150
+air-mile radius in which the trip began.
+
+Comments: Most commenters supported Question 35 as proposed, and one commenter was
+completely opposed. The Farm Bureau requested the Agency to modify Question 35 to simply
+state: "The exception applies to transportation during the initial 150-air miles from the
+source of the commodity. Starting at zero from that point, the driver must then begin
+recording his or her duty time, and the limits under the 11-hour, 14-hour, and 60/70-hour
+rules apply." The Florida Fruit and Vegetable Association commented that the agricultural
+exception is unclear on how it is to be applied beyond the 150 air-miles, and does not
+encompass trucks returning once they have been assigned a specific pick-up. Additionally, it
+is not clear how hours would be recorded if multiple pickup points are involved. An
+individual commenter stated that the proposed guidance is unreasonable and is likely to
+create unsafe conditions where fatigued drivers are operating on the highway. According to
+him, the term "location" in the phrase, "from the source of the agricultural commodities to
+a location within a 150 air-mile radius from the source," can only mean the delivery
+location. He states that under the proposed guidance, if a person is stopped outside the 150
+air-mile radius of the source, neither the motor carrier nor an enforcement officer will be
+able to determine compliance with the law. If a driver is exempt from part 395 some of the
+time, but has to comply with all of part 395 at other times, it would be impossible to
+determine compliance with HOS when the driver is not exempt. The National Grain and Feed
+Association asked FMCSA to apply the HOS regulations only to situations in which a driver
+operates beyond the 150-air mile radius. Therefore, starting at the time and location where
+the vehicle goes past the 150-air mile distance, the driver must maintain logs.
+
+FMCSA Response: FMCSA believes it would be contrary to the purpose of the exception to apply
+it to only one portion of the trip within the 150 air-mile radius. The Agency disagrees that
+it would be impossible to determine HOS compliance outside the 150 air-mile radius.
+Transporters are required to maintain records of duty status (paper or AOBRD/ELD) and
+supporting documents when not operating under an exception. Commercial vehicle inspectors
+are trained to ascertain compliance with the HOS regulations, and would be able to do so as
+with any other transporters who are not under an HOS exception at the time of inspection.
+
+Several agricultural transporters have requested guidance on the extent to which grain
+elevators or livestock sale barns, for example, should be considered a "source" of
+agricultural commodities under §&thinsp;395.1(k)(1). Historically, the nature of the
+commodities included in the definition led to an informal conclusion that the "source" was
+the location where the crops were grown or the animals raised. That concept does not
+adequately address the aggregation and interim storage of commodities. The identification of
+the source is more reasonably defined by factors that include more than a farm or ranch.
+
+As long as the commodity retains its original form, a place where the commodity is
+aggregated and stored may be treated as a "source" from which the 150 air-mile radius is
+measured.
+
+Comments: Those persons who commented on the issue agreed that elevators and livestock
+markets are examples of "sources" other than the original farm or field. Many suggested
+other broad examples that they believe should be included. No one specifically objected to
+the proposal. The Farm Bureau believes that logic and common sense dictate that grain
+elevators and livestock markets are "sources" of agricultural commodities. The Oregon
+Cattleman's Association agrees with this position, and cites the dictionary definition of
+"source" as "a point of origin" and describes the challenges of loading at such locations as
+virtually identical to loading at a farm or ranch. Other commenters point out that feed
+mills and barns, as well as processing plants that produce bulk animal feed, are often
+legitimately viewed as sources. The Midwest Shipper's Association states that grain
+elevators are often a source, and that other facilities are closely related to elevators.
+These include facilities that clean and process grain, soybeans and oilseed, as well as
+ethanol plants that ship distiller grains.
+
+FMCSA Response: While an agricultural commodity may have several "sources" under Question 36
+( e.g., for grain, both a field and an elevator), the "source" necessarily excludes the
+point at which the commodity is processed to such an extent that it is no longer in its
+original form or does not otherwise meet the definition of an agricultural commodity in 49
+CFR 395.2 . Question 36 to §&thinsp;395.1 has been added to clarify that the source of an
+agricultural commodity includes more than just the original location at the farm or field.
+The Agency recognizes that further regulatory guidance may be necessary as the industry and
+enforcement communities adjust to these clarifications of §&thinsp;395.1.
+
+Many transporters have also asked how the agricultural commodity exception would apply if
+the driver were to pick up partial loads at two or more locations. Specifically, they asked
+whether a pick-up at a subsequent source has the effect of extending the 150 air-mile
+radius, i.e., restarting the calculation of the 150 air-mile distance. Previous informal
+guidance has been that the 150 air-mile radius is based on the first source of an
+agricultural commodity on a particular trip, and that additional stops to load additional
+agricultural commodities do not extend the 150-mile radius.
+
+Comments: Most commenters agreed that multiple pick-ups and deliveries should be allowed,
+but that the 150 air-mile radius should be measured from the last pick-up point, not the
+first point as proposed. Other than the disagreement with that part of the proposal, no one
+objected to allowing multiple pick-ups and deliveries. The Farm Bureau believes that the
+exception should not be limited to one "use" each day, and all locations at which
+agricultural commodities are loaded for shipment should qualify as a source. The Oregon
+Cattleman's Association agrees, and points out that the alternative&mdash;limiting a vehicle
+or driver to a single "trip"&mdash;adds unnecessary complexity to the analysis. Each of
+several loading stops during the duty day takes place at what the industry views as a
+"source"&mdash;the industry does not think in terms of a single daily "trip." The New Mexico
+Farm and Livestock Bureau concurs that livestock markets and elevators are properly viewed
+as the source of the commodity. The Colorado Farm Bureau states that Congress did not intend
+to limit a driver or vehicle to a single "source" each calendar day. The Iowa Cattlemen's
+Association supports the Farm Bureau position.
+
+Commenters explained that drivers often must pick up agricultural commodities at several
+locations to fill their vehicle. This is the only reasonable approach to making a living
+hauling
+
+( printed page 26377) agricultural products. It would be inefficient to operate below
+capacity, and one stop may not have enough product to fill a truck.
+
+CVSA applauded efforts to update Agency guidance. It believes greater clarity is needed
+regarding the loading of agricultural commodities at multiple sources. It states that the
+exception should begin with the first source, and that stopping after that initial source
+should not restart the exception. In its view, the exception and the 150 air-mile radius
+should be applied from the original source only.
+
+FMCSA Response: Question 37 to §&thinsp;395.1 has been added to clarify that multiple pick-
+ups are permissible but that the 150 air-mile radius continues to be measured from the first
+pick-up point regardless of the number of times commodities are loaded or offloaded. The
+Agency agrees with CVSA's position that the exception should begin with the first source
+only. FMCSA notes in the interest of safety that, under a contrary interpretation that
+restarts the 150-mile exception with each new source, a motor carrier could effectively
+extend the exception indefinitely. The Agency did not intend to imply that a carrier would
+be limited to one "trip" per day. A trip terminates when all of the commodity has been
+offloaded or non-exempt freight or products are added to the load. Thereafter, a new trip
+under the agricultural exception could be started the same day by loading a shipment of
+agricultural commodities at a different source. The 150 air-mile radius would then be
+measured from this new trip initiation point.
+
+FMCSA issues Regulatory Guidance, Questions 34, 35, 36, and 37 to 49 CFR 395.1 as follows:
+
+Question 34: Does the agricultural commodity exception (§&thinsp;395.1(k)(1)) apply to
+drivers while driving unloaded within 150 air-miles of the place where an agricultural
+commodity will be loaded, and to that portion of an unloaded return trip which occurs within
+a 150 air-mile radius of the place where the agricultural commodity was loaded?
+
+Guidance: Yes, provided that the trip does not involve transporting any non-agricultural
+cargo and the sole purpose of the trip is to make a pick-up or delivery of agricultural
+commodities, as defined in §&thinsp;395.2. In that case, driving and on-duty time are not
+limited, nor do other requirements of 49 CFR part 395 apply.
+
+Question 35: Does the agricultural commodity exception (§&thinsp;395.1(k)(1)) apply if the
+destination for the commodity is beyond the 150 air-mile radius from the source?
+
+Guidance: Yes, the exception applies to transportation during the initial 150 air-miles from
+the source of the commodity, regardless of the distance to the final destination. Once a
+driver operates beyond the 150 air-mile radius of the source, 49 CFR part 395 applies. The
+driver is then subject to the limits under the hours-of-service rules and must record those
+hours. Once the hours-of-service rules begin to apply on a given trip, they continue to
+apply for the duration of that trip, until the driver crosses back into the area within 150
+air-miles of the original source of the commodities.
+
+Question 36: How is the "source" of the agricultural commodities in §&thinsp;395.1(k)(1)
+determined?
+
+Guidance: The "source" of an agricultural commodity, as the term is used in
+§&thinsp;395.1(k)(1), is the point at which an agricultural commodity is loaded onto an
+unladen commercial motor vehicle. The location may be any intermediate storage or handling
+location away from the original source at the farm or field, provided the commodity retains
+its original form and is not significantly changed by any processing or packing. If a driver
+is making multiple trips, the first trip, and the 150 air-mile exception around that source,
+terminate once all agricultural products are offloaded at a delivery point. A new source for
+a new trip may then be identified, and the 150 air-mile radius for the exception will be
+around that source.
+
+For example, a sales barn where cattle are loaded may be treated as a "source," in addition
+to the location at which they were raised, since cattle remain livestock. As another
+example, a place where heads of lettuce are stored may become a "source," provided they
+retain their original form. An elevator where grain is collected and dried may be a new
+"source," again assuming that the grain is not milled or similarly processed at the
+elevator.
+
+Question 37: How is the "source of the agricultural commodities" determined if the driver
+makes multiple pick-ups of the commodity en route to the final destination?
+
+Guidance: When a driver loads some of an agricultural commodity at a "source" and then loads
+more of that commodity at additional stops, the first place where the commodity was loaded
+is the measuring point for the 150 air-mile radius.
+
+In accordance with section 5203(a)(2)(A) and (a)(3) of the Fixing America's Surface
+Transportation (FAST) Act, Public Law 114-94 , 129 Stat. 1312, 1535 (Dec. 4, 2015), this
+regulatory guidance will be posted on FMCSA's website, www.fmcsa.dot.gov . It expires June
+7, 2023. The Agency will consider whether the guidance should be withdrawn, reissued for
+another period up to five years, or incorporated into the safety regulations.
+
+1. &thinsp;As amended by MAP-21, Public Law 112-141 , 32101(d), 126 Stat. 778 (July 6,
+2012), this statute reads:
+
+(1) Transportation of agricultural commodities and farm supplies.&mdash;Regulations
+prescribed by the Secretary under sections 31136 and 31502 regarding maximum driving and on-
+duty time for drivers used by motor carriers shall not apply during planting and harvest
+periods, as determined by each State, to&mdash;
+
+(A) Drivers transporting agricultural commodities from the source of the agricultural
+commodities to a location within a 150-air-mile radius from the source; . . .
+
+Agricultural operations. The provisions of this part shall not apply during planting and
+harvesting periods, as determined by each State, to drivers transporting
+
+(1) Agricultural commodities from the source of the agricultural commodities to a location
+within a 150 air-mile radius from the source;
+
+. . . 49 CFR 395.1(k)(1) . The term "agricultural commodity" is defined in 49 CFR 395.2 .
+
+
+----------------------------------------------------------------------
+
+
+75 FR 32860 - Regulatory Guidance Concerning the Preparation of Drivers' Record of Duty Status To Document Compliance With the Hours-of-Service Requirements
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Source: https://www.federalregister.gov/documents/2010/06/10/2010-13900/regulatory-guidance-
+concerning-the-preparation-of-drivers-record-of-duty-status-to-document
+
+Federal Motor Carrier Safety Administration (FMCSA), DOT.
+
+The FMCSA announces regulatory guidance concerning the requirement for interstate commercial
+motor vehicle (CMV) drivers to prepare, in duplicate, a record of duty status for each
+24-hour period. FMCSA has determined that the current requirement may be satisfied through
+the preparation of an original handwritten record, and subsequent electronic submission to
+the motor carrier of a scanned image of the original record; the driver would retain the
+original while the carrier maintains the electronic scanned electronic image along with any
+supporting documents.
+
+( printed page 32861) The guidance is applicable to all interstate drivers of CMVs subject
+to the Federal Motor Carrier Safety Regulations (FMCSRs).
+
+Effective Date: This regulatory guidance is effective on June 10, 2010.
+
+Thomas L. Yager, Chief, Driver and Carrier Operations Division, Office of Bus and Truck
+Standards and Operations, Federal Motor Carrier Safety Administration, 1200 New Jersey Ave.,
+SE., Washington, DC 20590.
+
+The Motor Carrier Safety Act of 1984 (Pub. L. 98-554, Title II, 98 Stat. 2832, October 30,
+1984) (the 1984 Act) provides authority to regulate drivers, motor carriers, and vehicle
+equipment. It requires the Secretary of Transportation to prescribe regulations which ensure
+that: (1) CMVs are maintained, equipped, loaded, and operated safely; (2) the
+responsibilities imposed on operators of CMVs do not impair their ability to operate the
+vehicles safely; (3) the physical condition of operators of CMVs is adequate to enable them
+to operate the vehicles safely; and (4) the operation of CMVs does not have a deleterious
+effect on the physical condition of the operators. ( 49 U.S.C. 31136(a) ). Section 211 of
+the 1984 Act also grants the Secretary broad power in carrying out motor carrier safety
+statutes and regulations to "prescribe recordkeeping and reporting requirements" and to
+"perform other acts the Secretary considers appropriate." ( 49 U.S.C. 31133(a)(8) and (10) ,
+respectively).
+
+The Administrator of FMCSA has been delegated authority under 49 CFR 1.73(g) to carry out
+the functions vested in the Secretary of Transportation by 49 U.S.C. chapter 311 ,
+subchapters I and III, relating to commercial motor vehicle programs and safety regulation.
+
+This document provides regulatory guidance concerning 49 CFR 395.8 , "Driver's record of
+duty status," specifically paragraphs (a)(1) and (i). Currently, 49 CFR 395.8(a)(1) states,
+"Every driver who operates a commercial motor vehicle [in interstate commerce] shall record
+his/her duty status, in duplicate, for each 24 hour period." Section 395.8(i) requires that
+drivers submit or forward by mail the original records of duty status (RODS) to the regular
+employing motor carrier within 13 days following the completion of the form.
+
+With regard to record retention, 49 CFR 395.8(k)(1) states, "Each motor carrier shall
+maintain records of duty status and all supporting documents for each driver it employs for
+a period of six months from the date of receipt." Section 395.8(k)(2) states, "The driver
+shall retain a copy of each record of duty status for the previous 7 consecutive days which
+shall be in his/her possession and available for inspection while on duty."
+
+FMCSA currently requires ( 49 CFR 390.31 , Copies of records or documents) that records and
+documents specified under this subchapter be preserved in their original form for the
+periods specified, unless the records and documents are suitably photographed and the
+microfilm is retained in lieu of the original record for the required retention period. As
+used in §&thinsp;390.31, "this subchapter" means Subchapter B [ 49 CFR parts 350-399 ] of
+Chapter III of Subtitle B of Title 49, Code of Federal Regulations (CFRs). Section 390.31(b)
+provides criteria for use in determining whether photographic copies of records may be
+acceptable in lieu of original records.
+
+On April 4, 1997 ( 62 FR 16370 , 16408 ), FMCSA published "Regulatory Guidance for the
+Federal Motor Carrier Safety Regulations" which included guidance concerning 49 CFR 390.31 .
+The guidance reads as follows:
+
+Question: May records required by the FMCSRs be maintained in an electronic format?
+
+Guidance: Yes, provided the motor carrier can produce the information required by the
+regulations. Documents requiring a signature must be capable of replication ( i.e.,
+photocopy, facsimile, etc.) in such form that will provide an opportunity for signature
+verification upon demand. If computer records are used, all of the relevant data on the
+original documents must be included in order for the record to be valid.
+
+FMCSA received an exemption application from a motor carrier requesting relief from the
+requirement to prepare RODS in duplicate. The motor carrier explained that it plans to
+implement a new approach for receiving and processing RODS. Its drivers would complete their
+RODS and then electronically scan them at one of the carrier's terminals or at a truck stop
+that offers the scanning service. The image would then be electronically transmitted to the
+motor carrier while the driver retains the original paper RODS.
+
+Upon reviewing the carrier's application for an exemption, FMCSA determined that an
+exemption is not necessary. Admittedly, 49 CFR 395.8(a)(1) and 395.8(i) could be construed
+as limiting the processing of RODS between drivers and carriers to the submission of the
+original paper documents either in person or via mail, thereby necessitating the preparation
+of the RODS, in duplicate. However, FMCSA has opted for a more pragmatic application of the
+rules.
+
+Because existing regulations concerning the preservation of records ( 49 CFR 390.31 ) allow
+motor carriers to store electronically a scanned image of the original RODS submitted by
+drivers and essentially dispose of the original paper document, there is no discernible
+safety benefit to disallowing the driver's submission of a scanned image of the RODS to the
+carrier. There is no readily apparent reason that the location at which the original RODS is
+scanned into an image for subsequent electronic storage and retrieval should matter for the
+purposes of compliance with the recordkeeping requirements. Furthermore, there is no
+apparent reason to limit the means of submitting the information to the carrier; electronic
+submission is an efficient and reasonable alternative to mailing the document to the carrier
+or delivering it in person.
+
+Based on a review of the regulatory text of 49 CFR 395.8(a)(1) , 395.8(i) and 395 .(k), and
+in consideration of 49 CFR 390.31 and the 1997 regulatory guidance concerning electronic
+recordkeeping, FMCSA issues guidance allowing interstate CMV drivers to prepare single
+originals of RODS and to submit electronically to the employing motor carrier a scanned
+image of the completed RODS.
+
+Section 395.8&emsp;Driver's Record of Duty Status
+
+Question: Are drivers who electronically scan a copy of their original record of duty status
+(RODS) for subsequent submission to the motor carrier required to prepare the RODS in
+duplicate?
+
+Guidance: No. Although 49 CFR 395.8(a)(1) states, "Every driver who operates a commercial
+motor vehicle [in interstate commerce] shall record his/her duty status, in duplicate, for
+each 24-hour period," the intent of the requirement may be fulfilled through
+
+( printed page 32862) the electronic submission of a scanned image of the original
+handwritten RODS to the regular employing motor carrier within 13 days following the
+completion of the form, while the driver retains the original records for the current day
+and the previous 7 consecutive days. Because existing regulations concerning the
+preservation of records ( 49 CFR 390.31 ) allow motor carriers to store electronically a
+scanned image of the original handwritten RODS submitted by drivers and essentially dispose
+of the original paper document, there is no adverse impact on the enforcement of the HOS
+regulations, and subsequently no compromise on the application of the safety requirement by
+allowing the driver to submit a scanned image of the original signed RODS to the regular
+employing motor carrier within 13 days of the completion of the record. Motor carriers must
+maintain the scanned image of the signed RODS and all supporting documents for each driver
+for a period of six months from the date of receipt ( 49 CFR 395.8(k) ).
+
+Associate Administrator for Enforcement and Program Delivery.
+
+
+----------------------------------------------------------------------
+
+
+79 FR 39342 - Hours of Service for Commercial Motor Vehicle Drivers; Regulatory Guidance Concerning Records of Duty Status Generated by Logging Software Programs
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Source: https://www.federalregister.gov/documents/2014/07/10/2014-15951/hours-of-service-
+for-commercial-motor-vehicle-drivers-regulatory-guidance-concerning-records-of-duty
+
+Federal Motor Carrier Safety Administration (FMCSA), DOT.
+
+FMCSA revises its regulatory guidance concerning records of duty status (RODS) generated by
+logging software programs on laptop computers, tablets, and smartphones. These logging
+software programs are used by certain drivers to help them prepare RODS, but the computers,
+tablets, and smartphones with such software do not meet FMCSA's requirements for automatic
+on-board recording devices (AOBRDs). The revision of the guidance clarifies the relationship
+between the Agency's policy concerning the use of logging software programs and the Agency's
+January 4, 2011, regulatory guidance concerning electronic signatures by removing the
+requirement that drivers print and sign paper copies of RODS generated through such logging
+software, provided the driver is able to sign the RODS electronically at the end of each
+work day and display the electronic record at the roadside. This guidance provides the motor
+carrier industry, and Federal, State, and local motor carrier enforcement officials with
+uniform information regarding computer software and devices used by drivers to assist them
+with hours-of-service (HOS) recordkeeping. All prior Agency interpretations and regulatory
+guidance, including memoranda and letters, are rescinded to the extent they are inconsistent
+with this guidance.
+
+This regulatory guidance is effective July 10, 2014.
+
+Thomas L. Yager, Chief, Driver and Carrier Operations Division, Federal Motor Carrier Safety
+Administration, 1200 New Jersey Avenue SE., Washington, DC 20590; telephone 202-366-4325;
+email mcpsd@dot.gov .
+
+The Motor Carrier Safety Act of 1984 (Pub. L. 98-554, Title II, 98 Stat. 2832, October 30,
+1984) (the 1984 Act) authorizes the Secretary of Transportation to regulate commercial motor
+vehicles (CMVs) and equipment, and the drivers and motor carriers that operate them. Section
+211 of the 1984 Act also gives the Secretary broad power to "prescribe recordkeeping and
+reporting requirements" and to "perform other acts the Secretary considers appropriate." (
+49 U.S.C. 31133(a)(8) and (10) ). The Administrator of FMCSA has been delegated authority
+under 49 CFR 1.87(f) to carry out the functions vested in the Secretary by 49 U.S.C. chapter
+311 , subchapters I and III, relating to CMV programs and safety regulation.
+
+On January 4, 2011, FMCSA published regulatory guidance for §&thinsp;390.31 of the Federal
+Motor Carrier Safety Regulations (FMCSRs) concerning electronic signatures and documents (
+76 FR 411 ). The guidance explained how electronic signatures could be used under the
+existing regulations while the Agency considers a notice-and-comment rulemaking to amend the
+FMCSRs to explicitly allow electronic signatures on documents required by the safety
+regulations. The guidance provides a short-term solution for allowing the use of electronic
+signatures, to the greatest extent possible under the existing regulations, consistent with
+the requirements of the Government Paperwork Elimination Act of 1998 (GPEA) and the
+Electronic Signatures in Global and National Commerce Act of 2000 (E-SIGN). The purpose of
+GPEA is to improve customer service and governmental efficiency through the use of
+information technology. The purpose of E-SIGN is to promote the use of electronic
+recordkeeping in private commerce by establishing legal equivalence between traditional
+paper-based methods and electronic methods.
+
+On April 28, 2014, FMCSA published a notice of proposed rulemaking concerning "Electronic
+Documents and Signatures" ( 79 FR 23306 ). The proposed regulatory amendments would permit
+the use of electronic methods to sign, certify, generate, exchange or maintain records so
+long as the documents accurately reflect the information in the record and can be used for
+their intended purpose.
+
+Generally, drivers of CMVs as defined in 49 CFR 390.5 who are subject to the Federal hours-
+of-service requirements must record their duty status for each 24-hour period. However, the
+rules provide limited exemptions to the RODS requirements, including an exemption for the
+following drivers:
+
+CMV drivers (whether the vehicles require a commercial driver's license (CDL) or not) who
+operate within 100 air-miles of their normal work reporting location and satisfy the time
+limitations and recordkeeping requirements of §&thinsp;395.1(e)(1).
+
+Drivers of property-carrying CMVs for which a CDL is not required and who operate within a
+150 air-mile radius of the location where the driver reports for duty and satisfy the time
+limitations and recordkeeping requirements of §&thinsp;395.1(e)(2). [ 1 ]
+
+For drivers that must prepare RODS, 49 CFR 395.8 specifies a particular "grid" or type of
+form that must be used to document the driver's activities during the 24-hour period.
+
+As an alternative to written RODS, 49 CFR 395.15 allows the use of AOBRDs. The AOBRD
+regulation was adopted in 1988. To be considered a compliant device, an AOBRD must be
+integrally synchronized with specific operations of the CMV in which it is installed (see 49
+CFR 395.2 , Definitions, AOBRD). Use of AOBRDs is voluntary.
+
+Several vendors market software products to assist the driver in recording and storing RODS
+information electronically. Laptop computers, tablets, and smartphones running driver
+logging software should not be confused with AOBRDs because the devices are not integrally
+synchronized with the specific operations of the CMV on which they are being used. Drivers
+must manually input their duty status information (e.g., driving time, on-duty not driving,
+etc.) directly into the computer, tablet or smartphone.
+
+Although FMCSA has allowed CMV drivers to use driver logging software, the Agency's
+regulatory guidance explains that drivers must print and sign the RODS that these devices
+generate, for each 24-hour period, just as the driver would with any handwritten RODS. The
+existing Questions 27 and 28 for §&thinsp;395.8 (available through www.fmcsa.dot.gov ) read
+as follows:
+
+" Question 27: Would a driver who prepares his/her log on a computer, `digitally' signs the
+log, and then transmits it directly to the carrier, be in compliance with 49 CFR 395.8(f)(2)
+?
+
+Guidance: No. The driver's activities must be recorded in accordance with the provisions of
+§&thinsp;395.8(f)(2). This section requires that all entries relating to driver's duty
+status must be legible and in the driver's own handwriting."
+
+" Question 28: May a driver use a computer to generate his or her record
+
+( printed page 39343) of duty status (log book) and then manually sign the computer
+printouts in lieu of handwritten logs?
+
+Guidance: A driver may use a computer to generate the graph grid and entries for the record
+of duty status or log books, provided the computer-generated output includes the minimum
+information required by §&thinsp;395.8 and is formatted in accordance with the rules. In
+addition, the driver must:
+
+1. Be capable of printing the record of duty status for the current 24-hour period at the
+request of an enforcement officer.
+
+2. Print the record of duty status at the end of each 24-hour period, and sign it in his or
+her handwriting to certify that all entries required by this section are true and correct.
+
+3. Maintain a copy of printed and signed records of duty status for the previous 7
+consecutive days and make it available for inspection at the request of an enforcement
+officer."
+
+Electronic Signatures and Hours-of-Service Records
+
+Question 11 from the January 2011 regulatory guidance notice for §&thinsp;390.31 advises
+motor carriers and other parties that they may use electronic methods to generate, sign,
+maintain and/or exchange any document that is generated and maintained or exchanged by
+private parties, regardless of whether FMCSA subsequently requires them to be produced or
+displayed to Federal and State enforcement personnel. The list of examples of documents
+includes RODS.
+
+The Regulatory Guidance for §&thinsp;390.31 was originally developed to allow motor carriers
+to store documents in electronic format. The January 2011 revisions to the Guidance expand
+the scope to allow documents to be created, maintained, and generated in electronic format.
+Specifically, as stated in the January 2011 Notice:
+
+Any electronic record or signature is considered the legal equivalent of a paper document or
+signature if it is the functional equivalent with respect to integrity, accuracy, and
+accessibility.
+
+[This revised] guidance establishes parity between paper and electronic records and
+signatures, greatly expanding interested parties' ability to use electronic records.
+
+The January 2011 regulatory guidance is consistent with the Agency's previous policy
+concerning RODS prepared using logging software in that it continues to accept them as
+equivalent to paper documents. Signatures may be electronically embedded on printed copies
+or may be manually added to printed copies of the records.
+
+Guidance Question 9 to §&thinsp;390.31 provides that documents stored electronically must be
+capable of being reproduced in the same time frame as the original document. A paper RODS
+must be presented to an enforcement official upon request. Therefore, the electronically-
+stored RODS must also be printed for an enforcement official upon request during a roadside
+inspection.
+
+Today's guidance harmonizes the January 2011 guidance interpreting §&thinsp;390.31 with the
+previously issued guidance interpreting 49 CFR 395.8 . FMCSA withdraws Question 27 for
+§&thinsp;395.8, which currently states that a driver who prepares his/her log on a computer,
+`digitally' signs the log, and then transmits it directly to the carrier, would not be in
+compliance with 49 CFR 395.8(f)(2) . In addition, FMCSA revises the response to Question 28
+for §&thinsp;395.8 to make clear that a driver may create, sign and store electronic RODS if
+certain conditions are met.
+
+Hours of Service for Commercial Motor Vehicle Drivers Regulatory Guidance for 49 CFR 395.8 ,
+Driver's Record of Duty Status
+
+Question 28: May a driver use a computer, tablet, or smartphone (that is not an Automatic
+On-Board Recording Device) to create, electronically sign, and store the record of duty
+status (RODS)?
+
+Guidance: Yes. A driver may make manual duty-status entries to a computer, tablet, or
+smartphone program that is used to generate the graph grid and entries for the record of
+duty status (RODS) or log book, provided the electronically-generated display (if any) and
+output includes the minimum information required by §&thinsp;395.8 and is formatted in
+accordance with that section. The driver must sign the RODS (manually or electronically) at
+the end of each 24-hour period to certify that all required entries are true and correct.
+
+The driver must print and manually sign the RODS daily.
+
+The driver must have in his or her possession the printed and signed RODS for the prior
+seven consecutive days (if required on those days).
+
+The driver should be given an opportunity to print and manually sign the current day's RODS
+at the time of the inspection.
+
+At the time of an inspection of records by an enforcement official, the driver may display
+the current and prior seven days RODS to the official on the device's screen.
+
+If the enforcement official requests printed copies of the RODS, the driver must be given an
+opportunity to print the current and prior seven days RODS (if required on those days) at
+the time of inspection.
+
+1. &thinsp;A driver who qualifies for this exception is not eligible for the 100 air-mile
+exception under 49 CFR 395.1(e)(1) .

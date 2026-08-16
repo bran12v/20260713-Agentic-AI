@@ -1,0 +1,3552 @@
+
+--- page 1 ---
+56140 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+criteria are partially exempt from the 
+recordkeeping requirements in Part 
+1904: 
+1. Sector classification of NAICS 44– 
+81. 
+2. a DART rate of 75 percent or less 
+of the overall three-year-average DART 
+rate for private industry, using BLS data 
+from 2007, 2008, and 2009. The average 
+national DART rate for private industry 
+for 2007–2009 was 2.0. Thus, the 
+threshold for partial exemption for 
+eligible industry groups (classified by 
+four-digit NAICS) was a DART rate of 
+1.5 or less. 
+Like the proposed rule, the one 
+exception is for Employment Services 
+(NAICS 5613), which is not partially 
+exempt. The three-year-average DART 
+rate for the Employment Services 
+industry group, using BLS data from 
+2007, 2008, and 2009, was 1.1, which is 
+below the 75 percent threshold of 1.5. 
+However, this industry group is 
+nonetheless ineligible for partial 
+exemption on grounds that, for many 
+employees in this industry, their actual 
+place of work may be in an 
+establishment that is in a different, non- 
+partially-exempt industry group or 
+sector, such as manufacturing. 
+Therefore, NAICS 5613 Employment 
+Services is not included in the final 
+Appendix A to Subpart B. OSHA 
+received no comments from the public 
+about this exception. 
+In the issues section of the preamble 
+to the proposed rule, OSHA asked the 
+public to comment on the 
+appropriateness of the proposed 
+exemption procedure; whether 
+alternative procedures for determining 
+partial exemption should be used; and 
+whether specific industries should be 
+included or excluded from the list of 
+partially-exempt industries. OSHA 
+notes that the final rule, like the 
+proposed rule, is based on the most 
+recent BLS injury and illness data 
+available at the time of the proposed 
+rule (2007–2009). Because OSHA is 
+using the same criteria and same injury/ 
+illness data to establish the list of 
+partially-exempt industry groups, the 
+industry groups in the proposed 
+Appendix A to Subpart B and the final 
+Appendix A to Subpart B are the same. 
+Under the final rule, employers are 
+not required to keep OSHA injury and 
+illness records for any establishment 
+classified in an industry group listed in 
+Appendix A to Subpart B, unless they 
+are asked in writing to do so by OSHA, 
+BLS, or a state agency operating under 
+the authority of OSHA or BLS. All 
+employers covered by the OSH Act, 
+including employers who are partially 
+exempt from recordkeeping based on 
+size or industry classification, must 
+report all work-related fatalities, in- 
+patient hospitalizations, amputations, or 
+losses of an eye to OSHA, as required 
+by Section 1904.39. 
+For a more thorough discussion of the 
+specific industry groups that are newly 
+partially exempted or newly covered by 
+the final rule, please refer to Section V 
+of this supplementary information. 
+Because the final rule will require 
+some establishments that had been 
+partially exempt from OSHA 
+recordkeeping requirements to now 
+comply completely with these 
+requirements, OSHA will offer 
+compliance assistance, including 
+outreach and training, to help these 
+establishments keep complete and 
+accurate records and comply with the 
+recordkeeping regulation. 
+The partially-exempt industry groups 
+are: 
+NAICS 
+code Industry 
+4412 ....... Other Motor Vehicle Dealers. 
+4431 ....... Electronics and Appliance Stores. 
+4461 ....... Health and Personal Care Stores. 
+4471 ....... Gasoline Stations. 
+4481 ....... Clothing Stores. 
+4482 ....... Shoe Stores. 
+4483 ....... Jewelry, Luggage, and Leather 
+Goods Stores. 
+4511 ....... Sporting Goods, Hobby, and Mu-
+sical Instrument Stores. 
+4512 ....... Book, Periodical, and Music 
+Stores. 
+4531 ....... Florists. 
+4532 ....... Office Supplies, Stationery, and 
+Gift Stores. 
+4812 ....... Nonscheduled Air Transportation. 
+4861 ....... Pipeline Transportation of Crude 
+Oil. 
+4862 ....... Pipeline Transportation of Natural 
+Gas. 
+4869 ....... Other Pipeline Transportation. 
+4879 ....... Scenic and Sightseeing Transpor-
+tation, Other. 
+4885 ....... Freight Transportation Arrange-
+ment. 
+5111 ....... Newspaper, Periodical, Book, and 
+Directory Publishers. 
+5112 ....... Software Publishers. 
+5121 ....... Motion Picture and Video Indus-
+tries. 
+5122 ....... Sound Recording Industries. 
+5151 ....... Radio and Television Broad-
+casting. 
+5172 ....... Wireless Telecommunications 
+Carriers (except Satellite). 
+5173 ....... Telecommunications Resellers. 
+5179 ....... Other Telecommunications. 
+5181 ....... Internet Service Providers and 
+Web Search Portals. 
+5182 ....... Data Processing, Hosting, and 
+Related Services. 
+5191 ....... Other Information Services. 
+5211 ....... Monetary Authorities—Central 
+Bank. 
+5221 ....... Depository Credit Intermediation. 
+5222 ....... Nondepository Credit Intermedi-
+ation. 
+NAICS 
+code Industry 
+5223 ....... Activities Related to Credit Inter-
+mediation. 
+5231 ....... Securities and Commodity Con-
+tracts Intermediation and Bro-
+kerage. 
+5232 ....... Securities and Commodity Ex-
+changes. 
+5239 ....... Other Financial Investment Activi-
+ties. 
+5241 ....... Insurance Carriers. 
+5242 ....... Agencies, Brokerages, and Other 
+Insurance Related Activities. 
+5251 ....... Insurance and Employee Benefit 
+Funds. 
+5259 ....... Other Investment Pools and 
+Funds. 
+5312 ....... Offices of Real Estate Agents and 
+Brokers. 
+5331 ....... Lessors of Nonfinancial Intangible 
+Assets (except Copyrighted 
+Works). 
+5411 ....... Legal Services. 
+5412 ....... Accounting, Tax Preparation, 
+Bookkeeping, and Payroll Serv-
+ices. 
+5413 ....... Architectural, Engineering, and 
+Related Services. 
+5414 ....... Specialized Design Services. 
+5415 ....... Computer Systems Design and 
+Related Services. 
+5416 ....... Management, Scientific, and 
+Technical Consulting Services. 
+5417 ....... Scientific Research and Develop-
+ment Services. 
+5418 ....... Advertising and Related Services. 
+5511 ....... Management of Companies and 
+Enterprises. 
+5611 ....... Office Administrative Services. 
+5614 ....... Business Support Services. 
+5615 ....... Travel Arrangement and Reserva-
+tion Services. 
+5616 ....... Investigation and Security Serv-
+ices. 
+6111 ....... Elementary and Secondary 
+Schools. 
+6112 ....... Junior Colleges. 
+6113 ....... Colleges, Universities, and Pro-
+fessional Schools. 
+6114 ....... Business Schools and Computer 
+and Management Training. 
+6115 ....... Technical and Trade Schools. 
+6116 ....... Other Schools and Instruction. 
+6117 ....... Educational Support Services. 
+6211 ....... Offices of Physicians. 
+6212 ....... Offices of Dentists. 
+6213 ....... Offices of Other Health Practi-
+tioners. 
+6214 ....... Outpatient Care Centers. 
+6215 ....... Medical and Diagnostic Labora-
+tories. 
+6244 ....... Child Day Care Services. 
+7114 ....... Agents and Managers for Artists, 
+Athletes, Entertainers, and 
+Other Public Figures. 
+7115 ....... Independent Artists, Writers, and 
+Performers. 
+7213 ....... Rooming and Boarding Houses. 
+7221 ....... Full-Service Restaurants. 
+7222 ....... Limited-Service Eating Places. 
+7224 ....... Drinking Places (Alcoholic Bev-
+erages). 
+8112 ....... Electronic and Precision Equip-
+ment Repair and Maintenance. 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00012 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2
+--- page 2 ---
+56141 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+NAICS 
+code Industry 
+8114 ....... Personal and Household Goods 
+Repair and Maintenance. 
+8121 ....... Personal Care Services. 
+8122 ....... Death Care Services. 
+8131 ....... Religious Organizations. 
+8132 ....... Grantmaking and Giving Serv-
+ices. 
+8133 ....... Social Advocacy Organizations. 
+8134 ....... Civic and Social Organizations. 
+8139 ....... Business, Professional, Labor, 
+Political, and Similar Organiza-
+tions. 
+IV. Section 1904.39 Reporting 
+Requirements for Fatalities, In-Patient 
+Hospitalizations, Amputations, and 
+Losses of an Eye 
+A. Background 
+OSHA has required employers to 
+report work-related fatalities and certain 
+work-related hospitalizations since 
+1971, the year the OSH Act went into 
+effect. The initial regulation in 29 CFR 
+1904.8 required employers to report, 
+within 48 hours, an employment 
+incident resulting in the fatality of one 
+or more employees or the 
+hospitalization of five or more 
+employees. Employers were required to 
+report by telephone or telegraph to the 
+nearest OSHA Area Office. 
+In 1994, the Agency revised the 
+regulation to require reporting, within 
+eight hours, of any work-related fatality 
+or hospitalization of three or more 
+employees (59 FR 15594, April 1, 1994). 
+OSHA explained in the preamble to the 
+final rule that ‘‘[r]educing the reporting 
+period from 48 hours to 8 hours enables 
+OSHA to inspect the site of the incident 
+and interview personnel while their 
+recollections are more immediate, fresh 
+and untainted by other events, thus 
+providing more timely and accurate 
+information.’’ In addition, OSHA stated 
+that reducing the reporting time 
+increased the chances that the site of the 
+incident would remain undisturbed and 
+also ‘‘coincided with a ‘standard work 
+shift’ for most employers.’’ 
+The 1994 rulemaking also addressed 
+several other issues. First, OSHA 
+explained that hospitalization meant in- 
+patient admission and excluded 
+admission solely for observation. 
+Second, OSHA added regulatory 
+language stating that if employers did 
+not learn of a reportable incident when 
+it occurred, they were required to report 
+within eight hours of learning of the 
+incident. Third, OSHA specified that 
+employers were required to report any 
+fatality or in-patient hospitalization of 
+three or more people occurring within 
+30 days of the incident. Fourth, OSHA 
+added the option of reporting via 
+OSHA’s centralized toll-free telephone 
+number. 
+The requirements from the 1994 
+rulemaking have remained substantially 
+unchanged and are currently codified at 
+29 CFR 1904.39. 
+B. The Proposed Rule 
+The proposed rule would have made 
+two major changes to OSHA’s reporting 
+requirements. First, the proposed rule 
+would have required employers to 
+report the work-related in-patient 
+hospitalization of one or more 
+employees to OSHA. The current 
+regulation requires reporting only if 
+three or more employees are 
+hospitalized. The reporting time would 
+have been eight hours, the same as the 
+current regulation. Second, the 
+proposed rule would have required 
+employers to report all work-related 
+amputations to OSHA, within 24 hours. 
+The current regulation does not 
+specifically require the reporting of 
+amputations. 
+For the reporting of in-patient 
+hospitalizations of fewer than three 
+employees, OSHA explained that ‘‘[t]he 
+hospitalization of a worker due to a 
+work-related incident is a serious and 
+significant event’’ (76 FR 36419). The 
+preamble to the proposed rule explained 
+that, for OSHA recordkeeping purposes, 
+in-patient hospitalization occurs when a 
+person is ‘‘formally admitted’’ to a 
+hospital or clinic for at least one 
+overnight stay. 
+For the reporting of amputations, 
+OSHA explained that ‘‘[a]mputations 
+include some of the most serious types 
+of injuries and tend to result in a greater 
+number of lost workdays than most 
+other injuries . . . Furthermore, 
+amputations differ from other types of 
+serious injuries because they have long- 
+term or permanent consequences’’ (76 
+FR 36419). The proposed rule defined 
+amputations in proposed Section 
+1904.39(b)(8) according to the definition 
+in the 2007 release of the Occupational 
+Injury and Illness Classification (OIICS) 
+Manual of the Bureau of Labor Statistics 
+(BLS). This definition of amputations 
+excluded traumatic injuries without 
+bone loss, as well as losses of an eye. 
+In the NPRM, OSHA explained that 
+the changes in the proposed rule would 
+have made OSHA’s reporting 
+requirements more similar to the 
+requirements of other agencies, as well 
+as to the requirements of some states 
+that administer their own occupational 
+safety and health programs. 
+C. Comments to the Proposed Rule 
+Many comments supported the 
+reporting requirements included in 
+OSHA’s proposed rule. Letitia Davis, 
+ScD, EdM, the Director of the 
+Occupational Health Surveillance 
+Program at the Massachusetts 
+Department of Public Health, noted: 
+‘‘Case reporting of health events is a 
+well-established approach to public 
+health surveillance and intervention. 
+Serious occupational injuries are urgent 
+sentinel health events indicating that 
+prevention efforts have failed and that 
+intervention to remediate hazards may 
+be warranted’’ (Ex. 84). However, OSHA 
+also received multiple comments that 
+the proposed rule would not prevent 
+injuries and illnesses and is redundant, 
+premature, and not supported by data. 
+The Steel Manufacturers Association 
+commented that ‘‘[d]ata in itself has 
+never prevented any type of occurrence 
+[of injuries]’’ and that ‘‘[t]he information 
+required to be provided . . . while good 
+at identifying basic information, does 
+not collect any data that will serve in 
+preventing future injuries or illnesses. 
+The only possible preventative action 
+that can be taken is for OSHA to 
+conduct an inspection. The results are 
+citations and press releases that provide 
+little preventative effect beyond the 
+employer involved’’ (Ex. 36). 
+Mercer ORC HSE Networks 
+commented that ‘‘merely establishing [a 
+‘comprehensive database’ of information 
+about the reportable events] may not be 
+the best way, or even a very good way, 
+to better determine how to better focus 
+OSHA’s resources on high-hazard 
+workplaces. Put another way, it is not at 
+all clear that employers experiencing 
+the new case categories identified in the 
+rulemaking . . . pose increased future 
+risk to workers, or are any more likely 
+than other employers to experience 
+future serious cases. OSHA makes that 
+implicit assumption without support. 
+For example, a study conducted by 
+Rand several years ago for the Duke 
+Energy Foundation found that sites 
+experiencing fatalities usually posed 
+less risk to workers for future serious 
+injury, not more’’ (Ex. 68). 
+In response, OSHA notes that the 
+OSHA recordkeeping regulation has 
+included requirements for employers to 
+report certain work-related events to 
+OSHA since 1971. These requirements 
+have always been an important part of 
+the Agency’s statutory mission to assure 
+safe and healthful working conditions 
+for working men and women. Timely 
+reporting of work-related fatalities, as 
+well as certain other serious work- 
+related events, allows OSHA to assess 
+whether an intervention is necessary 
+and to target hazardous workplaces for 
+inspection. 
+In addition, OSHA is able to use 
+information gained from the 
+investigations of work-related fatalities 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00013 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2
+--- page 3 ---
+56142 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+and other serious work-related events to 
+identify workplace hazards and prevent 
+similar incidents, both at the inspected 
+workplace and at other workplaces. This 
+information also can also be used to 
+support the issuance of new safety and 
+health standards and regulations, as 
+well as the revision of existing OSHA 
+standards and regulations. 
+The Tree Care Industry Association 
+commented, ‘‘Why would OSHA not 
+work with State Workers Compensation 
+programs and/or the State Plan OSHA’s 
+that already collect hospitalization data 
+before it imposes redundant reporting 
+requirements on employers under 
+federal OSHA jurisdiction?’’ (Ex. 37). 
+In response, OSHA notes that one of 
+the reasons for the reporting 
+requirement in Section 1904.39 is to 
+allow the Agency to conduct, if 
+necessary, a prompt investigation of the 
+incident leading to the serious 
+occupational injury and illness event. 
+OSHA also notes that six states with 
+OSHA-approved State Plans currently 
+require employers to report the in- 
+patient hospitalization of fewer than 
+three employees. As a result, OSHA 
+concludes that the requirement to report 
+in-patient hospitalizations of fewer than 
+three employees would not be 
+redundant even if OSHA had systematic 
+access to hospitalization data from state 
+workers’ compensation programs. 
+Gruber Hurst Johansen Hail Shank 
+commented, ‘‘If amputations and most 
+incidents that require hospitalization 
+are already recordable, then why is 
+there a compelling need for additional 
+reporting? . . . OSHA is already 
+informed about these instances through 
+recordkeeping’’ (Ex. 60). Similarly, the 
+Joint Poultry Industry Safety and Health 
+Council commented that ‘‘[t]he DART 
+rate, calculated from existing injury and 
+illness data, already identifies those 
+workplaces with frequent, severe 
+injuries. We fail to see why this 
+currently available data is not sufficient 
+to meet the goal of identifying ‘the most 
+dangerous workplaces’ and why OSHA 
+needs this type of additional injury 
+data’’ (Ex. 61). 
+Likewise, Mercer ORC HSE Networks 
+commented that ‘‘[a]ll of the cases that 
+would be reported under the new OSHA 
+criteria should already be captured on 
+the OSHA log. To target inspections, 
+OSHA already collects summary data 
+that includes these cases from a census 
+of sites in portions of the private sector 
+that the Agency feels tend to involve 
+higher risk. BLS also captures the same 
+information in more detailed form in a 
+parallel . . . data collection effort. In 
+addition to its annual survey that 
+produces incidence rates and detailed 
+case characteristics across industry, BLS 
+also conducts a Census of Fatal 
+Occupational Injuries (CFOI) that 
+produces accurate counts and very 
+detailed descriptive data on fatal work 
+related injuries. So data on fatalities and 
+amputations should clearly be 
+accessible from existing data 
+collections. Granted it might be harder 
+to capture data on some in-patient 
+hospitalizations. But some of that 
+information could be obtained from 
+existing OSHA supplementary records. 
+Data that could not be extracted from 
+existing OSHA records could be 
+obtained by less burdensome means 
+than proposed, such as conducting 
+follow-back studies of a small sample of 
+employers’’ (Ex. 68). 
+In response, OSHA notes the 
+distinction between the employer’s 
+obligation to record an injury or illness 
+and the employer’s obligation to report. 
+Since OSHA’s founding, the reporting 
+requirement has been separate from the 
+recording requirement. As a rule, OSHA 
+obtains the detailed, case-specific 
+information recorded by employers 
+under Part 1904 only when OSHA 
+conducts an on-site inspection. And 
+OSHA inspects only a small percentage 
+of all establishments subject to OSHA 
+authority each year. For example, in 
+2010, OSHA and its state partners 
+inspected approximately 1 percent of 
+establishments subject to OSHA 
+authority (approximately 98,000 
+inspections, out of 7.5 million total 
+establishments). 
+On November 8, 2013, OSHA also 
+published a notice of proposed 
+rulemaking (NPRM) on Improve 
+Tracking of Workplace Injuries and 
+Illnesses, which would expand its 
+collection of injury and illness data (FR 
+78 67254–67283). In that NPRM, OSHA 
+proposed collecting case-specific 
+information from approximately 38,000 
+establishments with 250 or more 
+employees in industries subject to the 
+recordkeeping requirements in Part 
+1904. Again, this is only a small 
+percentage of all establishments subject 
+to OSHA authority. OSHA notes the 
+proposed rule on improving tracking of 
+workplace injuries and illnesses would 
+not add to or change any employer’s 
+obligation to complete and retain injury 
+and illness records under OSHA’s 
+regulations for recording and reporting 
+occupational injuries and illnesses. The 
+proposed rule also would not add to or 
+change the recording criteria or 
+definitions for these records. The 
+proposed rule would only modify 
+employers’ obligations to transmit 
+information from these records to OSHA 
+or OSHA’s designee. 
+In addition, although all employers 
+are subject to the requirement to report 
+fatalities and specified non-fatal injury/ 
+illness events, many employers are 
+partially exempt from the Part 1904 
+requirement to record injuries and 
+illnesses. As a result, it is incorrect to 
+assume that all amputations and most 
+hospitalization incidents are captured in 
+employer injury and illness records. As 
+noted by the AFL–CIO, BLS data from 
+2009 show that 217,000 DART cases 
+(13% of total) occurred in industries 
+that would have been partially exempt 
+from recordkeeping due to industry 
+classification under the NAICS update 
+part of this proposed rule (Ex. 69). 
+Work-related amputations and 
+hospitalizations suffered by employees 
+of employers with ten or fewer 
+employees are also not required to be 
+recorded. 
+OSHA further notes that injury and 
+illness summary information collected 
+by OSHA for inspection targeting 
+purposes through the OSHA Data 
+Initiative (ODI) does not enable the 
+Agency to identify specific hazards or 
+problems at individual workplaces. 
+Further, the ODI data are not timely 
+because inspection targeting is based on 
+injury/illness data from the previous 
+year’s ODI, which is collected from the 
+prior year. As a result, OSHA’s targeting 
+is typically based on injury/illness data 
+that are two or three years old. In 
+addition, the group of 80,000 
+establishments in each year’s ODI is not 
+a statistically-representative sample, 
+either of establishments eligible to be 
+included in the ODI, or of 
+establishments overall. 
+Finally, for data collected by BLS, 
+OSHA notes that, while the BLS Survey 
+of Occupational Injuries and Illnesses 
+(SOII) provides information about 
+industries with frequent, severe injuries 
+and illnesses, it does not identify 
+specific workplaces with frequent, 
+severe injuries and illnesses. Industries 
+with frequent, severe injuries and 
+illnesses may include workplaces where 
+injuries and illnesses are rare and 
+minor, just as industries with rare, 
+minor injuries and illnesses may 
+include workplaces where injuries and 
+illnesses are frequent and severe. In any 
+event, the Confidential Information 
+Protection and Statistical Efficiency Act 
+of 2002 (Pub. L. 107–347, Dec. 17, 2002) 
+(CIPSEA) prohibits BLS from releasing 
+establishment-specific data to the 
+general public or to OSHA. As a result, 
+for employer-specific, workplace- 
+specific information about fatalities, 
+OSHA relies on its own information, 
+obtained through the current Part 1904 
+requirement for employers to report 
+fatalities to OSHA. 
+The American Chemistry Council 
+commented that ‘‘[s]everal ongoing 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00014 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2
+--- page 4 ---
+56143 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+OSHA programs, such as the National 
+Emphasis Program on Recordkeeping 
+(NEP–R), target data reporting, 
+including amputations . . . For 
+example, NEP–R is relatively new 
+(September 10) and was intended to 
+address inaccuracies in recording of 
+occupational illness and injury. The 
+analysis of the results of this program 
+would be useful in assessing whether 
+continuation of NEP–R satisfies the 
+intent of the [proposed rule]’’ (Ex. 76). 
+They added, ‘‘OSHA currently has two 
+programs, the National Emphasis 
+Program on Amputations (NEP–A), and 
+the Severe Violator Enforcement 
+Program (SVEP), which specifically 
+target amputations . . . The overall 
+intent of both NEP–A and SVEP are 
+identical to that of the [proposed rule]: 
+‘to target scarce resources to the most 
+dangerous workplaces and prevent 
+future injuries at these workplaces’ (76 
+FR 36419). Until a holistic evaluation of 
+these existing amputation-focused 
+programs is conducted, we recommend 
+that OSHA exclude reporting of 
+amputations [in the proposed rule] 
+. . .’’ 
+In response, OSHA notes, as above, 
+the distinction between recording and 
+reporting; the recordkeeping NEP was 
+about recording injuries and illnesses, 
+while this final rule in Section 1904.39 
+is about reporting. OSHA also notes that 
+there are multiple OSHA programs, 
+including the amputations NEP and the 
+SVEP, whose intent is to target scarce 
+resources to the most dangerous 
+workplaces and prevent future injuries 
+at these workplaces. (Similarly, OSHA 
+has multiple programs whose purpose is 
+to assure safe and healthful working 
+conditions for working men and 
+women.) Neither the amputations NEP, 
+nor the SVEP, provide the case reporting 
+of sentinel occupational safety and 
+health events that this final rule will 
+provide. As a result, OSHA does not 
+agree that the recordkeeping NEP, the 
+amputations NEP, and/or the SVEP 
+make this rulemaking premature. 
+Mercer ORC HSE Networks 
+commented that ‘‘[w]ith 40 years of rich 
+agency ‘fat-cat’ investigation experience 
+and data, it would have been reasonable 
+to expect OSHA to have provided some 
+(any) demonstration of how those 
+investigations and the information 
+gleaned from them have resulted in 
+safer workplaces and how, with some 
+specificity, the collection of the 
+proposed substantially increased reports 
+of incidents is expected to improve the 
+agency’s effectiveness. As the proposal 
+stands, there is almost no evidence (or 
+data) in the record to support OSHA’s 
+‘belief’ that collecting this new 
+information will make a positive 
+difference in Agency efficiency or in 
+serious injury reduction’’ (Ex. 68). 
+The National Roofing Contractors 
+Association commented that ‘‘OSHA 
+offers no evidence, data or research that 
+shows a beneficial effect on workplace 
+safety based on either the arbitrary 
+timeframes it suggests or other 
+timeframes it may have considered or 
+analyzed’’ (Ex. 118). They added, ‘‘The 
+history of reporting requirements . . . 
+could be valuable for the agency to 
+investigate further to determine the 
+potential effectiveness of its proposed 
+revisions. In 1971, employers were 
+required to report, within 48 hours, any 
+worker fatality or in-patient 
+hospitalization of 5 or more workers. 
+This reporting requirement was revised 
+23 years later in 1994 to require 
+reporting, within 8 hours, of any 
+workplace fatality or in-patient 
+hospitalization of three or more workers 
+. . . What methodologies and metrics 
+were employed to assess the impact on 
+worker safety of the regulatory 
+requirements immediately after those 
+two reporting revisions became 
+effective? Analysis of prior history of 
+similar action taken by the agency 
+should provide a better answer as to 
+how this action will enhance worker 
+safety than the cryptic OSHA statement 
+that benefits are not quantified but are 
+‘significantly in excess of annual 
+costs’.’’ 
+In response, OSHA notes that the 
+Agency did not have metrics and 
+methodologies when these regulations 
+were implemented to allow OSHA to 
+evaluate the effects of the revisions. It 
+was therefore not possible within the 
+timeframe of this rulemaking to provide 
+an analysis singling out the effect of the 
+1971 reporting requirement and the 
+1994 rulemaking from among the 
+enormous number of variables related to 
+the decrease in number and rate of 
+injuries, illnesses, and fatalities since 
+OSHA’s founding. Further, OSHA notes 
+that case reporting of health events is a 
+well-established approach to public 
+health surveillance and intervention. 
+Serious occupational injuries and 
+illnesses are urgent sentinel health 
+events indicating that prevention efforts 
+have failed and that intervention to 
+remediate hazards may be warranted. 
+OSHA further discusses the benefits of 
+the rule in the Final Economic Analysis 
+in Section V of this supplementary 
+information. 
+Specific Questions Asked in the 
+Proposed Rule 
+The preamble to the proposed rule 
+included eight questions relevant to the 
+reporting part of this rulemaking. Each 
+question is repeated below, followed by 
+public comments and OSHA’s response 
+to the comments. 
+1. Types of Incidents and/or Injuries 
+and Illnesses for Required Reporting 
+In the preamble to the proposed rule, 
+OSHA asked, ‘‘What types of incidents 
+and/or injuries and illnesses should be 
+reported to OSHA and why?’’ 
+Comments responding to this 
+question primarily focused on three 
+main topics: 
+1. The seriousness and significance of 
+the in-patient hospitalization of a single 
+worker. 
+2. The definition of in-patient 
+hospitalization. 
+3. The potential complications 
+resulting from a requirement to report 
+the in-patient hospitalizations of fewer 
+than three employees. 
+There were many comments about the 
+seriousness and significance of the in- 
+patient hospitalization of a single 
+worker. Many commenters stated that it 
+is not necessarily a serious or significant 
+event (Exs. 19, 24, 26, 27, 29, 31, 35, 51, 
+55, 60, 72, 82, 94, 100, 102, 104, 110, 
+111, 114, 115, 125). Many other 
+commenters stated that it is (Exs. 59, 62, 
+69, 74, 75, 77, 86, 93, 112). 
+Spurlock and Higgins commented that 
+‘‘there are numerous circumstances 
+surrounding a decision to hospitalize a 
+single employee . . . that do not 
+necessarily stem from an employer’s 
+failure to identify and/or control a 
+particular hazard’’ (Ex. 24). Safety 
+Compliance Services commented that 
+‘‘[w]hether a person is hospitalized is 
+not related to whether there are hazards 
+in the workplace or poor employer 
+controls’’ (Ex. 29). Similarly, the 
+International Fragrance Association 
+North America (IFRA–NA) commented 
+that ‘‘the decision to hospitalize a single 
+employee can be influenced by factors 
+that are not connected to work place 
+hazards’’ (Ex. 51). The Healthcare 
+Distribution Management Association 
+(HDMA) commented that ‘‘[a] single 
+[non-fatal] injury does not indicate a 
+major workplace issue’’ (Ex. 55). Gruber 
+Hurst Johansen Hail Shank commented 
+that ‘‘the hospitalization of one 
+employee may or may not be considered 
+significant, depending on the 
+circumstances’’ (Ex. 60). Ameren 
+commented that ‘‘[single in-patient 
+hospitalizations] do not always 
+represent a serious injury or illness’’ 
+(Ex. 72). Stericycle commented that 
+‘‘single hospitalizations may not be a 
+good indicator of serious hazards in the 
+workplace’’ and that ‘‘. . . many 
+workplace hospitalizations occur due to 
+non work-related events’’ (Ex. 82). The 
+Small Business Administration Office of 
+Advocacy (SBA–OA) commented that 
+‘‘. . . single employee hospitalizations 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00015 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2
+--- page 5 ---
+56144 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+often do not signify an emergency 
+situation . . .’’ (Ex. 94). The Pacific 
+Maritime Association commented that 
+‘‘th[e] injury could be purely 
+accidental’’ or be an ‘‘isolated [incident] 
+that may have nothing to do with 
+workplace safety . . .’’ (Ex. 100). The 
+Retail Industry Leaders Association 
+(RILA) commented that in-patient 
+hospitalizations ‘‘potentially would 
+include a wide variety of situations, 
+ranging from minor incident to a 
+significant workplace accident’’ (Ex. 
+102); the Shipbuilders Council of 
+America made a similar comment (Ex. 
+104). The National Utility Contractors 
+Association (NUCA) commented that 
+‘‘[e]mployees are commonly 
+hospitalized for evaluation of injuries 
+including chest pain or mild 
+concussions which are often not 
+serious’’ (Ex. 110). The American 
+Supply Association commented that 
+‘‘[e]ach and every day, workers have 
+mishaps such as joint dislocations or 
+concussions which may result in a 
+hospitalization, perhaps solely because 
+of the injury or possibly secondary to 
+underlying medical conditions. These 
+injuries may not even be related to 
+workplace conditions but rather to 
+something as simple as a lapse in 
+concentration’’ (Ex. 111). The American 
+Road and Transportation Builders 
+Association (ARTBA) commented that 
+‘‘a single injury or illness often does not 
+indicate an unsafe workplace’’ (Ex. 114); 
+the Associated General Contractors of 
+America (AGC) made a similar comment 
+(Ex. 115). 
+Commenters arguing that the in- 
+patient hospitalization of a single 
+worker is a serious and significant event 
+for occupational safety and health 
+included the Department of Workplace 
+Standards in the Kentucky Labor 
+Cabinet (Kentucky), stating that 
+‘‘Kentucky believes, for several reasons, 
+the hospitalization of any employee or 
+any number of employees due to a 
+work-related injury or illness . . . are 
+significant events that must be reported. 
+Most importantly, reporting allows for 
+prompt investigation, if needed, to 
+ensure the prevention of additional 
+injury or illness’’ (Ex. 52). The AFL–CIO 
+commented that ‘‘the need to 
+hospitalize a single worker after a 
+workplace incident is a clear indication 
+that it was a serious event’’ (Ex. 59) and 
+that ‘‘[c]ollecting this information . . . 
+will greatly assist OSHA in developing 
+data and understanding about the 
+causes of injuries and illnesses 
+responsible for the incident, provide the 
+agency with an opportunity to conduct 
+an inspection if it chooses, and help in 
+assessing the adequacy of the 
+standards’’ (Ex. 69). The Transport 
+Workers Union (TWU) commented that 
+‘‘work-related incidents resulting in in- 
+patient hospitalizations . . . are 
+extremely serious events resulting in 
+significant burden, and often 
+subsequent impairment, to employees 
+who suffer them. Understanding the 
+root causes and workplace factors which 
+contributed to these events’ occurrence 
+is a prerequisite to eliminating hazards 
+and preventing workers from 
+encountering further illness and injury’’ 
+(Ex. 74). The National Council for 
+Occupational Safety and Health 
+(NCOSH) commented that ‘‘[g]iven that 
+even fairly serious work-related injuries 
+may not result in a hospital admission, 
+OSHA should be notified promptly of 
+all incidents requiring the 
+hospitalization of any worker’’ (Ex. 75). 
+The United Automobile, Aerospace, and 
+Agricultural Implement Workers of 
+America (UAW) commented that the 
+requirement for reporting single in- 
+patient hospitalizations ‘‘is an 
+improvement over the current 
+requirement’’ that will ‘‘provid[e] a 
+significant increase in vitally useful 
+information available to OSHA’’ (Ex. 
+77); the United Steelworkers (USW) 
+made a similar comment (Ex. 86). Letitia 
+Davis commented that ‘‘[c]ase reporting 
+of health events is a well-established 
+approach to public health surveillance 
+and intervention. Serious occupational 
+injuries are urgent sentinel health 
+events indicating that prevention efforts 
+have failed and that intervention to 
+remediate hazards may be warranted’’ 
+(Ex. 84). United Support and Memorial 
+for Workplace Fatalities (USMWF) 
+commented that ‘‘OSHA needs to be 
+informed about every work-related 
+hospitalization to decide whether other 
+workers are at-risk’’ (Ex. 93). 
+OSHA agrees with the commenters 
+who stated that the in-patient 
+hospitalization of an employee after a 
+work-related incident is a serious and 
+significant event. The hospitalization 
+indicates that serious hazards may exist 
+in the workplace and that an 
+intervention to abate these hazards and 
+prevent further injury or illness may be 
+warranted. OSHA will develop internal 
+guidance for determining which 
+incidents to inspect and which to 
+handle using other interventions. Even 
+when OSHA determines that an 
+inspection is not warranted, OSHA will 
+follow up with the employer about the 
+hospitalization event. OSHA may follow 
+up via email, phone, or fax, with regular 
+reminders and deadlines. 
+In addition, employers’ reports the 
+event help OSHA gather information 
+about serious workplaces injuries and 
+illnesses to help focus agency resources 
+and assess the adequacy of its safety and 
+health standards. For example, the 
+reports on amputations will provide the 
+Agency with information it currently 
+does not have to further focus the scope 
+of its Amputation NEP and to evaluate 
+any deficiencies of its machine guarding 
+standards. As a result, like the proposed 
+rule, Section 1904.39(a)(2) of the final 
+rule requires employers to report the 
+work-related in-patient hospitalization 
+of one or more employees. 
+There were also many comments 
+about the definition of an in-patient 
+hospitalization. The preamble to the 
+proposed rule explained that, for OSHA 
+recordkeeping purposes, an in-patient 
+hospitalization occurs when a person is 
+‘‘formally admitted’’ to a hospital or 
+clinic for at least one overnight stay. 
+Some commenters recommended 
+excluding hospitalization for 
+observation or diagnostic testing only 
+from the reporting requirement for in- 
+patient hospitalization (Ex. 15, 38). 
+They also asked OSHA to clarify the 
+meanings of ‘‘formal admission’’ and 
+‘‘overnight stay’’ (Ex. 17, 38, 51, 76, 79, 
+100, 103, 115, 120). In addition, some 
+commenters recommended excluding 
+scheduled hospitalization admissions 
+for the treatment of chronic conditions 
+(for a discussion of this issue, see 
+Question 6). 
+In response to these comments, the 
+final rule includes both a definition of 
+in-patient hospitalization and a 
+clarification about hospitalization for 
+observation and diagnostic testing. 
+OSHA will define in-patient 
+hospitalization as a formal admission to 
+the in-patient service of a hospital or 
+clinic for care or treatment (see sections 
+1904.39(b)(9) and (b)(10) of the final 
+rule). 
+There were also comments about the 
+complications that might result from a 
+requirement to report the in-patient 
+hospitalizations of fewer than three 
+employees. For example, the American 
+Iron and Steel Institute commented that 
+the ‘‘requirement to make notification of 
+an isolated case within 8 hours, 
+particularly for these ambiguous cases, 
+will be burdensome to both the 
+employer and OSHA’’ (Ex. 108); the 
+International Association of Drilling 
+Contractors (IADC) and Stericycle made 
+similar comments (Exs. 39, 82). The 
+HDMA commented that the ‘‘vast 
+majority of states do not have this type 
+of requirement, and it would be a 
+significant shift in policy for them to 
+adopt it’’ (Ex. 55). Verizon commented 
+that the requirement will result in over- 
+reporting of non-work-related hospital 
+admissions by compliant employers, 
+‘‘caus[ing] these employers to incur 
+unnecessary costs and burdens 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00016 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2
+--- page 6 ---
+56145 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+associated with over-reporting’’ (Ex 78); 
+similarly, Ingalls Shipbuilding warned 
+of the risk that ‘‘the data may 
+disproportionately ‘point the finger’ 
+toward major manufacturers who 
+aggressively implement programs to 
+control safety and health hazards while 
+leading OSHA to bypass smaller entities 
+who demonstrate ‘plain indifference to 
+employee safety and health’ ’’ (Ex. 103). 
+The Pacific Maritime Association 
+commented that employers may not be 
+able to acquire the necessary 
+information in time: ‘‘Has OSHA ever 
+tried to contact a hospital to gather 
+information on an employee? . . . The 
+reply that we often receive is that we 
+cannot provide you with any 
+information due to privacy concerns. 
+Despite being entitled to know if an 
+employee has been ‘admitted’ to the 
+hospital, this does not always occur’’ 
+(Ex. 100); Stericycle and the RILA made 
+similar comments (Exs. 82, 102). 
+Other commenters, however, pointed 
+out that requirements similar to the 
+proposed rule already exist, without 
+causing undue burdens or 
+complications. The State of Kentucky 
+commented that their ‘‘regulation has 
+served the employers and employees 
+very effectively. The Kentucky OSH 
+program believes its requirements 
+support the prevention of additional 
+injuries or illnesses, effectively direct 
+OSH Program resources, and reduce the 
+state’s occupational injury and illness 
+rates. Experience has established that 
+Kentucky’s requirements do not exert an 
+increase in the burden of regulatory 
+compliance’’ (Ex. 52). The AFL–CIO 
+commented that the ‘‘existence of 
+similar reporting requirements in state- 
+administered occupational safety and 
+health plans in Alaska, California and 
+Washington demonstrates that the 
+proposed change is feasible to comply 
+with and to administer’’ (Ex. 59). The 
+UAW made a similar comment, adding 
+that Oregon also requires reporting of 
+hospitalizations of one or two 
+employees, within 24 hours (Ex. 77). 
+The Occupational Health Section of the 
+American Public Health Association 
+(APHA) commented that ‘‘[i]n an era of 
+electronic recordkeeping, which in the 
+occupational health arena includes 
+workers compensation reports to and 
+from insurers as well as BLS/OSHA 
+logs, it should be a minor cost to enable 
+broad and prompt reporting across a 
+range of industries’’ (Ex. 62). Worksafe 
+commented that their experience with 
+reporting requirements in California, as 
+well as ‘‘that of other states with similar 
+requirements (as well as those of other 
+countries) is one indication of how 
+feasible they are to implement’’ (Ex. 
+112). 
+OSHA finds that many employers are 
+already subject to the requirement to 
+report in-patient hospitalizations of 
+fewer than three employees. Alaska, 
+California, Kentucky, Oregon, Utah, and 
+Washington currently require reporting 
+of single in-patient hospitalizations. 
+According to 2009 data from County 
+Business Patterns at the U.S. Census 
+Bureau, these states accounted for over 
+1.3 million establishments (18 percent 
+of the national total) and 19.4 million 
+paid employees (17 percent of the 
+national total). One of these states, 
+Kentucky, specifically commented that 
+‘‘[e]xperience has established that 
+Kentucky’s requirements do not exert an 
+increase in the burden of regulatory 
+compliance’’ (Ex. 52). 
+OSHA therefore concludes that the 
+requirement to report in-patient 
+hospitalizations of fewer than three 
+employees is feasible and practicable 
+and will not impose an undue burden 
+on employers. 
+In addition, as explained elsewhere in 
+this document, this final rule at Section 
+1904.39(a)(2) requires employers to 
+report all work-related in-patient 
+hospitalizations to OSHA within 24 
+hours, rather than within 8 hours, as in 
+the proposed rule. This change gives 
+employers more time to determine 
+whether the employee has been formally 
+admitted for in-patient hospitalization 
+and whether the hospitalization results 
+from a work-related event. 
+This final rule requires employers to 
+report to OSHA, within 24 hours, all 
+work-related in-patient hospitalizations 
+within 24 hours of the incident 
+(§ 1904.39(a)(2) and (b)(6)). 
+2. Non-Hospitalization Injuries, 
+Illnesses, or Conditions for Required 
+Reporting 
+In the preamble to the proposed rule, 
+OSHA asked: ‘‘Are there any injuries, 
+illnesses, or conditions that should be 
+reported to OSHA and are not included 
+among in-patient hospitalizations?’’ 
+The UAW commented that 
+Legionnaires’ disease and 
+hypersensitivity pneumonia ‘‘are 
+potentially indicative of serious and 
+correctible hazards in the workplace 
+and should be reported to OSHA upon 
+physician diagnosis regardless of 
+whether or not they result in inpatient 
+hospitalization’’ (Ex. 77). 
+OSHA does not agree that the final 
+rule should include a specific 
+requirement for employers to report 
+work-related cases of Legionnaires’ 
+disease and hypersensitivity 
+pneumonitis. The work relationship of 
+Legionnaires’ is generally established by 
+a cluster of cases. When clusters do 
+occur, they are reported to state and 
+local public health departments, which 
+conduct investigations of the problem. 
+Severe cases of work-related 
+Legionnaires’ disease would result in 
+hospital admission and therefore would 
+trigger the reporting requirement in 
+Section 1904.39. 
+OSHA believes a specific diagnosis of 
+hypersensitivity pneumonitis does not 
+necessarily indicate work-relatedness or 
+an emergency situation that requires 
+immediate OSHA intervention. Clusters 
+of this condition (captured on the OSHA 
+Log) would indicate intervention is 
+needed, but a single reported case 
+would be considered a sentinel health 
+event. Again, it should be noted that a 
+severe work-related case would likely 
+result in in-patient hospitalization and 
+therefore would trigger the reporting 
+requirement. 
+3. Non-Hospitalization Amputations for 
+Required Reporting 
+In the preamble to the proposed rule, 
+OSHA asked: ‘‘Should amputations that 
+do not result in in-patient 
+hospitalizations be reported to OSHA?’’ 
+Some commenters stated that OSHA 
+should not require employers to report 
+amputations that do not involve in- 
+patient hospitalization. The Printing 
+Industries of America (PIA) commented 
+that ‘‘it is not known what sort of 
+amputation could be experienced 
+without an in-patient hospitalization. 
+However, if such an amputation would 
+occur and did not require an in-patient 
+hospitalization it would be reasonable 
+to assume that such an incident was not 
+severe enough to require hospitalization 
+and therefore should not be subject to a 
+reporting requirement’’ (Ex. 45). The 
+IADC commented that ‘‘this only adds 
+burdensome reporting for the employer. 
+It is confusing and will result in 
+employers spending valuable early 
+incident investigation time attempting 
+to determine the reportability of an 
+incident’’ (Ex 39). The American 
+Chemistry Council commented that 
+‘‘OSHA could avoid ambiguity by 
+eliminating independent reporting of 
+amputations (i.e., separate from in- 
+patient hospitalizations), as severe 
+amputations would be captured in in- 
+patient hospitalization statistics’’ (Ex. 
+76). Ameren commented that ‘‘[c]ases of 
+amputation . . . that do not result in 
+hospitalization of the employee would 
+not likely warrant OSHA’s 
+examination’’ (Ex 72). The National 
+Petrochemical and Refiners Association 
+(NPRA) commented that ‘‘. . . reporting 
+all work-related amputations is 
+redundant if the requirement for 
+reporting all hospitalizations is adopted. 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00017 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2
+--- page 7 ---
+56146 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+It is not likely that an amputation would 
+occur that would not result in a 
+hospitalization and if it didn’t, it would 
+not be a serious enough injury to 
+warrant a follow-up by OSHA’’ (Ex. 80). 
+The National Grain and Feed 
+Association (NGFA) commented that 
+‘. . . minor incidents that do not require 
+hospitalization—including loss of the 
+fingertip to the bone—should not be 
+[reportable]. However, we do agree that 
+significant incidents such as loss of a 
+limb, which would require 
+hospitalization, should be reportable’’ 
+(Ex. 96). The RILA recommended 
+requiring the reporting only of 
+amputations ‘‘necessitating in-patient 
+hospital treatment’’ and not of 
+‘‘incidents in which the injury 
+necessitates minor treatment in an 
+emergency room or out-patient facility’’ 
+(Ex. 102). 
+Other commenters, however, 
+supported the requirement to report all 
+amputations, regardless of whether they 
+resulted in in-patient hospitalizations. 
+Most of these commenters provided data 
+showing the prevalence and significance 
+of amputations that did not involve in- 
+patient hospitalization. 
+NIOSH commented that ‘‘[o]f the 2.6 
+million [emergency department (ED)] 
+visits for work-related injuries and 
+illnesses in 2009 [in the NIOSH–NEISS- 
+Work dataset], approximately 15,000 
+workers were diagnosed as having 
+sustained an amputation (includes 
+injuries with bone loss, possibly 
+without bone loss, severe avulsions, and 
+near amputations). Of these, 78% were 
+treated and released while 22% were 
+admitted to the hospital or transferred to 
+another facility.’’ NIOSH continued, 
+‘‘. . . given that over 
+3⁄4 of ED treated 
+work-related injuries and illnesses were 
+treated and released, collecting the less 
+severe injuries that are simply treated 
+and released may identify areas that 
+need further investigation.’’ NIOSH 
+recommended that employers be 
+required to report all amputations to 
+OSHA (Ex. 66). 
+The UAW commented that ‘‘[n]inety 
+six percent of amputations involve a 
+finger. These amputations may have a 
+permanently disabling impact on their 
+victims’ lives, but may, in some cases be 
+treated by outpatient surgery and not 
+lead to inpatient hospitalization. They 
+should nevertheless be reported to 
+OSHA’’ (Ex. 77). The United Food and 
+Commercial Workers International 
+Union (UFCW) made a similar comment 
+(Ex. 81). 
+Finally, Letitia Davis cited data 
+collected by the Massachusetts 
+Department of Public Health (MDPH) 
+showing that ‘‘there were 696 work- 
+related amputations treated in 
+Massachusetts hospitals during 2007– 
+2008, an average of 348 amputations per 
+year. The majority of these cases were 
+treated in the emergency department 
+only (N = 501; 71%); a small number (N 
+= 28; 4%) were first treated in 
+emergency departments and 
+hospitalized at a later date; 22% (N = 
+156) were first treated as inpatients. 
+These findings suggest that restricting 
+reporting to amputations treated only an 
+inpatient basis would substantially 
+reduce number of cases identified and 
+miss important opportunities for 
+intervention’’ (Ex. 84). 
+OSHA finds that amputations are 
+significant workplace injuries and that 
+the data show that the majority of 
+amputations do not involve in-patient 
+hospitalizations. As a result, like the 
+proposed rule, the final rule will require 
+employers to report all amputations to 
+OSHA, whether or not they involve in- 
+patient hospitalization (see 
+§ 1904.39(a)(2)). (Note that, for 
+amputations involving in-patient 
+hospitalization, employers will only 
+have to make a single report.) 
+4. Required Reporting of Amputations 
+In the preamble to the proposed rule, 
+OSHA asked: ‘‘Should OSHA require 
+the reporting of all amputations?’’ 
+Commenters responding to this 
+question primarily focused on two main 
+topics: 
+1. The seriousness and significance of 
+amputations. 
+2. The definition of amputations. 
+On the topic of the seriousness and 
+significance of amputations, many 
+commenters opposed the requirement in 
+the proposed rule to report all 
+amputations. Spurlock and Higgins 
+commented that ‘‘the mere occurrence 
+of an amputation can often be attributed 
+to numerous hazards for which OSHA 
+has no standard, or there are few, 
+practical hazard controls at an 
+employer’s disposal’’ (Ex. 24); Safety 
+Compliance Services made a similar 
+comment (Ex. 29). The IADC 
+commented that ‘‘[r]eporting 
+amputations, such as the tip of a finger, 
+is overly burdensome and again offers 
+little value in protecting workers from 
+occupational hazards’’ (Ex. 39). The PIA 
+commented that ‘‘in most cases, 
+especially in the printing industry, 
+singular cases [of amputations] are not 
+associated with a significant event or a 
+high gravity situation’’ (Ex. 45). The 
+American Society of Safety Engineers 
+(ASSE) commented that ‘‘[w]hile not 
+underestimating the serious nature of 
+any amputation, it must be noted that an 
+amputation of a part of a finger may, in 
+the reasonable person’s mind, is not as 
+serious or traumatic an event as the 
+amputation of an arm, hand, leg or foot. 
+Further, other injuries like multiple 
+broken bones, crushed vertebra, head 
+injuries can be more serious and life- 
+altering than an amputation. From that 
+viewpoint, singling out amputations 
+makes little sense other than the 
+perception that they are more easily 
+recordable. However, even that is 
+questioned by our members’’ (Ex. 46); 
+Newport News Shipbuilding made a 
+similar comment (Ex. 125). The 
+American Foundry Society commented 
+that the reporting requirement should be 
+limited to amputations involving at least 
+one joint (Ex. 101). NUCA commented 
+that ‘‘[w]ith respect to all amputations 
+as severe injuries, . . . amputations . . . 
+do not amount to a fatality or 
+catastrophic event’’ (Ex. 110). 
+In addition, the American Chemistry 
+Council commented that rulemaking on 
+the reporting of amputations be 
+postponed ‘‘[u]ntil a holistic evaluation 
+of [the National Emphasis Program 
+(NEP) on amputations and the Severe 
+Violator Enforcement Program (SVEP)] 
+is conducted’’ (Ex. 76). Similarly, the 
+Associated General Contractors of 
+America (AGC) commented that the 
+reporting requirement for amputations 
+is ‘‘unnecessary’’ because ‘‘[o]ver the 
+past five years since the effective date of 
+the [amputations NEP] the agency has 
+had an opportunity to collect the 
+necessary data to enforce and evaluate 
+the effectiveness of existing standards’’ 
+(Ex. 115). 
+However, many other commenters 
+supported the requirement in the 
+proposed rule to report all work-related 
+amputations (Exs. 34, 112). The Phylmar 
+Regulatory Roundtable (PRR) 
+commented that ‘‘an amputation as 
+defined in the proposal [to include loss 
+of bone] indicates a serious traumatic 
+injury and is thus properly included 
+under the reporting regulation’’ (Ex. 38). 
+NIOSH commented, ‘‘Given the high 
+probability that most amputations 
+require some form of medical care 
+through hospitals or emergency 
+departments, OSHA should require the 
+reporting of all amputation cases’’ (Ex. 
+66). NCOSH commented that 
+‘‘[a]mputations are serious injuries with 
+permanent consequences; thus, it is 
+important all of these cases be reported 
+to OSHA’’ (Ex. 75). The USW 
+commented that ‘‘[l]essons can be 
+learned from this amputation while the 
+events leading up to the incident are 
+clear to the witnesses. Amputees don’t 
+just happen, there were unsafe 
+condition(s), change in procedure, 
+equipment or a number of other factors. 
+This person’s life is changed forever’’ 
+(Ex. 86). 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00018 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2
+--- page 8 ---
+56147 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+The AFL–CIO referred to BLS data to 
+support their statement that an 
+‘‘amputation is a serious, severe, and 
+significant event that can result in some 
+permanent impairment.’’ According to 
+BLS data from 2009, the median number 
+of days away from work (DAFW) for an 
+amputation was 21 days, compared to a 
+median of 8 days for all work-related 
+injuries and illnesses. The AFL–CIO 
+added that the number of amputations 
+involving days away from work was 
+5,930, representing 0.6% of all DAFW 
+injuries/illnesses. The AFL–CIO 
+commented that the proportion of 
+amputations among total injuries/
+illnesses is ‘‘similar to, or less than, 
+0.6% reported for injuries involving 
+[DAFW] (given that most amputations 
+are likely to involve some number of 
+[days away from work]’’ and concluded 
+that ‘‘[t]hus, it’s evident to us that, given 
+the numbers of amputations that occur 
+annually in the U.S., reporting all 
+amputations to OSHA would pose 
+nothing more than a minimal burden on 
+employers’’ (Ex. 69). In addition, the 
+AFL–CIO stated that ‘‘California and 
+Kentucky already require the reporting 
+of amputations as part of their state- 
+administered plans, proving that such a 
+requirement is feasible’’ (Ex. 59); the 
+UAW made a similar comment (Ex. 77). 
+Finally, Letitia Davis’s comments also 
+included data on amputations, 
+specifically the results of the referral of 
+work-related amputations to OSHA in 
+Massachusetts (Ex. 84). ‘‘In July 2010, 
+the Massachusetts Public Health 
+Department initiated a protocol referring 
+work-related amputations with logically 
+consistent body part codes to OSHA for 
+follow-up. In 2010, 22 private 
+employers were referred to one of three 
+OSHA area offices. The 22 referrals 
+resulted in 13 on-site inspections and 
+additional phone/fax initiatives. Among 
+the 13 inspections, OSHA had already 
+been notified about two of the injuries 
+(from city police or fire departments 
+that responded to the site) and had 
+already initiated inspections at the time 
+of the referrals. Nine of the referrals 
+leading to onsite inspections resulted in 
+citations, indicating shortcomings or 
+failures of occupational health and 
+safety programming. These included 
+citations related to lockout/tagout, lack 
+of machine guarding, failure to conduct 
+a hazard assessment and the general 
+duty clause . . . Notably amputations 
+were verified in nine of the 13 onsite 
+investigations. Four were found to be 
+other injuries. Even when amputations 
+did not occur, OSHA found hazardous 
+conditions that were associated with 
+other serious injuries. These findings 
+indicate that OSHA investigations 
+prompted by case reports of 
+amputations are productive, and well- 
+targeted, leading to identification of 
+serious workplace hazards and concrete 
+steps to eliminate hazards that cause or 
+contribute to injuries. They suggest that 
+direct reporting of amputations to 
+OSHA by employers would be an 
+effective means of targeting limited 
+enforcement resources to high priority 
+problems.’’ 
+Although these results are limited to 
+the experience of OSHA’s area offices in 
+Massachusetts, OSHA believes it is 
+reasonable to expect comparable 
+findings and results in its other area 
+offices across the country. OSHA area 
+offices operate using standardized 
+procedures. Reviews of OSHA 
+inspection data have shown that 
+inspections conducted by area offices 
+under national programs routinely have 
+similar results across the country. 
+OSHA agrees with commenters who 
+stated that amputations are serious 
+events. OSHA refers to BLS data 
+showing that in 2010, half of fingertip 
+amputations involved 18 or more days 
+away from work. OSHA finds that all 
+amputations are severe and significant 
+workplace injuries, including 
+amputations of fingertips and fingers as 
+well as amputations of large body parts, 
+such as hands, arms, and feet, and that 
+reports of amputations to OSHA can be 
+an effective way of targeting workplace 
+hazards. In addition, the requirement to 
+report work-related amputations will 
+help OSHA determine the causes of 
+these injuries and develop enforcement 
+strategies and guidance to help prevent 
+them. 
+In addition, OSHA notes the existing 
+California and Kentucky state 
+requirements to report work-related 
+amputations, which are similar to the 
+requirements under this final rule, show 
+that such requirements are feasible. 
+Finally, OSHA believes that 
+comments such as those by Spurlock 
+and Higgins (Ex. 24), saying that 
+amputations can often be attributed to 
+numerous hazards for which OSHA has 
+no standard, or there are few, practical 
+hazard controls at an employer’s 
+disposal, actually support OSHA’s 
+decision to require the reporting of 
+work-related amputations. Section 
+5(a)(1) of the OSH Act requires 
+employers to ‘‘. . . furnish to each of 
+his employees employment and a place 
+of employment which are free from 
+recognized hazards that are causing or 
+are likely to cause death or serious 
+physical harm to his employees.’’ 
+Section 5(a)(1) does not make 
+exceptions for hazards for which OSHA 
+has no standards or employers have few 
+practical controls. In addition, reports of 
+amputations will provide OSHA with 
+data to identify hazards and support the 
+development of further standards and 
+practical controls. Thus, employer 
+reports of amputations, and OSHA 
+intervention in workplaces where 
+amputations occurred, are both critical 
+for complying with Section 5(a)(1) of the 
+OSH Act and preventing further serious 
+injury or death. 
+The final rule requires employers to 
+report to OSHA, within 24 hours, all 
+amputations that result from a work- 
+related incident within 24 hours of the 
+incident (see § 1904.39(a)(2) and (b)(6)). 
+On the topic of the definition of an 
+amputation, there were comments on 
+the definition in the proposed rule, as 
+well as requests for clarification. The 
+proposed rule defined amputations 
+according to the 2007 release of the 
+OIICS Manual published by BLS, as 
+follows: ‘‘An amputation is the 
+traumatic loss of a limb or other external 
+body part, including a fingertip. In order 
+for an injury to be classified as an 
+amputation, bone must be lost. 
+Amputations include loss of a body part 
+due to a traumatic incident, a gunshot 
+wound, and medical amputations due to 
+irreparable traumatic injuries. 
+Amputations exclude traumatic injuries 
+without bone loss and exclude 
+enucleation (eye removal).’’ 
+Nonetheless, several commenters 
+requested a definition of ‘‘amputation’’ 
+(Ex. 14, 17, 60, 101, 108). 
+There were also comments about both 
+the wording of the definition and the 
+implementation of the definition. 
+Colony Tire Corporation asked about 
+reporting a finger that had been 
+amputated, reattached, and then later 
+removed (Ex. 35). Dow Chemical 
+Company commented that ‘‘[t]he 
+proposed wording of Section 
+1904.39(b)(8) defines ‘amputation’ in a 
+manner that is extremely unclear’’ (Ex. 
+64). The American Chemistry Council 
+recommended that OSHA use the 
+definition of amputations in the 2010 
+release of the OIICS Manual ‘‘and clarify 
+whether avulsions are included, to 
+avoid ambiguity’’ (Ex. 76). IPC- 
+Association Connecting Electronics 
+Industries (IPC) ‘‘encourage[d] OSHA to 
+amend the Field Operations Manual 
+(FOM) to include the definition’’ in the 
+proposed rule (Ex. 47), and Kentucky 
+‘‘recommend[ed] and respectfully 
+request[ed] that OSHA include a 
+definition of amputation in 29 CFR 
+1904.46’’, the definitions subpart of Part 
+1904 (Ex. 52). 
+Finally, there were comments about 
+whether the definition of ‘‘amputation’’ 
+should require bone loss. The American 
+Trucking Associations (ATA) 
+commented that ‘‘the definition of an 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00019 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2
+--- page 9 ---
+56148 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+‘amputation’ should require ‘loss of 
+bone’ (Ex. 65); NPRA made a similar 
+comment (Ex. 80). However, both David 
+Bonauto M.D. M.P.H. (Ex. 56) and 
+Letitia Davis Sc.D. Ed.M. (Ex. 84) 
+provided data to support their 
+comments that the definition of 
+amputations should not require loss of 
+bone because of the difficulties of 
+identifying bone loss. 
+David Bonauto’s data (Ex. 56) 
+consisted of 3,000 claims with 
+suspected amputation injuries in the 
+Washington state fund workers 
+compensation claims data for the period 
+2006–2008; medical record review 
+validated 1,885 of these claims as 
+amputations. Bonauto is the 
+occupational medicine physician and 
+interim research director with the Safety 
+and Health Research Assessment 
+Program in the Washington State 
+Department of Labor and Industries. He 
+commented that ‘‘. . . about 90% had 
+loss of the protruding body part from 
+the injury. We could determine bone 
+loss in nearly 3 of 4 cases; however, this 
+could only be done retrospectively 
+based on review of the medical records. 
+Determination of the injury resulting in 
+bone loss could not be done based on 
+the initial report of injury. Most lower 
+extremity amputations resulted from 
+surgical treatment of the injury (e.g., 
+surgical removal of a crushed foot) 
+which often occurred after the initial 
+injury event. More than two thirds of 
+the injuries resulting in the loss of a 
+protruding body part were not 
+characterized as an ‘amputation’ on the 
+initial report of accident by the health 
+care provider. These cases were often 
+characterized as contusions, lacerations, 
+and fractures but ultimately resulted in 
+the loss of a protruding body part . . . 
+From these data, the proposed rule 
+might benefit by defining amputations 
+as ‘any injury resulting in the temporary 
+or permanent loss of a protruding body 
+part’. Due to the poor initial 
+documentation of the injury, a 
+requirement for bone loss in reports will 
+lead to significant underreporting.’’ 
+Similarly, Letitia Davis’s comments 
+were based on amputation data 
+collected by the Massachusetts 
+Department of Public Health, with 696 
+work-related amputations treated in 
+Massachusetts hospitals in 2007–2008 
+(Ex. 84). She commented that ‘‘[s]some 
+amputations by definition include bone 
+loss, e.g. amputation of finger, foot, 
+hand, but if only the tip of a finger or 
+toe is amputated, involvement of bone 
+loss at time of injury is not necessarily 
+apparent and involves determination by 
+clinical review. Even upon clinical 
+review, bone loss can be ambiguous. In 
+our experience reviewing amputation 
+cases reported by employers on OSHA 
+logs and in workers’ compensation 
+claim reports for amputations, bone loss 
+is most often not specified. Thus we 
+advise against bone loss as a criterion 
+for reporting or at least specifying that 
+cases with uncertain bone loss should 
+be reported.’’ 
+After careful consideration, OSHA 
+finds that using the definition of 
+amputation in the 2010 release (OIICS 
+Version 2.0) of the BLS OIICS Manual 
+will provide the greatest possible clarity 
+and consistency. This change from the 
+proposed rule responds to commenters 
+who recommended that OSHA use the 
+2010 release of the OIICS manual, as 
+well as to commenters who 
+recommended that the definition not 
+include bone loss. Thus, Section 
+1904.39(b)(11) of this final rule defines 
+amputations as the traumatic loss of a 
+limb or other external body part (see 
+Section 1904.39(b)(11) of this final rule). 
+According to this definition, an 
+amputations include a part, such as a 
+limb or appendage, that has been 
+severed, cut off, amputated (either 
+completely or partially); fingertip 
+amputations with or without bone loss; 
+medical amputations resulting from 
+irreparable damage; and amputations of 
+body parts that have since been 
+reattached. Amputations do not include 
+avulsions, enucleations, deglovings, 
+scalpings, severed ears, or broken or 
+chipped teeth. 
+5. Required Reporting of Enucleations 
+In the preamble to the proposed rule, 
+OSHA asked: ‘‘Should OSHA require 
+the reporting of enucleations?’’ 
+Several commenters responded that 
+OSHA should not specifically require 
+the reporting of enucleations (i.e., losses 
+of an eye). The PRR commented that an 
+enucleation ‘‘indicates a severe and 
+traumatic injury has occurred to the 
+employee’’ but that ‘‘[t]here is some 
+question whether a severe injury leading 
+to an enucleation would ever not fit 
+under the definition of in-patient 
+hospitalization . . . and thus it may be 
+unnecessary to explicitly include this 
+procedure’’ (Ex. 38). The PIA 
+commented that ‘‘[PIA] does not feel 
+that the reporting of enucleations would 
+be appropriate . . . as the cause and 
+circumstances surrounding these types 
+of incidents are vast and may or may not 
+be work related and in most cases 
+within the printing industry would not 
+be the result of a work related’’ event 
+(Ex. 45). Ameren commented that 
+‘‘Cases of . . . enucleation that do not 
+result in hospitalization of the employee 
+would not likely warrant OSHA’s 
+examination’’ (Ex. 72). 
+Other commenters responded that 
+OSHA should specifically require the 
+reporting of enucleations. NIOSH 
+commented that ‘‘[a]lthough 
+enucleations of the eye are an infrequent 
+occurrence, reporting would serve as a 
+sentinel event for identifying 
+workplaces at risk for other preventable 
+injuries including intraocular foreign 
+bodies, penetrating eye injuries, and 
+other eye injuries where eye protective 
+equipment may not be used’’ (Ex. 66). 
+The AFL–CIO commented that ‘‘the loss 
+of an eye is an extremely serious injury 
+that can have significant impact on a 
+worker and leave him or her with a 
+substantial impairment . . .[T]o the 
+extent that an enucleation event does 
+not result in an in-patient 
+hospitalization, we believe OSHA 
+should require employers to report all 
+work-related enucleations to ensure that 
+every enucleation incident is captured’’ 
+(Ex. 69). The Building and Construction 
+Trades Department (BTCD) of the AFL– 
+CIO (Ex. 59), the UAW (Ex. 77), and the 
+USW (Ex. 86) made similar comments, 
+as did the TWU, which added that 
+‘‘adding enucleations to the events 
+requiring report would likely not result 
+in greater burden to employers since 
+one would anticipate most of these 
+injuries to require, and be accounted for 
+by requirements related to, in-patient 
+hospitalizations’’ (Ex. 74). 
+OSHA finds that the loss of an eye is 
+a severe and significant injury and that 
+a requirement to report such injuries, 
+irrespective of in-patient 
+hospitalization, can help identify 
+workplaces where serious eye hazards 
+are present. Based on comments 
+submitted to the proposed rule, Section 
+1904.39(a)(2) of this rule includes a new 
+requirement for employers to report, 
+within 24 hours, all losses of an eye 
+resulting from a work-related incident. 
+Section 1904.39(b)(6) provides that this 
+reporting requirement applies only 
+when the loss of the eye occurs within 
+24 hours of the work-related incident. 
+6. Number of Work-Related Incidents 
+Involving In-Patient Hospitalizations, 
+Including More Than 30 Days 
+Afterwards 
+In the preamble to the proposed rule, 
+OSHA asked: ‘‘Are there additional data 
+or estimates available regarding the 
+number of work-related incidents 
+involving in-patient hospitalizations? Is 
+there information available on how 
+many work-related hospitalizations 
+occur more than 30 days after the report 
+of an injury or illness?’’ 
+Comments on this question addressed 
+three main topics. 
+1. Work-related incidents involving 
+in-patient hospitalization. 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00020 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2
+--- page 10 ---
+56149 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+2. Hospitalizations occurring more 
+than 30 days after the report of the 
+injury/illness. 
+3. Amputations occurring more than 
+30 days after a work-related incident. 
+The third issue arises from the 
+requirement in Section 1904.39(b)(6) of 
+the proposed rule for requiring 
+employers to report amputations that 
+occurred up to 30 days after the work- 
+related incident. 
+On work-related incidents involving 
+in-patient hospitalizations, commenters 
+provided comments, as well as data and 
+suggestions for data sources. 
+The U.S. Chamber of Commerce 
+commented that even within a thirty- 
+day limit, ‘‘the employee may be 
+hospitalized after he or she is no longer 
+employed by the employer which would 
+significantly complicate an employer’s 
+ability to know about the 
+hospitalization’’ (Ex. 120). 
+Stericycle commented that ‘‘[r]ather 
+than use data from OSHA logs or 
+Workers Compensation data to estimate 
+single hospitalization reports, OSHA 
+should have collected data from 
+emergency responders to determine how 
+many emergency calls were to the 
+workplace’’ (Ex. 82). 
+NIOSH provided data on the patients 
+with occupational injuries or illnesses 
+who were seen in the ED (Ex. 66): ‘‘The 
+NIOSH NEISS-Work data provide 
+national estimates of the number of 
+patients treated in an ED and released, 
+treated and transferred, treated and 
+admitted, held for observation, and an 
+estimate of patients that left without 
+being seen or left against medical advice 
+. . . For 2009, it is estimated that 
+approximately 81,500 (3%) patients 
+with occupational injuries or illnesses 
+seen in the ED were either admitted or 
+transferred and another 5,600 (0.2%) 
+were held for observation. It is not 
+known if those held for observation 
+were admitted or released. These data 
+do not include the length of time that 
+passed between the injury or onset of 
+illness and ED treatment.’’ 
+Letitia Davis provided data on work- 
+related in-patient hospitalizations in 
+Massachusetts in FY 2008 (Ex. 84): 
+‘‘There were 3,448 work-related 
+hospitalizations in Massachusetts 
+during October 2007-September 2008. 
+The largest number was for injuries and 
+poisonings (N=1595; 46%) followed by 
+musculoskeletal disorders (N=1184; 
+34%). Information about time between 
+workplace incident and hospitalization 
+was not available but information about 
+admission type is informative. Notably, 
+59% of work-related hospitalizations 
+were for emergent or urgent care; 1,337 
+(39%) were for elective procedures, 
+most of which (N–935; 70%) were for 
+musculoskeletal disorders.’’ 
+On work-related hospitalizations 
+occurring more than 30 days after the 
+report of an injury or illness, David 
+Bonauto provided data on 9,262 claims 
+to the Washington State Fund workers 
+compensation program that resulted in 
+in-patient hospitalization from 2006– 
+2008 (Ex. 56). He commented, ‘‘Of these 
+hospitalizations, 36% occurred within 
+one day following the occupational 
+injury or illness event and nearly 50% 
+occurred greater than 31 days following 
+the occupational injury or illness. When 
+differentiating the type of injury or 
+illness using the primary ICD–9 code on 
+the hospital bill, nearly 90% of all 
+inpatient hospitalizations occurring 
+within one day of the injury or illness 
+event were billed with an injury or 
+poisoning diagnosis as opposed to a 
+disease diagnosis. Conversely, nearly 
+93% of all hospitalizations occurring 31 
+days after the injury or illness event had 
+a disease diagnosis listed as the primary 
+diagnosis on the bill.’’ 
+In addition, there were comments 
+about the proposed requirement to 
+report in-patient hospitalizations 
+occurring within 30 days of the 
+incident. The Marshfield Clinic 
+commented that ‘[t]he proposed changes 
+also give a 30 day period where 
+hospitalization needs to be reported. 
+Since some surgeries require inpatient 
+hospitalization; this will require that 
+surgeries be reported that . . . are not 
+related to an acute work injury. It would 
+not appear that OSHA is interested in 
+getting notified of every employee that 
+may be hospitalized due to a need for 
+a routine surgery that may be related to 
+a work injury’’ (Ex. 15). The American 
+Chemistry Council commented that the 
+reporting requirement for in-patient 
+hospitalization should ‘‘exclude 
+hospitalization for chronic cases (such 
+as carpal tunnel)’’ if ‘‘OSHA’s intent is 
+to obtain information about acute 
+injuries resulting from serious, incident- 
+specific hazards’’; in addition, the final 
+rule ‘‘should clarify how in-patient 
+hospitalizations for treatment of acute 
+injuries for which rehabilitation was 
+unsuccessful (for example, a tendon 
+injury in the hand or knee that 
+ultimately requires surgery to repair, or 
+back injuries that require later surgery) 
+will be reported’’ (Ex. 76). Stericycle 
+commented that ‘‘[the 30-day] 
+timeframe may be too long as with 
+strains and sprains, 2–4 weeks of 
+physical therapy or other conservative 
+treatment may be administered before 
+an injured worker may determine 
+surgery is the best option. Then if 
+surgery and hospitalization occurs 
+within the 30 days, the reporting 
+requirement is triggered . . . After 30 
+days, OSHA’s quick response may be 
+too late and the employer may have 
+already abated the hazard’’ (Ex. 82). 
+On the other hand, the UAW 
+commented that ‘‘[s]everal states, 
+including Alaska, Oregon, and 
+Washington have established a 30 day 
+reporting period’’ (Ex. 77). 
+For the third issue, related to the 
+requirement in the proposed rule for 
+reporting amputations occurring up to 
+30 days after the work-related incident, 
+the PIA commented that ‘‘if amputations 
+are to be included as a reporting 
+requirement, a reasonable scope should 
+only require reporting if the amputation 
+occurs at the time of the incident or at 
+most, at the initial diagnosis of the 
+attending medical provider’’ (Ex. 45). 
+Both David Bonauto (Ex. 56) and 
+Letitia Davis (Ex. 84) provided data on 
+this issue. David Bonauto provided data 
+on 1,885 validated amputations among 
+Washington State Fund workers 
+compensation claims with medical 
+record review in 2006–2008 (Ex. 56). He 
+found that 89% of amputations occurred 
+at the time of injury, while 11% of the 
+amputations resulted from surgery after 
+the injury (including on the same day). 
+However, while 92% of the 1,796 
+amputations to upper extremities 
+occurred at the time of injury, only 38% 
+of the 91 amputations of lower 
+extremities occurred at the time of 
+injury. He commented that ‘‘specific 
+provisions requiring reporting of late 
+amputations will more effectively 
+capture lower extremity amputations.’’ 
+Letitia Davis provided data on work- 
+related amputations treated in 
+Massachusetts hospitals in 2007–2008 
+(Ex. 84). She commented that ‘‘the great 
+majority (92%) of work-related 
+amputations involving hospital 
+treatment were treated within one day 
+of injury incident. Only 4.1% were 
+treated more than 30 days after the 
+injury incident. Again, OSHA might 
+consider limiting reporting to 
+amputations that occur within 24 hours 
+of the precipitating incidents. These 
+data suggest that in doing so, they 
+would capture the great majority of the 
+cases.’’ 
+OSHA finds that limiting the 
+reporting requirement to the 
+hospitalizations, amputations, and 
+losses of an eye most likely to require 
+urgent or emergent care best serves 
+OSHA’s purposes of surveillance and 
+appropriate timely investigations of 
+these events, while limiting the burden 
+on employers. The final rule requires 
+employers to report work-related in- 
+patient hospitalizations, amputations, 
+and losses of an eye only if the event 
+occurs within twenty-four hours of the 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00021 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2
+--- page 11 ---
+56150 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+work-related incident (see 
+§ 1904.39(b)(6)). 
+7. Non-Telephone Methods of Reporting 
+(Email, Fax, or Web-Based System) 
+In the preamble to the proposed rule, 
+OSHA asked: ‘‘Should OSHA allow 
+reports to be made by means other than 
+a telephone, such as by email, fax, or a 
+Web-based system?’’ 
+Many commenters supported 
+additional options for reporting. For 
+example, the Marshfield Clinic 
+supported ‘‘[a] system that allows 
+computer notification (either email or 
+on-line)’’ (Ex. 15). Safety Compliance 
+Services commented that ‘‘OSHA 
+should allow for computerized reporting 
+of incidents. However this capability 
+needs to be standardized so that systems 
+can report the information directly 
+without requiring additional work or 
+effort on the part of those reporting’’ 
+(Ex. 29). Justin Barnes supported 
+‘‘means such as email, fax, and a web- 
+based system’’ (Ex. 34). The PIA 
+commented that ‘‘OSHA should allow 
+and make considerations of all means 
+available with today’s technology 
+including telephone, text, email, fax, or 
+through a web-based system’’ (Ex. 45). 
+The HDMA supported ‘‘alternative 
+methods of reporting, such email, fax or 
+Internet’’ (Ex. 55). Gruber Horst 
+Johansen Hail Shank commented that 
+‘‘it would be a great idea for OSHA to 
+add the ability to report fatalities and 
+applicable incidents through their Web 
+site. Any system should include a 
+verification and email confirmation of 
+the report for employers to save and/or 
+print out, so that they can demonstrate 
+compliance. Development of 
+smartphone apps by OSHA . . . would 
+also assist employers to quickly report 
+fatalities and applicable incidents’’ (Ex. 
+60). The ATA commented that 
+‘‘employers need flexibility in the 
+method of reporting (i.e., phone calls, 
+emails, faxes, and web based systems)’’ 
+(Ex. 65). NIOSH recommended that 
+OSHA ‘‘allow reports to be made by 
+means other than telephone, such as by 
+email, fax, or a web-based system’’ (Ex. 
+66). Ameren commented that ‘‘a web- 
+based system would allow employers to 
+report while at the same time give 
+OSHA an opportunity to capture data 
+for automatic analysis and trending’’ 
+(Ex. 72). The American Chemistry 
+Council commented that ‘‘a mobile 
+application, web or email based 
+reporting system would be appropriate, 
+including the application of formal 
+controls to prevent false reporting’’ (Ex. 
+76). The UAW commented that ‘‘OSHA 
+should permit reporting by any 
+communication method that exists now 
+or may exist in the future, provided that 
+the content of the report meets all 
+existing OSHA requirements’’ (Ex. 77). 
+Verizon supported ‘‘the addition of 
+electronic means as an option for 
+serious incident notification to OSHA, 
+including email, facsimile and web- 
+based reporting tools’’ (Ex. 78). NPRA 
+recommended ‘‘electronic reporting in 
+addition to phone, fax, and email’’ (Ex. 
+80). Letitia Davis commented that 
+‘‘OSHA should allow employers to 
+report by means other than a telephone 
+as long as confidentially of personal 
+identifiable health information can be 
+maintained, e.g. by confidential fax or 
+secure electronic transmission’’ (Ex. 84). 
+The Pacific Maritime Association 
+commented that ‘‘[i]n addition to the 
+800 number, an email, Web site 
+reporting tool or similar application 
+would create a time stamped record that 
+both the employer and OSHA could find 
+of use’’ (Ex. 100). The RILA suggested 
+that ‘‘employers should be allowed 
+flexibility to report whether it is via 
+phone, email or fax’’ (Ex. 102). Ingalls 
+Shipbuilding ‘‘urge[d] OSHA to expand 
+reporting options to permit electronic 
+transmissions, including fax, email or a 
+web-based system’’ (Ex. 103); Newport 
+News Shipbuilding made a similar 
+comment (Ex. 125). The U.S. Chamber 
+of Commerce commented that ‘‘OSHA 
+should allow for reporting via email, 
+interactive Web site, texting and faxing 
+to provide maximum flexibility for 
+employers and give them a record they 
+can use to demonstrate compliance’’ 
+(Ex. 120). 
+On the other hand, a few commenters 
+opposed additional options for 
+reporting. The AFL–CIO commented 
+that ‘‘the current requirement that 
+permits reporting . . . only by reporting 
+the incident via a telephone or in person 
+should be retained in the final rule . . . 
+We have concerns that passive 
+approaches such as email, fax or a Web- 
+based system, as opposed to an active 
+oral reporting requirement, would not 
+assure the agency that all of the required 
+information is obtained from an 
+employer and thus would result in 
+incomplete reports’’ (Ex. 69). The USW 
+‘‘strongly urge[d] OSHA to maintain the 
+requirement that a phone call is 
+necessary to that the information is 
+reported as soon as possible to OSHA’’ 
+(Ex. 86). USMWF commented that, for 
+hospitalizations for acute, traumatic 
+injuries and illnesses, ‘‘notifications 
+should be made by telephone to ensure 
+that OSHA receives all the key pieces of 
+information regarding the incident’’ (Ex. 
+93). 
+OSHA agrees with the comments 
+supporting additional options for 
+reporting. However, OSHA also agrees 
+with the comments on the importance of 
+obtaining all of the required information 
+from the employer. Therefore, Section 
+1904.39(a)(3) of this final rule provides 
+flexibility by allowing employers to 
+choose among three options for 
+reporting a work-related fatality, in- 
+patient hospitalization, amputation, or 
+loss of an eye to OSHA. 
+First, as in the current regulation, an 
+employer may report by telephone or in 
+person to the OSHA Area Office that is 
+nearest to the site of the incident. 
+Second, as in the current regulation, 
+an employer may report by telephone to 
+the OSHA toll-free central telephone 
+number, 1–800–321–OSHA (1–800– 
+321–6742). 
+Third, as a new option, an employer 
+may report by electronic submission 
+using a fatality/injury/illness reporting 
+application that will be located on 
+OSHA’s public Web site at 
+www.osha.gov. The reporting 
+application will include mandatory 
+fields for the required information. If the 
+report does not include the required 
+information in the mandatory fields, the 
+reporting application will not accept the 
+report. The mandatory fields, as 
+specified in Section 1904.39(b)(2), are 
+the establishment name; the location of 
+the work-related incident; the time of 
+the work-related incident; the type of 
+reportable event (i.e., fatality, in-patient 
+hospitalization, amputation, or loss of 
+an eye); the number of injured 
+employees; the names of the injured 
+employees; the employer’s contact 
+person and his or her phone number; 
+and a brief description of the work- 
+related incident. The public will be 
+given the opportunity to comment on 
+this new electronic submission option 
+through the Paperwork Reduction Act 
+(PRA) approval process when OSHA 
+applies to reauthorize the information 
+collection. 
+Section 1904.39(b)(1) makes clear that 
+if the Area Office is closed, the 
+employer must report the work-related 
+event by using either the OSHA toll-free 
+central telephone number or the 
+reporting application on OSHA’s public 
+Web site. 
+The final rule does not include 
+options for reporting by email, fax, or 
+text, because OSHA would not be able 
+to ensure that employers who reported 
+using these options provided all of the 
+required information. 
+8. Time Periods for Required Reporting 
+In the NPRM, OSHA asked: ‘‘Are the 
+reporting times of eight hours for 
+fatalities, eight hours for in-patient 
+hospitalizations, and 24 hours for 
+amputations generally appropriate time 
+periods for requiring reporting? What 
+advantages or disadvantages would be 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00022 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2
+--- page 12 ---
+56151 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+associated with these or any alternative 
+time periods?’’ 
+Comments primarily focused on four 
+topics: 
+1. The circumstances under which 
+OSHA would consider that the 
+employer knew, or should have known, 
+about the reportable event; 
+2. When the reporting clock would 
+start—with the occurrence of the work- 
+related incident, or with the occurrence 
+of the reportable event; 
+3. The appropriate reporting time 
+period for in-patient hospitalizations; 
+4. The appropriate reporting time 
+period for other events employers 
+would be required to report. 
+For the circumstances under which 
+OSHA would consider that the 
+employer knew, or should have known, 
+about the reportable event, Section 
+1904.39(b)(7) of the proposed rule 
+provided that if employers did not learn 
+about a fatality, in-patient 
+hospitalization, or amputation right 
+away, they would have been required to 
+report it within the specified time 
+period after the fatality, in-patient 
+hospitalization, or amputation was 
+reported to ‘‘[the employer] or to any of 
+[the employer’s] agent(s) or 
+employee(s)’’. Commenters on this topic 
+had two concerns. First, that OSHA 
+might require employers to report 
+events they did not know about. 
+Second, that OSHA might unfairly 
+penalize employers for not reporting 
+events they did not know about. 
+Related to an employer being required 
+to report an event the employer did not 
+know about, Morganite Industries 
+commented that ‘‘[i]t is not clear that an 
+appropriate member of management 
+would have the information, allowing 
+the required reporting to OSHA, just 
+because any individual employee has 
+that information. For example, the 
+injured employee himself might know 
+that he has been hospitalized, but his 
+knowing it does not mean that anyone 
+with authority or ability to make the 
+report has that information’’ (Ex. 20). 
+Ingalls Shipbuilding made a similar 
+comment (Ex. 103), as did Dow 
+Chemical (Ex. 64) and the Pacific 
+Maritime Association (Ex. 100). Dow 
+Chemical commented that ‘‘the ‘clock’ 
+[should] start only when the incident, 
+and the fact the worker was 
+hospitalized, have been communicated 
+to the employee’s supervisor or to other 
+employees whose responsibilities and 
+position qualify them to recognize the 
+reporting requirement’’ (Ex. 64). The 
+Pacific Maritime Association 
+commented in addition that ‘‘[i]njuries 
+should be reported to a direct supervisor 
+or management. This is the only means 
+in which an employer can be in 
+knowledge of the injury’’ (Ex. 100). 
+Related to an employer being 
+penalized for not reporting an event the 
+employer did not know about, the Joint 
+Poultry Industry Safety and Health 
+Council commented, ‘‘While we 
+recognize the 8 hour provision is from 
+the time the incident is reported to the 
+employer, its agents or employees, we 
+believe the interpretation of what 
+constitutes notice, particularly notice to 
+‘‘any of your agent(s) or employee(s)’’ 
+will simply generate another cause of 
+litigation if OSHA chooses to cite an 
+employer for failing to meet the 8 hour 
+time requirement’’ (Ex. 61). The ATA 
+commented that ‘‘there is no provision 
+for the Agency to NOT impute 
+knowledge of an injury to an 
+employer—i.e., ‘‘should have been 
+aware’’—as in other OSHA rules. 
+Companies may find themselves in a 
+position of being expected to know 
+about an employee’s private medical 
+information or a hospitalization outside 
+of the purview of the employer’’ (Ex. 
+65); Fed Ex made a similar comment 
+(Ex. 67). The National Association of 
+Manufacturers (NAM) commented, ‘‘The 
+employer may never know of the 
+hospitalization until days or weeks 
+later. Would the employer be in 
+violation for not reporting this incident 
+to OSHA when there was no knowledge 
+of when the hospitalization took place? 
+Additionally, a worker could be injured 
+on a weekend or overnight shift and the 
+employer is not notified of the worker’s 
+hospitalization until the next business 
+day. Would that employer be in 
+violation for not reporting the incident 
+within eight hours?’’ (Ex. 71). The 
+Pacific Maritime Association (Ex. 100) 
+and the Shipbuilders Council of 
+America (Ex. 104) made similar 
+comments. To address this concern, 
+Verallia suggested that the rule be 
+amended to require notification ‘‘within 
+[the specified time period] of the 
+employer becoming aware’’ of the 
+reportable event (Ex. 91). 
+OSHA acknowledges commenters’ 
+concern about defining employer 
+notification to include reporting to ‘‘any 
+of [the employer’s] employee(s)’’. 
+Therefore, this rule removes this 
+provision. Under Section 1904.39(b)(7) 
+of the final rule, employers are required 
+to report within the specified time 
+period after the fatality, in-patient 
+hospitalization, amputation, or loss of 
+an eye is reported to the employer or to 
+any of the employer’s agent(s). 
+OSHA does not agree with the 
+comments about employers being 
+unfairly penalized for not reporting 
+hospitalizations that they did not know 
+about. 
+First, the current regulation, the 
+proposed rule, and the final rule all 
+have a specific provision for employers 
+who do not know about an in-patient 
+hospitalization or other reportable 
+event. Under the current regulation, if 
+an employer does not learn about a 
+reportable incident right away, the 
+employer must make the report within 
+eight hours of the time the incident is 
+reported to the employer (see Section 
+1904.39(b)(7)). Under the proposed rule, 
+if the employer did not learn about a 
+reportable incident right away, the 
+employer would have to make the report 
+within eight hours for a fatality or in- 
+patient hospitalization, or twenty-four 
+hours for an amputation, of the time the 
+incident was reported to the employer 
+(see proposed Section 1904.39(b)(7)). 
+Under the final rule, if the employer 
+does not learn about a reportable event 
+(fatality, in-patient hospitalization, 
+amputation, or loss of an eye) right 
+away, the employer must make the 
+report within eight hours for a fatality, 
+or twenty-four hours for an in-patient 
+hospitalization, amputation, or loss of 
+an eye, of the time the event is reported 
+to the employer (see Section 
+1904.39(b)(7) of the final rule). 
+Second, as discussed above, 
+employers at over 1.3 million 
+establishments in six states are already 
+subject to the requirement to report in- 
+patient hospitalizations of fewer than 
+three employees. If these employers 
+were being penalized for not reporting 
+events they did not know about, it 
+seems likely that at least a few of them, 
+or their industry organizations, would 
+have submitted comments on this issue 
+during this rulemaking. Instead, the 
+only non-hypothetical comment 
+received by OSHA on this issue came 
+from one of these six states, which 
+specifically commented that 
+‘‘[e]xperience has established that 
+Kentucky’s requirements do not exert an 
+increase in the burden of regulatory 
+compliance’’ (Ex. 52). 
+OSHA therefore concludes that the 
+requirement in the final rule to report 
+in-patient hospitalizations will not 
+result in an unfair penalty for 
+employers. Under the final rule, as in 
+the current regulation, employers are 
+only required to report work-related 
+events that have been reported to them 
+or their agent(s). 
+For the issue in the proposed rule of 
+whether the reporting clock would start 
+with the occurrence of the work-related 
+incident or with the occurrence of the 
+reportable event (fatality, in-patient 
+hospitalization, or amputation), the 
+PRR, the IADC, Gruber Hurst Johansen 
+Hail Shank, NAM, and Verizon 
+requested clarification (Exs. 38, 39, 60, 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00023 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2
+--- page 13 ---
+56152 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+71, and 78). To address this issue, 
+OSHA has revised the text in Section 
+1904.39(a)(1) and (a)(2) of the final rule 
+to make clear that, consistent with 
+OSHA’s current reporting regulation in 
+Section 1904.39, the reporting clock 
+starts with the occurrence of the 
+reportable event. Section 1904.39(b)(7) 
+also provides instruction on when the 
+reporting clock starts to run in 
+situations where the employer or the 
+employer’s agent(s) does not learn about 
+the reportable event (fatality, in-patient 
+hospitalization, amputation, or loss of 
+an eye) right away. 
+For example, if an employee suffers a 
+work-related injury (the work-related 
+incident) at 9:00 a.m., and dies from that 
+injury at 10:00 a.m., and the employer 
+or the employer’s agent(s) learn of the 
+fatality (the reportable event) at 10:00 
+a.m., then the employer would be 
+required to report the fatality (the 
+reportable event) to OSHA within eight 
+hours of the fatality (the reportable 
+event)—i.e., 6:00 p.m. Similarly, if an 
+employee is fatally injured as the result 
+of a work-related incident at 8:30 p.m. 
+on Monday, but the employer or 
+employer’s agent(s) do not learn of the 
+fatality (the reportable event) until 9:00 
+a.m. the next day (Tuesday), then the 
+employer would be required to report 
+the fatality (the reportable event) to 
+OSHA within eight hours of learning of 
+the fatality (the reportable event)—i.e., 
+by 5:00 p.m. on Tuesday. Also, if an 
+employee suffers a work-related injury 
+(the work-related incident) at 11:00 a.m. 
+on Thursday and is hospitalized as an 
+in-patient, as a result of that injury, at 
+3:00 p.m., and the employer or the 
+employer’s agent(s) learn of the in- 
+patient hospitalization for the injury at 
+3:00 p.m., then the employer would be 
+required to report the in-patient 
+hospitalization (the reportable event) 
+within 24 hours of the in-patient 
+hospitalization (the reportable event)— 
+i.e., by 3:00 p.m. on Friday. 
+This would also be the case if the 
+employer needs time to determine 
+whether a specific incident is work- 
+related. For example, if an incident 
+leads to an employee’s death at 9:00 
+a.m. on Monday, but the employer does 
+not have enough information to make a 
+work-relatedness determination until 
+11:00 a.m. on Monday, then the 
+employer would be required to report 
+the fatality (the reportable event) within 
+8 hours of learning that the fatality was 
+due to a work-related incident—i.e., by 
+7:00 p.m. on Monday). The final rule 
+states that if the employer does not learn 
+right away that the reportable event 
+(fatality, in-patient hospitalization, 
+amputation, or loss of an eye) was the 
+result of a work-related incident, then 
+the employer must make the report to 
+OSHA within the following time period 
+after the employer or any of the 
+employer’s agent(s) learn that the 
+reportable event was the result of a 
+work-related incident: Eight (8) hours 
+for a fatality, and twenty-four (24) hours 
+for an in-patient hospitalization, an 
+amputation, or a loss of an eye. (see 
+Section 1904.39(b)(8)) 
+For the issue of the appropriate 
+reporting time period for in-patient 
+hospitalizations, OSHA received many 
+comments that the proposed eight-hour 
+reporting period for in-patient 
+hospitalizations was too short. The 
+Marshfield Clinic commented that ‘‘an 
+employer is normally going to know 
+immediately’’ about a fatality and 
+‘‘probably would also know’’ about the 
+hospitalization of three or more 
+employees’’, but that ‘‘[t]his is not 
+necessarily the case for the 
+hospitalization of an individual 
+employee’’ (Ex. 15). IBM commented 
+that ‘‘[i]t would be difficult for us to be 
+compliant with reporting any in-patient 
+hospitalizations within eight hours, 
+especially with the travelling employee, 
+time zone issues, language barriers, 
+communication issues’’ (Ex. 22). Apogee 
+Enterprises commented that eight hours 
+may not be enough time for an employer 
+to determine work-relatedness, that an 
+employer may not find out about the 
+hospitalization if the employee does not 
+go to the hospital from work, and that 
+the privacy of medical information ‘‘can 
+make it very difficult for the employer 
+to find out the cause of a 
+hospitalization, especially in the 
+proposed timeframe’’ (Ex. 40). The 
+HDMA commented that ‘‘. . . many 
+circumstances will arise where . . . the 
+full determination of the employee’s 
+condition has not been determined 
+within eight hours because the 
+employee was admitted to the hospital 
+for a variety of reasons some of which 
+may or may not be work-related’’ (Ex. 
+55). Ameren commented that ‘‘[t]he 
+determination of work-relationship for a 
+case involving a single hospitalization 
+may not be immediately obvious and 
+could take more than 8 hours to be 
+resolved’’ (Ex. 72). Verizon commented 
+that ‘‘[i]t is not practical to expect all 
+employers to be able to notify OSHA 
+within eight hours of an employee’s 
+admission into a hospital with a work- 
+related condition’’, especially for 
+employers ‘‘whose employees often 
+work alone or with a co-worker at off- 
+site locations and at hours other than 
+normal business hours’’ (Ex. 78). The 
+Pacific Maritime Association 
+commented that ‘‘the employer may not 
+have all of the necessary facts within 
+eight hours . . . this is too tight a 
+deadline and is a recipe for false or 
+misleading information to OSHA’’ (Ex. 
+100). The American Foundry Society 
+commented that ‘‘the proposed 8-hour 
+time frame does not offer a realistic time 
+frame,’’ due to ‘‘circumstances 
+including patient privacy and 
+communication delays between a 
+patient and employer or medical 
+provider and employer’’ (Ex. 101). The 
+American Supply Association 
+commented that ‘‘the shift to an 8-hour 
+reporting requirement . . . may 
+interfere with an employer who is also 
+tending to the employee’s injury during 
+this time. The uncertainties placed on 
+the employer, in particular, during a 
+period when they are addressing 
+employee safety is overly burdensome’’ 
+(Ex. 111); the Sheet Metal and Air 
+Conditioning Contractors National 
+Association (SMACNA) made a similar 
+comment (Ex. 122). The ARTBA 
+commented that ‘‘eight hours is 
+unrealistic as it may be difficult to 
+quickly ascertain the root cause of the 
+injury’’ (Ex. 114). 
+OSHA also received comments 
+proposing alternate time periods, 
+including 24 hours, 48 hours, 72 hours, 
+and five days. Morganite Industries 
+commented that ‘‘it is reasonable to 
+expect that within 24 hours 
+management will be made aware that an 
+in-patient hospitalization has occurred. 
+It is then reasonable to believe that 
+reporting to OSHA is feasible within 
+that same 24 hours’’ (Ex. 20). Whirlpool 
+Corporation, the IADC, the HDMA, the 
+American Chemistry Council, Verizon, 
+the Pennsylvania Independent Oil and 
+Gas Association (PIOGA), RILA, and 
+Ingalls Shipbuilding made similar 
+comments (Exs. 31, 39, 55, 76, 78, 89, 
+102, and 103). 
+NPRA recommended ‘‘that OSHA at a 
+minimum increase the reporting time to 
+48 hours to allow the medical facility 
+time to treat the injured, if necessary, 
+determine the need for hospitalization 
+and advise the employer’’ (Ex. 80). 
+Kentucky commented that ‘‘[e]xperience 
+has proven that the reporting of a 
+hospitalization after eight (8) hours has 
+passed . . . but before seventy-two (72) 
+hours have elapsed, is not detrimental 
+to ensuring that a prompt investigation 
+is initiated, if needed, to ensure the 
+prevention of additional injury or 
+illness’’ (Ex. 52). Fed Ex similarly 
+supported a 72-hour time period, 
+commenting that ‘‘[s]eventy-two hours 
+would give an employer adequate time 
+to gather and verify the information 
+necessary to make an accurate report to 
+OSHA, and it is soon enough after an 
+accident for OSHA to make a 
+meaningful investigation’’ (Ex. 67). 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00024 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2
+--- page 14 ---
+56153 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+Dow Chemical recommended that ‘‘if 
+the Agency decides to require reporting 
+of every hospitalization, the deadline for 
+reporting should be (preferably) three 
+business days, or (at the very tightest) 
+the following business day after the 
+employer learns both that there was a 
+hospitalization, and that the injury was 
+work-related’’ (Ex. 64). The Duke 
+University Health System recommended 
+‘‘a reporting period of five days if OSHA 
+is to achieve its goal of this regulation 
+presenting only a ‘relatively minor 
+burden’ for employers’’ (Ex. 63). 
+On the other hand, USMWF 
+commented that ‘‘8 hours is far too long 
+a time period. OSHA should change its 
+regulation to require an employer to 
+immediately notify federal or State 
+OSHA of a fatality or serious incidents. 
+The Mine Safety and Health 
+Administration’s (MSHA) regulations 
+require employers to notify the agency 
+of serious incidents within 15 minutes. 
+OSHA should adopt equivalent 
+requirements. We believe that California 
+OSHA requires immediate reporting and 
+Utah OSHA has a 1-hour reporting 
+requirement’’ (Ex. 93). 
+In addition, multiple commenters 
+recommended requiring the same 
+reporting time period of eight hours for 
+non-fatal reportable events (in-patient 
+hospitalizations, amputations, and 
+losses of an eye) as for fatalities. The 
+Building and Construction Trades 
+Department of the AFL–CIO commented 
+that ‘‘[t]he move to a single reporting 
+time frame would also benefit OSHA 
+and employers. In the case of OSHA, the 
+move to 8 hours for all serious incidents 
+would provide the agency with more 
+timely information on which to base 
+decisions. For employers, the use of one 
+reporting timeframe would simplify the 
+reporting process’’ (Ex. 59). The AFL– 
+CIO, the TWU, the UAW, and the UFCW 
+made similar comments (Exs. 69, 74, 77, 
+and 81). 
+OSHA acknowledges the commenters’ 
+concern about the eight-hour reporting 
+time for in-patient hospitalizations in 
+the proposed rule. Accordingly, Section 
+1904.39(a)(2) of the final rule requires 
+employers to report in-patient 
+hospitalizations within 24 hours of 
+learning of the in-patient hospitalization 
+due to a work-related incident. Note 
+that, as discussed below, this will 
+simplify the reporting process by 
+requiring a single reporting period (24 
+hours) for all of the non-fatal events that 
+employers are required to report. Note 
+also that, because the reporting time 
+period for in-patient hospitalizations 
+does not begin until the employee has 
+been formally admitted to the in-patient 
+service of a hospital or clinic for care or 
+treatment (see § 1904.39(b)(8)), the 
+reporting requirement will not interfere 
+with the employer’s efforts to provide 
+the proper care for the employee whose 
+eventual in-patient hospitalization the 
+employer will be required to report. 
+For the appropriate reporting time 
+periods for other events employers 
+would be required to report, many of the 
+same comments about reporting time 
+periods for in-patient hospitalizations 
+applied. 
+However, OSHA did receive some 
+specific comments as well. For 
+amputations, Dow Chemical commented 
+that ‘‘if notification for amputations is 
+ultimately required, the deadline should 
+be the end of the next business day after 
+the injury is classified as an amputation, 
+rather than within 24 hours. This would 
+facilitate compliance, because there 
+would be greater certainty that the 
+expert personnel who understand the 
+reporting requirement would be 
+available. In addition, it would allow for 
+an accurate determination that the 
+injury is, in fact, an amputation’’ (Ex. 
+64). The NPRA recommended a 
+reporting time period of 48 hours (Ex. 
+80). 
+For amputations and losses of an eye, 
+the USMWF commented that ‘‘[t]he 
+reporting should be made by the 
+employer no later than 24 hours after 
+the employer learns that the amputation 
+or eye loss occurred’’ (Ex. 93). 
+OSHA finds that a reporting time 
+period of 24 hours for amputations and 
+losses of an eye will simplify the 
+reporting process by requiring a single 
+reporting period (24 hours) for all of the 
+non-fatal events that employers are 
+required to report. Section 
+1904.39(a)(2)) of this rule requires 
+employers to report amputations and 
+losses of an eye to OSHA within 24 
+hours. 
+Other Issues Raised by Commenters 
+OSHA received multiple comments 
+that the Agency does not have enough 
+resources to be able to collect, track, and 
+use the additional data from the new 
+reporting requirements for in-patient 
+hospitalizations of one or two 
+employees, amputations, and losses of 
+an eye. For example, Rexnord Industries 
+commented that ‘‘[t]here are concerns 
+with the ongoing budget debates and 
+whether or not OSHA will be able to 
+give the appropriate attention that is 
+needed to the new information to drive 
+the needed results’’ (Ex. 28). The Tree 
+Care Industry Association commented 
+that ‘‘we do not understand how OSHA 
+would handle the additional workload 
+. . . How would OSHA handle the call 
+volume when it increases from 4,600 to 
+210,000 calls per year?’’ (Ex. 37). The 
+National Safety Council commented that 
+‘‘[s]ome members have also expressed 
+concerns regarding OSHA staffing 
+constraints and the ability of the agency 
+to process and utilize the increased 
+number of submissions to the agency 
+. . .’’ (Ex. 58). Gruber Hurst Johansen 
+Hail Shank commented that ‘‘[t]he 
+proposed rule would require OSHA to 
+spend 52,682.25 hours to simply receive 
+and record the reports . . . This does 
+not factor in the countless hours that 
+would also be added by the increased 
+amount of inspections OSHA would 
+presumably initiate under the proposed 
+rule’’ (Ex. 60). 
+Mercer ORC HSE Networks 
+commented that they have ‘‘serious 
+reservations about whether OSHA has 
+the capacity or resources to evaluate and 
+utilize the new collected data on an 
+ongoing basis in a way that would 
+significantly improve the targeting of its 
+resources or, at the end of the day, 
+would result in improved worker safety 
+and health’’ (Ex. 68). The American 
+Chemistry Council commented that 
+‘‘OSHA has not demonstrated . . . how 
+the Administration will utilize these 
+new data with its finite resources to 
+target unsafe workplaces’’ (Ex. 76). 
+Verizon commented on its concern ‘‘that 
+the simple number of notifications will 
+overwhelm OSHA’s resources . . .’’ (Ex. 
+78). The National Grain and Feed 
+Association commented that ‘‘this will 
+not be a prudent use of OSHA’s existing 
+resources since it will add another time- 
+consuming task to OSHA staff and 
+prevent them from dealing with the 
+Agency’s three core functions that 
+include: 1) programmed inspections; 2) 
+investigation of fatalities; and 3) 
+responding to employee complaints’’ 
+(Ex. 96); the Shipbuilders Council of 
+America and the Corn Refiners 
+Association made similar comments 
+(Exs. 104, 109). 
+The NAHB commented that it ‘‘does 
+not seem feasible for OSHA staff to 
+investigate each and every in-patient 
+hospitalization given the Agency’s 
+limited resources’’ (Ex. 113). The 
+ARTBA commented that they ‘‘question 
+whether OSHA is prepared to receive 
+the additional information stream that 
+will be generated from the proposed 
+changes’’ (Ex. 114). The U.S. Chamber of 
+Commerce commented that ‘‘there is 
+every reason to believe that the 
+significantly increased level of reporting 
+[the expansion of the hospitalization 
+reporting requirement] will generate 
+will overwhelm OSHA’s limited 
+resources . . .’’ (Ex. 120). 
+OSHA agrees that it would 
+overwhelm the resources of Federal 
+OSHA and the State Plan programs if 
+the Agency conducted an inspection of 
+every workplace reporting a serious 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00025 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2
+--- page 15 ---
+56154 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+occupational event under this rule. 
+However, OSHA does not intend to do 
+this. Rather, OSHA will conduct report- 
+related inspections only at workplaces 
+where reports indicate that an Agency 
+inspection to remediate hazards may be 
+warranted. OSHA will conduct other 
+interventions at workplaces where 
+reports indicate that an Agency 
+inspection to remediate hazards is not 
+warranted. In either case, the overall 
+objective is for the reports to trigger 
+activities that lead to hazard abatement. 
+OSHA will develop internal guidance 
+for determining whether to inspect or to 
+conduct a different kind of intervention 
+after receiving a report of an in-patient 
+hospitalization of one or two workers, 
+an amputation, or a loss of an eye. In 
+either case, OSHA follow-up with the 
+employer is essential. Follow-up may be 
+done via email, phone, or fax, with 
+regular reminders and deadlines. These 
+interventions will require OSHA to 
+reallocate some of its inspection 
+resources. However, OSHA believes that 
+ensuring the abatement of hazards that 
+resulted in serious injury or illness 
+justifies these changes. 
+This approach is similar to OSHA’s 
+current approach for investigating 
+fatalities and hospitalizations of three or 
+more employees, as well as OSHA’s 
+approach for targeting inspections to the 
+highest-hazard workplaces. At present, 
+OSHA does not inspect each workplace 
+with a report, per Section 1904.39 of the 
+current regulation, of a fatality or the 
+hospitalization of three or more 
+employees. Rather, OSHA uses the 
+information in the initial report to 
+decide whether or not the Agency 
+should investigate the event. OSHA will 
+continue to use this approach under this 
+final rule. 
+Similarly, OSHA does not currently 
+try to inspect all 7.5 million 
+establishments in the country. Rather, 
+OSHA has a priority system designed to 
+allocate available OSHA inspection 
+resources as effectively as possible to 
+ensure that the maximum feasible 
+protection is provided to working men 
+and women. Case reports of sentinel 
+safety and health events, such as 
+fatalities and hospitalizations, support 
+OSHA’s application of this priority 
+system and will continue to do so under 
+this final rule. 
+Further, OSHA notes that six states, 
+accounting for over 1.3 million 
+establishments (18% of the national 
+total) and 19.4 million paid employees 
+(17% of the national total), already 
+require employers to report in-patient 
+hospitalizations of fewer than three 
+employees, evidently without 
+overwhelming the resources of their 
+programs or compromising their 
+abilities to conduct targeted inspections, 
+respond to worker complaints, and 
+investigate fatalities. Indeed, one of 
+these states, Kentucky, specifically 
+commented that ‘‘[t]he Kentucky OSH 
+program believes its requirements 
+support the prevention of additional 
+injuries or illnesses, effectively direct 
+OSH program resources, and reduce the 
+state’s occupational injury and illness 
+rates’’ (Ex. 52). In addition, Kentucky 
+also commented that ‘‘[i]t is important 
+to note that neither OSHA’s present 
+reporting requirements or proposed 
+rule, nor Kentucky’s state specific 
+reporting requirements, compel OSHA 
+or Kentucky to investigate every 
+reported hospitalization or amputation 
+. . . Not all hospitalizations or 
+amputations reported to [Kentucky’s] 
+Division of Compliance are 
+investigated’’ (Ex. 52). 
+OSHA also received multiple 
+comments about the Preliminary 
+Economic Analysis (PEA). 
+The SBA–OA commented that OSHA 
+should ‘‘consider whether its wage rate 
+assumption is valid for many small 
+businesses.’’ The PEA uses the 
+assumption that reporting will be 
+performed by a human resources 
+specialist with a compensation cost of 
+$40.04 per hour, but ‘‘many small 
+businesses do not employ such 
+personnel and it is often the small 
+business owner or other senior person 
+who conducts these activities’’ (Ex. 94). 
+The Pacific Maritime Association 
+commented that ‘‘private sector workers 
+. . . already work 40-hour weeks . . . 
+[Unless] OSHA intends on removing 
+another set of duties imposed by 
+regulations to free time and make it 
+available to perform these new 
+recordkeeping tasks[, w]hen imposing 
+new regulations, OSHA should always 
+estimate that the work performed will 
+have to be completed at the overtime 
+rate of pay (of time and a half)’’ (Ex. 
+100). 
+OSHA’s response to these comments 
+is in Section V of this supplementary 
+information. 
+OSHA received multiple comments 
+about the PEA’s estimate of the time 
+required to report single in-patient 
+hospitalizations and amputations. Dow 
+Chemical Company commented that the 
+15 minutes ‘‘may perhaps account for 
+the time spent on the telephone, but it 
+does not include all the people who 
+need to participate in, or be notified of, 
+the incident and the upcoming 
+notification to OSHA’’ (Ex. 64). The 
+ATA commented that ‘‘[t]he [time] 
+multiplier should, according to our 
+members, be 0.5 [hours] instead of 0.25, 
+to accurately reflect current time spent 
+on this task’’ (Ex. 65); Fed Ex made a 
+similar comment (Ex. 67). Mercer ORC 
+HSE Networks commented that ‘‘OSHA 
+focuses strictly on the amount of time it 
+takes an individual to ‘pick up a phone’ 
+and make the report to OSHA. This is 
+an unduly narrow view of the impact of 
+the proposal on employers’’ (Ex. 68). 
+NUCA commented that ‘‘OSHA has 
+significantly underestimated the 
+economic impact of obtaining injury 
+information on a construction site 
+which does not necessarily have an 
+office. First, field personnel must stop 
+what they are doing to collect 
+information, which must then be 
+transmitted to the company office where 
+it must be reviewed and recorded. 
+Along with the proposed additional 
+requirements to report to OSHA, which 
+could require hours of investigation to 
+prepare for, the total time would easily 
+exceed a mere 15 minutes’’ (Ex. 110). 
+In addition, OSHA received several 
+comments that the PEA’s time 
+assumption did not include the time 
+required to adjust data systems to the 
+new reporting requirements. For 
+example, the American Trucking 
+Association commented that ‘‘[t]aking 
+into consideration the sophisticated 
+internal systems that larger motor 
+carries may use to report inpatient 
+hospitalization and amputations . . . 
+ATA estimates—again, based on 
+member experience—that an additional 
+150–175 hours may be required per 
+employer, something that is not 
+reflected in the Agency cost estimate’’ 
+(Ex. 65). Fed Ex made a similar 
+comment (Ex. 67). 
+Finally, OSHA received several 
+comments that the PEA’s time 
+assumption did not include employer 
+responses to the inspections that might 
+follow the reports. For example, the 
+Tree Care Industry Association 
+commented that ‘‘OSHA claims that the 
+additional data-gathering would be 
+restricted to phone interviews, with a 
+relatively minor additional reporting 
+burden estimated to be an average of 15 
+minutes per reported incident. 
+However, with the proposed rule in 
+place there would be nothing to prevent 
+the Agency from performing on-site 
+investigations of reported accidents . . . 
+Obviously to superimpose an OSHA on- 
+site investigation on to the post-accident 
+investigations that companies already 
+perform as part of their safety procedure 
+creates a significant additional burden 
+for employers’’ (Ex. 37); the Dow 
+Chemical Company and Fed Ex made 
+similar comments (Exs. 64, 67). 
+OSHA’s responses to these comments 
+are in Section V of this supplementary 
+information. 
+The HDMA commented that OSHA 
+should ‘‘make allowance for outstanding 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00026 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2
+--- page 16 ---
+56155 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+circumstances—for instance, the 
+proposed rule does not provide any 
+information on what allowances can be 
+made for a disaster type of situation 
+where other issues arise that need to be 
+addressed that would impede the 
+employer’s ability to report to OSHA, 
+due to natural disasters such as snow 
+storms, hurricanes, tornadoes, flooding, 
+etc. or manmade such as electrical 
+failures, fires, etc. that the employer 
+must immediately focus on the disaster 
+and its implications for public safety 
+reasons’’ (Ex. 55). 
+The Agency notes that previous 
+OSHA rulemakings on reporting of 
+fatalities and in-patient hospitalizations 
+have not explicitly made allowance for 
+emergencies and disasters, but that 
+OSHA has nonetheless taken such 
+circumstances into account when they 
+occurred. OSHA will continue to do so 
+under the final rule. 
+The NAHB commented that ‘‘OSHA’s 
+proposal is not consistent with 
+Executive Order 13563, ‘Improving 
+Regulation and Regulatory Review,’ ’’ 
+because ‘‘[n]othing in OSHA’s proposal 
+indicates how the rule is intended to 
+streamline regulatory requirements and 
+reduced burdens on industry’’ and 
+because the Agency ‘‘should consider 
+the impacts of this proposal on small 
+businesses and consider conducting 
+additional outreach before moving 
+forward’’ (Ex. 113). The SBA–OA (Ex. 
+94), RILA (Ex. 102), and the ARTBA (Ex. 
+114) made similar comments. 
+Executive Order 13563 requires 
+regulatory agencies to consider the 
+effect of new regulations on economic 
+growth, competitiveness, and job 
+creation. OSHA notes that, as discussed 
+below in Section V–E, Economic 
+Impacts, the compliance costs for each 
+affected firm are too small to have any 
+significant economic impacts, including 
+impacts on economic growth, 
+competitiveness, and job creation. 
+Additionally, the final rule includes a 
+new option for employers to report 
+fatalities and other reportable events 
+through OSHA’s public Web site, which 
+should make it easier for employers to 
+fulfill their reporting obligations. Also, 
+under the final rule, the time for 
+reporting all non-fatality reportable 
+events (i.e., in-patient hospitalizations, 
+amputations, and losses of an eye) to 
+OSHA is 24 hours. For in-patient 
+hospitalizations, this is a change from 
+the proposed rule, and it should reduce 
+the reporting burden on small 
+employers. Therefore, the Agency 
+believes the reporting requirements in 
+this rulemaking are consistent with 
+Executive Order 13563. 
+Mercer ORC HSE Networks 
+commented that they ‘‘believe that [the 
+proposed rule] is emblematic of a larger 
+problem; that the national system for 
+collecting and compiling data on 
+occupational injuries and illnesses is 
+really a hodge-podge of disparate data 
+requirements developed by different 
+Agencies to meet their own particular 
+needs . . . Consequently . . . we have 
+no real handle on the occurrence (or 
+prevalence) of occupational illness in 
+the United States, and many even 
+question the accuracy of the data we use 
+to track injuries and acute health 
+conditions . . . The last study of the 
+national injury and illness data system 
+was conducted over two decades ago by 
+the National Academy of Sciences. 
+Although all of the findings were not 
+implemented, the 1987 report, Counting 
+Injuries and Illnesses in the Workplace, 
+served as the basis for a major overhaul 
+of the BLS safety and health statistical 
+programs. Mercer ORC Networks 
+believes that we are overdue for another 
+systems-wide review . . . The initial 
+cost for such a review might seem high 
+given the current budget climate. 
+However, we are convinced that the 
+investment would be ‘drop in the 
+bucket’ compared to the potential 
+savings in program efficiencies and 
+improvements in prevention 
+effectiveness’’ (Ex. 68). 
+OSHA agrees with Mercer ORC’s 
+assessment that improvement can and 
+should be made to the current 
+occupational injury and illness 
+collecting and reporting system. OSHA 
+believes this rulemaking addresses some 
+of the system shortfalls by expanding 
+the data that are collected (e.g., in- 
+patient hospitalizations, amputations, 
+and losses of an eye) and by readjusting 
+the scope of the regulation to cover 
+industries that will benefit from the 
+availability and use of the injury and 
+illness information captured on the 
+recordkeeping forms. In addition to this 
+rulemaking, the Agency has taken other 
+steps to address system shortfalls 
+including increased enforcement and 
+outreach activities. BLS and NIOSH 
+have also taken positive steps to identify 
+and address gaps in collecting and 
+reporting on occupational injury and 
+illness data. Finally, as stated above, 
+OSHA is planning a new re-examination 
+of the Agency’s recordkeeping 
+regulations. Improvement of the system 
+is an ongoing effort, and OSHA will 
+consider Mercer ORC’s 
+recommendation. 
+D. The Final Rule 
+The final rule is similar to the 
+proposed rule in requiring employers to 
+report all work-related fatalities, in- 
+patient hospitalizations, and 
+amputations. However, there are also 
+several differences from the proposed 
+rule. The differences include the time 
+periods for reporting the event, the time 
+periods between the work-related 
+incident and the reportable event, 
+definitions, and reporting options. In 
+addition, the final rule adds work- 
+related losses of an eye to the list of 
+events that employers are required to 
+report to OSHA. 
+Under the final rule, employers must 
+report the following events: 
+1. Each fatality resulting from a work- 
+related incident, within 8 hours of the 
+death. This requirement applies to all 
+fatalities occurring within 30 days of a 
+work-related incident. See 
+§ 1904.39(a)(1) and (b)(6). This is the 
+same as the current regulation and the 
+proposed rule. 
+2. Each in-patient hospitalization 
+resulting from a work-related incident, 
+within 24 hours of the hospitalization. 
+This requirement applies to all in- 
+patient hospitalizations occurring 
+within 24 hours of a work-related 
+incident. See § 1904.39(a)(2) and (b)(6). 
+Under the proposed rule, employers 
+would have been required to report all 
+in-patient hospitalizations within 8 
+hours, for hospitalizations occurring 
+within 30 days of a work-related 
+incident. Under the current regulation, 
+employers are required to report, within 
+8 hours, in-patient hospitalizations of 
+three or more employees, for 
+hospitalizations occurring within 30 
+days of a work-related incident. 
+3. Each amputation resulting from a 
+work-related incident, within 24 hours 
+of the amputation. This requirement 
+applies to all amputations occurring 
+within 24 hours of a work-related 
+incident. See § 1904.39(a)(2) and (b)(6). 
+Under the proposed rule, employers 
+would have been required to report all 
+amputations within 24 hours, for 
+amputations occurring within 30 days of 
+a work-related incident. Under the 
+current regulation, employers are not 
+required to report amputations. 
+4. Each loss of an eye resulting from 
+a work-related incident, within 24 hours 
+of the loss of an eye. This requirement 
+applies to all losses of an eye occurring 
+within 24 hours of a work-related 
+incident. See § 1904.39(a)(2) and (b)(6). 
+The proposed rule would not have 
+required employers to report losses of 
+an eye, and the current regulation also 
+does not require them to do so. 
+Other major differences between the 
+final rule and the proposed rule include 
+the following: 
+1. In the final rule, the regulatory text 
+provides an explicit definition of in- 
+patient hospitalization (see 
+§ 1904.39(b)(9) and (b)(10)). In the 
+proposed rule, the regulatory text did 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00027 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2
+--- page 17 ---
+56156 Federal Register / Vol. 79, No. 181 / Thursday, September 18, 2014 / Rules and Regulations 
+not include a definition. The final rule 
+defines in-patient hospitalization as a 
+formal admission to the in-patient 
+service of a hospital or clinic for care or 
+treatment. Employers do not have to 
+report in-patient hospitalizations that 
+involve only observation and/or 
+diagnostic testing. 
+2. In the final rule, the definition of 
+amputations comes from the 2010 
+release (OIICS Version 2.0) of the BLS 
+OIICS Manual (see § 1904.39(b)(11)). In 
+the proposed rule, the definition of 
+amputations came from the 2007 release 
+of the BLS OIICS Manual. The final rule 
+defines amputations as the traumatic 
+loss of a limb or other external body 
+part. Amputations include a part, such 
+as a limb or appendage, that has been 
+severed, cut off, amputated (either 
+completely or partially); fingertip 
+amputations with or without bone loss; 
+medical amputations resulting from 
+irreparable damage; amputations of 
+body parts that have since been 
+reattached. Amputations do not include 
+avulsions, enucleations, deglovings, 
+scalpings, severed ears, or broken or 
+chipped teeth. 
+3. In the final rule, employers have 
+three options for reporting the fatality, 
+in-patient hospitalization, amputation, 
+or loss of an eye (see § 1904.39(a)(3) and 
+(b)(1)): (1) by telephone or in person to 
+the OSHA Area Office that is nearest to 
+the site of the incident; (2) by telephone 
+to the OSHA toll-free central telephone 
+number, 1–800–321–OSHA (1–800– 
+321–6742); (3) by electronic submission 
+using the fatality/injury/illness 
+reporting application located on 
+OSHA’s public Web site at 
+www.osha.gov. Under both the proposed 
+rule and the current regulation, only the 
+first two options were available. The 
+electronic submission option is new for 
+the final rule. 
+4. In the final rule, if employers do 
+not learn about a reportable fatality, in- 
+patient hospitalization, amputation, or 
+loss of an eye when the event happens, 
+they must report to OSHA within a 
+specified time period after the event has 
+been reported to the employer or to any 
+of the employer’s agent(s) (see 
+§ 1904.39(b)(7)). Under both the 
+proposed rule and the current 
+regulation, the specified time period 
+began after a report to the employer or 
+to any of the employer’s agent(s) or 
+employee(s). 
+Overall, the final rule will provide 
+OSHA with more information about 
+serious workplace injuries and illnesses. 
+This information will allow OSHA to 
+carry out timely investigations of these 
+events as appropriate, leading to the 
+mitigation of related hazards and the 
+prevention of further events at the 
+workplaces where the events occurred. 
+This information will also help OSHA 
+establish a comprehensive database that 
+the Agency, researchers, and the public 
+can use to identify hazards related to 
+reportable events and to identify 
+industries and processes where these 
+hazards are prevalent. Finally, this 
+information will be obtained cost- 
+effectively, with a relatively minimal 
+estimated average burden on employers 
+of 30 minutes per reported incident. 
+In addition, the final rule will make 
+OSHA’s reporting requirements more 
+similar to the requirements of other 
+agencies. For example, the National 
+Transportation Safety Board (NTSB) 
+requires aircraft pilots or operators to 
+report aviation accidents involving 
+death, serious injury, or substantial 
+damage to an aircraft, as well as non- 
+accidents that affect or could affect the 
+safety of operations. The Federal 
+Railroad Administration (FRA) requires 
+railroads to complete reports and 
+records of accidents and incidents. 
+These accidents and incidents include 
+significant injuries to or significant 
+illnesses of railroad employees 
+diagnosed by a physician or other 
+licensed health care professional. They 
+also include collisions, derailments, 
+fires, explosions, acts of God, or other 
+events involving the operation of 
+railroad on-track equipment and causing 
+reportable damages greater than the 
+reporting threshold for the year ($9,200 
+in 2010). 
+Finally, the changes will make 
+OSHA’s reporting requirements more 
+similar to the current requirements in 
+some states that administer their own 
+occupational safety and health program, 
+as follows: 
+• Alaska requires employers to report, 
+within 8 hours, occupational accidents 
+that result in the death or overnight 
+hospitalization of one or more 
+employees (AS 18.60.058). This 
+requirement has been in effect since 
+1976. 
+• California requires employers to 
+‘‘report immediately by telephone or 
+telegraph to the nearest District Office of 
+the Division of Occupational Safety and 
+Health any serious injury or illness, or 
+death, of an employee occurring in a 
+place of employment or in connection 
+with any employment.’’ ‘‘Immediately’’ 
+means ‘‘as soon as practically possible 
+but not longer than 8 hours after the 
+employer knows or with diligent 
+inquiry would have known of the death 
+or serious injury or illness’’ (Title 8, 
+California Code of Regulations, Section 
+342(a)). ‘‘Serious injury or illness’’ 
+means ‘‘any injury or illness occurring 
+in a place of employment or in 
+connection with any employment which 
+requires inpatient hospitalization for a 
+period in excess of 24 hours for other 
+than medical observation or in which an 
+employee suffers a loss of any member 
+of the body or suffers any serious degree 
+of permanent disfigurement’’ (Title 8, 
+California Code of Regulations, Section 
+330(h)). This requirement has been in 
+effect since 1979. 
+• Kentucky requires employers to 
+report workplace fatalities, amputations, 
+and hospitalizations. Employers must 
+report fatalities and hospitalizations of 
+three or more employees within 8 hours, 
+and amputations and hospitalizations of 
+one or two employees within 72 hours 
+(803 KAR 2:180). This requirement has 
+been in effect since 2006. 
+• Oregon requires employers to report 
+work-related incidents that cause 
+overnight hospitalizations, catastrophes, 
+or fatalities, including heart attacks and 
+motor vehicle accidents. Employers 
+must report fatalities and catastrophes 
+(three or more employees admitted to a 
+hospital) within 8 hours of the incident, 
+and overnight hospitalization of at least 
+one employee for medical treatment 
+within 24 hours of the incident (OAR– 
+437–001–0700). The single- 
+hospitalization requirement has been in 
+effect since 1992. 
+• Utah requires employers to report, 
+within 8 hours of occurrence, work- 
+related fatalities, disabling, serious, or 
+significant injuries, and occupational 
+disease incidents (Utah Occupational 
+Safety and Health Rule, R614–1–5.C). 
+This requirement has been in effect 
+since 2002. 
+• Washington requires employers to 
+report, within 8 hours, the death, or 
+probable death, of any employee, or the 
+in-patient hospitalization of any 
+employee (WAC 296–800–32005). This 
+requirement has been in effect since 
+2009. 
+Note that, under the final rule, as 
+under the proposed rule and the current 
+regulation, employers are not required 
+to report events resulting from motor 
+vehicle accidents that occurred on a 
+public street or highway, but not in a 
+construction work zone (see Section 
+1904.39(b)(3)). Employers are required 
+to report events resulting from motor 
+vehicle accidents that occurred 
+anywhere else, including in a 
+construction work zone on a public 
+street or highway, or on other roadways, 
+or off-road. 
+A summary comparison of the 
+proposed rule and the final rule is 
+below: 
+VerDate Sep<11>2014 17:39 Sep 17, 2014 Jkt 232001 PO 00000 Frm 00028 Fmt 4701 Sfmt 4700 E:\FR\FM\18SER2.SGM 18SER2asabaliauskas on DSK5VPTVN1PROD with RULES2

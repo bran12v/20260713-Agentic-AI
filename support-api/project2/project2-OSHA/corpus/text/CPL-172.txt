@@ -1,0 +1,1026 @@
+
+--- page 1 ---
+ 
+ 
+ 
+10 
+ 
+Section 1904.3 provides that OSHA will accept injury and illness records in place 
+of the employer's Part 1904 records under two circumstances: (1) if OSHA has 
+entered into a memorandum of understanding (MOU) with that agency that 
+specifically accepts the other agency's records, then the employer may use them 
+in place of the OSHA records; or (2) if the other agency's records include the 
+same information required by Part 1904, because OSHA would consider them an 
+acceptable substitute. 
+ 
+D. Forms.   
+Section 1904.29 directs employers who are required to keep OSHA injury and 
+illness records to use three forms for recordable injuries and illnesses: Form 300 
+(also called the OSHA 300 Log), Log of Work-Related Injuries and Illnesses, Form 
+300A, Summary of Work-Related Injuries and Illnesses, and Form 301, Injury and 
+Illness Incident Report, or equivalent forms. Employers are required to keep 
+separate OSHA 300 Logs for each establishment that is expected to be in 
+operation for one year or longer.  Under section 1904.31, the OSHA 300 Log 
+must include injuries and illnesses to employees on the employer's payroll as 
+well as injuries and illnesses of other workers the employer supervises on a day-
+to-day basis, such as temporary workers or contractor workers who are subject 
+to daily supervision by the employer. 
+ 
+Note:  An equivalent form is one that has the same information, is as readable 
+and understandable, and is completed using the same instructions as the OSHA 
+form it replaces.  Some employers use an insurance form instead of the OSHA 
+Form 301 or supplement an insurance form by adding any additional information 
+required by OSHA.  (See section 1904.29(b)(4) and FAQ 29-4). 
+ 
+E. Determining the Recordability of Fatalities, Injuries, or Illnesses.   
+Section 1904.4(a) mandates that each employer who is required by OSHA to 
+keep records must record each fatality, injury or illness that meets the following: 
+(1) it is work-related; (2) it is a new case and not a continuation of an old case; 
+and (3) it meets one or more of the general recording criteria in section 1904.7 
+or the additional criteria for specific cases found in sections 1904.8 through 
+1904.11. Fatalities, injuries, and illnesses that meet these criteria must be 
+recorded on the employer’s OSHA Forms 300, 300A, and 301, or equivalent 
+forms. 
+ 
+1. Work Relationship.  Section 1904.5(a) states that "[the employer] must 
+consider an injury or illness to be work-related if an event or exposure in 
+the work environment either caused or contributed to the resulting 
+condition.  Work-relatedness is presumed for injuries and illnesses 
+resulting from events or exposures occurring in the work environment, 
+unless an exception in [section] 1904.5(b)(2) specifically applies." Under 
+this provision, a case is presumed work-related if, and only if, an event or 
+--- page 2 ---
+ 
+ 
+ 
+11 
+ 
+exposure in the work environment is a discernable cause of the injury or 
+illness, or of a significant aggravation to a pre-existing condition.  The 
+work event or exposure need only be one of the discernable causes; it 
+need not be the sole or predominant cause.  
+ 
+Under section 1904.5(b)(3), if it is not obvious whether the precipitating 
+event or exposure occurred in the work environment or elsewhere, the 
+employer "must evaluate the employee's work duties and environment 
+to decide whether or not one or more events or exposures in the work 
+environment caused or contributed to the resulting condition or 
+significantly aggravated a pre-existing condition."  This means that the 
+employer must determine whether it is more likely than not that work 
+events or exposures were a cause of the injury or illness, or of a 
+significant aggravation to a pre-existing condition.  (As also discussed 
+under section XIV. of this instruction, Citations and Penalties for Violation 
+of Part 1904 Requirements, if the employer decides the case is not work-
+related, but OSHA disagrees and issues a citation for failure to record, 
+then OSHA will have the burden of proving that the fatality, injury, or 
+illness case was work-related.)  
+ 
+Exceptions. Situations in which the employee’s injury or illness meets one 
+or more of the listed exceptions in section 1904.5(b)(2) are not 
+considered work-related and are therefore not recordable. Specifically, 
+OSHA recording requirements do not apply if: 
+ 
+a. The employee is present as a member of the general public, 
+rather than as an employee, at time of injury or illness; 
+b. Symptoms arise in a work environment that are solely due to non-
+work-related event or exposure; (Regardless of where signs or 
+symptoms surface, a case is work-related only if a work event or 
+exposure is a discernable cause of the injury or illness or of a 
+significant aggravation to a pre-existing condition. See OSHA’s 
+January 13, 2004 LOI regarding section 1904.5, Determining work-
+relatedness when the work event or exposure is only one of the 
+discernable causes; not the sole or predominant cause.)  
+c. The injury or illness results solely from voluntary participation in 
+wellness program, medical, fitness or recreational activity; 
+d. The injury or illness results solely from eating, drinking, or 
+preparing food or drink for personal consumption; 
+e. The injury or illness results solely from personal tasks outside 
+assigned working hours; 
+f. The injury or illness results solely from personal grooming, self-
+medication for non-work-related condition, or intentionally self-
+inflicted; 
+--- page 3 ---
+ 
+ 
+ 
+12 
+ 
+g. The injury or illness is caused by a motor vehicle accident in the 
+parking lot or company access road during commute; 
+h. The illness is the common cold or flu; or 
+i. The illness is a mental illness, unless the employee voluntarily 
+provides the employer with an opinion from a physician or 
+licensed health care professional (PLHCP) with appropriate 
+training and experience (i.e. a psychiatrist, psychologist, 
+psychiatric nurse practitioner, etc.) stating that the employee has 
+a mental illness that is work-related, and that the case meets one 
+or more of the general recordkeeping criteria in section 1904.7.  
+ 
+Note:  Exposures to substances or communicable disease that do not 
+result in signs or symptoms of an injury or illness are not recordable 
+under Part 1904 even if they involve medical treatment beyond first aid, 
+days away from work, restricted work activity or job transfer. (For 
+example, see OSHA’s September 14, 2017 LOI, Determining if the 
+employees experienced an injury or illness due to an exposure.) 
+ 
+2. New Case.  Only new cases are recordable. Section 1904.6 provides that 
+work-related injuries and illnesses are considered to be new cases when: 
+(1) the employee has not previously experienced a recorded injury or 
+illness of the same type that affected the same part of the body; or (2) 
+the employee previously experienced a recorded injury or illness of the 
+same type that affected the same part of the body but had recovered 
+completely (all signs and symptoms of the previous injury or illness had 
+disappeared) from the previous injury or illness and an event or exposure 
+in the work environment caused the signs or symptoms to reappear. 
+ 
+As with employer determinations of work-relatedness under section 
+1904.5, employers may (but are not required to) seek the advice of a 
+physician or other licensed healthcare professional (PLHCP) to determine 
+whether an injury or illness is a new case or recurrence. (See section 
+1904.6(b)(3).) 
+ 
+3. General Recording Criteria.  Employers must record work-related injuries 
+and illnesses that meet one or more of the general recording criteria in 
+section 1904.7 or the additional criteria for specific cases found in 
+sections 1904.8 through 1904.11.  A work-related injury or illness meets 
+the general recording criteria when it results in one or more of the 
+following: 
+a.  Death 
+b. Days Away from Work 
+c.  Restricted Work 
+d. Transfer to Another Job 
+--- page 4 ---
+ 
+ 
+ 
+13 
+ 
+e. Medical Treatment Beyond First Aid 
+f. Loss of Consciousness 
+g. Diagnosis of a Significant Injury or Illness 
+ 
+These recording criteria are described in greater detail below. 
+ 
+4. Multiple Applicable Recording Criteria. Although most cases are 
+recorded because they meet one of these criteria, some cases may meet 
+more than one criterion. The outcomes listed on the OSHA Form 300 
+include, death, days away, restricted work/job transfer, and “other 
+recordable.” Employers must classify each case on the OSHA 300 Log in 
+accordance with the most serious outcome of the injury or illness.   
+ 
+For example, an injured worker may initially be sent home to recuperate 
+(making the case recordable as a "days away" case) and then 
+subsequently return to work on a restricted ("light duty") basis (meeting 
+a second criterion, that for restricted work). For cases that result in both 
+days away from work and days of restricted work activity/job transfer, 
+the case must be classified as days away from work (Column H on the 
+Form 300 Log).  For cases resulting in either days away from work or 
+restricted work/job transfer, the employer must track the number of 
+calendar days involved and enter the total on the OSHA 300 Log.  The 
+employer may stop counting when the total number of days away from 
+work or restricted work activity/job transfer, or combination of both, 
+reaches 180 calendar days.  
+ 
+5. Counting Days. The OSHA 300 Log requires the employer to note the 
+number of days that the employee is unable to work as a result of the 
+injury or illness, or the number of days that a workers is under restricted 
+work, or transferred to another job.  Section 1904.7(b)(3)(i) states that 
+the employer is not to count the day of injury or illness, but is to begin 
+counting days away on the following day. Section 1904.7(b)(3)(vii) 
+provides a cap of 180 days.  Employers must count the number of 
+calendar days the employee was unable to work as a result of the injury 
+or illness regardless of whether the employee was scheduled to work on 
+those days, including weekend days, holidays or other days off. (See 
+section 1904.7(b)(3)(iv).)  Under section 1904.7(b)(3)(vii), the employer 
+may stop counting days away from work if an employee who is away 
+from work because of an injury or illness leaves the company for some 
+reason unrelated to the injury or illness, such as retirement or a plant 
+closing. Cases involving restricted work or transfers are counted in the 
+same way as cases involving days away from work, except that if an 
+employee is permanently assigned to a new or modified job, the 
+--- page 5 ---
+ 
+ 
+ 
+14 
+ 
+employer may stop the day count (although at least one day of restricted 
+work or job transfer must be counted) (See 1904.7(b)(4)(xi).)   
+ 
+6. Most Authoritative Medical Opinion.  In cases where two or more 
+physicians or other licensed health care professionals (PLHCP) make 
+conflicting or differing recommendations related to recordability of an 
+employee injury or illness, the employer must make a decision as to 
+which recommendation is the most authoritative (best documented, best 
+reasoned, or most persuasive), and record the case based on that 
+recommendation.  This concept applies to cases that involve 
+determinations as to whether an injury or illness is a new case, or 
+whether an injury or illness results in days away from work or restricted 
+work activity. 
+ 
+It is imperative that the PLHCPs involved in the examination of the 
+employee see the exact same condition.  If the employee’s condition 
+either improves or worsens between the examinations, the concept does 
+not apply.  
+  
+Several criteria can be considered by the employer in evaluating whether 
+the PLHCPs involved are seeing the same condition: 
+a. Whether examination of the patient is in person (i.e. review of 
+documents only cannot be substituted for a physical 
+examination); 
+b.  Whether the examinations are contemporaneous; 
+c.  Whether the employee was subject to additional exposures 
+between the examinations; and 
+d.  Whether medical treatment, restricted work activity, or days 
+away from work occurred between the examinations.   
+ 
+If all of the above criteria are met, the employer may rely on the most 
+authoritative medical opinion. If these criteria are not met, this may 
+indicate the PLHCPs are not seeing the same condition. OSHA would 
+consider the medical treatment and days away from work directed by the 
+second physician as necessary unless the employer can document that 
+the first opinion was based on the exact same condition and is most 
+authoritative. (See FAQ  7-10a and OSHA’s February 25, 2011 LOI, 
+Clarification of the terms most authoritative and pre-existing conditions 
+as used for recording purposes.) 
+ 
+7. Days Away from Work. Section 1904.7(b)(3) addresses how to record a 
+work-related injury or illness when it involves one or more days away 
+from work. If a physician or licensed health care professional 
+recommends days away, an employer should encourage the employee to 
+--- page 6 ---
+ 
+ 
+ 
+15 
+ 
+follow that recommendation and count those days as days away from 
+work. Section 1904.7(b)(3)(ii) provides that the employer must count 
+those days as days away whether the injured or ill employee follows the 
+recommendation or not.   
+ 
+8. Restricted Work.  Under section 1904.7(b)(4)(i), an employee's work is 
+considered restricted when, as a result of a work-related injury or illness: 
+(1) the employer keeps the employee from performing one or more of 
+the routine functions of their job (job functions that the employee 
+regularly performs at least once per week), or from working the full 
+workday that they would otherwise have been scheduled to work; or (2) 
+a physician or other licensed health care professional recommends that 
+the employee not perform one or more of the routine functions of their 
+job, or not work the full workday that they would otherwise have been 
+scheduled to work. Note that several OSHA LOIs provide clarifications on 
+whether to record days as restricted work or days away from work. 
+ 
+a.  Employer-restricted work - If an employee has a work-related 
+injury or illness, and that employee's work is restricted by the 
+employer to prevent exacerbation of, or to allow recuperation 
+from, that injury or illness, the case is recordable as a restricted 
+work case.  For example, an employee who sustains burns to their 
+arm while working in a radiological area is treated on-site with 
+over-the-counter medication and a bandage and released with no 
+restrictions in performing their routine job functions.  The 
+company, in accordance with its policy, restricts the employee 
+from working in the radiological area for two days until his burn 
+scabs over.  This would be considered a restricted work case. (See 
+OSHA’s February 12, 2015 LOI regarding section 1904.7, 
+Clarification regarding the applicability of the recording criteria 
+involving restricted work.) 
+ 
+However, a case is not recordable under section 1904.7(b)(4) as a 
+restricted work case if the employee experiences minor injury or 
+illness – for example musculoskeletal discomfort, and a health 
+care professional determines that the employee is fully able to 
+perform all their routine job functions, but the employer assigns a 
+work restriction to that employee for the purpose of preventing a 
+more serious condition from developing.  (See FAQ 7-19.) 
+ 
+b.  Recommendations from physician or other licensed health care 
+professional - If a physician or licensed health care professional 
+determines an employee may work with restricted work duties, 
+the employer must evaluate the restriction in light of the routine 
+--- page 7 ---
+ 
+ 
+ 
+16 
+ 
+job functions to determine whether the restriction keeps the 
+employee from performing any job functions. (See section 
+1904.7(b)(4)(iv).)  
+ 
+As with days away, if a physician or other licensed healthcare 
+professional recommends a job restriction that affects an 
+employee’s routine job functions, but the employee does all of 
+their routine work, the employer must still record the injury or 
+illness as a restricted work case. (See section 1904.7(b)(4)(viii).) 
+ 
+Conversely, if the physician or licensed health care professional 
+recommends restricted work but the employee decides to stay 
+home, such time should be counted as restricted work rather than 
+days away if the employer determines the employee was able to 
+come to work and perform restricted work.  However, if an 
+employer has no restricted work available to an employee placed 
+on restricted work and sends the employee home, that time 
+should be counted as days away from work. (See, for example, 
+OSHA’s August 3, 2006 LOI regarding section 1904.7, Recording an 
+injury when physician recommends restrictions but no restricted 
+work is available.)  
+ 
+ 
+9. Transfer to Another Job.  Under section 1904.7(b)(4)(ix), if an employer 
+assigns an injured or ill employee to a job other than their regular job for 
+part of the day, the case involves transfer to another job.  This does not 
+include the day on which the injury or illness occurred.  For example, if an 
+employer assigns, or a physician or other licensed health care 
+professional recommends an employer to assign, an injured or ill worker 
+to their routine job duties for part of the day and to another job for the 
+rest of the day, the injury or illness involves a job transfer.  Under section 
+1904.7(b)(4)(x), both job transfer and restricted work cases are recorded 
+in the same box on the OSHA 300 Log.   
+ 
+10. Medical Treatment Beyond First Aid.  Work-related injuries and illnesses 
+that result in medical treatment beyond first aid meet the general 
+recording criteria.  Section 1904.7(b)(5)(i) provides that medical 
+treatment means the management and care of a patient to combat 
+disease or disorder.  However, for purposes of Part 1904, medical 
+treatment does not include: (1) visits to a physician or licensed healthcare 
+professional solely for observation or counseling; (2) the conduct of 
+diagnostic procedures, such as x-rays and blood tests, including the 
+administration of prescription medications used solely for diagnostic 
+--- page 8 ---
+ 
+ 
+ 
+17 
+ 
+purposes (e.g., eye drops to dilate pupils); and (3) “first aid,” as defined in 
+section 1904.7(b)(5)(ii).   
+ 
+For purposes of Part 1904, section 1904.7(b)(5)(ii) provides that first aid 
+includes: 
+ 
+a. Using a nonprescription medication at nonprescription strength;  
+(For medications available in both prescription and non-
+prescription form, a recommendation by a physician or other 
+licensed health care professional to use a non-prescription 
+medication at prescription strength is considered medical 
+treatment for recordkeeping purposes. See section 
+1904.7(b)(5)(iv) and see FAQ 7-8.) 
+b. Administering tetanus immunizations;  
+(Other immunizations, such as hepatitis B vaccine or rabies 
+vaccine, are considered medical treatment.) 
+c.  Cleaning, flushing or soaking wounds on the surface of the skin; 
+d.  Using wound coverings, such as bandages, Band-Aids®, gauze 
+pads, etc.; or using butterfly bandages or Steri-Strips® (other 
+wound closing devices, such as sutures, staples, etc. are 
+considered medical treatment); 
+e.  Using hot or cold therapy; 
+f.  Using any non-rigid means of support, such as elastic bandages, 
+wraps, non-rigid back belts, etc.;  
+(Devices with rigid stays or other systems designed to immobilize 
+parts of the body are considered medical treatment for 
+recordkeeping purposes.) 
+g.  Using temporary immobilization devices while transporting an 
+accident victim (e.g., splints, slings, neck collars, back boards, 
+etc.); 
+h.  Drilling of a fingernail or toenail to relieve pressure, or draining 
+fluid from a blister; 
+i.  Using eye patches; 
+j.  Removing foreign bodies from the eye using only irrigation or a 
+cotton swab; 
+k.  Removing splinters or foreign material from areas other than the 
+eye by irrigation, tweezers, cotton swabs or other simple means; 
+l.  Using finger guards; 
+m.  Using massages (physical therapy or chiropractic treatment are 
+considered medical treatment for recordkeeping purposes); and 
+n.  Drinking fluids for relief of heat stress. 
+(However, note that intravenous administration of fluids to treat 
+heat stress is medical treatment. See Recordkeeping FAQ 7-6.) 
+--- page 9 ---
+ 
+ 
+ 
+18 
+ 
+Any treatment not included on this list is considered medical treatment 
+beyond first aid for OSHA recordkeeping purposes, and thus would be 
+recordable. 
+ 
+Note:  OSHA considers the above treatments to be first aid regardless of 
+the professional status of the person providing the treatment.  
+Consequently, even when the treatments are provided by a physician or 
+other licensed healthcare professional, they are still considered first aid 
+for purposes of Part 1904. 
+ 
+The application of a first aid treatment detailed in section 1904.7(b)(5)(ii) 
+to treat a work-related injury, or illness is considered first aid for 
+purposes of OSHA recordkeeping, regardless of the number of times the 
+treatment is applied.  In other words, if an injured or ill employee is given 
+first aid treatment, such as hot or cold therapy, massage, or some other 
+treatment on the first aid list, that treatment should not be considered 
+medical treatment beyond first aid for OSHA recordkeeping purposes, 
+even when such treatment is provided over a long period of time or 
+involves multiple applications.  For example, if a work-related injury or 
+illness is treated only with multiple doses of a nonprescription 
+medication (e.g., ibuprofen or acetaminophen) at nonprescription 
+strength, and the employee continues to work a full day and perform all 
+routine job functions, the injury or illness does not result in medical 
+treatment and is not recordable.   
+ 
+However, repeated application of treatments included on the Part 1904 
+first aid list might be an indication that further necessary medical care is 
+not being provided to an injured or ill employee.  In such a case, the 
+employer might be using repeated applications of first aid as a way to 
+avoid the use of “medical treatment beyond first aid.” (See additional 
+guidance in OSHA’s May 2, 2024 Memorandum, Enforcement Guidance 
+Under OSHA's Recordkeeping Regulation When First Aid, Active Release 
+Techniques (ART), and Exercise/Stretching Are Used to Treat 
+Musculoskeletal Injuries and Illnesses.) 
+ 
+11. Diagnosis of a Significant Injury or Illness.  Section 1904.7 requires 
+employers to record a significant work-related injury or illness diagnosed 
+by a physician or other licensed health care professional, even if it does 
+not result in death, days away from work, restricted work or job transfer, 
+medical treatment beyond first aid, or loss of consciousness.   
+ 
+Section 1904.7(b)(7) specifies which significant, diagnosed work-related 
+injuries and illnesses OSHA require recording. They are: work-related 
+cancer, chronic irreversible disease such as silicosis or byssinosis, 
+--- page 10 ---
+ 
+ 
+ 
+19 
+ 
+punctured eardrum, or fractured or cracked bone.  OSHA has also 
+clarified that this includes fractured teeth.  (See OSHA’s 2001 Federal 
+Register Notice, Vol. 66, page 5995).  This list is exhaustive; no other 
+conditions are considered a significant injury or illness for recordkeeping 
+purposes under this provision. 
+ 
+12. Needlestick and Sharps Injuries.  Section 1904.8 addresses the recording 
+of work-related injuries and illnesses involving punctures, cuts and 
+lacerations caused by needles or other sharp objects contaminated or 
+reasonably anticipated to be contaminated with blood or other 
+potentially infectious materials that may lead to bloodborne disease such 
+as AIDs, hepatitis B or hepatitis C.  The recordkeeping regulation uses the 
+terms “contaminated,” “other potentially infectious materials,” and 
+“occupational exposure” as these terms are defined in OSHA’s 
+Bloodborne Pathogens standard at 29 CFR 1910.1030. 
+ 
+Additional compliance guidance is outlined in 29 CFR 1904.8 of the 
+recordkeeping regulation and section X. of OSHA Instruction CPL 02-02-
+069, Enforcement Procedures for the Occupational Exposure to 
+Bloodborne Pathogens. 
+ 
+a. Using the OSHA Forms 300 and 301 to record needlestick and 
+sharp injuries - Section 1904.8(a) requires employers to record on 
+the OSHA 300 Log all work-related needlestick and sharps injuries 
+involving objects contaminated (or reasonably anticipated to be 
+contaminated) with another person's blood or other potentially 
+infectious material.  Employers may use the OSHA Forms 300 and 
+301 to meet the sharps injury log requirement in OSHA’s 
+Bloodborne Pathogens standard at 29 CFR 1910.1030(h)(5), if the 
+employer enters the type and brand of the device causing the 
+sharps injury on the OSHA 300 Log and maintains the records in a 
+way that segregates sharps injuries from other types of work-
+related injuries and illnesses or allows sharps injuries to be easily 
+separated. 
+ 
+When recording cases under section 1904.8, paragraph (a) 
+prohibits the employer from entering the affected employee’s 
+name on the OSHA 300 Log.  Instead, the employer must enter 
+“privacy concern case” in the space reserved for the employee’s 
+name.  The employer then keeps a separate, confidential list of 
+privacy concern cases with the case number from the OSHA 300 
+Log and the corresponding employee name.  (See the 
+requirements for privacy concern cases in section 1904.29(b)(6) 
+through(b)(9).) 
+--- page 11 ---
+ 
+ 
+ 
+20 
+ 
+ 
+b. Cuts caused by non-contaminated sharp instruments - Although 
+the regulation requires the recording of all workplace cut and 
+puncture injuries resulting from an event involving contaminated 
+sharps, it does not require the recording of all cuts and punctures.  
+For example, a cut made by a knife or other sharp instrument that 
+was not contaminated (or reasonably anticipated to be 
+contaminated) by blood or other potentially infectious material 
+would not generally be recordable, and a laceration made by a 
+dirty tin can or greasy tool would also generally not be recordable, 
+providing that the injury did not result from a contaminated sharp 
+and did not meet one of the general recording criteria. Section 
+1904.8(b)(2) includes provisions indicating which cuts and 
+punctures must be recorded because they involve contaminated 
+sharps, and which must be recorded only if they meet the general 
+recording criteria in section 1904.7. 
+ 
+c.  Updating OSHA Form 300 where injury leads to bloodborne 
+illness - Section 1904.8(b)(3) contains requirements for updating 
+the OSHA 300 Log when a worker experiences a wound caused by 
+a contaminated needle or sharp and is later diagnosed as having a 
+bloodborne illness, such as AIDS, hepatitis B or hepatitis C. The 
+regulation requires the employer to update the classification of 
+such a privacy concern case on the OSHA 300 Log if the outcome 
+of the case changes, i.e., if it subsequently results in death, days 
+away from work, restricted work, or job transfer. The employer 
+must also update the case description on the Log to indicate the 
+name of the bloodborne illness and to change the classification of 
+the case from an injury (i.e., the needlestick) to an illness (i.e., the 
+illness that resulted from the needlestick). 
+ 
+d.  Contact with blood or infectious materials not involving 
+needlesticks or sharps - Section 1904.8(b)(4) addresses the 
+recording of cases involving workplace contact with blood or 
+other potentially infectious materials that do not involve 
+needlesticks or sharps, such as splashes to the eye, mucous 
+membranes, or non-intact skin.  The recordkeeping regulation 
+does not require employers to record these incidents unless they 
+result in the diagnosis of a bloodborne illness or meet one or 
+more of the general recording criteria in section 1904.7. 
+ 
+13. Cases Involving Medical Removal.  Section 1904.9 requires an employer 
+to record a case on the OSHA 300 Log if an employee is medically 
+removed from the workplace under the medical surveillance 
+--- page 12 ---
+ 
+ 
+ 
+21 
+ 
+requirements of an OSHA standard.  The employer must enter each 
+medical removal case on the OSHA 300 Log as a case involving either days 
+away from work (if the employee does not work during the medical 
+removal) or as restricted work activity (if the employee continues to 
+work, but in an area where exposures are not present).  If the medical 
+removal is the result of a chemical exposure, the employer must enter 
+the case on the Form 300 Log by checking the “poisoning” column. 
+ 
+The following standards have medical surveillance requirements which 
+include medical removal requirements: 
+a. Benzene. General industry Standard (section 1910.1028(i)); 
+Shipyard standard (§1915.1028); and Construction Standard 
+(section 1926.1128) 
+b. Cadmium. General Industry Standard (section 1910.1027(l)); 
+Shipyard Standard (section 1915.1027); and Construction 
+Standard (section 1926.1127) 
+c. Formaldehyde. General Industry Standard (section 1910.1048(l)); 
+Shipyard Standard (section 1915.1048); and Construction 
+Standard (section 1926.1148) 
+d. Lead. General Industry Standard (section 1910.1025); Shipyard 
+Standard (section 1915.1025); and Construction Standard (section 
+1926.62) 
+e. Methylenedianiline. General Industry Standard (section 
+1910.1050(m)); Shipyard Standard (section 1915.1050); and 
+Construction Standard (section 1926.60(n)) 
+f. Methylene Chloride. General Industry Standard (section 
+1910.1052(j)); Shipyard standard (section 1915.1052); 
+Construction standard (section 1926.1152) 
+g. Vinyl Chloride. General industry Standard (section 1910.1017(k)); 
+Shipyard Standard (section 1915.1517); and Construction 
+Standard (section 1926.1117) 
+h. Beryllium. General Industry Standard (section 1910.1024(l); 
+Construction Standard (section 1926.1124(l), and Maritime 
+Standard (section 1915.1024(l)). 
+ 
+Note:  In some cases, employers voluntarily rotate employees from one 
+job to another to reduce exposure to hazardous substances.  Section 
+1904.9(b)(3) provides that an employer is not required to record a case of 
+medical removal on the OSHA 300 Log when the case involves voluntary 
+medical removal before the medical removal levels required by an OSHA 
+standard are reached. 
+ 
+14. Cases Involving Occupational Hearing Loss.  Section 1904.10(a) requires 
+employers to record work-related hearing loss cases when: (1) the 
+--- page 13 ---
+ 
+ 
+ 
+22 
+ 
+employee’s audiogram reveals a work-related Standard Threshold Shift 
+(STS) in hearing in one or both ears; and (2) the employee’s total hearing 
+level is 25 decibels (dB) or more above audiometric zero (averaged at 
+2000, 3000, and 4000 hertz (Hz)) in the same ear(s) as the STS.  An STS is 
+defined in OSHA’s Occupational Noise Exposure Standard at 29 CFR 
+1910.95(g)(i) as “a change in hearing threshold, relative to the baseline 
+audiogram for that employee, of an average of 10 dB or more at 2000, 
+3000, and 4000 (Hz)” in one or both ears. 
+ 
+Section 1904.10(b)(5) provides that there are no special rules for 
+determining the work-relatedness of hearing loss.  Employers must use 
+the rules in section 1904.5 to determine if the hearing loss is work-
+related.  A case is work-related if an event or exposure in the work 
+environment either caused or contributed to the hearing loss, or 
+significantly aggravated a pre-existing hearing loss.  It is not necessary for 
+the work environment to be the sole cause, or even the predominant 
+cause, of the hearing loss in order for the case to be work-related.  Any 
+contribution from work to the hearing loss makes a hearing loss case 
+work-related. 
+ 
+When evaluating the work-relatedness of a given hearing loss case, 
+employers should take several factors into consideration, including: 
+a.  The employee’s prior occupational and non-occupational noise 
+exposure.   
+b.  Calibration records and the audiometric testing environment. 
+c. The employee’s records, including medical records. 
+d. The employee’s workplace activities, age correction, and personal 
+medical conditions. 
+e. If an employee is working in a high-noise environment, whether 
+the employee is consistently and properly using hearing 
+protection devices (e.g., is the employee using the protection, 
+does it fit properly, and is it appropriate for the type of noise to 
+which the employee is being exposed). (See OSHA’s April 29, 2016 
+LOI, Recording criteria for cases involving occupational hearing 
+loss when employees use hearing protection.)  
+ 
+Note:  Many employers may be conducting audiometric testing pursuant 
+to OSHA’s Noise Standard at 29 CFR 1910.95. However, employers not 
+covered by section 1910.95 (e.g., construction, agriculture, oil and gas 
+servicing and drilling), but who voluntarily conduct audiometric testing of 
+employees, are also required to record a work-related hearing loss case if 
+the hearing loss meets the two-step criteria in Section 1904.10(a). 
+ 
+--- page 14 ---
+ 
+ 
+ 
+23 
+ 
+15. Work-Related Tuberculosis Cases.  Section 1904.11 requires employers 
+to record a case on the OSHA 300 Log when an employee has been 
+occupationally exposed to anyone with a known case of active 
+tuberculosis (TB), and that employee subsequently develops a TB 
+infection, as evidenced by a positive skin test or diagnosis by a physician 
+or other licensed healthcare professional.  For these cases, employers 
+must check the “respiratory condition” column.    
+ 
+Employers may line-out or erase recorded TB cases from the OSHA 300 
+Log if the case is not occupational. Section 1904.11(b)(2) lists the 
+following circumstances to assist employers to rule out cases where 
+occupational exposure is not the cause of the infection in the employee: 
+a.  The employee is living in a household with a person who has been 
+diagnosed with active TB; 
+b.  The Public Health Department identified the employee as a 
+contact of an individual with a case of active TB unrelated to the 
+workplace; or 
+c.  A medical investigation shows that the employee’s infection was 
+caused by exposure to TB away from work or proves that the case 
+was not related to the workplace TB exposure.    
+ 
+Additional information regarding the requirement to record work-related 
+TB cases is provided in section 1904.11 and OSHA Instruction CPL 02-02-
+078, Enforcement Procedures and Scheduling for Occupational Exposure 
+to Tuberculosis.   
+ 
+16. Musculoskeletal Disorders (MSDs).  Work-related injuries and illnesses 
+involving muscles, nerves, tendons, ligaments, joints, cartilage and spinal 
+discs are recordable under the same requirements applicable to any 
+other type of injury or illness.  These injuries are also referred to as 
+musculoskeletal disorders, or MSDs. There are no special rules for 
+recording these cases; if the case is work-related, a new case, and 
+involves medical treatment, days away, job transfer or restricted work 
+under the criteria in section 1904 described above in this section, it is 
+recordable.  As is the case with other injuries or illnesses, to avoid a 
+potential repetitive stress injury, an employer may choose to reassign an 
+employee with a work-related MSD condition before it becomes severe 
+enough to result in medical treatment beyond first aid, days away, 
+restricted work, or job transfer.  (See also, section 1904.7(b)(4), the 
+discussion above addressing restricted work under paragraph IX.E.8. of 
+this instruction, and additional guidance in OSHA’s May 2, 2024 
+Memorandum, Enforcement Guidance Under OSHA's Recordkeeping 
+Regulation When First Aid, Active Release Techniques (ART), and 
+--- page 15 ---
+ 
+ 
+ 
+24 
+ 
+Exercise/Stretching Are Used to Treat Musculoskeletal Injuries and 
+Illnesses.) 
+ 
+F. Deadline for Entering a Case.   
+Section 1904.29(b)(3) states that the employer must enter each case on the 
+OSHA 300 Log and OSHA 301 Form within 7 calendar days of receiving 
+information that a recordable injury or illness has occurred. In most cases, 
+employers know immediately or within a short time that a recordable case has 
+occurred. In a few cases, however, it may be several days before the employer is 
+informed that an employee's injury or illness meets one or more of the recording 
+criteria.  If the employer receives more information after entering a case, section 
+1904.33(b)(1) allows an employer to revise an entry on the OSHA 300 Log simply 
+by lining it out or amending it if further information justifying the revision 
+becomes available.  
+ 
+Note: There is an exception to the 7-day recording period if an employee 
+experiences a recordable hearing loss, and the employer elects to retest the 
+employee's hearing within 30 days. In that case, under section 1904.10(b)(4), the 
+employer can wait for the results of the retest before recording the case on the 
+OSHA 300 Log and Form 301 Incident Report. 
+ 
+G. Employee Privacy.  
+Section 1904.29(b)(6) and (b)(7) include requirements for employers to protect 
+the privacy of injured or ill employees when recording cases in certain types of 
+cases. In these cases, the employer may not enter the injured or ill employee's 
+name on the OSHA 300 Log. Instead, the employer must enter "privacy case," 
+and keep a separate, confidential list containing the identifying information for 
+those individuals.  If the work-related injury involves any of the following, it must 
+be recorded as a privacy case: 
+1. An injury or illness to an intimate body part or the reproductive system; 
+2. An injury or illness resulting from a sexual assault; 
+3. A mental illness; 
+4. HIV infection, Hepatitis, or Tuberculosis; 
+5. Needlestick and sharps injuries that are contaminated with another 
+person's blood or other potentially infectious material as defined by 29 
+CFR 1910.1030 (see additional discussion in paragraph IX.E.12. of this 
+instruction); or 
+6. Other illnesses, if the employee independently and voluntarily requests 
+that their name not be entered on the OSHA 300 Log.  
+ 
+This is a complete list. 
+ 
+Note: The employer may be required to provide the OSHA Forms 300 and 301 
+records to government representatives, employees, former employees or 
+--- page 16 ---
+ 
+ 
+ 
+31 
+ 
+regulation allows employers to petition OSHA if they want to maintain records in 
+a manner that is different from the approach required in 29 CFR 1904, rather 
+than following the procedures in 29 CFR 1905.  Section 1904.38 requires that 
+employers show that their alternative recordkeeping system: (1) collects the 
+same information as required by the Part 1904 regulation; (2) meets the 
+purposes of the OSH Act; and (3) does not interfere with the administration of 
+the OSH Act. (See section 1904.38 for specific requirements and variance 
+application and approval procedures.)   
+ 
+P. Reporting Severe Injuries and Illnesses to OSHA.   
+Section 1904.39(a)(1) requires employers to report to OSHA within 8 hours each 
+work-related fatality, and Section 1904.39(a)(2) requires employers to report to 
+OSHA within 24 hours each work-related inpatient hospitalization, amputation, 
+and loss of an eye.  The reporting requirements in section 1904.39 apply to all 
+employers covered by the OSH Act, including those that are partially exempt 
+from keeping OSHA injury and illness records because of size or industry 
+classification.   
+ 
+1.  Methods For Reporting. Section 1904.39(a)(3) requires employers to 
+report the work-related fatality, in-patient hospitalization, amputation, or 
+loss of an eye using one of the following methods: 
+a. By telephone or in person to the OSHA Area Office that is nearest 
+to the site of the incident;  
+b. By telephone to the OSHA toll-free central telephone number, 1-
+800-321-OSHA (1-800-321-6742); or  
+c. By electronic submission using the Serious Event Reporting Online 
+Form reporting application located on OSHA’s public website, 
+entitled Report a Fatality or Severe Injury.  
+ 
+Note:  If the Area office is closed, the employer must still report the 
+fatality, in-patient hospitalization, amputation, or loss of an eye in a 
+timely manner, by using either the OSHA telephone number or the 
+reporting application.  (See 1904.39(b)(1).)         
+ 
+Note:  If an employer reports to OSHA an in-patient hospitalization, 
+amputation, or loss of an eye, and the employee subsequently dies within 
+30 days of the incident, the employer is not required to make a second 
+report regarding the fatality.  (See OSHA’s January 8, 2021, LOI, Reporting 
+two related reportable events.)  
+ 
+2. Information Required in Reporting. Section 1904.39(b)(2) requires 
+employers to give OSHA the following information for each fatality, in-
+patient hospitalization, amputation, or loss of an eye: 
+a. The establishment name; 
+--- page 17 ---
+ 
+ 
+ 
+32 
+ 
+b. The location of the work-related incident; 
+c. The time of the work-related incident; 
+d. The type of reportable event (i.e., fatality, in-patient 
+hospitalization, amputation, or loss of an eye); 
+e. The number of employees who suffered a fatality, in-patient 
+hospitalization, amputation, or loss of an eye; 
+f. The names of employees who suffered a fatality, in-patient 
+hospitalization, amputation, or loss of an eye; 
+g. The employer’s contact person and phone number; and 
+h. A brief description of the work-related incident. 
+ 
+3.  Circumstances in which Reporting is Not Required. Under section 
+1904.39, employers do not have to report an event to OSHA if any of the 
+following circumstances apply: 
+a. It is not work-related. 
+b.  It occurred more than 30 days after the work-related incident. 
+c.  It resulted from a motor vehicle accident on a public street or 
+highway, except in a construction work zone. (However, 
+employers must report events occurring in construction work 
+zones.) 
+d. It occurred on a commercial or public transportation system (e.g. 
+airplane, subway, bus, ferry, streetcar, light rail, or train).   
+ 
+Note:  Events that are not required to be reported to OSHA may still be 
+recordable if the employer is required to keep Part 1904 Injury and Illness 
+Records and the event meets the recording criteria in the regulation. (See 
+sections 1904.4 through 1904.11, and prior discussion of these provisions 
+in this instruction for recordability requirements.) 
+ 
+4.  Heart Attacks. Section 1904.39(b)(5) requires employers to report work-
+related fatalities and in-patient hospitalizations caused by a heart attack. 
+However, the local OSHA Area Office Director will decide whether to 
+investigate the event, depending on the circumstances of the heart 
+attack.     
+ 
+5.  Delays in Reporting. Under section 1904.39(b)(7), if an employer is not 
+immediately aware of a reportable incident, a report to OSHA must be 
+made within 8 hours after a fatality is reported to the employer or any of 
+its agents, and 24 hours after an in-patient hospitalization, amputation, 
+or loss of an eye is reported to the employer or any of its agents. Under 
+section 1904.39(b)(8), if an employer is not immediately aware that a 
+reportable incident is the result of a work-related incident, the employer 
+must similarly report to OSHA within 8 hours after the employer or any of 
+its agents learns this in the event of a fatality, and within 24 hours after 
+--- page 18 ---
+ 
+ 
+ 
+33 
+ 
+the employer or any of its agents learn about an in-patient 
+hospitalization, amputation, or loss of an eye. 
+ 
+Q. Providing Records to Government Representatives.   
+Section 1904.40(a) states that employers must provide a complete copy of any 
+records required by Part 1904 to an authorized government representative when 
+requested. Copies of the requested records must be provided within 4 business 
+hours. Records under Part 1904 include the OSHA Form 300 (Log), the OSHA 
+Form 300A (Summary), the confidential listing of privacy concern cases along 
+with the names of the injured or ill privacy case workers, and the OSHA Form 301 
+(Incident Report). Section 1904.40(b)(1) specifies that authorized government 
+representatives include (1) a representative of the Secretary of Labor conducting 
+an inspection or investigation under the OSH Act, (2) a representative of the 
+Secretary of Health and Human Services (including the National Institute for 
+Occupational Safety and Health (NIOSH)) conducting an investigation under 
+Section 20(b) of the OSH Act, or (3) a representative of a State agency 
+responsible for administering an OSHA-approved State Plan. 
+ 
+Note: The government's right to ask for such records is limited by the authority 
+of that Agency. For example, a representative of a State Plan can only ask for the 
+records when visiting an establishment within that State. 
+ 
+Note: Under section 1904.40(b)(2), if the employer maintains the records at an 
+establishment in a different time zone, the employer may use the business hours 
+at the location where the records are being retained when calculating the 
+deadline. 
+ 
+R. Electronic Submission of Injury and Illness Data to OSHA.   
+Section 1904.41 requires certain employers to electronically submit to OSHA, on 
+an annual basis, injury and illness data that they are already required to keep 
+under Part 1904.  These data are submitted through OSHA’s Injury Tracking 
+Application (ITA).  
+ 
+1. Establishments Required to Electronically Submit Data. The electronic 
+submission requirement is based on establishment size and industry 
+classification.   
+ 
+a.  OSHA Form 300A - Section 1904.41(a)(1)(i) requires 
+establishments with 20-249 employees at any time during the 
+previous calendar year, that are classified in an industry listed in 
+Appendix A to Subpart E of Part 1904, to electronically submit to 
+OSHA information from their OSHA Form 300A Summary of Work-
+Related Injuries and Illnesses. Section 1904.41(a)(1)(ii) requires 
+establishments with 250 or more employees at any time during 
+--- page 19 ---
+ 
+ 
+ 
+B 
+ 
+Appendix B 
+ 
+Compliance Officer Checklist 
+This checklist is a resource that provides recommended steps for CSHOs to take in conducting a 
+recordkeeping evaluation during an OSHA inspection. 
+ 
+PRE-INSPECTION PREPARATION:  
+Review Inspection History. 
+  Before initiating an inspection, review the employer’s inspection history and take other 
+preparatory steps as contemplated in Chapter 3 of OSHA’s Field Operations Manual 
+(FOM), CPL 02-00-164. 
+ 
+  If possible, check for the establishment NAICS code and the number of employees in the 
+entire company to determine recordkeeping coverage.  
+NOTE: Companies with 10 or fewer employees at all times during the previous calendar year or 
+the establishment’s industry is classified in one of the 2007 NAICS codes listed in Appendix A to 
+Subpart B are exempt from maintaining the OSHA injury and illness records. 
+Check ITA data for the establishment. 
+  Obtain any Injury Tracking Application (ITA) information available. Each Area Office has 
+access to the ITA database. ITA information is available on OSHA’s ITA data webpage.  
+Obtaining Administrative Subpoenas and Medical Access Orders. 
+  In some circumstances, it may be necessary to issue an administrative subpoena to 
+obtain evidence related to an OSHA inspection or investigation. For more information 
+on issuing an administrative subpoena, review 
+Chapter 15 of the FOM. 
+ 
+  In some circumstances, a medical access order will be needed for OSHA personnel to 
+examine and copy personally identifiable employee medical information. For more 
+information on medical access orders, review OSHA Instruction CPL 02-02-072, Rules of 
+Agency Practice and Procedure Concerning OSHA Access to Employee Medical Records, 
+published August 22, 2007.  
+ON-SITE RECORDS REVIEW: 
+Ask the employer for the following Information. 
+  Ask for the OSHA 300 logs, 300A summary, and 301 incident reports for current and 
+three prior calendar years. 
+ 
+--- page 20 ---
+ 
+ 
+ 
+C 
+ 
+  Ask for a roster of current employees. 
+ 
+  Check if the establishment has an on-site medical facility, nursing, health, or first aid 
+facility. If so, it may be appropriate to request the company first aid log. 
+ 
+  Ask where the nearest emergency department is located where employees may be 
+treated for workplace injuries and illnesses. 
+ 
+  Additional records to review may include employers’ written policies related to 
+recordkeeping and reporting, any medical records maintained by the employer, workers 
+compensation records, insurance records, first report of injury, company first-aid logs, 
+and/or nurse/physician logs. 
+Verify NAICS Code and Entire Company Size. 
+  Verify the accuracy of the establishment's NAICS code and the number of employees in 
+the entire company and enter this information in OIS. (See above note about partial 
+recordkeeping exemption.)  
+Enter OSHA 300 data into OIS to calculate DART Rate. 
+  CSHOs will not normally need to calculate the Days Away, Restricted, or Transferred 
+(DART) rate since it is automatically calculated when OSHA 300 data are entered into 
+the OIS. However, if it is necessary to manually calculate the DART rate, consult 
+Chapter 
+3 of the FOM for further information. 
+Conduct Records Review. 
+  Review and compare information on the employers’ OSHA 300, 300A, and 301 forms 
+and other information received to identify any trends, potential hazards, types of 
+operations and work-related injuries or illnesses, and to determine whether the 
+employer properly recorded and reported information to OSHA in compliance with 29 
+CFR 1904.  
+In addition, compare the establishment's ITA data with the OSHA 300A, 300 and 301 
+forms (or equivalent forms) for the previous calendar year. 
+Some factors that may indicate a potential for inaccurate recording, or that may warrant 
+closer review of the establishment’s records, are included in the Reviewing 
+Establishment Injury and Illness Records section of the Part 1904 Recordkeeping Policies 
+and Procedures Directive. 
+  Where the records review indicates potential trends in types of incidents or hazards, in 
+such situations it may be appropriate for the CSHO to conduct further evaluation of the 
+--- page 21 ---
+ 
+ 
+ 
+D 
+ 
+potential hazards during the inspection, including through the walkaround, employee 
+interviews, and medical records review where appropriate. 
+NOTE: In some cases, the need for an administrative subpoena, or to obtain medical 
+information through a Medical Access Order, may become apparent in the course of the 
+records review or the inspection. See above section on Obtaining Administrative Subpoenas 
+and Medical Access Orders.   
+NOTE: OSHA can expand the scope of the inspection when there is reasonable belief, based on 
+specific evidence (e.g., injuries or illnesses recorded in both OSHA forms 300 and 301, 
+employee statements, or “plain view” observations), that violative conditions may be found in 
+other areas of the workplace. During a partial inspection, ordinarily, injury and illness data from 
+the OSHA 300 logs alone will not be sufficient to support a broader inspection. However, OSHA 
+300 data in conjunction with other specific evidence—including incident report information 
+from OSHA 301 forms, employee statements, or plain view observations—can be used to 
+support an expanded inspection when the particular injuries or illnesses found in the OSHA 300 
+logs can be tied to a specific violative condition in the workplace. 
+EMPLOYEE INTERVIEWS:  
+  Conduct employee interviews in a manner consistent with Chapter 3 of the FOM. In 
+conducting a recordkeeping evaluation, the following may be helpful: 
+ 
+  Ask questions related to the employer’s recordkeeping policies and practices in 
+interviews with the Management Representative and employees.   
+ 
+  Interview employees with reported and/or recorded injuries and illnesses, and inquire 
+about injuries and illnesses in the context of all employee interviews.  
+ 
+  Where applicable, interview the Designated Recordkeeper, first-aid providers, and on-
+site healthcare professionals. 
+ 
+  In interviews, ask what procedures have been established at the location for employees 
+to report work-related incidents. 
+ 
+  Ask if the company uses temporary or contract employees.  If so, does the company 
+supervise them on a daily basis? If yes, are their injuries and illnesses recorded on the 
+OSHA 300 log? 
+ 
+  Ask questions to determine whether there may be company policies that have the effect 
+of discouraging recording and reporting of injuries and illnesses. See OSHA’s November 
+10, 2016 Memorandum, 
+Interim Enforcement Procedures for New Recordkeeping 
+Requirements under 29 CFR 1904.35 and October 11, 2018 Memorandum, Clarification 

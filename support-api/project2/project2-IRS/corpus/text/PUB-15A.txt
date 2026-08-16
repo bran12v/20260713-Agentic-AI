@@ -1,0 +1,896 @@
+
+--- page 1 ---
+Page 3 of 28  Fileid: … ation-15-a/2026/a/xml/cycle06/source 11:47 - 15-Dec-2025
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Electronic submission of Forms W -4 and W -4P . Y ou 
+may also set up a system to electronically receive Forms 
+W-4 and W-4P from an employee or payee. See Pub. 15-T 
+for electronic submission requirements for Forms W-4 and 
+W-4P .
+Electronic submission of Forms W -4R, W -4S, and 
+W-4V. Y ou may also set up a system to electronically re-
+ceive any or all of the following forms (and their Spanish 
+versions, if available) from an employee or payee.
+• Form W-4R, Withholding Certificate for Nonperiodic 
+Payments and Eligible Rollover Distributions.
+• Form W-4S, Request for Federal Income T ax With-
+holding From Sick Pay.
+• Form W-4V , Voluntary Withholding Request.
+For each form that you establish an electronic submis-
+sion system for, you must meet each of the following five 
+requirements.
+1. The electronic system must ensure that the informa-
+tion received by you is the information sent by the em-
+ployee or payee. The system must document all occa-
+sions of user access that result in a submission. In 
+addition, the design and operation of the electronic 
+system, including access procedures, must make it 
+reasonably certain that the person accessing the sys-
+tem and submitting the form is the person identified 
+on the form.
+2. The electronic system must provide exactly the same 
+information as the paper form.
+3. The electronic submission must be signed with an 
+e-signature by the employee or payee whose name is 
+on the form. The e-signature must be the final entry in 
+the submission.
+4. Upon request, you must furnish a hard copy of any 
+completed electronic form to the IRS and a statement 
+that, to the best of your knowledge, the electronic 
+form was submitted by the named employee or payee. 
+The hard copy of the electronic form must provide ex-
+actly the same information as, but need not be a fac-
+simile of, the paper form.
+5. Y ou must also meet all recordkeeping requirements 
+that apply to the paper forms.
+See Substitute Submissions of Form W -4R in section 8 
+for the specific requirements for Form W-4R.
+More information on electronic submissions.  For 
+more information on electronic submissions for Forms 
+W-4S and W -4V , see Announcement 99-6 on page 24 of 
+Internal Revenue Bulletin 1999 -4 at IRS.gov/pub/irs-irbs/
+irb99-04.pdf.
+Additional employment tax information.  Go to 
+IRS.gov/EmploymentT axes for additional employment tax 
+information.
+Telephone help. Y ou can call the IRS Business and Spe-
+cialty T ax Line with your employment tax questions at 
+800-829-4933.
+Help for people with disabilities.  Y ou may call 
+800-829-4059 (TDD/TTY for persons who are deaf, hard 
+of hearing, or have a speech disability) with any employ-
+ment tax questions. Y ou may also use this number for as-
+sistance with unresolved tax problems.
+Furnishing Form W -2 to employees electronically. 
+Y ou may set up a system to furnish Form W -2 electroni-
+cally to employees. Each employee participating must 
+consent (either electronically or by paper document) to re-
+ceive their Form W -2 electronically, and you must notify 
+the employee of all hardware and software requirements 
+to receive the form. Y ou may not send a Form W -2 elec-
+tronically to any employee who doesn’t consent or who 
+has revoked consent previously provided.
+T o furnish Forms W-2 electronically, you must meet the 
+following disclosure requirements and provide a clear and 
+conspicuous statement of each requirement to your em-
+ployees.
+• The employee must be informed that they will receive 
+a paper Form W-2 if consent isn’t given to receive it 
+electronically.
+• The employee must be informed of the scope and du-
+ration of the consent.
+• The employee must be informed of any procedure for 
+obtaining a paper copy of their Form W-2 and whether 
+or not the request for a paper statement is treated as a 
+withdrawal of their consent to receiving their Form W-2 
+electronically.
+• The employee must be notified about how to withdraw 
+a consent and the effective date and manner by which 
+the employer will confirm the withdrawn consent. The 
+employee must also be notified that the withdrawn 
+consent doesn’t apply to the previously issued Forms 
+W-2.
+• The employee must be informed about any conditions 
+under which electronic Forms W-2 will no longer be 
+furnished (for example, termination of employment).
+• The employee must be informed of any procedures for 
+updating their contact information that enable the em-
+ployer to provide electronic Forms W-2.
+• The employer must notify the employee of any 
+changes to the employer’s contact information.
+Y ou must furnish electronic Forms W -2 by the same 
+due date as the paper Forms W -2. For more information 
+on furnishing Form W -2 to employees electronically, see 
+Regulations section 31.6051-1(j).
+Pub. 5146 explains employment tax examinations 
+and appeal rights.  Pub. 5146 provides employers with 
+information on how the IRS selects employment tax re-
+turns to be examined, what happens during an exam, and 
+what options an employer has in responding to the results 
+of an exam, including how to appeal the results. Pub. 5146 
+also includes information on worker classification issues 
+and tip exams.
+Photographs of missing children.  The IRS is a proud 
+partner with the National Center for Missing & Exploited 
+Children® (NCMEC). Photographs of missing children se-
+lected by the Center may appear in this publication on pa-
+ges that would otherwise be blank. Y ou can help bring 
+Publication 15-A (2026) 3
+--- page 2 ---
+Page 4 of 28  Fileid: … ation-15-a/2026/a/xml/cycle06/source 11:47 - 15-Dec-2025
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+these children home by looking at the photographs and 
+calling 1 -800-THE-LOST (1 -800-843-5678) if you recog-
+nize a child.
+Introduction
+This publication supplements Pub.15. It contains special-
+ized and detailed employment tax information supple-
+menting the basic information provided in Pub.15. Pub. 
+15-B contains information about the employment tax treat-
+ment of various types of noncash compensation. Pub. 
+15-T contains the Percentage Method and Wage Bracket 
+Method withholding tables, including information on how 
+to withhold on periodic pension or annuity payments; T a-
+bles for Withholding on Distributions of Indian Gaming 
+Profits to T ribal Members; and a discussion on the alterna-
+tive methods for figuring federal income tax withholding.
+Comments and suggestions.  We welcome your com-
+ments about this publication and suggestions for future 
+editions.
+Y ou can send us comments through IRS.gov/
+FormComments.
+Or, you can write to:
+Internal Revenue Service
+T ax Forms and Publications
+1111 Constitution Ave. NW, IR-6526
+Washington, DC 20224
+Although we can’t respond individually to each com-
+ment received, we do appreciate your feedback and will 
+consider your comments and suggestions as we revise 
+our tax forms, instructions, and publications. Don’t send 
+tax questions, tax returns, or payments to the above ad-
+dress.
+Getting answers to your tax questions.  If you have 
+a tax question not answered by this publication, check 
+IRS.gov and How T o Get T ax Help at the end of this publi-
+cation.
+Getting tax forms, instructions, and publications. 
+Go to IRS.gov/Forms to download current and prior -year 
+forms, instructions, and publications.
+Ordering tax forms, instructions, and publications. 
+Go to IRS.gov/OrderForms to order current forms, instruc-
+tions, and publications; call 800 -829-3676 to order 
+prior-year forms and instructions. The IRS will process 
+your order for forms and publications as soon as possible. 
+Don’t resubmit requests you’ve already sent us. Y ou can 
+get forms and publications faster online.
+Useful Items
+Y ou may want to see:
+Publication
+15-B Employer’s T ax Guide to Fringe Benefits
+15- T Federal Income T ax Withholding Methods
+  15-B
+  15-T
+505 T ax Withholding and Estimated T ax
+515 Withholding of T ax on Nonresident Aliens and 
+Foreign Entities
+583 Starting a Business and Keeping Records
+1635 Employer Identification Number: 
+Understanding Y our EIN
+1. Who Are Employees?
+Before you can know how to treat payments that you make 
+to workers for services, you must first know the business 
+relationship that exists between you and the person per-
+forming the services. The person performing the services 
+may be:
+• An independent contractor,
+• A common-law employee,
+• A statutory employee, or
+• A statutory nonemployee.
+This discussion explains these four categories. A later 
+discussion, Employee or Independent Contractor  in sec-
+tion 2, points out the differences between an independent 
+contractor and an employee and gives examples from var-
+ious types of occupations.
+If an individual who works for you isn’t an employee un-
+der the common -law rules (see section 2 ), you generally 
+don’t have to withhold federal income tax from that individ-
+ual’s pay. However, in some cases, you may be required to 
+withhold under the backup withholding requirements on 
+these payments. See Pub. 15 for information on backup 
+withholding.
+Independent Contractors
+People such as doctors, veterinarians, and auctioneers 
+who work in an independent trade, business, or profession 
+in which they offer their services to the public are gener-
+ally not employees. However, whether such people are 
+employees or independent contractors depends on the 
+facts in each case. The general rule is that an individual is 
+an independent contractor if you, the person for whom the 
+services are performed, have the right to control or direct 
+only the result of the work and not the means and meth-
+ods of accomplishing the result.
+Common-Law Employees
+Under common-law rules, anyone who performs services 
+for you is generally your employee if you have the right to 
+control what will be done and how it will be done. This is 
+so even when you give the employee freedom of action. 
+What matters is that you have the right to control the de-
+tails of how the services are performed. For a discussion 
+of facts that indicate whether an individual providing serv-
+ices is an independent contractor or employee, see sec-
+tion 2.
+  505
+  515
+  583
+  1635
+4 Publication 15-A (2026)
+--- page 3 ---
+Page 5 of 28  Fileid: … ation-15-a/2026/a/xml/cycle06/source 11:47 - 15-Dec-2025
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+If you have an employer -employee relationship, it 
+makes no difference how it is labeled. The substance of 
+the relationship, not the label, governs the worker’s status. 
+It doesn’t matter whether the individual is employed full 
+time or part time.
+For employment tax purposes, no distinction is made 
+between classes of employees. Superintendents, manag-
+ers, and other supervisory personnel are all employees. 
+An officer of a corporation is generally an employee; how-
+ever, an officer who performs no services or only minor 
+services, and neither receives nor is entitled to receive 
+any pay, isn’t considered an employee. A director of a cor-
+poration isn’t an employee with respect to services per-
+formed as a director.
+Y ou generally have to withhold and pay income, social 
+security, and Medicare taxes on wages that you pay to 
+common-law employees. However, the wages of certain 
+employees may be exempt from one or more of these 
+taxes. See Employees of Exempt Organizations  (section 
+3) and Religious Exemptions and Special Rules for Minis-
+ters (section 4).
+Additional information. For more information about the 
+treatment of special types of employment, the treatment of 
+special types of payments, and similar subjects, see Pub. 
+15.
+Statutory Employees
+If workers are independent contractors under the
+common-law rules, such workers may nevertheless be 
+treated as employees by statute (also known as statutory 
+employees) for certain employment tax purposes. This 
+would happen if they fall within any one of the following 
+four categories and meet the three conditions described 
+next under Social security and Medicare taxes.
+1. A driver who distributes beverages (other than milk) or 
+meat, vegetables, fruit, or bakery products; or who 
+picks up and delivers laundry or dry cleaning, if the 
+driver is your agent or is paid on commission.
+2. A full-time life insurance sales agent whose principal 
+business activity is selling life insurance or annuity 
+contracts, or both, primarily for one life insurance 
+company.
+3. An individual who works at home on materials or 
+goods that you supply and that must be returned to 
+you or to a person you name, if you also furnish speci-
+fications for the work to be done.
+4. A full-time traveling or city salesperson who works on 
+your behalf and turns in orders to you from wholesal-
+ers; retailers; contractors; or operators of hotels, res-
+taurants, or other similar establishments. The goods 
+sold must be merchandise for resale or supplies for 
+use in the buyer’s business operation. The work per-
+formed for you must be the salesperson’s principal 
+business activity. See Salesperson in section 2.
+Social security and Medicare taxes. Y ou must withhold 
+social security and Medicare taxes from the wages of stat-
+utory employees if all three of the following conditions ap-
+ply.
+• The service contract states or implies that substan-
+tially all the services are to be performed personally by 
+them.
+• They don’t have a substantial investment in the equip-
+ment and property used to perform the services (other 
+than an investment in facilities for transportation, such 
+as a car or truck).
+• The services are performed on a continuing basis for 
+the same payer.
+Federal unemployment (FUTA) tax.  For FUTA tax (the 
+unemployment tax paid under the Federal Unemployment 
+T ax Act), the term “employee” means the same as it does 
+for social security and Medicare taxes, except that it 
+doesn’t include statutory employees defined in categories 
+2 and 3 above. Any individual who is a statutory employee 
+described under category 1 or 4 above is also an em-
+ployee for FUTA tax purposes and subject to FUTA tax.
+Income tax.  Don’t withhold federal income tax from the 
+wages of statutory employees.
+Reporting payments to statutory employees.  Furnish 
+Form W-2 to a statutory employee, and check “Statutory 
+employee” in box 13. Show your payments to the em-
+ployee as “other compensation” in box 1. Also, show so-
+cial security wages in box 3, social security tax withheld in 
+box 4, Medicare wages in box 5, and Medicare tax with-
+held in box 6. The statutory employee can deduct their 
+trade or business expenses from the payments shown on 
+Form W -2. The statutory employee reports earnings on 
+line 1 of Schedule C (Form 1040), Profit or Loss From 
+Business, and also deducts business expenses on 
+Schedule C (Form 1040).
+H-2A agricultural workers.  On Form W -2, don’t check 
+box 13 (Statutory employee), as H -2A workers aren’t stat-
+utory employees.
+Statutory Nonemployees
+There are three categories of statutory nonemployees: di-
+rect sellers, licensed real estate agents, and certain com-
+panion sitters. Direct sellers and licensed real estate 
+agents are treated as self-employed for all federal tax pur-
+poses, including income and employment taxes, if:
+• Substantially all payments for their services as direct 
+sellers or real estate agents are directly related to 
+sales or other output, rather than to the number of 
+hours worked; and
+• Their services are performed under a written contract 
+providing that they won’t be treated as employees for 
+federal tax purposes.
+Direct sellers.  Direct sellers include persons falling 
+within any of the following three groups.
+Publication 15-A (2026) 5
+--- page 4 ---
+Page 6 of 28  Fileid: … ation-15-a/2026/a/xml/cycle06/source 11:47 - 15-Dec-2025
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+1. Persons engaged in selling (or soliciting the sale of) 
+consumer products in the home or place of business 
+other than in a permanent retail establishment.
+2. Persons engaged in selling (or soliciting the sale of) 
+consumer products to any buyer on a buy-sell basis, a 
+deposit-commission basis, or any similar basis pre-
+scribed by regulations, for resale in the home or at a 
+place of business other than in a permanent retail es-
+tablishment.
+3. Persons engaged in the trade or business of deliver-
+ing or distributing newspapers or shopping news (in-
+cluding any services directly related to such delivery 
+or distribution).
+Direct selling includes activities of individuals who at-
+tempt to increase direct sales activities of their direct sell-
+ers and who earn income based on the productivity of 
+their direct sellers. Such activities include providing moti-
+vation and encouragement; imparting skills, knowledge, or 
+experience; and recruiting.
+Licensed real estate agents. This category includes in-
+dividuals engaged in appraisal activities for real estate 
+sales if they earn income based on sales or other output.
+Companion sitters.  Companion sitters are individuals 
+who furnish personal attendance, companionship, or 
+household care services to children or to individuals who 
+are elderly or disabled. A person engaged in the trade or 
+business of putting the sitters in touch with individuals who 
+wish to employ them (that is, a companion sitting place-
+ment service) won’t be treated as the employer of the sit-
+ters if that person doesn’t receive or pay the salary or wa-
+ges of the sitters and is compensated by the sitters or the 
+persons who employ them on a fee basis. Companion sit-
+ters who aren’t employees of a companion sitting place-
+ment service are generally treated as self -employed for all 
+federal tax purposes. However, the companion sitter may 
+be an employee of the individual for whom the sitting serv-
+ices are performed; see Pub. 926, Household Employer’s 
+T ax Guide.
+Misclassification of Employees
+Consequences of treating an employee as an inde-
+pendent contractor. If you classify an employee as an 
+independent contractor and you have no reasonable basis 
+for doing so, you’re liable for employment taxes for that 
+worker, and the relief provision, discussed next, won’t ap-
+ply. See section 2 of Pub. 15 for more information.
+Relief provision. If you have a reasonable basis for not 
+treating a worker as an employee, you may be relieved 
+from having to pay employment taxes for that worker. T o 
+get this relief, you must file all required federal information 
+returns on a basis consistent with your treatment of the 
+worker. Y ou (or your predecessor) must not have treated 
+any worker holding a substantially similar position as an 
+employee for any periods beginning after 1977.
+Technical service specialists.  This relief provision 
+doesn’t apply to a technical service specialist you provide 
+to another business under an arrangement between you 
+and the other business. A technical service specialist is an 
+engineer, designer, drafter, computer programmer, sys-
+tems analyst, or other similarly skilled worker engaged in a 
+similar line of work.
+This limit on the application of the rule doesn’t affect the 
+determination of whether such workers are employees un-
+der the common-law rules. The common -law rules control 
+whether the specialist is treated as an employee or an in-
+dependent contractor. However, if you directly contract 
+with a technical service specialist to provide services for 
+your business and not for another business, you may still 
+be entitled to the relief provision.
+Test proctors and room supervisors.  The consis-
+tent treatment requirement doesn’t apply to services per-
+formed after 2006 by an individual as a test proctor or 
+room supervisor assisting in the administration of college 
+entrance or placement examinations if the individual:
+• Is performing the services for a section 501(c) organi-
+zation exempt from tax under section 501(a) of the 
+Code, and
+• Isn’t otherwise treated as an employee of the organi-
+zation for employment taxes.
+Voluntary Classification Settlement Program (VCSP). 
+Employers who are currently treating their workers (or a 
+class or group of workers) as independent contractors or 
+other nonemployees and want to voluntarily reclassify 
+their workers as employees for future tax periods may be 
+eligible to participate in the VCSP if certain requirements 
+are met. File Form 8952 to apply for the VCSP . For more 
+information, go to IRS.gov/VCSP.
+2. Employee or Independent 
+Contractor?
+An employer must generally withhold federal income 
+taxes, withhold and pay over social security and Medicare 
+taxes, and pay unemployment tax on wages paid to an 
+employee. An employer doesn’t generally have to withhold 
+or pay over any federal taxes on payments to independent 
+contractors.
+Common-Law Rules
+T o determine whether an individual is an employee or an 
+independent contractor under the common -law rules, the 
+relationship of the worker and the business must be exam-
+ined. In any employee -independent contractor determina-
+tion, all information that provides evidence of the degree 
+of control and the degree of independence must be con-
+sidered.
+Facts that provide evidence of the degree of control 
+and independence fall into three categories: behavioral 
+control, financial control, and the type of relationship of the 
+parties. These facts are discussed next.
+6 Publication 15-A (2026)
+--- page 5 ---
+Page 7 of 28  Fileid: … ation-15-a/2026/a/xml/cycle06/source 11:47 - 15-Dec-2025
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Behavioral control.  Facts that show whether the busi-
+ness has a right to direct and control how the worker does 
+the task for which the worker is hired include the type and 
+degree of the following.
+Instructions that the business gives to the worker. 
+An employee is generally subject to the business’ instruc-
+tions about when, where, and how to work. All of the fol-
+lowing are examples of types of instructions about how to 
+do work.
+• When and where to do the work.
+• What tools or equipment to use.
+• What workers to hire or to assist with the work.
+• Where to purchase supplies and services.
+• What work must be performed by a specified
+individual.
+• What order or sequence to follow.
+The amount of instruction needed varies among differ-
+ent jobs. Even if no instructions are given, sufficient be-
+havioral control may exist if the employer has the right to 
+control how the work results are achieved. A business 
+may lack the knowledge to instruct some highly special-
+ized professionals; in other cases, the task may require lit-
+tle or no instruction. The key consideration is whether the 
+business has retained the right to control the details of a 
+worker’s performance or has instead given up that right.
+Training that the business gives to the worker.  An 
+employee may be trained to perform services in a particu-
+lar manner. Independent contractors ordinarily use their 
+own methods.
+Financial control. Facts that show whether the business 
+has a right to control the business aspects of the worker’s 
+job include the following.
+The extent to which the worker has unreimbursed 
+business expenses. Independent contractors are more 
+likely to have unreimbursed expenses than are employ-
+ees. Fixed ongoing costs that are incurred regardless of 
+whether work is currently being performed are especially 
+important. However, employees may also incur unreim-
+bursed expenses in connection with the services that they 
+perform for their employer.
+The extent of the worker’s investment.  An inde-
+pendent contractor often has a significant investment in 
+the facilities or tools they use in performing services for 
+someone else. However, a significant investment isn’t nec-
+essary for independent contractor status.
+The extent to which the worker makes their serv-
+ices available to the relevant market.  An independent 
+contractor is generally free to seek out business opportu-
+nities. Independent contractors often advertise, maintain a 
+visible business location, and are available to work in the 
+relevant market.
+How the business pays the worker.  An employee is 
+generally guaranteed a regular wage amount for an hourly, 
+weekly, or other period of time. This usually indicates that 
+a worker is an employee, even when the wage or salary is 
+supplemented by a commission. An independent contrac-
+tor is often paid a flat fee or on a time and materials basis 
+for the job. However, it is common in some professions, 
+such as law, to pay independent contractors hourly.
+The extent to which the worker can realize a profit 
+or loss. An independent contractor can make a profit or 
+loss.
+Type of relationship. Facts that show the parties’ type of 
+relationship include the following.
+• Written contracts describing the relationship the par-
+ties intended to create.
+• Whether or not the business provides the worker with 
+employee-type benefits, such as insurance, a pension 
+plan, vacation pay, or sick pay.
+• The permanency of the relationship. If you engage 
+a worker with the expectation that the relationship will 
+continue indefinitely, rather than for a specific project 
+or period, this is generally considered evidence that 
+your intent was to create an employer-employee rela-
+tionship.
+• The extent to which services performed by the 
+worker are a key aspect of the regular business 
+of the company. If a worker provides services that 
+are a key aspect of your regular business activity, it is 
+more likely that you’ll have the right to direct and con-
+trol their activities. For example, if a law firm hires an 
+attorney, it is likely that it will present the attorney’s 
+work as its own and would have the right to control or 
+direct that work. This would indicate an employer-em-
+ployee relationship.
+IRS help. If you want the IRS to determine whether or not 
+a worker is an employee, file Form SS-8 with the IRS.
+Industry Examples
+The following examples may help you properly classify 
+your workers.
+Building and Construction Industry
+Example 1. Jerry Jones has an agreement with Wilma 
+White to supervise the remodeling of a house. Wilma 
+didn’t advance funds to help Jerry carry on the work. 
+Wilma makes direct payments to the suppliers for all nec-
+essary materials. Wilma carries liability and workers’ com-
+pensation insurance covering Jerry and others that Jerry 
+engaged to assist on the remodel. Wilma pays them an 
+hourly rate and exercises almost constant supervision 
+over the work. Jerry isn’t free to transfer the assistants to 
+other jobs. Jerry may not work on other jobs while working 
+for Wilma. Jerry assumes no responsibility to complete 
+the work and will incur no contractual liability if the work 
+isn’t completed. Jerry and the assistants perform personal 
+services for hourly wages. Jerry Jones and the assistants 
+are employees of Wilma White.
+Publication 15-A (2026) 7
+--- page 6 ---
+Page 8 of 28  Fileid: … ation-15-a/2026/a/xml/cycle06/source 11:47 - 15-Dec-2025
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Example 2. Milton Manning, an experienced tile setter, 
+orally agreed with a corporation to perform full -time serv-
+ices at construction sites. Milton uses personally owned 
+tools and performs services in the order designated by the 
+corporation and according to its specifications. The corpo-
+ration supplies all materials, makes frequent inspections 
+of Milton’s work, pays Milton on a piecework basis, and 
+carries workers’ compensation insurance on Milton. Milton 
+doesn’t have a place of business or seek to perform simi-
+lar services for others. Either party can end the services at 
+any time. Milton Manning is an employee of the corpora-
+tion.
+Example 3. Wallace Black agreed with Sawdust Co. to 
+supply the construction labor for a group of houses. The 
+company agreed to pay all construction costs. However, 
+Wallace supplies all the tools and equipment. Wallace 
+performs personal services as a carpenter and mechanic 
+for an hourly wage. Wallace also acts as superintendent 
+and foreman and engages other individuals to assist with 
+construction. The company has the right to select, ap-
+prove, or discharge any helper. A company representative 
+makes frequent inspections of the construction site. When 
+a house is finished, Wallace is paid a certain percentage 
+of its costs. Wallace isn’t responsible for faults, defects of 
+construction, or wasteful operation. At the end of each 
+week, Wallace presents the company with a statement of 
+the amount that was spent, including the payroll. The com-
+pany gives Wallace a check for that amount from which 
+Wallace pays the assistants, although Wallace isn’t per-
+sonally liable for their wages. Wallace Black and the assis-
+tants are employees of Sawdust Co.
+Example 4. Bill Plum contracted with Elm Corporation 
+to complete the roofing on a housing complex. A signed 
+contract established a flat amount for the services ren-
+dered by Bill Plum. Bill is a licensed roofer and carries 
+workers’ compensation and liability insurance under the 
+business name, Plum Roofing. Bill hires roofers for Plum 
+Roofing who are treated as employees for federal employ-
+ment tax purposes. If there is a problem with the roofing 
+work, Plum Roofing is responsible for paying for any re-
+pairs. Bill Plum, doing business as Plum Roofing, is an in-
+dependent contractor.
+Example 5. Vera Elm, an electrician, submitted a job 
+estimate to a housing complex for electrical work at $16 
+per hour for 400 hours. Vera is to receive $1,280 every 2 
+weeks for the next 10 weeks. This isn’t considered pay-
+ment by the hour. Even if Vera works more or less than 
+400 hours to complete the work, Vera will receive $6,400. 
+Vera also performs additional electrical installations under 
+contracts with other companies that are obtained through 
+advertisements. Vera is an independent contractor.
+Trucking Industry
+Example. Rose T rucking contracts to deliver material 
+for Forest, Inc., at $140 per ton. Rose T rucking isn’t paid 
+for any articles that aren’t delivered. At times, Jan Rose, 
+who operates as Rose T rucking, may also lease another 
+truck and engage a driver to complete the contract. All 
+operating expenses, including insurance coverage, are 
+paid by Jan Rose. All equipment is owned or rented by 
+Jan and Jan is responsible for all maintenance. None of 
+the drivers are provided by Forest, Inc. Jan Rose, operat-
+ing as Rose T rucking, is an independent contractor.
+Computer Industry
+Example. Steve Smith, a computer programmer, is 
+laid off when Megabyte, Inc., downsizes. Megabyte 
+agrees to pay Steve a flat amount to complete a one -time 
+project to create a certain product. It isn’t clear how long it 
+will take to complete the project, and Steve isn’t guaran-
+teed any minimum payment for the hours spent on the 
+program. Megabyte provides Steve with no instructions 
+beyond the specifications for the product itself. Steve and 
+Megabyte have a written contract, which provides that 
+Steve is considered to be an independent contractor, is re-
+quired to pay federal and state taxes, and receives no 
+benefits from Megabyte. Megabyte will file Form 
+1099-NEC to report the amount paid to Steve. Steve 
+works at home and isn’t expected or allowed to attend 
+meetings of the software development group. Steve is an 
+independent contractor.
+Automobile Industry
+Example 1. Donna Lee is a salesperson employed on 
+a full-time basis by Bob Blue, an auto dealer. Donna works 
+6 days a week and is on duty in Bob’s showroom on cer-
+tain assigned days and times. Donna appraises trade -ins, 
+but the appraisals are subject to the sales manager’s ap-
+proval. Lists of prospective customers belong to the 
+dealer. Donna is required to develop leads and report re-
+sults to the sales manager. Due to experience, Donna re-
+quires only minimal assistance in closing and financing 
+sales and in other phases of work. Donna is paid a com-
+mission and is eligible for prizes and bonuses offered by 
+Bob. Bob also pays the cost of health insurance and 
+group-term life insurance for Donna. Donna is an em-
+ployee of Bob Blue.
+Example 2. Sam Sparks performs auto repair services 
+in the repair department of an auto sales company. Sam 
+works regular hours and is paid on a percentage basis. 
+Sam has no investment in the repair department. The 
+sales company supplies all facilities, repair parts, and sup-
+plies; issues instructions on the amounts to be charged, 
+parts to be used, and the time for completion of each job; 
+and checks all estimates and repair orders. Sam is an em-
+ployee of the sales company.
+Example 3. An auto sales agency furnishes space for 
+Helen Bach to perform auto repair services. Helen pro-
+vides personally owned tools, equipment, and supplies. 
+Helen seeks out business from insurance adjusters and 
+other individuals and does all of the body and paint work 
+that comes to the agency. Helen hires and discharges 
+helpers; determines working hours; quotes prices for re-
+pair work; makes all necessary adjustments; assumes all 
+losses from uncollectible accounts; and receives, as com-
+pensation for services, a large percentage of the gross 
+8 Publication 15-A (2026)
+--- page 7 ---
+Page 9 of 28  Fileid: … ation-15-a/2026/a/xml/cycle06/source 11:47 - 15-Dec-2025
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+collections from the auto repair shop. Helen is an inde-
+pendent contractor and the helpers are Helen’s employ-
+ees.
+Attorney
+Example. Donna Yuma is a sole practitioner who rents 
+office space and pays for the following items: telephone, 
+computer, online legal research linkup, fax machine, and 
+photocopier. Donna buys office supplies and pays bar 
+dues and membership dues for three other professional 
+organizations. Donna has a part -time receptionist who 
+also does the bookkeeping. Donna pays the receptionist, 
+withholds and pays federal and state employment taxes, 
+and files a Form W -2 each year. For the past 2 years, 
+Donna has had only three clients, corporations with which 
+there have been long -standing relationships. Donna 
+charges the corporations an hourly rate for services, send-
+ing monthly bills detailing the work performed for the prior 
+month. The bills include charges for long -distance calls, 
+online research time, fax charges, photocopies, postage, 
+and travel, costs for which the corporations have agreed to 
+reimburse Donna. Donna is an independent contractor.
+Taxicab Driver
+Example. T om Spruce rents a cab from T aft Cab Co. 
+for $150 per day. T om pays the costs of maintaining and 
+operating the cab. T om keeps all fares received from cus-
+tomers. Although T om receives the benefit of T aft’s 
+two-way radio communication equipment, dispatcher, and 
+advertising, these items benefit both T aft and T om Spruce. 
+T om is an independent contractor.
+Salesperson
+T o determine whether salespersons are employees under 
+the usual common-law rules, you must evaluate each indi-
+vidual case. If a salesperson who works for you doesn’t 
+meet the tests for a common -law employee, discussed 
+earlier in this section, you don’t have to withhold federal in-
+come tax from their pay (see Statutory Employees in sec-
+tion 1). However, even if a salesperson isn’t an employee 
+under the usual common -law rules for income tax with-
+holding, their pay may still be subject to social security, 
+Medicare, and FUTA taxes as a statutory employee.
+T o determine whether a salesperson is an employee for 
+social security, Medicare, and FUTA tax purposes, the 
+salesperson must meet all eight elements of the statutory 
+employee test. A salesperson is a statutory employee for 
+social security, Medicare, and FUTA tax purposes if they:
+1. Work full time for one person or company except, pos-
+sibly, for sideline sales activities on behalf of some 
+other person;
+2. Sell on behalf of, and turn their orders over to, the per-
+son or company for which they work;
+3. Sell to wholesalers, retailers, contractors, or operators 
+of hotels, restaurants, or similar establishments;
+4. Sell merchandise for resale, or supplies for use in the 
+customer’s business;
+5. Agree to do substantially all of this work personally;
+6. Have no substantial investment in the facilities used to 
+do the work, other than in facilities for transportation;
+7. Maintain a continuing relationship with the person or 
+company for which they work; and
+8. Aren’t an employee under common-law rules.
+3. Employees of Exempt 
+Organizations
+Many nonprofit organizations are exempt from federal in-
+come tax. Although they don’t have to pay federal income 
+tax themselves, they must still withhold federal income tax 
+from the pay of their employees. However, there are spe-
+cial social security, Medicare, and FUTA tax rules that ap-
+ply to the wages that they pay their employees.
+Section 501(c)(3) organizations.  Nonprofit organiza-
+tions that are exempt from federal income tax under sec-
+tion 501(c)(3) of the Internal Revenue Code include any 
+community chest, fund, or foundation organized and oper-
+ated exclusively for religious, charitable, scientific, testing 
+for public safety, or literary or educational purposes; fos-
+tering national or international amateur sports competi-
+tion; or the prevention of cruelty to children or animals. 
+These organizations are usually corporations and are ex-
+empt from federal income tax under section 501(a).
+Social security and Medicare taxes.  Wages paid to 
+employees of section 501(c)(3) organizations are subject 
+to social security and Medicare taxes unless one of the 
+following situations applies.
+• The organization pays an employee less than $100 in 
+a calendar year.
+• The organization is a church or church-controlled or-
+ganization opposed for religious reasons to the pay-
+ment of social security and Medicare taxes and has 
+filed Form 8274 to elect exemption from social security 
+and Medicare taxes. The organization must have filed 
+for exemption before the first date on which a quarterly 
+employment tax return (Form 941) or annual employ-
+ment tax return (Form 944) would otherwise be due.
+An employee of a church or church-controlled organiza-
+tion that is exempt from social security and Medicare 
+taxes must pay self -employment tax if the employee is 
+paid $108.28 or more in a year. However, an employee 
+who is a member of a qualified religious sect can apply for 
+an exemption from the self -employment tax by filing Form 
+4029. See Members of recognized religious sects op-
+posed to insurance in section 4.
+FUTA tax. An organization that is exempt from federal 
+income tax under section 501(c)(3) of the Internal Reve-
+nue Code is also exempt from FUTA tax. This exemption 
+can’t be waived. However, a section 501(c)(3) 
+Publication 15-A (2026) 9
+--- page 8 ---
+Page 10 of 28  Fileid: … ation-15-a/2026/a/xml/cycle06/source 11:47 - 15-Dec-2025
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+organization is subject to FUTA tax when paying wages to 
+employees on behalf of a non -section 501(c)(3) organiza-
+tion (for example, a section 501(c)(3) organization paying 
+wages to employees of a related non-section 501(c)(3) or-
+ganization, a section 501(c)(3) organization that is a sec-
+tion 3504 agent paying wages on behalf of a non -section 
+501(c)(3) organization, a section 501(c)(3) organization 
+that is a common paymaster paying wages on behalf of a 
+non-section 501(c)(3) organization, etc.).
+Tip:  An organization wholly owned by a state or its po-
+litical subdivision should contact the appropriate state offi-
+cial for information about reporting and getting social se-
+curity and Medicare coverage for its employees.
+Other than section 501(c)(3) organizations.  Nonprofit 
+organizations that aren’t section 501(c)(3) organizations 
+may also be exempt from federal income tax under section 
+501(a) or section 521. However, these organizations aren’t 
+exempt from withholding federal income, social security, or 
+Medicare tax from their employees’ pay, or from paying 
+FUTA tax. T wo special rules for social security, Medicare, 
+and FUTA taxes apply.
+1. If an employee is paid less than $100 during a calen-
+dar year, their wages aren’t subject to social security 
+and Medicare taxes.
+2. If an employee is paid less than $50 in a calendar 
+quarter, their wages aren’t subject to FUTA tax for the 
+quarter.
+The above rules don’t apply to employees who work for 
+pension plans and other similar organizations described in 
+section 401(a).
+Excise tax on excess executive compensation.  Cer-
+tain tax-exempt organizations may be subject to an excise 
+tax on excess executive compensation. For more informa-
+tion, see the Instructions for Form 4720, Return of Certain 
+Excise T axes Under Chapters 41 and 42 of the Internal 
+Revenue Code.
+4. Religious Exemptions and 
+Special Rules for Ministers
+Special rules apply to the treatment of ministers for social 
+security and Medicare tax purposes. An exemption from 
+social security and Medicare taxes is available for minis-
+ters and certain other religious workers and members of 
+certain recognized religious sects. For more information 
+on getting an exemption, see Pub. 517.
+Ministers. Ministers are individuals who are duly or-
+dained, commissioned, or licensed by a religious body 
+constituting a church or church denomination. They are 
+given the authority to conduct religious worship, perform 
+sacerdotal functions, and administer ordinances and sac-
+raments according to the prescribed tenets and practices 
+of that religious organization.
+Ministers are employees if they perform services in the 
+exercise of ministry and are subject to your will and con-
+trol. The common -law rules discussed in section 1  and 
+section 2 should be applied to determine whether a minis-
+ter is your employee or is self-employed. Whether the min-
+ister is an employee or self -employed, the earnings of a 
+minister aren’t subject to federal income, social security, 
+and Medicare tax withholding. However, even if the minis-
+ter is a common -law employee, the earnings as reported 
+on the minister’s Form 1040 or 1040 -SR are subject to 
+self-employment tax and federal income tax. Y ou don’t 
+withhold these taxes from wages earned by a minister, but 
+if the minister is your employee, you may agree with the 
+minister to voluntarily withhold tax to cover the minister’s 
+liability for self -employment tax and federal income tax. 
+For more information, see Pub. 517.
+Form W-2. If your minister is an employee, report all 
+taxable compensation as wages in box 1 of Form W -2. In-
+clude in this amount expense allowances or reimburse-
+ments paid under a nonaccountable plan, discussed in 
+section 5 of Pub. 15. Don’t include a parsonage allowance 
+(excludable housing allowance) in this amount. Y ou may 
+report a designated parsonage or rental allowance (hous-
+ing allowance) and a utilities allowance, or the rental value 
+of housing provided in a separate statement or in box 14 
+of Form W-2. Don’t show on Form W-2, Form 941, or Form 
+944 any amount as social security or Medicare wages, or 
+any withholding for social security or Medicare tax. If you 
+withheld federal income tax from the minister under a vol-
+untary agreement, this amount should be shown in box 2 
+of Form W-2 as federal income tax withheld. For more in-
+formation on ministers, see Pub. 517.
+Exemptions for ministers and others.  Certain or-
+dained ministers, Christian Science practitioners, and 
+members of religious orders who haven’t taken a vow of 
+poverty may apply to exempt their earnings from self -em-
+ployment tax on religious grounds. The application must 
+be based on conscientious opposition because of per-
+sonal considerations to public insurance that makes pay-
+ments in the event of death, disability, old age, or retire-
+ment, or that makes payments toward the cost of, or 
+provides services for, medical care, including social secur-
+ity and Medicare benefits. The exemption applies only to 
+qualified services performed for the religious organization. 
+See Revenue Procedure 91 -20, 1991 -1 C.B. 524, for 
+guidelines to determine whether an organization is a reli-
+gious order or whether an individual is a member of a reli-
+gious order.
+T o apply for the exemption, the employee should file 
+Form 4361. See Pub. 517 for more information about 
+claiming an exemption from self -employment tax using 
+Form 4361.
+Members of recognized religious sects opposed to 
+insurance. If you belong to a recognized religious sect or 
+to a division of such sect that is opposed to insurance, you 
+may qualify for an exemption from the self -employment 
+tax. T o qualify, you must be conscientiously opposed to 
+accepting the benefits of any public or private insurance 
+that makes payments because of death, disability, old 
+10 Publication 15-A (2026)

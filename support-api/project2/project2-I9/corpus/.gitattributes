@@ -1,0 +1,5 @@
+# The generated PDFs have uncompressed, largely ASCII content streams, so git's
+# text/binary heuristic misreads them and would apply newline conversion. That
+# shifts every byte offset in the xref table and produces an unreadable file on
+# checkout. Mark them binary so they round-trip untouched.
+*.pdf binary

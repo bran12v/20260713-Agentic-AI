@@ -1,0 +1,482 @@
+
+29 CFR 1910.269 - Electric Power Generation, Transmission, and Distribution
+===========================================================================
+
+
+1910.269 paragraph (l) - Working on or near exposed energized parts
+-------------------------------------------------------------------
+
+(l) Working on or near exposed energized parts. This paragraph applies to work on exposed
+live parts, or near enough to them to expose the employee to any hazard they present.
+
+(1) General. (i) Only qualified employees may work on or with exposed energized lines or
+parts of equipment.
+
+(ii) Only qualified employees may work in areas containing unguarded, uninsulated energized
+lines or parts of equipment operating at 50 volts or more.
+
+(iii) Electric lines and equipment shall be considered and treated as energized unless they
+have been deenergized in accordance with paragraph (d) or (m) of this section.
+
+(2) At least two employees. (i) Except as provided in paragraph (l)(2)(ii) of this section,
+at least two employees shall be present while any employees perform the following types of
+work:
+
+(A) Installation, removal, or repair of lines energized at more than 600 volts,
+
+(B) Installation, removal, or repair of deenergized lines if an employee is exposed to
+contact with other parts energized at more than 600 volts,
+
+(C) Installation, removal, or repair of equipment, such as transformers, capacitors, and
+regulators, if an employee is exposed to contact with parts energized at more than 600
+volts,
+
+(D) Work involving the use of mechanical equipment, other than insulated aerial lifts, near
+parts energized at more than 600 volts, and
+
+(E) Other work that exposes an employee to electrical hazards greater than, or equal to, the
+electrical hazards posed by operations listed specifically in paragraphs (l)(2)(i)(A)
+through (l)(2)(i)(D) of this section.
+
+(ii) Paragraph (l)(2)(i) of this section does not apply to the following operations:
+
+(A) Routine circuit switching, when the employer can demonstrate that conditions at the site
+allow safe performance of this work,
+
+(B) Work performed with live-line tools when the position of the employee is such that he or
+she is neither within reach of, nor otherwise exposed to contact with, energized parts, and
+
+(C) Emergency repairs to the extent necessary to safeguard the general public.
+
+(3) Minimum approach distances. (i) The employer shall establish minimum approach distances
+no less than the distances computed by Table R-3 for ac systems or Table R-8 for dc systems.
+
+(ii) No later than April 1, 2015, for voltages over 72.5 kilovolts, the employer shall
+determine the maximum anticipated per-unit transient overvoltage, phase-to-ground, through
+an engineering analysis or assume a maximum anticipated per-unit transient overvoltage,
+phase-to-ground, in accordance with Table R-9. When the employer uses portable protective
+gaps to control the maximum transient overvoltage, the value of the maximum anticipated per-
+unit transient overvoltage, phase-to-ground, must provide for five standard deviations
+between the statistical sparkover voltage of the gap and the statistical withstand voltage
+corresponding to the electrical component of the minimum approach distance. The employer
+shall make any engineering analysis conducted to determine maximum anticipated per-unit
+transient overvoltage available upon request to employees and to the Assistant Secretary or
+designee for examination and copying.
+
+See appendix B to this section for information on how to calculate the maximum anticipated
+per-unit transient overvoltage, phase-to-ground, when the employer uses portable protective
+gaps to reduce maximum transient overvoltages.
+
+(iii) The employer shall ensure that no employee approaches or takes any conductive object
+closer to exposed energized parts than the employer's established minimum approach distance,
+unless:
+
+(A) The employee is insulated from the energized part (rubber insulating gloves or rubber
+insulating gloves and sleeves worn in accordance with paragraph (l)(4) of this section
+constitutes insulation of the employee from the energized part upon which the employee is
+working provided that the employee has control of the part in a manner sufficient to prevent
+exposure to uninsulated portions of the employee's body), or
+
+(B) The energized part is insulated from the employee and from any other conductive object
+at a different potential, or
+
+(C) The employee is insulated from any other exposed conductive object in accordance with
+the requirements for live-line barehand work in paragraph (q)(3) of this section.
+
+(4) Type of insulation. (i) When an employee uses rubber insulating gloves as insulation
+from energized parts (under paragraph (l)(3)(iii)(A) of this section), the employer shall
+ensure that the employee also uses rubber insulating sleeves. However, an employee need not
+use rubber insulating sleeves if:
+
+(A) Exposed energized parts on which the employee is not working are insulated from the
+employee; and
+
+(B) When installing insulation for purposes of paragraph (l)(4)(i)(A) of this section, the
+employee installs the insulation from a position that does not expose his or her upper arm
+to contact with other energized parts.
+
+(ii) When an employee uses rubber insulating gloves or rubber insulating gloves and sleeves
+as insulation from energized parts (under paragraph (l)(3)(iii)(A) of this section), the
+employer shall ensure that the employee:
+
+(A) Puts on the rubber insulating gloves and sleeves in a position where he or she cannot
+reach into the minimum approach distance, established by the employer under paragraph
+(l)(3)(i) of this section; and
+
+(B) Does not remove the rubber insulating gloves and sleeves until he or she is in a
+position where he or she cannot reach into the minimum approach distance, established by the
+employer under paragraph (l)(3)(i) of this section.
+
+(5) Working position. (i) The employer shall ensure that each employee, to the extent that
+other safety-related conditions at the worksite permit, works in a position from which a
+slip or shock will not bring the employee's body into contact with exposed, uninsulated
+parts energized at a potential different from the employee's.
+
+(ii) When an employee performs work near exposed parts energized at more than 600 volts, but
+not more than 72.5 kilovolts, and is not wearing rubber insulating gloves, being protected
+by insulating equipment covering the energized parts, performing work using live-line tools,
+or performing live-line barehand work under paragraph (q)(3) of this section, the employee
+shall work from a position where he or she cannot reach into the minimum approach distance,
+established by the employer under paragraph (l)(3)(i) of this section.
+
+(6) Making connections. The employer shall ensure that employees make connections as
+follows:
+
+(i) In connecting deenergized equipment or lines to an energized circuit by means of a
+conducting wire or device, an employee shall first attach the wire to the deenergized part;
+
+(ii) When disconnecting equipment or lines from an energized circuit by means of a
+conducting wire or device, an employee shall remove the source end first; and
+
+(iii) When lines or equipment are connected to or disconnected from energized circuits, an
+employee shall keep loose conductors away from exposed energized parts.
+
+(7) Conductive articles. When an employee performs work within reaching distance of exposed
+energized parts of equipment, the employer shall ensure that the employee removes or renders
+nonconductive all exposed conductive articles, such as keychains or watch chains, rings, or
+wrist watches or bands, unless such articles do not increase the hazards associated with
+contact with the energized parts.
+
+(8) Protection from flames and electric arcs. (i) The employer shall assess the workplace to
+identify employees exposed to hazards from flames or from electric arcs.
+
+(ii) For each employee exposed to hazards from electric arcs, the employer shall make a
+reasonable estimate of the incident heat energy to which the employee would be exposed.
+
+Appendix E to this section provides guidance on estimating available heat energy. The
+Occupational Safety and Health Administration will deem employers following the guidance in
+appendix E to this section to be in compliance with paragraph (l)(8)(ii) of this section. An
+employer may choose a method of calculating incident heat energy not included in appendix E
+to this section if the chosen method reasonably predicts the incident energy to which the
+employee would be exposed.
+
+This paragraph does not require the employer to estimate the incident heat energy exposure
+for every job task performed by each employee. The employer may make broad estimates that
+cover multiple system areas provided the employer uses reasonable assumptions about the
+energy-exposure distribution throughout the system and provided the estimates represent the
+maximum employee exposure for those areas. For example, the employer could estimate the heat
+energy just outside a substation feeding a radial distribution system and use that estimate
+for all jobs performed on that radial system.
+
+(iii) The employer shall ensure that each employee who is exposed to hazards from flames or
+electric arcs does not wear clothing that could melt onto his or her skin or that could
+ignite and continue to burn when exposed to flames or the heat energy estimated under
+paragraph (l)(8)(ii) of this section.
+
+This paragraph prohibits clothing made from acetate, nylon, polyester, rayon and
+polypropylene, either alone or in blends, unless the employer demonstrates that the fabric
+has been treated to withstand the conditions that may be encountered by the employee or that
+the employee wears the clothing in such a manner as to eliminate the hazard involved.
+
+(iv) The employer shall ensure that the outer layer of clothing worn by an employee, except
+for clothing not required to be arc rated under paragraphs (l)(8)(v)(A) through (l)(8)(v)(E)
+of this section, is flame resistant under any of the following conditions:
+
+(A) The employee is exposed to contact with energized circuit parts operating at more than
+600 volts,
+
+(B) An electric arc could ignite flammable material in the work area that, in turn, could
+ignite the employee's clothing,
+
+(C) Molten metal or electric arcs from faulted conductors in the work area could ignite the
+employee's clothing, or
+
+This paragraph does not apply to conductors that are capable of carrying, without failure,
+the maximum available fault current for the time the circuit protective devices take to
+interrupt the fault.
+
+(D) The incident heat energy estimated under paragraph (l)(8)(ii) of this section exceeds
+2.0 cal/cm 2.
+
+(v) The employer shall ensure that each employee exposed to hazards from electric arcs wears
+protective clothing and other protective equipment with an arc rating greater than or equal
+to the heat energy estimated under paragraph (l)(8)(ii) of this section whenever that
+estimate exceeds 2.0 cal/cm 2. This protective equipment shall cover the employee's entire
+body, except as follows:
+
+(A) Arc-rated protection is not necessary for the employee's hands when the employee is
+wearing rubber insulating gloves with protectors or, if the estimated incident energy is no
+more than 14 cal/cm 2, heavy-duty leather work gloves with a weight of at least 407 gm/m 2
+(12 oz/yd 2),
+
+(B) Arc-rated protection is not necessary for the employee's feet when the employee is
+wearing heavy-duty work shoes or boots,
+
+(C) Arc-rated protection is not necessary for the employee's head when the employee is
+wearing head protection meeting § 1910.135 if the estimated incident energy is less than 9
+cal/cm 2 for exposures involving single-phase arcs in open air or 5 cal/cm 2 for other
+exposures,
+
+(D) The protection for the employee's head may consist of head protection meeting § 1910.135
+and a faceshield with a minimum arc rating of 8 cal/cm 2 if the estimated incident-energy
+exposure is less than 13 cal/cm 2 for exposures involving single-phase arcs in open air or 9
+cal/cm 2 for other exposures, and
+
+(E) For exposures involving single-phase arcs in open air, the arc rating for the employee's
+head and face protection may be 4 cal/cm 2 less than the estimated incident energy.
+
+See appendix E to this section for further information on the selection of appropriate
+protection.
+
+(vi) Dates. (A) The obligation in paragraph (l)(8)(ii) of this section for the employer to
+make reasonable estimates of incident energy commences January 1, 2015.
+
+(B) The obligation in paragraph (l)(8)(iv)(D) of this section for the employer to ensure
+that the outer layer of clothing worn by an employee is flame-resistant when the estimated
+incident heat energy exceeds 2.0 cal/cm 2 commences April 1, 2015.
+
+(C) The obligation in paragraph (l)(8)(v) of this section for the employer to ensure that
+each employee exposed to hazards from electric arcs wears the required arc-rated protective
+equipment commences April 1, 2015.
+
+(9) Fuse handling. When an employee must install or remove fuses with one or both terminals
+energized at more than 300 volts, or with exposed parts energized at more than 50 volts, the
+employer shall ensure that the employee uses tools or gloves rated for the voltage. When an
+employee installs or removes expulsion-type fuses with one or both terminals energized at
+more than 300 volts, the employer shall ensure that the employee wears eye protection
+meeting the requirements of subpart I of this part, uses a tool rated for the voltage, and
+is clear of the exhaust path of the fuse barrel.
+
+(10) Covered (noninsulated) conductors. The requirements of this section that pertain to the
+hazards of exposed live parts also apply when an employee performs work in proximity to
+covered (noninsulated) wires.
+
+(11) Non-current-carrying metal parts. Non-current-carrying metal parts of equipment or
+devices, such as transformer cases and circuit-breaker housings, shall be treated as
+energized at the highest voltage to which these parts are exposed, unless the employer
+inspects the installation and determines that these parts are grounded before employees
+begin performing the work.
+
+(12) Opening and closing circuits under load. (i) The employer shall ensure that devices
+used by employees to open circuits under load conditions are designed to interrupt the
+current involved.
+
+(ii) The employer shall ensure that devices used by employees to close circuits under load
+conditions are designed to safely carry the current involved.
+
+
+Table R-3—AC Live-Line Work Minimum Approach Distance[The minimum approach distance (MAD; in meters) shall conform to the following equations.]
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+For phase-to-phase system voltages of 50 V to 300 V: 1
+MAD = avoid contact
+For phase-to-phase system voltages of 301 V to 5 kV: 1
+MAD = M + D, where
+D = 0.02 m                                              the electrical component of the minimum approach
+                                                        distance.
+
+M = 0.31 m for voltages up to 750 V and 0.61 m          the inadvertent movement factor.
+otherwise
+
+For phase-to-phase system voltages of 5.1 kV to 72.5
+kV: 1 4
+
+MAD = M + AD, where
+M = 0.61 m                                              the inadvertent movement factor.
+A = the applicable value from Table R-5                 the altitude correction factor.
+D = the value from Table R-4 corresponding to the       the electrical component of the minimum approach
+voltage and exposure or the value of the electrical     distance.
+component of the minimum approach distance calculated
+using the method provided in appendix B to this
+section
+
+For phase-to-phase system voltages of more than 72.5
+kV, nominal: 2 4
+
+MAD = 0.3048(C + a)V L-G TA + M
+C = 0.01 for phase-to-ground exposures that the
+employer can demonstrate consist only of air across
+the approach distance (gap),
+
+0.01 for phase-to-phase exposures if the employer can
+demonstrate that no insulated tool spans the gap and
+that no large conductive object is in the gap, or
+
+0.011 otherwise
+VL-G = phase-to-ground rms voltage, in kV
+T = maximum anticipated per-unit transient
+overvoltage; for phase-to-ground exposures, T equals
+TL-G, the maximum per-unit transient overvoltage,
+phase-to-ground, determined by the employer under
+paragraph (l)(3)(ii) of this section; for phase-to-
+phase exposures, T equals 1.35TL-G + 0.45
+
+A = altitude correction factor from Table R-5
+M = 0.31 m, the inadvertent movement factor
+a = saturation factor, as follows:
+
+Phase-to-Ground Exposures
+V Peak = T L-G V L-G√2                                635 kV    635.1 to   915.1 to    More than
+                                                      or less   915 kV     1,050 kV    1,050 kV
+
+a                                                     0         (V Peak-   (V Peak-    (V Peak-
+                                                                635)/140,  645)/135,0  675)/125,
+                                                                000        00          000
+
+Phase-to-Phase Exposures 3
+V Peak = (1.35T L-G + 0.45)V L-G√2                    630 kV    630.1 to   848.1 to    1,131.1    More than
+                                                      or less   848 kV     1,131 kV    to 1,485   1,485 kV
+                                                                                       kV
+
+a                                                     0         (V Peak-   (V Peak-    (V Peak-   (V Peak-
+                                                                630)/155,  633.6)/152  628)/153,  350.5)/203
+                                                                000        ,207        846        ,666
+
+1 Employers may use the minimum approach distances
+in Table R-6. If the worksite is at an elevation of
+more than 900 meters (3,000 feet), see footnote 1 to
+Table R-6.
+
+2 Employers may use the minimum approach distances
+in Table R-7, except that the employer may not use
+the minimum approach distances in Table R-7 for
+phase-to-phase exposures if an insulated tool spans
+the gap or if any large conductive object is in the
+gap. If the worksite is at an elevation of more than
+900 meters (3,000 feet), see footnote 1 to Table
+R-7. Employers may use the minimum approach
+distances in Table 14 through Table 21 in appendix B
+to this section, which calculated MAD for various
+values of T, provided the employer follows the notes
+to those tables.
+
+3 Use the equations for phase-to-ground exposures
+(with V Peak for phase-to-phase exposures) unless
+the employer can demonstrate that no insulated tool
+spans the gap and that no large conductive object is
+in the gap.
+
+4 Until March 31, 2015, employers may use the
+minimum approach distances in Table 6 through Table
+13 in Appendix B to this section.
+
+
+
+Table R-4—Electrical Component of the Minimum Approach Distance at 5.1 to 72.5 kV[D; In meters]
+-----------------------------------------------------------------------------------------------
+
+Nominal voltage (kV)phase-to-phase  Phase-to-ground exposure  Phase-to-phase exposure
+D (m)                               D (m)
+5.1 to 15.0                         0.04                      0.07
+15.1 to 36.0                        0.16                      0.28
+36.1 to 46.0                        0.23                      0.37
+46.1 to 72.5                        0.39                      0.59
+
+
+Table R-5—Altitude Correction Factor
+------------------------------------
+
+Altitude above sea level(m)  A
+0 to 900                     1.00
+901 to 1,200                 1.02
+1,201 to 1,500               1.05
+1,501 to 1,800               1.08
+1,801 to 2,100               1.11
+2,101 to 2,400               1.14
+2,401 to 2,700               1.17
+2,701 to 3,000               1.20
+3,001 to 3,600               1.25
+3,601 to 4,200               1.30
+4,201 to 4,800               1.35
+4,801 to 5,400               1.39
+5,401 to 6,000               1.44
+
+
+Table R-6—Alternative Minimum Approach Distances for Voltages of 72.5 kV and Less 1
+-----------------------------------------------------------------------------------
+
+Nominal voltage (kV)phase-to-phase                                            Distance
+Phase-to-ground exposure                                                      Phase-to-
+                                                                              phase
+                                                                              exposure
+
+m                                                                             ft          m       ft
+0.050 to 0.300 2                                                              Avoid       Avoid
+                                                                              Contact     Contac
+                                                                                          t
+
+0.301 to 0.750 2                                                              0.33        1.09    0.33  1.09
+0.751 to 5.0                                                                  0.63        2.07    0.63  2.07
+5.1 to 15.0                                                                   0.65        2.14    0.68  2.24
+15.1 to 36.0                                                                  0.77        2.53    0.89  2.92
+36.1 to 46.0                                                                  0.84        2.76    0.98  3.22
+46.1 to 72.5                                                                  1.00        3.29    1.20  3.94
+1 Employers may use the minimum approach distances in this table provided
+the worksite is at an elevation of 900 meters (3,000 feet) or less. If
+employees will be working at elevations greater than 900 meters (3,000 feet)
+above mean sea level, the employer shall determine minimum approach
+distances by multiplying the distances in this table by the correction
+factor in Table R-5 corresponding to the altitude of the work.
+
+2 For single-phase systems, use voltage-to-ground.
+
+
+Table R-7—Alternative Minimum Approach Distances for Voltages of More Than 72.5 kV1 2 3
+---------------------------------------------------------------------------------------
+
+Voltage range phase to phase (kV)                                               Phase-  Phase-
+                                                                                to-     to-
+                                                                                ground  phase
+                                                                                exposu  exposu
+                                                                                re      re
+
+m                                                                               ft      m       ft
+72.6 to 121.0                                                                   1.13    3.71    1.42   4.66
+121.1 to 145.0                                                                  1.30    4.27    1.64   5.38
+145.1 to 169.0                                                                  1.46    4.79    1.94   6.36
+169.1 to 242.0                                                                  2.01    6.59    3.08   10.10
+242.1 to 362.0                                                                  3.41    11.19   5.52   18.11
+362.1 to 420.0                                                                  4.25    13.94   6.81   22.34
+420.1 to 550.0                                                                  5.07    16.63   8.24   27.03
+550.1 to 800.0                                                                  6.88    22.57   11.38  37.34
+1 Employers may use the minimum approach distances in this table provided the
+worksite is at an elevation of 900 meters (3,000 feet) or less. If employees
+will be working at elevations greater than 900 meters (3,000 feet) above mean
+sea level, the employer shall determine minimum approach distances by
+multiplying the distances in this table by the correction factor in Table R-5
+corresponding to the altitude of the work.
+
+2 Employers may use the phase-to-phase minimum approach distances in this
+table provided that no insulated tool spans the gap and no large conductive
+object is in the gap.
+
+3 The clear live-line tool distance shall equal or exceed the values for the
+indicated voltage ranges.
+
+
+
+Table R-8—DC Live-Line Minimum Approach Distance with Overvoltage Factor 1[In meters]
+-------------------------------------------------------------------------------------
+
+Maximum anticipated per-unittransient overvoltage                             Distan
+                                                                              ce (m)
+                                                                              maximu
+                                                                              m
+                                                                              line-
+                                                                              to-
+                                                                              ground
+                                                                              voltag
+                                                                              e (kV)
+
+250                                                                           400     500   600   750
+1.5 or less                                                                   1.12    1.60  2.06  2.62  3.61
+1.6                                                                           1.17    1.69  2.24  2.86  3.98
+1.7                                                                           1.23    1.82  2.42  3.12  4.37
+1.8                                                                           1.28    1.95  2.62  3.39  4.79
+1 The distances specified in this table are for air, bare-hand, and live-
+line tool conditions. If employees will be working at elevations greater
+than 900 meters (3,000 feet) above mean sea level, the employer shall
+determine minimum approach distances by multiplying the distances in this
+table by the correction factor in Table R-5 corresponding to the altitude of
+the work.
+
+
+
+Table R-9—Assumed Maximum Per-Unit Transient Overvoltage
+--------------------------------------------------------
+
+Voltage range(kV)  Type of current(ac or dc)  Assumedmaximum per-unit transientovervoltage
+72.6 to 420.0      ac                         3.5
+420.1 to 550.0     ac                         3.0
+550.1 to 800.0     ac                         2.5
+250 to 750         dc                         1.8

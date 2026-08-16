@@ -1,0 +1,117 @@
+{
+  "project": "FieldSight",
+  "author": "U.S. Department of Labor, Occupational Safety and Health Administration",
+  "footer": "This document is an excerpt of federal public-domain material, reproduced as a training artifact for the FieldSight exercise. It is not a current or authoritative source and is not safety or legal guidance. Consult the published source for the governing text.",
+  "ecfr_issue_date": "2026-08-04",
+  "documents": [
+    {
+      "doc_id": "CFR-1904",
+      "title": "29 CFR Part 1904 - Recording and Reporting Occupational Injuries and Illnesses",
+      "doc_type": "regulation",
+      "kind": "ecfr",
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/{issue_date}/title-29.xml?part=1904",
+      "cite_url": "https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XVII/part-1904",
+      "sections": ["1904.4", "1904.5", "1904.6", "1904.7", "1904.29", "1904.39"],
+      "backs": ["R1", "R2", "R3", "R4"]
+    },
+    {
+      "doc_id": "CFR-269",
+      "title": "29 CFR 1910.269 - Electric Power Generation, Transmission, and Distribution",
+      "doc_type": "regulation",
+      "kind": "ecfr",
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/{issue_date}/title-29.xml?part=1910&section=1910.269",
+      "cite_url": "https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XVII/part-1910/subpart-R/section-1910.269",
+      "sections": ["1910.269"],
+      "keep_paragraphs": ["l"],
+      "keep_paragraphs_label": "1910.269 paragraph (l) - Working on or near exposed energized parts",
+      "table_label": "minimum-approach-distance table(s)",
+      "backs": []
+    },
+    {
+      "doc_id": "CPL-172",
+      "title": "OSHA Instruction CPL 02-00-172 - Part 1904 Recordkeeping Policies and Procedures",
+      "doc_type": "directive",
+      "kind": "pdf_pages",
+      "url": "https://www.osha.gov/sites/default/files/enforcement/directives/CPL-02-00-172.pdf",
+      "cite_url": "https://www.osha.gov/enforcement/directives/cpl-02-00-172",
+      "effective_date": "2025-01-13",
+      "page_offset": 3,
+      "excerpts": [
+        {"section_path": "IX.E", "label": "Determining the Recordability of Fatalities, Injuries, or Illnesses", "printed_pages": "10-24", "pdf_pages": [13, 27]},
+        {"section_path": "IX.P", "label": "Reporting Severe Injuries and Illnesses to OSHA", "printed_pages": "31-33", "pdf_pages": [34, 36]},
+        {"section_path": "App-B", "label": "Compliance Officer Checklist", "printed_pages": "B-1 to B-3", "pdf_pages": [56, 58]}
+      ],
+      "backs": ["R1", "R2", "R3"]
+    },
+    {
+      "doc_id": "FR-2014",
+      "title": "79 FR 56130 - Occupational Injury and Illness Recording and Reporting Requirements: NAICS Update and Reporting Revisions",
+      "doc_type": "preamble",
+      "kind": "pdf_pages",
+      "url": "https://www.govinfo.gov/content/pkg/FR-2014-09-18/pdf/2014-21514.pdf",
+      "cite_url": "https://www.federalregister.gov/documents/2014/09/18/2014-21514",
+      "publication_date": "2014-09-18",
+      "citation": "79 FR 56130",
+      "page_offset": 56129,
+      "excerpts": [
+        {"section_path": "1904.39-analysis", "label": "Section-by-section analysis of 1904.39 reporting requirements", "printed_pages": "56140-56156", "pdf_pages": [11, 27]}
+      ],
+      "backs": ["R2"]
+    },
+    {
+      "doc_id": "LOI-PACK",
+      "title": "OSHA Letters of Interpretation - Part 1904",
+      "doc_type": "interpretation",
+      "kind": "html_pages",
+      "url_template": "https://www.osha.gov/laws-regs/standardinterpretations/{slug}",
+      "cite_url": "https://www.osha.gov/laws-regs/standardinterpretations/standardnumber/1904",
+      "cache_prefix": "LOI",
+      "content_selectors": ["field--name-body", "node__content"],
+      "boilerplate_stop": "UNITED STATES DEPARTMENT OF LABOR",
+      "min_paragraph_chars": 45,
+      "items": [
+        {"label": "2021-01-08", "slug": "2021-01-08", "title": "Reporting two related reportable events", "resolves": "A hospitalization already reported, followed by death or amputation, needs no second report", "backs": ["R2"]},
+        {"label": "2015-04-15", "slug": "2015-04-15", "title": "General requirements that apply to workers who drive heavy trucks and other commercial motor vehicles", "resolves": "Motor vehicle on a public street and commercial or public transportation - not reportable but still recordable", "backs": ["R1", "R2"]},
+        {"label": "2004-01-13", "slug": "2004-01-13", "title": "Determining work-relatedness when the work event or exposure is only one of the discernable causes", "resolves": "Work-relatedness where the work exposure is one discernible cause, not the sole cause", "backs": ["R1"]},
+        {"label": "2006-08-03", "slug": "2006-08-03", "title": "Recording an injury when physician recommends restriction but no restricted work is available", "resolves": "Restricted work where the physician recommends restriction but none is available", "backs": ["R4"]},
+        {"label": "2024-10-22", "slug": "2024-10-22", "title": "Is the use of paraffin wax as a form of topical heat application considered medical treatment beyond first aid", "resolves": "An unlisted treatment tested against the closed first-aid list", "backs": ["R3"]},
+        {"label": "2026-01-20", "slug": "2026-01-20", "title": "Recordability of workplace injuries resulting from personal rechargeable lithium-ion batteries", "resolves": "Work-relatedness of an injury caused by an employee's personal equipment on site", "backs": ["R1"]}
+      ]
+    },
+    {
+      "doc_id": "FORM-301",
+      "title": "OSHA Forms for Recording Work-Related Injuries and Illnesses (Forms 300, 300A, 301)",
+      "doc_type": "form",
+      "kind": "pdf_pages",
+      "url": "https://www.osha.gov/sites/default/files/OSHA-RK-Forms-Package.pdf",
+      "cite_url": "https://www.osha.gov/recordkeeping/forms",
+      "page_offset": 0,
+      "excerpts": [
+        {"section_path": "overview", "label": "An Overview: Recording Work-Related Injuries and Illnesses, and the column definitions", "printed_pages": "2-4", "pdf_pages": [2, 4]},
+        {"section_path": "instructions", "label": "How to Fill Out the Log, Form 300, Form 300A", "printed_pages": "6-8", "pdf_pages": [6, 8]},
+        {"section_path": "form-301", "label": "Form 301 Injury and Illness Incident Report", "printed_pages": "10", "pdf_pages": [10, 10]}
+      ],
+      "backs": ["R4"]
+    }
+  ],
+  "verification": {
+    "distractors": ["24 hours", "hospital", "amputation", "voltage"],
+    "out_of_corpus": [
+      "hazard communication",
+      "safety data sheet",
+      "respiratory protection",
+      "fit testing",
+      "ergonomic",
+      "fall protection",
+      "powered industrial truck",
+      "forklift",
+      "crystalline silica",
+      "process safety management",
+      "trenching",
+      "GDPR",
+      "Sarbanes-Oxley",
+      "HIPAA"
+    ],
+    "near_miss": ["needlestick", "hearing loss", "tuberculosis", "privacy case"]
+  }
+}

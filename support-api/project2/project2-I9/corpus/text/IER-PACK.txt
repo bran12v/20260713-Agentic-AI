@@ -1,0 +1,930 @@
+
+Department of Justice Immigrant and Employee Rights Section - Guidance on the Form I-9 Process
+==============================================================================================
+
+
+LPR - Lawful Permanent Residents’ Employment Rights Under the Immigration and Nationality Act
+---------------------------------------------------------------------------------------------
+
+Source: https://www.justice.gov/crt/lawful-permanent-residents-employment-rights-under-
+immigration-and-nationality-act
+
+If you’re a lawful permanent resident, you have certain protections from employment
+discrimination under the Immigration and Nationality Act. This fact sheet explains the
+protections you have under this law from employment discrimination based on citizenship,
+immigration status, and national origin in:
+
+when proving your permission to work in the United States to an employer.
+
+An employer that refuses to hire you, or fires you, because you’re a lawful permanent
+resident or because of your national origin might be violating the law. Employers generally
+cannot exclude lawful permanent residents, limit jobs only to U.S. citizens, or refuse to
+hire someone because they were born in another country.
+
+Protections When an Employer is Verifying Your Permission to Work
+
+When you start a new job, employers must use the Form I-9 to verify your permission to work,
+also known as your authorization to work. Some employers also use E-Verify . If an employer
+treats you differently when verifying your permission to work based on your citizenship,
+immigration status, or national origin, the employer might be violating the law. An employer
+might be violating the law if it:
+
+Asks you to prove your lawful permanent resident status or USCIS/A# for the Form I-9.
+
+Asks you to show a specific document for the Form I‑9, such as your Permanent Resident Card
+or “green card.”
+
+Refuses to accept the valid documents you decide to show for the Form I-9.
+
+Asks you to show more documentation than is necessary for the Form I-9.
+
+Asks you to show documentation when not required. If you decide to show a valid Permanent
+Resident Card when you start your job, your employer cannot ask you for a new document when
+the Permanent Resident Card later expires.
+
+Asks you for more documentation when using E‑Verify. Employers should enter information from
+your Form I-9 when using E-Verify.
+
+When an employer verifies your permission to work, you get to choose which acceptable
+documentation to present. Your employer should not be deciding that for you.
+
+View more Form I-9 information for lawful permanent residents.
+
+Some examples of documents a lawful permanent resident can decide to show for the Form I-9
+
+Permanent Resident Card – including cards extended past the expiration date on the card,
+with an I-797 extension letter
+
+Foreign passport with a Machine-Readable Immigrant Visa with an I‑551 notation
+
+You’re also protected against retaliation. If you talk with the Civil Rights Division’s
+Immigrant and Employee Rights Section (IER) about a work problem, file a complaint with IER,
+take part in an investigation, or speak up to protect your rights or someone else’s rights,
+an employer cannot use that to:
+
+Call the Civil Rights Division’s Immigrant and Employee Rights Section if:
+
+You see a job posting that limits hiring to U.S. citizens and you think there is no lawful
+reason for it.
+
+An employer does not hire you, or fires you, because you’re a lawful permanent resident, or
+because of your national origin.
+
+Your employer does not let you show the acceptable documentation of your choice when proving
+your permission to work.
+
+Your employer asks for documentation when not required. For example, if your current
+employer asks for a new Permanent Resident Card when the card expires.
+
+Your employer retaliates against you because you speak up for your right to work as
+protected by this law.
+
+Other federal or state laws may also prohibit discrimination based on citizenship,
+immigration status, or national origin. For example, the Equal Employment Opportunity
+Commission enforces an employment law that protects workers from national origin
+discrimination.
+
+Civil Rights Division, Immigrant and Employee Rights Section (IER)
+
+Call the Worker Hotline at 1-800-255-7688 | 1-800-237-2515 TTY
+
+Calls can be anonymous and free language services are available.
+
+The law IER enforces is found at 8 U.S.C. § 1324b .
+
+To learn more, visit https://www.justice.gov/ier
+
+
+----------------------------------------------------------------------
+
+
+I9-EV - Form I-9 And E-Verify
+-----------------------------
+
+Source: https://www.justice.gov/crt/form-i-9-and-e-verify
+
+Employers verify each worker's identity and employment eligibility by completing the Form
+I-9, Employment Eligibility Verification at the time of hire. U.S. Citizenship and
+Immigration Services (USCIS), in the Department of Homeland Security (DHS), publishes the
+Form I-9 and accompanying instructions. Some employers also use E-Verify, an electronic
+system that compares a worker’s Form I-9 information with government databases to verify
+employment eligibility.
+
+Federal law requires employers to follow Form I-9 and E-Verify rules consistently,
+regardless of an employee's citizenship, immigration status, or national origin. This anti-
+discrimination law is found at 8 U.S.C. § 1324b. The regulations for this law are at 28
+C.F.R. Part 44.
+
+The Form I-9 instructions explain that employees can present any documentation from the
+Lists of Acceptable Documents. At the time of hire, all employees can choose to present
+either an unexpired List A document, or an unexpired List B document together with an
+unexpired List C document. The Form I-9 instructions tell employers to accept all documents
+that are sufficient to complete Form I-9 as long as they reasonably appear to be genuine and
+to relate to the employee. For example, under the Lists of Acceptable Documents, attached to
+the Form I-9, individuals may present a valid U.S. driver's license and unrestricted Social
+Security card to satisfy Form I-9 requirements. Under the law that the Immigrant and
+Employee Rights Section (IER) enforces, employers are not allowed to request more or
+different documents than are required to establish a worker's identity and eligibility to
+work in the United States, request a specific document or reject documents that appear to be
+reasonably genuine on their face based on a worker's citizenship status or national origin.
+You can learn more by contacting IER and at 8 U.S.C. § 1324b(a)(6). For example, under this
+part of the law employers must not require lawful permanent residents to produce a Permanent
+Resident, also known as a "green card," and must not require U.S. citizens who appear
+"foreign" to produce a birth certificate. If the Form I-9 instructions require an employer
+to reverify an employee the instructions allow the employee to present any valid List A
+document or List C document for reverification.
+
+Employers that participate in the E-Verify program must use E-Verify consistently and
+without regard to an employee’s citizenship, immigration status, or national origin to avoid
+violating 8 U.S.C. § 1324b or the E-Verify rules. Discrimination in the E-Verify process,
+such as requiring a DHS-issued document from all non-U.S. citizens to create an E-Verify
+case, violates 8 U.S.C. § 1324b and the E-Verify rules.
+
+For further information about the Form I-9 and E-Verify requirements, including updates from
+USCIS, visit I-9 Central and the E-Verify website.
+
+Call IER if you are an employee and feel your employer has treated you differently during
+the Form I-9 or E-Verify process based on your citizenship status or national origin, or if
+you are an employer with questions about preventing discrimination in the employment
+eligibility verification process:
+
+Teletypewriter (TTY) for hearing impaired: 1-800-237-2515
+
+Below are additional resources for workers and employers:
+
+USCIS Employee Rights and Responsibilities Under E-Verify (also available in Spanish and
+other languages)
+
+Worker Protections Against Discrimination in the E-Verify Process
+
+Identifying Possible E-Verify Related Employment Discrimination
+
+E-Verify Employee Rights and Responsibilities Video
+
+FOR EMPLOYERS IER's Employer Information web page
+
+USCIS/IER/ICE Employer Responsibilities Webinar
+
+IER Information for Employers on How to Avoid Discrimination in E-Verify
+
+The information on this webpage is not intended to be a final agency action, has no legally
+binding effect, and has no force or effect of law. This webpage may be rescinded or modified
+at the Department’s discretion, in accordance with applicable laws. The Department’s
+guidance documents, including this webpage, do not establish legally enforceable
+responsibilities beyond what is required by the terms of the applicable statutes,
+regulations, or binding judicial precedent. For more information, see "Memorandum for All
+Components: Prohibition of Improper Guidance Documents," from Attorney General Jefferson B.
+Sessions III, November 16, 2017.
+
+
+----------------------------------------------------------------------
+
+
+FAQ - IER's Frequently Asked Questions (FAQs)
+---------------------------------------------
+
+Source: https://www.justice.gov/crt/iers-frequently-asked-questions-faqs
+
+What is the Immigrant and Employee Rights Section (IER)?
+
+What type of employer conduct does the Immigration and Nationality Act's (INA) anti-
+discrimination provision prohibit?
+
+Can I report a violation of the anti-discrimination provision without filing a charge?
+
+Can an IER staff member speak at my upcoming live presentation?
+
+Who is the IER point of contact for inquiries from the media?
+
+Which documents may I show my employer to establish my identity and permission to work?
+
+What is the difference between an "Employment Authorization Document card (Form I-766)"
+under List A of the Form I-9's Lists of Acceptable Documents and an "Employment
+authorization document issued by the Department of Homeland Security (DHS)" under List C?
+
+What receipts are listed at the bottom of Lists of Acceptable Documents?
+
+If a worker records a USCIS or A Number on the Form I-9, does an employer need to see, or
+can it ask for, a document with that number?
+
+My new employer is requiring me to provide an expiration date for my status as a refugee in
+Section 1 of the Form I-9. Do I have to provide an expiration date in Section 1?
+
+May an employer ask an employee to present a Social Security card for payroll (and not I-9)
+purposes?
+
+Does an employer need to see a worker's Social Security card to make sure that the Social
+Security number completed in Section 1 is correct?
+
+My employer asked me to verify my employment eligibility by showing a document issued by the
+Department of Homeland Security because I am not a U.S. citizen. Is my employer allowed to
+do this?
+
+A job applicant presented an Employment Authorization Document that expires next month. As
+an employer, I don't want to train the worker without an assurance that the worker will
+still be employment-authorized in the future. May an employer reject the applicant for
+employment due to the uncertainty of continued employment authorization?
+
+A worker has presented an employer with a document that looks fake. Can an employer refuse
+to accept it without violating the anti-discrimination provision?
+
+A worker's DHS-issued Employment Authorization Document expired and the worker wants to show
+a Social Security card for reverification. Does the employer need to see a current DHS
+document?
+
+Does an employer need to reverify the work authorization of lawful permanent residents who
+produce a "green card" with a future expiration date?
+
+If I am a lawful permanent resident, do I need to show my employer a new unexpired Permanent
+Resident Card, when the card expires?
+
+I have Temporary Protected Status (TPS), and the Department of Homeland Security extended my
+Employment Authorization Document. My employer insists that I show an unexpired card to
+continue working. Do I need to?
+
+When my employer created an E-Verify case with my information, I received a Tentative
+Nonconfirmation (also known as a mismatch) and notified my employer that I have decided to
+take action to resolve the mismatch. I have work authorization but my employer told me that
+I can start working only after I resolve my mismatch. Is my employer allowed to do this?
+
+Is an employer that participates in E-Verify allowed to terminate or suspend an employee who
+decides to resolve a Tentative Nonconfirmation (also known as a mismatch), based on the
+mismatch?
+
+If a worker's name and Social Security number don't match the Social Security
+Administration's records, should the employer automatically conclude that the worker is not
+authorized to work?
+
+I was rejected for a job because I am not a U.S. citizen. Is this citizenship status
+discrimination?
+
+I was rejected for a job because the employer only likes to hire workers on temporary visas.
+Is the employer allowed to do this?
+
+May I ask job applicants for citizenship or immigration status information?
+
+If my company engages in activity regulated by the International Traffic in Arms Regulations
+(ITAR) or the Export Administration Regulations (EAR), does the ITAR or the EAR require me
+to hire only U.S. citizens?
+
+I applied to a job with a small employer, and it refused to hire me due to my national
+origin. Is that employment discrimination?
+
+I applied for a job with a small employer and was informed that to be hired I would need to
+speak English without a foreign accent. Is this legal?
+
+My employee presented Form I-9 documentation in which the employee's name differs from the
+name they listed on their Form I-9. Can I accept the documentation?
+
+How should I, as an employer, handle a situation in which an employee's Form I-9
+documentation differs from the name they listed on their Form I-9?
+
+Q. What is the Immigrant and Employee Rights Section (IER)?
+
+A. The Immigrant and Employee Rights Section (IER) of the U.S. Justice Department's Civil
+Rights Division enforces the anti-discrimination provision of the Immigration and
+Nationality Act (INA) . This law protects work-authorized individuals from employment
+discrimination in hiring, firing, and recruitment or referral for a fee based upon
+citizenship, immigration status, and national origin; unfair documentary practices when
+verifying employees' employment eligibility (Form I-9 and E-Verify); and retaliation.
+Individuals who believe they have been discriminated against may file charges with IER and
+may be entitled to receive back pay and reinstatement, among other remedies.
+
+Q. What type of employer conduct does the INA's anti-discrimination provision prohibit?
+
+A. The Immigration and Nationality Act's (INA) anti-discrimination provision, found at 8
+U.S.C. § 1324b , prohibits four types of unfair employment practices:
+
+1. Employers with four or more workers cannot discriminate because of citizenship status
+with respect to hiring, firing, and recruitment or referral for a fee, subject to certain
+exceptions. Citizenship status includes a person’s immigration status. Recent lawful
+permanent residents, U.S. citizens, U.S. nationals, and people granted asylum or refugee
+status are protected from citizenship status discrimination under the INA. Lawful permanent
+residents who do not apply for naturalization within six months of eligibility by virtue of
+their period of residency and certain other non-U.S. citizen categories are not protected
+from citizenship status discrimination under the INA. An employer may restrict hiring to
+U.S. citizens only when a law, regulation, executive order, or government contract requires
+the employer to do so.
+
+2. Employers with four to 14 workers cannot discriminate because of national origin with
+respect to hiring, firing, and recruitment or referral for a fee. This type of
+discrimination includes treating individuals differently because of their place of birth,
+country of origin, ancestry, first language, accent or because they are perceived as looking
+or sounding "foreign." All work-authorized individuals are protected from national origin
+discrimination by small employers under the law that IER enforces. The Equal Employment
+Opportunity Commission has jurisdiction over national origin discrimination claims against
+employers with 15 or more workers.
+
+3. Employers of any size cannot engage in unfair documentary practices related to verifying
+employees' employment eligibility during the I-9 and E-Verify processes. Specifically,
+employers are not allowed to, on the basis of citizenship, immigration status, or national
+origin, request more or different documents than are required to verify employment
+eligibility and identity, reject reasonably genuine-looking documents, or specify certain
+documents over others.
+
+4. Employers of any size cannot engage in intimidation or retaliation. Employers are not
+allowed to intimidate, threaten, coerce, or retaliate against individuals for filing charges
+with IER, cooperating with an IER investigation, contesting an action that may constitute
+unfair documentary practices or discrimination based upon citizenship status or national
+origin, or otherwise asserting rights under the INA's anti-discrimination provision.
+
+A. Individuals who believe they have suffered discrimination under this law may file a
+charge of discrimination with IER by completing and submitting a charge form electronically
+online , or emailing, mailing or faxing the IER charge form to:
+
+Immigrant and Employee Rights Section Civil Rights Division U.S. Department of Justice 950
+Pennsylvania Avenue, NW (4CON) Washington, DC 20530 Fax: 202-616-5509 Website:
+www.justice.gov/IER Email: IER@usdoj.gov
+
+IER’s charge form is available in several languages. Charges must be filed within 180 days
+of the alleged discrimination or retaliation. More information on filing a charge is
+available here .
+
+A. After IER receives what it deems to be a charge, IER will begin its investigation. If IER
+has not filed a complaint with an Administrative Law Judge (ALJ) within 120 days of
+receiving a charge, it will send a letter notifying the injured party or authorized
+representative of their right to file an administrative complaint against the respondent,
+and indicating whether IER is continuing its investigation. IER will also notify the
+respondent of its decision to continue an investigation. IER may also file a complaint with
+an Administrative Law Judge after this 120-day investigatory period.
+
+Once a case is filed, pre-trial matters are generally handled in accordance with the
+applicable rules of practice and procedures , and involve discovery, depositions, and
+pleadings. Administrative Law Judge decisions are directly appealable to the federal circuit
+courts of appeals. Settlements or successful adjudications may result in civil penalty
+assessments, back pay awards, hiring orders and the imposition of injunctive relief to end
+discriminatory practices.
+
+Q. Can I report a violation of the anti-discrimination provision without filing a charge?
+
+A. Yes. IER has authority to initiate independent investigations based on information
+developed during individual charge investigations, or information provided by other
+government agencies and the general public. Independent investigations often involve
+discriminatory policies, practices, or processes that potentially affect many employees or
+applicants. To report a potential violation of the anti-discrimination provision without
+filing a charge, you may call IER's worker hotline or email us .
+
+1-800-255-7688 (worker hotline), or 1-800-237-2515 (TTY) 1-800-255-8155 (employer hotline)
+or 1-800-237-2515 (TTY) 1-202-616-5594 (direct office line)
+
+Civil Rights Division U.S. Department of Justice Immigrant and Employee Rights Section 950
+Pennsylvania Avenue, NW (4CON) Washington, DC 20530
+
+A. IER has multilingual staff, including attorneys, ready to assist workers, employers and
+the public who contact IER through its worker or employer hotline. IER's hotlines provide
+workers and employers with an opportunity to receive information about the anti-
+discrimination provision of the INA and to work directly with IER's staff to resolve
+potential immigration-related employment disputes informally and quickly without contested
+litigation. Workers and employers are encouraged to call the respective hotlines above to
+seek assistance with immigration-related employment issues. Please note that IER cannot
+provide legal advice or individual legal representation. Language services are available and
+free of charge.
+
+Q. Can an IER staff member speak at my upcoming live presentation?
+
+A. Maybe. IER staff may be available to participate in seminars, conferences, and workshops
+to educate employers, workers or other members of the public about protections and
+obligations under the anti-discrimination provision. Please submit all requests by email to
+IER@usdoj.gov or call (202) 616-5594 and ask to speak with IER's Outreach Coordinator.
+
+Q. Who is the IER point of contact for inquiries from the media?
+
+A. Members of the media should contact the Justice Department's Office of Public Affairs.
+The Office is responsible for ensuring that the public is informed about the Department's
+activities and about the priorities and policies of the Attorney General and the President
+with regard to law enforcement and legal affairs. The telephone number for the Office of
+Public Affairs is (202) 514-2007.
+
+Q. Which documents may I show my employer to establish my identity and permission to work?
+
+A. The Department of Homeland Security has designated several combinations of acceptable
+documents from which workers can choose to prove their identity and permission to work. The
+Form I-9 contains Lists of Acceptable Documents that fall into three categories (see next
+question for additional information about acceptable documents). A worker is allowed to
+produce either List A documentation (establishing both identity and permission to work), or
+a combination of documentation from List B (establishing identity) and List C (establishing
+permission to work). Employers can't specify which documents they will accept from a worker
+and should not prevent an individual from working because of a document's future expiration
+date. For further information about acceptable documents, visit I-9 Central . For concerns
+about possible discriminatory practices relating to employment eligibility verification,
+contact IER.
+
+Q. What is the difference between an "Employment Authorization Document card (Form I-766)"
+under List A of the Form I-9's Lists of Acceptable Documents and an "Employment
+authorization document issued by the Department of Homeland Security (DHS)" under List C?
+
+A. An Employment Authorization Document (EAD, Form I-766) is a List A Form I-9 document and
+sometimes known as a “work permit” or “Employment Authorization Card.” By contrast, an
+“Employment authorization document” issued by DHS under List C refers to other types of DHS-
+issued documents that do not otherwise fall within the Lists of Acceptable Documents. Some
+examples of these documents include a Form I-94 issued to someone granted asylum or work-
+authorized nonimmigrants (for example, U visa holders and some T visa holders , and H-1B
+visa holders) because of their immigration status, an unexpired Reentry Permit (Form I-327),
+Certificate of U.S. Citizenship (Form N-560) or Replacement Certificate of Citizenship (Form
+N-561) (PDF, 40 KB) , a Certificate of Naturalization (Form N-550) or N-570 (PDF) , and a
+Form I-797 issued to a conditional resident extending the validity of their Permanent
+Resident Card, in combination with their Permanent Resident Card. You can learn more by
+visiting I-9 Central’s page on Acceptable Documents , calling IER, and contacting USCIS user
+support ."
+
+Q. What receipts are listed at the bottom of the Lists of Acceptable Documents?
+
+A. A worker may present a receipt in lieu of a listed document to complete Section 2 of the
+Form I-9 as long as the receipt is an acceptable receipt for I-9 purposes. The receipt is
+valid for a temporary period. There are several types of acceptable receipts :
+
+A receipt for the application for a replacement of a lost, stolen, or damaged document. The
+receipt is valid for 90 days from the first day of work or, in the case of reverification,
+from the date the worker's employment authorization expired. By the end of the 90-day
+receipt period, the worker should present the replacement document to complete the Form I-9.
+If the worker doesn't have the replacement document, the worker can show other acceptable
+Form I-9 documentation from the Lists of Acceptable Documents.
+
+A Form I-94 containing a temporary I-551 stamp and a photograph of the individual, which is
+considered a receipt for Form I-551. The worker must present the Form I-551 by the
+expiration date of the temporary I-551 stamp, or within one year from the date of issuance
+of the Form I-94 if the I-551 stamp does not contain an expiration date.
+
+A Form I-94 containing an unexpired refugee admission stamp. Someone granted refugee status
+may have an electronic or paper Form I-94. If a refugee presents the departure portion of a
+Form I-94A containing an unexpired refugee admission stamp or a computer-generated printout
+of Form I-94 with an admission class of "RE", the employer must accept it. This is
+considered a receipt for a List A document. The worker must present either an Employment
+Authorization Document (EAD) or a combination of a List B identity document and an
+unrestricted Social Security card within 90 days after the first day of work, or in the case
+of reverification, the date employment authorization expires.
+
+An unexpired Form I-94 containing a class of admission of UHP or OAR. Employees may present
+this List A receipt to show evidence of identity and employment authorization. This receipt
+is valid for 90 days from date of hire or, for reverification, the date employment
+authorization expires. When the receipt expires, the worker must show the employer either an
+unexpired Form I-766, Employment Authorization Document (EAD), or a combination of a List B
+document and a List C unrestricted Social Security card.
+
+An unexpired Form I-94 containing a class of admission of DT issued between Feb. 24, 2022,
+and Sept. 30, 2023, and indicates Ukraine as the country of citizenship. Employees may
+present this Lisa A receipt to show evidence of identity and employment authorization. This
+receipt is valid for 90 days from date of hire or, for reverification, the date employment
+authorization expires. When the receipt expires, the worker must show the employer either an
+unexpired Form I-766, Employment Authorization Document (EAD), or a combination of a List B
+document and a List C unrestricted Social Security card.
+
+An unexpired Form I-94 containing a class of admission of PAR and indicates Afghanistan as
+the country of citizenship on the document may present it as an acceptable List A receipt
+that temporarily shows identity and work authorization for Form I-9. This receipt is valid
+for 90 days from date of hire or, for reverification, the date employment authorization
+expires. When the receipt expires, the worker must show the employer either an unexpired
+Form I-766, Employment Authorization Document (EAD), or a combination of a List B document
+and a List C unrestricted Social Security card.
+
+If your employer does not accept a valid receipt for I-9 purposes, contact IER for
+assistance.
+
+Q. If a worker records a USCIS or A Number on the Form I-9, does an employer need to see, or
+can it ask for, a document with that number?
+
+A. No. If a worker records a USCIS or A Number, or an Admission Number, in Section 1 of the
+Form I-9, an employer is not allowed to ask or see a specific document with that number or
+specify which documentation a worker may present for Section 2, based on the worker's
+citizenship status. Asking an employee for proof of citizenship or immigration status in the
+process of verifying a worker's employment authorization could violate the law that IER
+enforces. During both initial verification and reverification, a worker may choose which
+documentation to present from the List of Acceptable Documents.
+
+Q. My new employer is requiring me to provide an expiration date for my status as a refugee
+in Section 1 of the Form I-9. Do I have to provide an expiration date in Section 1?
+
+A. No. The Form I-9 instructions direct noncitizens authorized to work whose employment
+authorization does not expire, such as workers granted asylum or refugee status, and certain
+citizens of the Federated States of Micronesia, the Republic of the Marshall Islands and
+Palau, to enter "N/A" on the line calling for an expiration date for the worker’s employment
+authorization. In addition, if someone granted asylum or refugee status chooses to show a
+driver's license and unrestricted Social Security card for Section 2, these documents are
+not subject to reverification under Form I-9 rules . Contact IER if you have asylum or
+refugee status and your employer is requiring that you provide an expiration date in Section
+1.
+
+Q. May an employer ask an employee to present a Social Security card for payroll (and not
+I-9) purposes?
+
+A. Yes. Although an employer cannot ask a worker to present a particular document for
+employment eligibility verification, an employer may request a Social Security card for
+payroll purposes. However, IER recommends certain practices to avoid confusion about whether
+the request is for employment eligibility verification purposes: (1) separate the Form I-9
+process from other processes involving document requests; and (2) communicate the basis for
+each document request. For example, explain whether the document request is for payroll or
+another purpose. Workers who believe an employer is requesting a specific document for
+employment eligibility verification purposes may allege discrimination in violation of the
+INA's anti-discrimination provision.
+
+Q. Does an employer need to see a worker's Social Security card to make sure that the Social
+Security number completed in Section 1 is correct?
+
+A. No. Recording a Social Security number in Section 1 of the Form I-9 is optional unless
+the employer uses E-Verify. If an employer uses E-Verify, E-Verify rules require the worker
+to fill in the Social Security number field. An employer still should not ask to review the
+card to verify it for Section 1 purposes and requesting more or different or specific
+documentation than required to complete the Form I-9 based on a worker’s citizenship status
+or national origin may violate the anti-discrimination provision of the INA. Note that if a
+worker is still waiting for a Social Security number when completing the Form I-9 and the
+employer uses E-Verify, E-Verify instructions direct the employer to wait to create the
+E-Verify case until the worker is issued a Social Security number. As long as the worker has
+otherwise completed the Form I-9, the worker continues working while awaiting the Social
+Security number. For further guidance, contact IER.
+
+Q. My employer asked me to verify my employment eligibility by showing a document issued by
+the Department of Homeland Security because I am not a U.S. citizen. Is my employer allowed
+to do this?
+
+A. No. For employment eligibility verification, an employer must allow its workers to choose
+which documents to show from the Form I-9 Lists of Acceptable Documents, and requesting a
+specific document or more documents based on a worker’s citizenship status may violate the
+law the IER enforces. If the documentation reasonably appears to be genuine and to relate to
+the worker, the law that IER enforces and Form I-9 instructions direct the employer to
+accept it. If your employer has demanded a specific document from you for I-9 purposes,
+contact IER.
+
+Q. A job applicant presented an Employment Authorization Document that expires next month.
+As an employer, I don't want to train the worker without an assurance that the worker will
+still be employment-authorized in the future. May an employer reject the applicant for
+employment due to the uncertainty of continued employment authorization?
+
+A. No. Workers with temporary or continuous employment authorization may present documents
+with future expiration dates. Even if a worker has temporary work authorization, the worker
+may receive subsequent employment authorization. Therefore, a future expiration date does
+not necessarily mean that a worker will not be able to work beyond the date on the document
+presented. The rules for reverifying employment authorization when a worker has shown a
+temporary employment authorization document are discussed in the Handbook for Employers .
+The Handbook for Employers also explains that an employer cannot refuse to accept a document
+because it has a future expiration date. In addition, consideration of a future employment
+authorization expiration date in determining whether an individual is qualified for a
+particular job may constitute an unfair immigration-related employment practice in violation
+of the anti-discrimination provision of the Immigration and Nationality Act.
+
+Q. A worker has presented an employer with a document that looks fake. Can an employer
+refuse to accept it without violating the anti-discrimination provision?
+
+A. Yes. Under the Immigration and Nationality Act’s employer sanctions provision , an
+employer cannot accept a document that does not reasonably appear to be genuine or to relate
+to the person. However, an employer is not allowed to apply different levels of scrutiny to
+documents based on a worker's citizenship, immigration status, or national origin, and
+rejecting a valid document based on a worker’s citizenship status or national origin may
+violate the law that IER enforces. An employer may ask the worker for different
+documentation if the request is based on the fact that the first document presented does not
+reasonably appear to be genuine. If the employer rejects a document and does not provide the
+worker an opportunity to produce a different valid document, the worker may allege unfair
+documentary practices under the law that IER enforces. In addition, contacting IER for
+assistance before rejecting a document solely because the employer is unfamiliar with the
+type of document being presented can help an employer avoid a potential claim of unfair
+documentary practices. For further assistance, contact IER.
+
+Q. A worker's DHS-issued employment authorization document expired and the worker wants to
+show a Social Security card for reverification. Does the employer need to see a current DHS
+document?
+
+A. No. For reverification, the Form I-9 rules require a worker to present an unexpired List
+A or List C document of the worker's choice. Therefore, if a worker presents an unrestricted
+Social Security card upon reverification, the worker does not need to present a current DHS
+document even if he or she presented a DHS document for initial employment eligibility
+verification. However, if a worker presents a restricted Social Security card (stating "not
+valid for employment," "valid for work only with INS authorization," or "valid for work only
+with DHS authorization"), the employer is not allowed to accept the restricted Social
+Security card since it is not an acceptable I-9 document . In that case, the employer may
+ask the worker to present another unexpired List A or List C document of the worker's
+choice. Note that List B documents are not required for reverification. For questions about
+the acceptability of documents for reverification, contact IER.
+
+Q. Does an employer need to reverify the work authorization of lawful permanent residents
+who produce a "green card" with a future expiration date?
+
+A. No. Lawful permanent residents who produce an unexpired Permanent Resident Card (Form
+I-551 or "green card") are not subject to reverification , even if the Form I-551 lists a
+future expiration date. Reverifying Permanent Resident Cards may constitute a violation of
+the anti-discrimination provision of the INA. For questions about how to conduct
+reverification in a nondiscriminatory manner, contact IER.
+
+Q. If I am a lawful permanent resident, do I need to show my employer a new unexpired
+Permanent Resident Card when the card expires?
+
+A. No. Form I-9 rules instruct employers not to reverify a lawful permanent resident who
+initially presented an unexpired Permanent Resident Card, even when the card expires.
+Employers that request documents when not required, based on a worker’s citizenship status,
+may violate the INA’s anti-discrimination provision. If your employer reverifies your
+employment eligibility after you presented an unexpired Permanent Resident Card, contact
+IER.
+
+Q. I have Temporary Protected Status ("TPS"), and the Department of Homeland Security
+extended my Employment Authorization Document ("EAD"). My employer insists that I show an
+unexpired card to continue working. Do I need to?
+
+A. No. Your TPS EAD may be extended past its original expiration date in a few ways.
+Sometimes, the government extends TPS EADs through the Federal Register, and the Federal
+Register notice will tell you whether your EAD automatically has a new expiration date. Go
+to www.uscis.gov/tps for information on TPS for your country and the most recent Federal
+Register notice. If the Federal Register notice automatically extends your EAD, your EAD is
+valid beyond its expiration date and you do not have to show that you have applied for a new
+EAD to keep working.
+
+If the government does not automatically extend your EAD through the Federal Register notice
+but you have applied to renew your TPS EAD, you may be able to keep working after the
+expiration date on your EAD. For a period of time after your EAD expiration date, you can
+continue working by showing your employer your TPS EAD with the I-797C receipt notice
+(showing that the government received your EAD renewal application).
+
+Your TPS might be extended in other ways and you can get more information on EAD automatic
+extensions in the Handbook for Employers M-274 on completing the Form I-9. You can also call
+IER for more information.
+
+Q. When my employer created an E-Verify case with my information, I received a Tentative
+Nonconfirmation (also known as a mismatch) and notified my employer that I have decided to
+take action to resolve the mismatch. I have work authorization but my employer told me that
+I can start working only after I resolve my mismatch. Is my employer allowed to do this?
+
+A. No. E-Verify rules prohibit an employer from firing a worker, suspending a worker, or
+limiting a worker’s hours because the worker chooses to take action to resolve the mismatch,
+as long as the status in E-Verify remains a mismatch. Employers that allow only some workers
+to work while resolving a mismatch depending upon the worker's citizenship status or
+national origin may be violating the anti-discrimination provision of the Immigration
+Nationality Act. If your employer has not allowed you to work because you are resolving your
+mismatch, contact IER.
+
+Q. Is an employer that participates in E-Verify allowed to terminate or suspend an employee
+who decides to resolve a Tentative Nonconfirmation (also known as a mismatch), based on the
+mismatch?
+
+A. No. An E-Verify mismatch does not necessarily mean the worker is not authorized to work.
+The E-Verify law and rules do not permit an employer to take adverse action against the
+worker because the worker is resolving the mismatch, including terminating or suspending the
+worker. E-Verify rules require the employer to await a final resolution from E-Verify, even
+if such final resolution takes longer than the typical period.
+
+Terminating an individual based on the assumption that he or she is not authorized to work
+based only on a mismatch may violate the anti-discrimination provision of the Immigration
+Nationality Act. For more information, including employer best practices on avoiding
+discrimination in the use of E-Verify, see IER's E-Verify guidance for employers here .
+
+Q. If a worker's name and Social Security number don't match the Social Security
+Administration's (SSA) records, should the employer automatically conclude that the worker
+is not authorized to work?
+
+A. No. Just because there is a mismatch between a worker's name or Social Security number
+and another entity's records, including Social Security Administration records, employers
+should not assume that the worker lacks employment authorization. There are many possible
+reasons for a mismatch, including:
+
+1. An unreported name change (e.g., due to marriage, divorce or other reasons) after the
+Social Security number was issued;
+
+5. An error based on hyphenated or multiple surnames; and
+
+6. A change in citizenship status that has not been reported to the Social Security
+Administration.
+
+As the Social Security Administration states in its Employer Correction Request letter, an
+employer should not use the mismatch by itself as the reason for taking any adverse
+employment action against any worker. Doing so may violate the anti-discrimination provision
+of the INA at 8 U.S.C. § 1324b. For more information, including steps employers can take
+upon receipt of a Social Security name/number mismatch, see IER's guidance for employers on
+Social Security name/number no-matches here .
+
+Q. I was rejected for a job because I am not a U.S. citizen. Is this citizenship status
+discrimination?
+
+A. Under the anti-discrimination provision of the Immigration and Nationality Act, employers
+are not allowed to limit job applicants or hires to U.S. citizens unless they are required
+to do so by federal, state, or local laws or federal contracts that require specific
+positions to be filled only by U.S. citizens. If a job applicant is discouraged or rejected
+from employment based on their citizenship status, the employer may be committing
+citizenship status discrimination in violation of the anti-discrimination provision of the
+Immigration and Nationality Act. If you believe that your application may have been
+improperly rejected because you are not a U.S. citizen, contact IER.
+
+Q. I was rejected for a job because the employer only likes to hire workers on temporary
+visas. Is the employer allowed to do this?
+
+A. No. Failing to consider or hire qualified workers protected from citizenship status
+discrimination (U.S. citizens, U.S. nationals, recent lawful permanent residents, and people
+granted asylum or refugee status) based on their citizenship status violates Immigration and
+Nationality Act's anti-discrimination provision. Employers might violate this law even if
+the employer follows the rules for the temporary employment-based visa programs, if the
+employer makes its hiring decision based on a worker’s citizenship status. Contact IER if
+you believe an employer discriminated against you based on your citizenship status.
+
+Q. May I ask applicants for citizenship or immigration status information?
+
+A. Generally, an employer may ask job applicants if they have the legal right to work in the
+United States and if they will need sponsorship for an employment visa. Asking for specific
+citizenship status information for purposes unrelated to any recruitment, hiring, or firing
+decision is unlikely to violate the law IER enforces. However, unsuccessful applicants who
+are subjected to these types of questions may believe that the employer based its decision
+on the applicant’s citizenship status (which includes immigration status). Therefore, it is
+a best practice to avoid asking applicants for this information.
+
+Q. If my company engages in activity regulated by the International Traffic in Arms
+Regulations (ITAR) or the Export Administration Regulations (EAR), does the ITAR or the EAR
+require me to hire only U.S. citizens?
+
+A. No. Nothing under the ITAR or the EAR requires or allows an employer to limit jobs to
+U.S. citizens. However, the ITAR or the EAR may require a company to obtain authorization if
+certain employees require access to technology that is regulated under the ITAR or the EAR,
+and such requirements may affect these employees’ scope of employment. In particular, a
+company may need to obtain authorization to release covered technology to employees who are
+not U.S. citizens, U.S. nationals, lawful permanent residents, or people granted asylum or
+refugee status. Contact the Department of State’s Directorate of Defense Trade Controls for
+more information on requirements under the ITAR and the Department of Commerce’s Bureau of
+Industry and Security for more information on deemed export requirements under the EAR. See
+IER's fact sheet for more information.
+
+Q. I applied for a job with an employer that only has four employees, and it refused to hire
+me due to my national origin. Is that employment discrimination?
+
+A. Yes. The anti-discrimination provision of the Immigration Nationality Act prohibits
+employers with four to 14 employees from discriminating in hiring based on national origin,
+and Title VII of the Civil Rights Act (enforced by the Equal Employment Opportunity
+Commission (EEOC)) prohibits employers with 15 or more employees from discriminating in
+hiring based on national origin. If an employer has rejected your employment application
+based on your national origin, contact IER to determine whether IER or the EEOC has
+jurisdiction to assist you.
+
+Q. I applied for a job with an employer that only has four employees and was informed that
+to be hired I would need to speak English without a foreign accent. Is this legal?
+
+A. A small employer (four to 14 employees) that rejects an applicant because of a foreign
+accent may violate the anti-discrimination provision of the Immigration Nationality Act.
+Such conduct by a larger employer (15 or more employees) may violate Title VII of the 1964
+Civil Rights Act, which is enforced by the Equal Employment Opportunity Commission . More
+information about national origin discrimination is available here .
+
+Q. My employee presented Form I-9 documentation in which the employee's name differs from
+the name they listed on their Form I-9. Can I accept the documentation?
+
+A. Yes, as long as the documentation reasonably appears to be genuine and to relate to your
+employee. An employee might have different names on the documentation they use to prove
+their identity or work authorization for the Form I-9. For example, people might change
+their first, last, or full name for various reasons. Employers must treat employees who have
+name changes in a nondiscriminatory way, regardless of the reason for the name changes.
+
+Q. How should I, as an employer, handle a situation in which an employee's Form I-9
+documentation differs from the name they listed on their Form I-9?
+
+A. Employers should ask employees the reason for the difference in names. USCIS also
+elaborates on how to handle this depending on the situation (see chart below). Ultimately,
+an employer should accept the documentation as long as it reasonably appears to be genuine
+and to relate to the employee. USCIS also explains that if your employee voluntarily
+provides additional documentation to explain their name change, you may keep a copy of the
+extra documentation with a memo explaining the name discrepancy. This guidance also applies
+if an employer uses E-Verify. Any additional documentation your employee chooses to provide
+to explain their name change doesn’t need to be from the Lists of Acceptable Documents, but
+this extra documentation might support the documents presented to complete the Form I-9. For
+example, an employee could choose to show an employer a court record reflecting a name
+change, even though that court record is not a document someone can use to complete Section
+2 of the Form I-9.
+
+Employers must treat employees who have name changes in a nondiscriminatory way, regardless
+of the reason for the name changes.
+
+If your employee Then you should Tips Provides documentation that reasonably appears to be
+genuine, relates to the employee, and is on the Lists of Acceptable Documents Accept the
+documentation. Provides a document that does not reasonably appear to be genuine or relate
+to the employee or is not on the Lists of Acceptable Documents Reject the document and ask
+your employee to provide other document(s) that satisfy Form I-9 requirements. The standard
+is reasonableness. You are not expected to be a document expert. Writes more than one last
+name in Section 1 , but presents a document from the List of Acceptable Documents that has
+only one of those last names Ask your employee the reason for the difference in the names.
+If the document reasonably appears to be genuine and to relate to the individual, you may
+accept the document. Attach a memo to Form I-9 explaining the discrepancy. Presents a
+document from the List of Acceptable Documents in which his or her name is spelled slightly
+differently than the name he or she wrote in Section 1 Ask your employee the reason for the
+difference in spelling. If it reasonably appears to be genuine and to relate to the
+individual, you may accept the document. Ask your employee to use his or her full legal name
+in Section 1. Ask him or her to do one of the following: correct Form I-9 and initial the
+change; provide a different document with the correct spelling; provide you a corrected
+document. Provides a document in which the name the employee wrote in Section 1 is
+completely or substantially different from the name on the document Ask the employee the
+reason for the name change
+
+If your employee maintains that the name in Section 1 is his or her legal name and you are
+satisfied that the document reasonably appears to relate to the employee, you may accept the
+document.
+
+Attach a memo to the Form I-9 explaining the discrepancy.
+
+If the employee voluntarily provides proof of a name change, you may keep a copy of it with
+the memo.
+
+Provides a document that does not reasonably appear to be genuine and/or to relate to the
+individual or if he or she cannot present other documents to satisfy the requirements of
+Form I-9 You may terminate employment.
+
+For other IER information or for direct assistance, please contact IER's anonymous worker or
+employer hotlines (language interpretation available) Monday-Friday, 9:00 a.m. - 5:00 p.m.
+Eastern Time:
+
+Worker Hotline: 1-800-255-7688 Employer Hotline: 1-800-255-8155 TTY: 1-800-237-2515
+
+
+----------------------------------------------------------------------
+
+
+WORKER - Worker Information
+---------------------------
+
+Source: https://www.justice.gov/crt/worker-information
+
+The Immigrant and Employee Rights Section's (IER) outreach and education program is aimed at
+helping employers and workers understand the anti-discrimination provision of the INA. IER’s
+staff is available to participate in seminars, conferences, as well as to meet with staff of
+legal services providers and immigrant advocacy groups. To invite an IER staff member to
+present to an audience of worker representatives or workers, please contact IER’s Public
+Affairs staff at IER@usdoj.gov or by phone at (202) 616-5594.
+
+Deferred Action for Childhood Arrivals Flyer (also in Spanish ): A Know Your Rights flyer
+geared toward workers with Deferred Action for Childhood Arrivals (DACA) and their
+advocates.
+
+IER v. EEOC Comparison Flyer : A chart that shows the differences between the jurisdictions
+of the Equal Employment Opportunity Commission and the Immigrant and Employee Rights Section
+(IER).
+
+Employment Information for Ukrainians in the United States : A fact sheet on employment
+rights for Ukrainians in the United States. Also available in Ukrainian and Russian .
+
+Employment Rights and Resources for Workers Granted Asylum or Refugee Status : A fact sheet
+discussing employment rights and resources for workers granted asylum or refugee status and
+how to get help.
+
+Identifying Possible E-Verify Related Employment Discrimination : A fact sheet to assist
+workers and their advocates in identifying possible E-Verify-related discrimination.
+
+IER-EEOC Immigrant Worker Flyer (also in Arabic , Bosnian , Chinese , Farsi , Filipino ,
+French , Haitian Creole , Hindi , Hmong , Korean , Punjabi , Russian , Spanish , Tagalog ,
+Urdu , Vietnamese ): A flyer geared toward directing immigrant workers to the right agency
+for addressing claims of employment discrimination.
+
+IER Naturalization Fact Sheet : A document outlining basic information about immigration-
+related employment discrimination for naturalizing citizens and their ceremony guests. Also
+available in Spanish .
+
+Information for Workers Granted Asylum or Refugee Status About the Form I-9 : Information
+for workers granted asylum or refugee status on the Form I-9 and how to get help from IER
+for possible discrimination in this process. Also available in Amharic , Arabic , Armenian ,
+Burmese , Dari , Farsi , French , Karen , Kayah , Nepali , Pashto , Russian , Simplified
+Chinese , Somali , Spanish , Swahili , Tigrinya , Ukrainian and Urdu .
+
+Joint DOJ-DOL-NLRB-EEOC Fact Sheet: Retaliation Based on Exercise of Workplace Rights Is
+Unlawful (also in Arabic , Creole , French , Hindi , Hmong , Korean , Mandarin , Portuguese
+, Punjabi , Russian , Spanish , Tagalog , Urdu , Vietnamese ) : Jointly issued guidance
+outlining protections from retaliation under various workplace laws.
+
+Lawful Permanent Residents' Employment Rights Under the Immigration and Nationality Act
+(also in Arabic , Chinese , Hindi , Portuguese , Spanish , Tagalog , Vietnamese ): A fact
+sheet outlining lawful permanent residents’ protections from employment discrimination under
+the INA.
+
+Name and Social Security Number (SSN) "No-Match" Information for Employees (also in Spanish
+, Arabic , Eastern Punjabi , Haitian Creole , Hindi , Korean , Russian , Simplified Chinese
+, Tagalog , Traditional Chinese , Urdu , Vietnamese , Western Punjabi ) : A document that
+includes a Q&A explaining possible causes for receiving a Social Security Number no-match,
+how to respond, and how to get help.
+
+Office of Refugee Resettlement ("ORR") State Letter 14-02: Employment Eligibility
+Requirements for Asylees, Refugees, and other Populations Served by ORR : Information on
+employment eligibility requirements with an emphasis on special considerations for asylees
+and refugees and other populations served by the ORR Refugee Resettlement Program.
+
+Protecting Your Right to Work (also in Spanish ): A fact sheet for workers explaining how to
+identify possible discrimination under the INA's anti-discrimination provision and how to
+get help.
+
+Understanding the INA's Anti-Discrimination Provision (also in Spanish ): An overview of
+IER's jurisdiction under the anti-discrimination provision of the Immigration and
+Nationality Act.
+
+Unlawful Employment Discrimination Based on Citizenship and National Origin : A flyer with
+scenarios showing discrimination prohibited by the anti-discrimination provision of the INA.
+
+U.S. Worker Protections Against Unlawful Preferences for Temporary Visa Holders (also in
+Spanish ): Information for workers in the United States who may encounter citizenship or
+immigration status discrimination in hiring, firing, recruitment or referral for a fee.
+
+Worker Protections Against Discrimination in the E-Verify Process : A brief overview of how
+E-Verify works and how to seek help for possible E-Verify-related discrimination.
+
+Workers with Temporary Protected Status; Protect Your Right to Work : A fact sheet
+explaining the rights of workers with TPS and DED and how to get help for possible
+discrimination. Also available in Arabic , Dari , French , Haitian Creole , Nepali , Pashto
+, Russian , Somali , Spanish and Ukrainian .
+
+If you are a worker and want to learn more about how the Immigration and Nationality Act
+protects workers from immigration-related discrimination, watch this IER worker training or
+call our Worker Hotline: 1-800-255-7688.
+
+One of the ways in which IER educates the public is by responding to written requests for
+technical assistance about the anti-discrimination provision.
+
+View a list of technical assistance letters issued by IER.
+
+If you can't find what you're looking for on the IER website, perhaps this list of referral
+agencies can provide you with the information you need.
+
+Worker Hotline: 1-800-255-7688 • Employer Hotline: 1-800-255-8155

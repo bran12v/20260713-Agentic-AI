@@ -1,0 +1,1878 @@
+
+--- page 1 ---
+33412 Federal Register / Vol. 85, No. 105 / Monday, June 1, 2020 / Rules and Regulations 
+15 American Trucking Ass’n v. FMCSA, 724 F.3d 
+243, 253 (D.C. Cir. 2013). 
+16 ‘‘The Impact of Driving, Non-Driving Work, 
+and Rest Breaks on Driving Performance in 
+Commercial Motor Vehicle Operations.’’ Blanco, et 
+al. (2011). Available in the docket for this 
+rulemaking. 
+Agency argued that, on their face, the 
+safety benefits of an off-duty 30-minute 
+break requirement applied to short-haul 
+operations as well as long-haul. The 
+D.C. Circuit Court of Appeals, however, 
+found that applying the 30-minute break 
+requirement to all drivers despite the 
+clear distinctions between short-haul 
+and long-haul operations was not 
+justified in the record.
+15 The Agency has 
+received no new evidence to compel a 
+different finding. 
+Moreover, there is no safety basis for 
+expanding the definition of short-haul 
+but continuing to require a 30-minute 
+break for the subset of short-haul CDL 
+drivers who operate between 100 and 
+150 air miles, or who drive between the 
+12th and 14th hour of coming on duty. 
+To the extent that the debate and 
+comments about the safety impact of 
+relieving this group of drivers of the 
+need to comply with the 30-minute 
+break provision lingers, FMCSA 
+believes it is best resolved below in the 
+Agency’s decision concerning changes 
+to the 30-minute break. 
+The changes adopted in this final rule 
+result in the break being required after 
+8 consecutive hours of driving time, 
+rather than 8 hours after coming on- 
+duty. That change alone would make 
+the 30-minute break inapplicable in 
+nearly all short-haul operations in that 
+they would not drive 8 consecutive 
+hours without having a break of at least 
+30 minutes from the driving task. 
+FMCSA reviewed the Blanco study 
+and notes that it found that any type of 
+break (both off-duty, and on-duty not 
+driving) was beneficial to the driver.
+16 
+Furthermore, it has been demonstrated 
+in multiple research efforts that time on 
+task is a leading contributor to driver 
+fatigue. The requirement for a break 
+after 8 hours of consecutive driving time 
+addresses this concern more adequately 
+than requiring a break after 8 hours of 
+coming on-duty, and short-haul drivers 
+have frequent breaks from driving 
+throughout the day. Therefore, FMCSA 
+disagrees with the commenters who 
+stated that allowing short-haul to be 
+excepted from the requirement would 
+have an adverse impact on safety and 
+continues to except short-haul drivers 
+from the 30-minute break requirement 
+despite the extension of the duty day to 
+14 hours. 
+Comments about the Relationship 
+Between Changes to the Short-Haul 
+Exception, Adverse Driving Conditions 
+Exception and ELD Mandate. CVSA and 
+Schneider National Carriers, Inc. stated 
+that short-haul carriers using the 
+proposed exception without using an 
+ELD should not be eligible for workday 
+extensions, like that granted for adverse 
+driving conditions. The commenters 
+reasoned that short-haul drivers would 
+be familiar with the routes and weather 
+in their operating territory and would be 
+able to abuse the program if allowed to 
+claim an extra 2 hours of driving time. 
+A few commenters, including the 
+Trucking Alliance, U.S. Chamber of 
+Commerce, industry associations, and 
+motor carriers, stated FMCSA should 
+require ELDs regardless of the distance 
+traveled. 
+TruckerNation suggested that FMCSA 
+include clear regulatory language 
+explaining that short-haul operators are 
+exempt from the ELD mandate and are 
+only required to prepare and maintain 
+time cards. The Trucking Alliance 
+suggested harmonization between the 
+interstate CDL short-haul operations 
+exception and the interstate non-CDL 
+short-haul operations. An industry 
+association developed a ‘‘Daily Driver’’ 
+concept as an alternative to the short- 
+haul exception and suggested specific 
+language. 
+FMCSA Response: FMCSA believes 
+that the revised short-haul exception 
+adopted today maintains safety while 
+providing motor carriers and drivers 
+greater flexibility. The Agency is not 
+persuaded that various alternatives 
+suggested by commenters would 
+achieve that goal. Requiring ELDs for 
+any subgroup of the short-haul carriers 
+would essentially negate the short-haul 
+exception because the daily preparation 
+of RODS would make the regulatory 
+scheme for short-haul operations largely 
+the same as other operations. The 
+extension of the workday from 12 to 14 
+hours for returning to the original work 
+reporting location without increasing 
+the existing 11 hours of driving time 
+will put short-haul operations on 
+essentially the same footing as long-haul 
+operations with the distinction being 
+that they must return to the normal 
+work reporting location. Increasing the 
+100 air-mile radius distance to 150 air- 
+miles will allow short-haul drivers 
+greater flexibility. Together, these 
+provisions will reduce potential 
+pressure on drivers for timely 
+completion of their duty day. 
+Drivers who normally operate under 
+the short-haul exception but 
+occasionally find it necessary to exceed 
+those limits can already drive within a 
+14-hour window for up to 8 days in any 
+30-consecutive day period without 
+ELDs, provided they utilize paper 
+RODS, or for more than 8 days in any 
+30-day consecutive period with an ELD. 
+Whether to remain within or exceed the 
+short-haul limits is strictly a business 
+decision on the part of the carrier, and 
+the Agency has not identified safety 
+issues associated with the use of either 
+of these options. 
+The NPRM did not propose to 
+harmonize the short-haul rules for CDL 
+and non-CDL drivers (§ 395.1(e)(1) and 
+(2), respectively) concerning the 
+allowance of a 16-hour window up to 2 
+days in a 7 consecutive day period for 
+non-CDL holders. The Agency has not 
+witnessed a demand for that level of 
+flexibility since implementing the ELD 
+mandate either in the form of requests 
+for guidance or clarifications, or 
+applications for exemptions. Therefore, 
+the Agency did not propose such a 
+change in the NPRM and considers the 
+matter to be beyond the scope of this 
+rulemaking. 
+Commenters Suggesting Industry- 
+Specific Exceptions. A few trade groups 
+requested that FMCSA allow industry- 
+specific exceptions for certain short- 
+haul operations, including for 
+hazardous materials, concrete pumps, 
+construction vehicles, and waste and 
+recycling. The National Lumber and 
+Building Material Dealers Association 
+urged FMCSA to provide the lumber 
+and building material industry a short- 
+term ELD exception stating that many of 
+their members use short-term rentals of 
+30 days or less to meet high demand 
+periods or instances where vehicles 
+have been taken out of operation for 
+repairs or service. The American Farm 
+Bureau Federation suggested allowing 
+drivers hauling live animals and 
+agriculture to rest ‘‘at any point during 
+their trip without counting this rest time 
+against their HOS allotments and 
+allowing drivers to complete their trip, 
+regardless of HOS requirements, if they 
+come within 150 air-miles of their 
+delivery point.’’ 
+The National Private Truck Council, 
+Inc. suggested requiring drivers to 
+document their adherence to the 150 
+air-mile radius and 14-hour time 
+requirements through GPS telematics, 
+paper log, timecard notation, or some 
+equivalent means. The American Fuel 
+and Petrochemical Manufacturers asked 
+for additional information from FMCSA 
+on the potential impacts of the proposed 
+short-haul exception on recordkeeping 
+requirements, including the current 8- 
+in-30 exception. 
+FMCSA Response: The motor carrier 
+industry is diverse. As noted above the 
+Agency has granted multiple 
+exemptions for certain industry 
+segments and there are various statutory 
+and regulatory exceptions for several 
+industry segments. Many of the 
+VerDate Sep<11>2014 21:51 May 29, 2020 Jkt 250001 PO 00000 Frm 00018 Fmt 4701 Sfmt 4700 E:\FR\FM\01JNR3.SGM 01JNR3jbell on DSKJLSW7X2PROD with RULES3
+--- page 2 ---
+33413 Federal Register / Vol. 85, No. 105 / Monday, June 1, 2020 / Rules and Regulations 
+commenters cited the exemptions and 
+exceptions. While the exemptions 
+granted were for certain industry 
+segments, the exemptions generally fall 
+within the 150 air-mile distance and/or 
+14-hour time constraint, such that this 
+final rule addresses the issue in general 
+terms rather than specific industry 
+segments. Also, given that the Agency 
+did not propose specific industry carve- 
+outs in the NPRM, considering such 
+regulatory exemptions is outside of the 
+scope of this rulemaking. 
+The requirements for applying for an 
+exemption are provided in 49 CFR part 
+381 subpart C of the FMCSRs. After 
+receiving an application for exception 
+from the FMCSRs, the Agency will 
+publish a notice in the Federal Register 
+as required by § 381.315 and request 
+public comment on whether the Agency 
+should grant the request. FMCSA cannot 
+grant an exemption unless it would 
+likely achieve a level of safety 
+equivalent to that achieved by 
+complying with the rule from which an 
+exception is sought. 
+In recent years, the Agency has 
+received numerous requests for 
+exemptions related to the short-haul 
+provisions; several of these requests for 
+exemptions have been granted (available 
+at www.fmcsa.dot.gov/exemptions), 
+while others have been denied. 
+FMCSA did not propose or consider 
+new alternative means for motor carriers 
+to document short-haul drivers’ hours 
+under the revised short-haul exception, 
+and is not adding any new 
+recordkeeping requirements at this time. 
+Furthermore, the changes to the short- 
+haul provisions in this final rule in no 
+way relieve carriers and drivers of the 
+responsibility for complying with the 
+current recordkeeping requirements 
+found in § 395.1(e)(1)(v), which are 
+consistent with 6-month recordkeeping 
+requirements for other records. See, e.g., 
+§ 395.8(k)(1) (requiring retention of 
+RODS and supporting documents for 6 
+months); § 395.22(i) (requiring motor 
+carriers to retain for 6 months a backup 
+copy of ELD records). 
+4. Adverse Driving Conditions 
+NPRM. The Agency proposed 
+allowing drivers encountering adverse 
+driving conditions a driving window of 
+up to 16 hours (for property carriers) 
+within which to complete up to 13 
+hours of driving, or a duty period of up 
+to 17 hours (for passenger carriers) 
+within which to complete up to 12 
+hours of driving. 
+FMCSA also sought additional 
+information and data on the impacts of 
+changing the adverse driving conditions 
+provision, in part to assess its potential 
+costs and benefits. Specifically: 
+• Would this change cause drivers to 
+travel farther in adverse driving 
+conditions? 
+• Would this change drivers’ behavior 
+when encountering adverse driving 
+conditions? How so? 
+• Understanding adverse driving 
+conditions cannot be predicted, would 
+drivers utilize this provision more often 
+after this change? 
+Additionally, FMCSA requested 
+public comment about potential 
+modifications to the definition of 
+‘‘adverse driving conditions.’’ 
+Specifically, the Agency requested input 
+on the suggestion that knowledge of the 
+existence of adverse driving conditions 
+should rest with the driver rather than 
+the dispatcher. Alternatively, FMCSA 
+asked whether the requirement for lack 
+of advance knowledge at the time of 
+dispatch should be eliminated, and 
+whether the current definition of 
+‘‘adverse driving conditions’’ should be 
+modified to address other 
+circumstances. 
+Commenters Supporting an Extended 
+Driving Window. The changes proposed 
+in the NPRM would apply to drivers of 
+both property-carrying CMVs, normally 
+subject to a 14-hour driving window, 
+and passenger-carrying CMVs, normally 
+subject to a driving window of 15 non- 
+consecutive hours. 
+Numerous commenters, including 
+OOIDA, CVSA, the U.S. Chamber of 
+Commerce, ABA, IBT, motor carriers, 
+industry associations, and individuals 
+expressed support for the proposed 
+adverse driving conditions provision. 
+Many individuals and drivers stated 
+that the extension would relieve the 
+pressure, stress, and fatigue on drivers. 
+Most commenters reasoned that granting 
+drivers more flexibility would improve 
+road safety. 
+Some commenters argued that road 
+conditions are not always accurately 
+reflected in weather radar maps or other 
+technologies, so drivers should have the 
+flexibility and discretion to determine 
+when it is safe to drive. The California 
+Highway Patrol said the provision 
+would allow driving at a reduced speed 
+or delay operations while in adverse 
+driving conditions, which may reduce 
+the risk of crashes and improve road 
+safety. Keep Truckin, Inc. based its 
+support on anonymized and aggregated 
+data of daily traffic patterns and speed 
+fluctuations in Washington, DC and 
+Atlanta, Georgia. An industry 
+association said extending the driving 
+window for adverse driving conditions 
+would greatly benefit the delivery of 
+farm supplies. 
+While supporting the proposal, 
+OOIDA, ABA, and the United 
+Motorcoach Association expressed 
+concern that the current adverse driving 
+condition rules are not enforced 
+consistently. The U.S. Chamber of 
+Commerce and several industry 
+associations said their members rarely 
+use the exception, although the 
+expansion would be helpful in extreme 
+conditions. 
+FMCSA Response: FMCSA agrees that 
+by adding time to the duty day for this 
+exception, drivers may reduce their 
+speed or delay operations when they 
+experience unanticipated adverse 
+driving conditions. 
+FMCSA agrees that radar and 
+technology may not be entirely accurate 
+and thus leaves the driver/dispatcher 
+discretion in this final rule. FMCSA is 
+not aware of any issues with 
+enforcement of or compliance with the 
+adverse driving conditions exception. 
+Commenters Requesting Additional 
+Flexibility for Adverse Driving 
+Conditions. Many commenters stated 
+that the proposal did not go far enough. 
+Among their comments: 
+• The provision should include 
+unforeseen traffic conditions, such as 
+emergency road repairs, congestion, and 
+traffic accidents to allow drivers to 
+compensate for ever worsening traffic 
+congestion and infrastructure problems. 
+• Drivers should be allowed to decide 
+how to respond to road conditions. 
+• The proposed changes to the 
+extended driving window were not 
+sufficient. 
+A few industry associations, motor 
+carriers, and individual commenters 
+argued that drivers should have more 
+discretion over the hours in which they 
+drive in potentially adverse driving 
+conditions and that this provision did 
+not grant enough flexibility to drivers. 
+TruckerNation stated that increased 
+clarity and supporting guidance is 
+needed, asking how a driver would be 
+required to document the use of this 
+provision on RODS to enable its 
+increased and proper use. Many 
+industry associations and individuals 
+also commented that the current 
+definition of ‘‘adverse driving 
+conditions’’ should be clarified. Several 
+commenters asked that the definition be 
+expanded to address detention time or 
+concerns specific to various sectors of 
+the industry. 
+FMCSA Response: This final rule 
+modifies the adverse driving condition 
+exception to allow extension of the 
+driving window by up to 2 hours, 
+consistent with the 2-hour extension of 
+driving time permitted under the 
+current regulations. Though some 
+commenters argued for an expansion of 
+the current definition of ‘‘adverse 
+driving conditions’’ to include 
+circumstances such as unforeseen 
+VerDate Sep<11>2014 21:51 May 29, 2020 Jkt 250001 PO 00000 Frm 00019 Fmt 4701 Sfmt 4700 E:\FR\FM\01JNR3.SGM 01JNR3jbell on DSKJLSW7X2PROD with RULES3
+--- page 3 ---
+33414 Federal Register / Vol. 85, No. 105 / Monday, June 1, 2020 / Rules and Regulations 
+traffic-related conditions, a close look at 
+the definition shows that these road 
+conditions are already covered. The 
+HOS rules currently define ‘‘adverse 
+driving conditions’’ as ‘‘snow, sleet, fog, 
+other adverse weather conditions, a 
+highway covered with snow or ice, or 
+unusual road and traffic conditions, 
+none of which were apparent based on 
+information known to the person 
+dispatching the run at the time it was 
+begun.’’ The definition specifically 
+refers to ‘‘unusual road and traffic 
+conditions’’ which would cover most of 
+the concerns mentioned by commenters. 
+FMCSA does not believe it is necessary 
+to further expound on the traffic 
+conditions, as they are generally 
+covered. However, the definition is 
+modified for clarity and to recognize 
+that the adverse driving conditions 
+exception might apply based on 
+knowledge of a driver (in addition to the 
+dispatcher) under certain 
+circumstances. 
+Commenters Opposed to Additional 
+Flexibility for Adverse Driving 
+Conditions. Some commenters opposed 
+the extension of the driving window. 
+They said that: 
+• The extension would encourage 
+drivers to continue driving when 
+conditions are poor. 
+• Dispatchers and drivers would 
+extend the day without any adverse 
+driving conditions or otherwise abuse 
+the provision to get around a violation. 
+• This provision would cause an 
+enforcement problem. 
+Several commenters, including IIHS, 
+AASM, Senator Murray, and 
+Transportation Trades Department, 
+AFL–CIO, argued that the proposal 
+would worsen driver fatigue. Advocates 
+warned that extending the driving 
+window enables driving later in the 
+duty period, which research has 
+associated with increases in crash risk, 
+stating that FMCSA provided no 
+analysis of that risk. IIHS cited studies 
+on the safety and health consequences 
+for drivers of disrupted circadian 
+rhythms. Congressman DeFazio warned 
+that the proposed rule would 
+significantly increase on-duty time. 
+The Trucking Alliance opposed this 
+provision, saying that the definition of 
+‘‘adverse driving conditions’’ is unclear, 
+allowing drivers to exploit the exception 
+and use it to extend their driving 
+window every day. Conversely, the 
+Kentucky Driver’s Association 
+commented that, because the proposed 
+rule could be abused to pressure drivers 
+to drive beyond the normal 14-hour cap, 
+it should be limited to ‘‘verifiable’’ 
+events. 
+Advocates stated that FMCSA’s 
+comparisons of this proposal with duty 
+period extensions permitted by the 
+Federal Aviation Administration (FAA) 
+and the Federal Railroad Administration 
+(FRA) ignore the regulatory and 
+operational differences among these 
+Administrations and do not include any 
+of the FAA’s or FRA’s limitations or 
+additional requirements, nor has 
+FMCSA performed any analysis to 
+indicate that such comparisons are 
+correct and meaningful. 
+FMCSA Response: FMCSA 
+acknowledges that the proposal could 
+allow drivers who experience adverse 
+driving conditions to operate later into 
+the duty day. The Agency also 
+acknowledges that parallels with the 
+airline and railroad industries are not 
+exact. However, this change would 
+create an incentive for drivers to drive 
+more slowly or take a break from driving 
+during adverse driving conditions, given 
+that, as a result of this change, they will 
+have up to 2 additional hours to either 
+complete their run or to reach a safe 
+location without exceeding the 
+maximum daily driving windows. 
+Additionally, FMCSA notes that surveys 
+by two major trade associations 
+demonstrate that the adverse-driving- 
+conditions exception is not frequently 
+used. Although changes intended to 
+clarify the definition and improve 
+flexibility may result in an increase in 
+the use of the exception, there is little 
+reason to expect that either the increase 
+in use (or its potential abuse) will be 
+significant. 
+FMCSA also disagrees that this 
+change would increase enforcement 
+problems. Drivers relying on the adverse 
+driving conditions exception would 
+routinely annotate their RODS to avoid 
+an HOS violation; consistent with 
+current practice, a law enforcement 
+officer could investigate the merits of 
+the claimed exception. 
+Commenters Discussing the Impact on 
+VMT. Several commenters, including 
+OOIDA and many other industry 
+associations, argued that this provision 
+would cause drivers to drive more 
+safely, not greater distances, in adverse 
+driving conditions. Currently drivers 
+may drive up to 2 additional hours but 
+they may be pressured to complete 
+driving within the 14-hour window. The 
+expansion of the driving window would 
+enable them to drive more cautiously. 
+Conversely, AASM argued that the 
+provision would cause drivers to drive 
+longer distances. They argued that the 
+assumption that drivers would reduce 
+speed or delay operations during 
+adverse driving conditions is not 
+supported by scientific study. An 
+individual argued that this provision 
+will cause drivers to travel farther 
+distances. ABA and an industry 
+association said that predicting the 
+effect of the provision on travel distance 
+is impossible. 
+FMCSA Response: This rule would 
+not allow an increase in driving time, 
+but it would increase the driving 
+window from 14 to 16 hours when an 
+adverse driving condition is 
+encountered. FMCSA asked whether the 
+extension of the driving window in the 
+event of adverse conditions will result 
+in an increase VMT. No commenter 
+provided responsive data, and none may 
+exist. Ultimately, each adverse driving 
+condition will create a unique set of 
+unpredictable circumstances that 
+drivers and motor carriers will react 
+to—not plan for. Accordingly, motor 
+carriers will not be able to plan for 
+additional deliveries, trips, or VMT, and 
+the final rule does not quantify the 
+impact of these driving changes on 
+VMT. The FMCSA believes that any 
+increase in VMT will be negligible 
+because the total amount of driving time 
+remains unchanged by this rule. 
+Comments About the Impact of the 
+Exception on Driver Behavior. The 
+NPRM asked whether the proposed rule 
+would change drivers’ behavior upon 
+encountering adverse driving 
+conditions. Multiple commenters, 
+including OOIDA, ABA, IBT, other 
+industry associations, and motor 
+carriers said the provision would 
+improve safety by allowing drivers the 
+flexibility to find a safe place to park 
+and avoid adverse driving conditions. 
+However, the NSC cited research and 
+studies arguing that the longer an 
+individual is awake, the higher the 
+likelihood of safety-critical mistakes. 
+Advocates warned that abuse of the 
+proposed exception would likely 
+increase because carriers could coerce 
+drivers to complete trips when 
+conditions are adverse or because 
+drivers could adjust their evaluation of 
+the risk and continue to drive despite 
+the opportunity to use the exception to 
+stop. Either way, Advocates said 
+FMCSA provided no analysis of these 
+possibilities and their effect on safety. 
+Other commenters, including Western 
+States Trucking Association and Sysco 
+Corporation, said that the provision will 
+not change driver behavior. 
+FMCSA Response: FMCSA agrees 
+with commenters that it is hard to 
+predict, on an aggregate level, what 
+behaviors may change. However, trade 
+association surveys suggest that this 
+exception is not frequently used. 
+FMCSA does not believe the level of use 
+or abuse will change significantly 
+because of this rulemaking. 
+Nevertheless, FMCSA agrees with 
+commenters that the additional 
+flexibility provided by the revised 
+VerDate Sep<11>2014 21:51 May 29, 2020 Jkt 250001 PO 00000 Frm 00020 Fmt 4701 Sfmt 4700 E:\FR\FM\01JNR3.SGM 01JNR3jbell on DSKJLSW7X2PROD with RULES3
+--- page 4 ---
+33415 Federal Register / Vol. 85, No. 105 / Monday, June 1, 2020 / Rules and Regulations 
+17 See Interpretations under the HOS rules, 
+§ 395.1, https://www.fmcsa.dot.gov/regulations/ 
+title49/part/395. 
+exception will assist drivers in avoiding 
+perilous conditions. FMCSA 
+emphasizes that this change will not 
+increase the driving time available 
+during adverse driving conditions. By 
+increasing duty time without increasing 
+driving time, this change will provide 
+the drivers with more non-driving 
+options to safely respond to an adverse 
+driving condition. 
+FMCSA does not believe that changes 
+to the adverse driving conditions 
+exception will mean that drivers are 
+awake longer. The studies raised by 
+commenters did not look at workdays 
+with opportunities for rest or sleep in 
+them. Additionally, as pointed out by 
+OOIDA, ABA, IBT, other industry 
+associations, and motor carriers, drivers 
+may utilize the additional duty time 
+provided by this change to take a break 
+from driving that they may not have 
+taken otherwise. 
+Comments About the Frequency of 
+Adverse Conditions. The NPRM asked 
+drivers whether they expected to use the 
+proposed exception more often. Many 
+commenters predicted that drivers 
+would use the exception more often, 
+especially if the definition were 
+clarified. 
+The U.S. Chamber of Commerce, 
+however, does not anticipate increased 
+use because its motor carrier members 
+do not regularly use it in the first place. 
+Other commenters also stated that 
+drivers will not use the provision more 
+often. The National Association of Small 
+Trucking Companies said that the only 
+reason for a change in the frequency of 
+use would be if a truck driver began 
+working in a new region. A motor 
+carrier argued that driver behavior, in 
+terms of making the decision whether to 
+use the exception or the frequency of 
+use often to use the exception, will not 
+change because the definition of 
+‘‘adverse driving conditions’’ remains 
+unchanged. 
+FMCSA Response: FMCSA does not 
+believe the changes adopted today are 
+likely to increase significantly the use of 
+the exception, but is unable to estimate 
+changes in the frequency on an 
+industry-wide level. The change 
+provides drivers with a better 
+opportunity to use the additional 
+driving time already allowed under the 
+current rule such that the adverse 
+conditions that necessitate driving 
+beyond the 14th-hour of the work shift 
+may be addressed provided the driver 
+can reach an appropriate stopping point 
+without exceeding 13 hours of driving 
+time. 
+Definition of Adverse Driving 
+Conditions; Driver and Dispatcher 
+Knowledge. The NPRM asked for public 
+comment about potential modifications 
+or additions to the definition of 
+‘‘adverse driving conditions.’’ 
+Commenters asked for both a broader 
+definition, as well as a more specific 
+definition. 
+More Detailed Definition. OOIDA, 
+TruckerNation, other industry 
+associations, and motor carriers said the 
+definition should be expanded to 
+include all unpredictable conditions 
+that a driver may face, such as traffic 
+congestion, vehicle accidents, 
+construction, or road closures. Multiple 
+commenters and drivers said the 
+proposal should specifically define 
+adverse driving conditions to embrace 
+non-weather conditions, including 
+Federal and State safety inspections, 
+unexpected loading or unloading issues 
+at shippers and receivers, and truck 
+breakdowns. 
+Schneider National Carrier, Inc. 
+recommended that the adverse driving 
+conditions exception be available to 
+drivers only once per week. Schneider 
+added that the exception should not be 
+allowed to be combined with the use of 
+the split sleeper berth option or the 
+proposed split-duty provisions. The 
+American Moving and Storage 
+Association recommended also allowing 
+carriers to use the adverse driving 
+conditions exception for conditions 
+known before dispatch. 
+TruckerNation suggested requiring an 
+option on an ELD for a driver to upload 
+evidence or a detailed annotation to 
+establish and document adverse driving 
+conditions. 
+Road Safe America, the Trucking 
+Alliance, ATA, Advocates, a few 
+industry associations and motor carriers 
+said that the definition should be 
+clarified, but not expanded. Advocates 
+and Uline believe adverse driving 
+conditions should be defined as 
+accurately and narrowly as possible, 
+and that the situations under which the 
+exception may be used should be 
+clarified to minimize abuse. ATA 
+conducted a survey of its members, 
+some of whom said that ‘‘adverse’’ 
+should be narrowly defined to include 
+only Federal or State declared 
+emergencies, while others favored the 
+inclusion of all unforeseen road 
+conditions. 
+Broader Definition. OOIDA 
+recommended replacing the term 
+‘‘adverse’’ with ‘‘unforeseen’’ to be more 
+encompassing. The U.S. Chamber of 
+Commerce proposed a definition in 
+which ‘‘adverse driving conditions’’ 
+would be any conditions which could 
+not be predicted at the time of dispatch, 
+thereby granting flexibility to both 
+drivers and dispatchers. A few industry 
+associations recommended that FMCSA 
+expand the definition to include 
+specific provisions for livestock haulers. 
+CVSA recommended making the 
+definition like the Canadian federal 
+definition. 
+Under the current definition, adverse 
+driving conditions must not have been 
+known to the dispatcher when the run 
+began. The Agency asked whether the 
+driver’s lack of knowledge should be 
+used as a precondition for the 
+exception. FMCSA also asked whether 
+the requirement for lack of advance 
+knowledge at the time of dispatch 
+should be eliminated. 
+Multiple commenters, including 
+OOIDA, ATA, and motor carriers, said 
+the driver knows the status of road 
+conditions better than a dispatcher 
+could, so the driver should be 
+responsible for making safety decisions. 
+TruckerNation stated that advance 
+knowledge should not be a requirement 
+and that, as with all safety decisions, 
+discretion should be left to the driver. 
+ATA acknowledged that dispatchers 
+may be aware of adverse driving 
+conditions before drivers, so dispatchers 
+should continue to notify drivers. 
+OOIDA and the Association of 
+American Railroads and the American 
+Short Line and Regional Railroad 
+Association said the requirement for the 
+lack of advance knowledge at the time 
+of dispatch should be eliminated 
+because it prevents drivers from using 
+the provision if road conditions change 
+after dispatch. 
+No Changes. Other commenters, 
+including IBT, California Highway 
+Patrol, and the Truckload Carriers 
+Association, recommended that there be 
+no changes to the current definition. 
+FMCSA Response: FMCSA declines to 
+make the definition applicable to 
+specific sectors of the industry or to 
+cover situations not contemplated by 
+the current definition. The Agency also 
+declines to exclude situations currently 
+covered. Many of the suggested 
+expansions would be covered under a 
+reasonable interpretation of the current 
+definition; inconsistent interpretations 
+might be addressed best by training and 
+further outreach efforts. Although the 
+Agency does not believe the current 
+definition is vague, it nonetheless has 
+revised the definition for enhanced 
+clarity. 
+Agency guidance concerning the 
+exception makes clear that it covers 
+only situations that occur after a driver 
+started her or his trip.
+17 This final rule 
+does not deviate from that principle. 
+The exception does not cover detention 
+time, breakdowns, or enforcement 
+VerDate Sep<11>2014 21:51 May 29, 2020 Jkt 250001 PO 00000 Frm 00021 Fmt 4701 Sfmt 4700 E:\FR\FM\01JNR3.SGM 01JNR3jbell on DSKJLSW7X2PROD with RULES3
+--- page 5 ---
+33416 Federal Register / Vol. 85, No. 105 / Monday, June 1, 2020 / Rules and Regulations 
+18 ‘‘The Impact of Driving, Non-Driving Work, 
+and Rest Breaks on Driving Performance in 
+Commercial Motor Vehicle Operations.’’ Blanco, 
+2011. Available in the docket for this rulemaking. 
+inspections—factors that are to be 
+anticipated in the industry. Nor does it 
+cover things such as road construction 
+or detours except when they could not 
+reasonably be known before the driver 
+started driving, such as accidents that 
+significantly interfere with traffic 
+movement. 
+The exception is mainly meant to 
+cover situations outside a driver or 
+motor carrier’s control, and the Agency 
+does not expect it to be invoked 
+frequently. Thus, the Agency declines to 
+limit its use to a fixed frequency or in 
+combination with unrelated provisions 
+of the HOS regulations or to expand on 
+the current industry practice of 
+documenting use of the exception on a 
+driver’s RODS. 
+However, the Agency believes 
+clarification is appropriate given the 
+common availability and use of 
+technology that can provide motor 
+carriers and drivers notice of adverse 
+weather (and sometimes road) 
+conditions. The definition has been 
+revised somewhat to recognize that 
+drivers on the road can evaluate 
+situations that could not be foreseen 
+before dispatch or the start of a duty day 
+(or after a sleeper berth period). As 
+revised, the definition covers conditions 
+that are unknown, or could not 
+reasonably be known, to the driver 
+immediately before the start of the duty 
+day or before resuming driving after a 
+sleeper berth break, or to the motor 
+carrier immediately before dispatching 
+the driver. FMCSA believes that this 
+change to the definition will lessen the 
+need for future regulatory guidance. 
+Furthermore, this change will not 
+increase available driving time beyond 
+what is currently allowed by the 
+exception. 
+5. 30-Minute Break 
+NPRM. FMCSA proposed to require a 
+30-minute break if more than 8 
+consecutive hours of driving (instead of 
+8 hours after coming on-duty) has 
+passed without at least one 30-minute 
+change in duty status. This would allow 
+any 30 minutes of non-driving time to 
+qualify as a break, i.e., on-duty (not 
+driving) time, off-duty time, or sleeper 
+berth time. Many drivers have 
+interruptions of their driving time 
+during normal business operations, such 
+as loading or unloading a truck, 
+completing paperwork, or stopping for 
+fuel. 
+Under the current rules, the break is: 
+(1) Required to be off-duty time during 
+which no work, including paperwork, 
+may be performed, and (2) triggered 
+after 8 hours on-duty time, regardless of 
+the time spent driving. The flexibility 
+provided by the NPRM would have 
+allowed these normal breaks from 
+driving to count as an interruption of 
+the 8 hours of driving status (i.e., ‘‘time 
+on task’’ in the research literature), 
+provided the break lasts at least 30 
+minutes. The proposed changes to the 
+30-minute break provision would not 
+have allowed an increase in maximum 
+driving time during the work shift or 
+driving after the 14th hour from the 
+beginning of the work shift. 
+The NPRM sought information and 
+data on the impacts of changing the 30- 
+minute break provision, in part to better 
+assess its potential costs and benefits. 
+Specifically, the Agency asked: 
+• Would you take fewer total breaks 
+from driving with this change? How 
+many and when would those breaks 
+have occurred during your route? 
+• Do you expect to still take a 30- 
+minute break if you have less than 8 
+hours of drive time? If so, would you 
+take that break on-duty or off-duty? 
+• If you no longer need to take a 30- 
+minute break, how would you expect to 
+spend this additional time? 
+• How would this provision change 
+your scheduling and planning? 
+• Do you expect to drive more miles 
+or hours based on this change? Do you 
+expect to be able to complete additional 
+‘‘runs’’? 
+Additionally, the Agency 
+acknowledged that many commenters to 
+the ANPRM specifically asked that the 
+30-minute break requirement be 
+eliminated entirely and considered that 
+as an alternative under E.O. 12866. 
+However, the NPRM said that, without 
+the benefit of further information, it 
+would not be appropriate to eliminate 
+the 30-minute break. Given that the 
+flexibility allowed in the proposal 
+would alleviate many of the concerns 
+expressed by commenters, in the NPRM 
+FMCSA sought further information on 
+the effect of eliminating the break 
+requirement altogether. Specifically: 
+(1) What would be the safety impact 
+of eliminating the required break, 
+potentially allowing up to 11 
+consecutive hours of driving? 
+(2) What has been the cost to your 
+company of complying with the 30- 
+minute break rule since the compliance 
+date for that rule, July 1, 2013? 
+(3) How often do work shifts require 
+an individual to drive more than 8 
+hours without at least a 30-minute 
+change in duty status? 
+(4) Would eliminating the break 
+requirement result in greater cost 
+savings than the current proposal? If so, 
+what would be the amount of these cost 
+savings? 
+Commenters Supporting the Proposed 
+Revision. Numerous commenters, 
+including individual commenters, 
+drivers, and some industry associations, 
+supported the proposed changes for a 
+variety of reasons, among them: 
+• Increased driver control and 
+flexibility; 
+• Shortened on-duty hours, reducing 
+fatigue; 
+• Increased control over break-time 
+activities (i.e. using the break to load or 
+fuel); 
+• Simplified implementation; and, 
+• Short-haul trip benefits. 
+Several commenters said, 
+counterintuitively, that the 30-minute 
+break made them more tired. The 
+implication of such arguments seems to 
+be that the focus on driving creates 
+tension, which dissipates when drivers 
+stop. Having relaxed against their will 
+for 30 minutes, drivers may then find it 
+difficult to recover their previous 
+intensity, which feels to them like 
+exhaustion—but does not have that 
+effect. Virtually all commenters argued 
+that the 30-minute break did not 
+improve safety, and some even asserted 
+that increases in CMV crashes and 
+fatalities in recent years are attributable 
+to counter-productive regulations like 
+the 30-minute rule. 
+ATA described new research that the 
+association believed suggested that there 
+is additional benefit relative to an on- 
+duty break. The Trucking Alliance and 
+CVSA also said that a 30-minute on- 
+duty break would not decrease safety for 
+drivers needing a break. 
+The International Food Service 
+Distributors Association stated that, in 
+some cases, the proposal would allow 
+food-service distributors to add 
+additional stops to a route, maximizing 
+efficiency and reducing traffic. 
+FMCSA Response: The Agency agrees 
+with the commenters that the 30-minute 
+off-duty break generates pressure as 
+drivers attempt to keep on schedule. 
+Under certain circumstances, it may 
+even push them to drive more 
+aggressively than they would otherwise 
+have done in the latter half of the 14- 
+hour driving window, despite the fact 
+the total driving time up to that point 
+may have been limited by a variety of 
+factors. 
+Identifying causal connections 
+between particular rules and safety 
+outcomes is difficult, many factors play 
+a role in most crashes, and separating 
+their individual contribution is often 
+impossible. The best evidence on the 
+effect of breaks is provided by the 2011 
+Blanco study, discussed in the NPRM 
+and elsewhere in this rule.
+18 While 
+VerDate Sep<11>2014 21:51 May 29, 2020 Jkt 250001 PO 00000 Frm 00022 Fmt 4701 Sfmt 4700 E:\FR\FM\01JNR3.SGM 01JNR3jbell on DSKJLSW7X2PROD with RULES3
+--- page 6 ---
+33435 Federal Register / Vol. 85, No. 105 / Monday, June 1, 2020 / Rules and Regulations 
+57 Intermodal Surface Transportation Efficiency 
+Act of 1991, Public Law 102–240, 4002(l), 105 Stat. 
+1914, 2144, 1991. 
+industry will be essential for an 
+effective roll-out, the Agency has also 
+developed a plan and corresponding 
+materials that will be disseminated now 
+that the final rule has been published. 
+Comments on Harmonization of U.S. 
+and Canada, and Inconsistent State 
+HOS Regulations. 
+A few commenters suggested 
+reviewing and considering other HOS 
+regulations, particularly those of Canada 
+and Texas. An anonymous commenter 
+noted that: ‘‘In Canada, we are allowed 
+13 hours of total driving time and 14 
+hours of total on-duty time within a 16- 
+hour daily clock. Additionally, to reset 
+our daily 16-hour clock we only need 8 
+hours of continuous off-duty or sleeper 
+berth time, however we are required to 
+have 10 hours of total off-duty time 
+within the daily 24-hour clock. The 
+additional two hours of required off- 
+duty time can consist of 30-minute 
+increments of off-duty periods 
+throughout the day.’’ 
+In responding to FMCSA’s proposed 
+3-hour pause in the duty day, CVSA 
+noted that ‘‘the maximum work shift [in 
+Canada] for a driver is 16 hours, rather 
+than the U.S. 14-hour rule. Therefore, 
+CVSA suggests that FMCSA consider 2 
+additional hours, as opposed to 3 hours, 
+to align with the Canadian HOS 
+requirements. The alignment would 
+make it easier for the motor carrier 
+industry to comply with the HOS 
+regulations in both countries, 
+streamlining operations for the entire 
+transportation supply chain and would 
+provide a uniform ELD solution for 
+cross-border operations which would 
+make it easier for roadside safety 
+inspectors to enforce.’’ 
+An individual summarized the Texas 
+HOS rules as ‘‘No required 30-minute 
+breaks. 12-hour drive time 15 hour on- 
+duty time. 8-hour sleeper berth or off- 
+duty. I believe this will help with 
+fatigued drivers and allow drivers to 
+drive when they feel comfortable and 
+not when the log book says they have 
+to go.’’ One commenter who transports 
+placardable quantities of hazardous 
+materials complained that California 
+allows only 10 hours of driving time for 
+operations in intrastate commerce. He 
+argued that all States should be required 
+to adopt Federal HOS limits. ABA also 
+commented in support of FMCSA rest 
+break standards invalidating all State 
+and local standards by field preemption, 
+asserting the importance of uniformity 
+in the transportation and shipping 
+industries. 
+Other commenters, including drivers 
+and industry associations, suggested 
+adopting different HOS rules for major 
+sectors of industry, such as team 
+operations, oversized freight, and 
+agricultural transportation, especially 
+livestock. 
+Supporters of team operations 
+generally favor splitting sleeper berth 
+time into two 5-hour segments to allow 
+drivers to trade places every few hours 
+and keep the CMV moving. Oversized 
+and overweight cargo is often 
+transported on special vehicles that 
+move slowly. The HOS limits can 
+therefore create problems for these 
+operations. 
+Agricultural interests that commented 
+on the NPRM emphasized the 
+perishability of livestock. The American 
+Veterinary Medical Association stressed 
+the need to avoid longer transit times, 
+especially through mandatory stops 
+when animals in crowded trailers can 
+experience heat stress. The National 
+Pork Producers Council (NPPC) 
+generally supported the changes 
+proposed in the NPRM, though it 
+preferred a 6-hour, rather than a 7-hour, 
+sleeper berth period. However, the 
+NPPC also argued that the distinction 
+between the 14-hour driving window 
+and the 11-hour drive-time limit should 
+be eliminated. ‘‘Work is work, and if a 
+driver can be on-duty then the driver 
+should be free to continue driving if 
+they feel comfortable.’’ The NPPC 
+argued that a 14-hour driving limit is 
+consistent with rules in Canada and 
+Australia, as well as the intrastate rules 
+of California and Texas. 
+FMCSA Response: The commenters 
+who suggested adopting Canadian HOS 
+limits or the Texas rules applicable to 
+intrastate commerce offered nothing 
+beyond their opinion that these 
+regulations are preferable to the Federal 
+limits adopted today. 
+Motor carrier operations in Canada 
+and the U.S. differ in important ways. 
+While trip lengths may be comparable, 
+traffic density in Canada is much less 
+and weather conditions are more 
+challenging. Longer Canadian driving 
+limits and reduced off-duty times are 
+geared to those operating conditions. In 
+fact, Canada has special HOS 
+regulations for its far northern regions 
+that are not applicable to the rest of the 
+country. (Similarly, the FMCSA has 
+different HOS rules specific to Alaska, 
+49 CFR 395.1(h).) The Canadian rules 
+appear to be every bit as complex as 
+U.S. rules. Adopting some or part of 
+them would entail a major re-training 
+effort, not only for the clear majority of 
+U.S. drivers unfamiliar with Canadian 
+rules, but also for the State enforcement 
+agencies that would have to revise their 
+regulations and databases and then re- 
+train all their officers. The CVSA 
+suggestion to (partially) harmonize U.S. 
+and Canadian rules by adopting a 16- 
+hour driving window is not feasible, 
+given FMCSA’s decision not to go 
+forward with a 3-hour pause in the 
+driver’s duty day. The NPRM did not 
+propose to adopt any portion of the 
+Canadian HOS rules, and the Agency 
+therefore cannot do so as part of this 
+rulemaking. 
+Both the Texas and California 
+intrastate HOS rules cited by 
+commenters are consistent with the 
+variances from the FMCSRs allowed by 
+§ 350.341. In implementing the MCSAP 
+in the late 1980s, the Federal Highway 
+Administration, FMCSA’s predecessor 
+agency, allowed State regulations for 
+intrastate operations to remain less than 
+fully ‘‘compatible’’ with the FMCSRs, 
+providing the States were making 
+progress toward ‘‘compatibility,’’ i.e., 
+national uniformity. However, in 1991 
+Congress directed that these ‘‘tolerance 
+guidelines’’ with their intrastate 
+variances be made permanent.
+57 Like 
+most States, Texas has availed itself of 
+the variances allowed by § 350.341 to 
+adopt standards for intrastate commerce 
+that are less stringent than the FMCSRs, 
+but California’s more stringent driving- 
+time limit is also within its authority. 
+The NPRM proposed no changes to the 
+MCSAP variances and none are adopted 
+today. 
+The Agency notes that industry 
+representatives have occasionally stated 
+that they believe the Agency follows a 
+‘‘one-size-fits-all’’ regulatory approach, 
+even though the FMCSRs make special 
+provision for a wide variety of motor 
+carrier operations. Some of these 
+provisions are based on statute, but 
+many were adopted by the Agency to 
+accommodate the needs of particular 
+segments of the industry. The current 
+rulemaking generated additional 
+requests for segment-specific HOS rules. 
+No such rules were proposed and none 
+are adopted today. However, many of 
+the requests have been addressed in 
+other contexts or by other authorities. 
+Oversize and overweight cargo is 
+often eligible for special State permits, 
+some of which include time limits (e.g., 
+no nighttime operations). Although 
+parking these combinations may be 
+difficult, careful route planning can 
+minimize, if not avoid, such problems. 
+In any case, FMCSA has no authority to 
+address parking shortages, and does not 
+believe that extended driving hours are 
+a reasonable solution to the problems 
+inherent in moving unusual cargo. 
+Supporters of team operations often 
+argue that drivers should be allowed to 
+split their sleeper berth time into 5-hour 
+segments, separated by 5-hour driving 
+VerDate Sep<11>2014 21:51 May 29, 2020 Jkt 250001 PO 00000 Frm 00041 Fmt 4701 Sfmt 4700 E:\FR\FM\01JNR3.SGM 01JNR3jbell on DSKJLSW7X2PROD with RULES3
+--- page 7 ---
+33436 Federal Register / Vol. 85, No. 105 / Monday, June 1, 2020 / Rules and Regulations 
+58 Sec. 5206(b)(1)(B)–(C), Fixing America’s 
+Surface Transportation Act, Public Law 114–94, 129 
+Stat. 1312, 1537, Dec. 4, 2015. 
+59 Sec. 131 of Title I of Division H of the Further 
+Consolidated Appropriations Act, 2020, signed on 
+December 20, 2019. 
+stints. While such a rule would keep the 
+vehicle on the road almost 
+continuously, its implications for safety 
+are far from ideal. Drivers’ circadian 
+rhythms would inevitably be scrambled 
+as their 5-hour rest periods rotate 
+around the clock. Even if 5-hour rest 
+periods were theoretically as restorative 
+as the sleeper berth option adopted 
+today, obtaining quality rest in a moving 
+vehicle is problematic. FMCSA is aware 
+of no research demonstrating that 
+splitting sleeper berth time into 
+continually repeated 5-hour segments 
+ensures adequate rest. This final rule 
+therefore adopts the sleeper berth 
+requirements proposed in the NPRM. 
+The transportation of livestock poses 
+unique challenges, and consequently 
+receives specialized treatment. Congress 
+has exempted drivers hauling livestock 
+from the required 30-minute break.
+58 
+Drivers hauling livestock who qualify 
+for the statutory ‘‘covered farm vehicle’’ 
+exception in § 390.39 are completely 
+exempt from the HOS rules and many 
+other parts of the FMCSRs. The more 
+limited statutory provision for the 
+transportation of ‘‘agricultural 
+commodities’’ in § 395.1(k)(1) exempts 
+drivers from the HOS regulations while 
+operating within a 150 air-mile radius of 
+the ‘‘source’’ of livestock and other 
+commodities. Even if animals are being 
+transported a substantial distance, the 
+exempt radius gives drivers about a 3- 
+hour addition to the normal 11-hour 
+driving limit. Finally, Congress has 
+prohibited the use of Federal funds to 
+enforce the ELD requirements against 
+transporters of livestock.
+59 The 14-hour 
+driving limit proposed by the NPPC is 
+far beyond the scope of this rulemaking 
+and will not be addressed. In any case, 
+longer hours are not the only solution to 
+the transportation of animals. For 
+example, livestock transporters seem to 
+make little use of team drivers to 
+address the problems they have 
+identified. 
+VII. Discussion of the Final Rule 
+A. Short-Haul Operations 
+In this final rule, FMCSA adopts most 
+of the changes proposed in the NPRM, 
+including extending the maximum 
+allowable workday for short-haul 
+property- and passenger-carrying CMV 
+drivers from 12 to 14 hours to 
+correspond with the 14-hour period 
+requirement for property drivers, and 
+extending the existing distance 
+restriction from 100 air-miles to 150 air- 
+miles to be consistent with the distance 
+limitation for short-haul drivers that are 
+not required to possess a commercial 
+driver’s license. 
+Drivers and carriers using the short- 
+haul exception are not required to use 
+a RODS or ELD or take a 30-minute 
+break. This extra time in the driving day 
+has always been available to drivers, if 
+they opted out of the short-haul 
+exception. This change allows drivers to 
+retain that status while receiving 
+regulatory relief. 
+B. Adverse Driving Conditions 
+FMCSA adopts the proposed changes 
+concerning the adverse driving 
+exception. A driver who encounters 
+adverse driving conditions is allowed 
+up to a 16-hour driving window (for 
+property carriers) within which to 
+complete up to 13 hours of driving, or 
+a 17-hour duty period (for passenger 
+carriers) within which to complete up to 
+12 hours of driving. 
+In addition, FMCSA also modifies the 
+definition of ‘‘adverse driving 
+conditions,’’ to clarify the role of the 
+driver in determining when such 
+conditions are identified: 
+Adverse driving conditions means snow, 
+ice, sleet, fog, or other adverse weather 
+conditions or unusual road or traffic 
+conditions that were not known, or could not 
+reasonably be known, to a driver 
+immediately prior to beginning the duty day 
+or immediately before beginning driving after 
+a qualifying rest break or sleeper berth 
+period, or to a motor carrier immediately 
+prior to dispatching the driver. 
+This addition of the driver to the 
+definition makes it clear that the driver 
+should be involved in the decision- 
+making, which should lessen the need 
+for regulatory guidance to explain the 
+role of the driver in determining when 
+the conditions are identified. The 
+changes to the other parts of the 
+definition, including referring to the 
+duty day, qualifying rest breaks, and 
+sleeper berth period, simply update the 
+definition and reflect the changes and 
+updates to the HOS regulations, rather 
+than using informal terminology (‘‘the 
+run’’). The Agency declines to expand 
+the circumstances covered by the 
+definition. 
+C. 30-Minute Break 
+FMCSA adopts the proposed change 
+linking the mandatory break to 
+cumulative driving time rather than on- 
+duty time, and allowing an on-duty-not- 
+driving break of at least 30-minutes, to 
+satisfy the requirement. 
+The Agency notes that many CMV 
+drivers interrupt their driving time 
+during normal business operations, such 
+as loading or unloading a truck, 
+completing paperwork, or stopping for 
+fuel. Before this final rule, the break was 
+required to be off-duty, during which no 
+work, including paperwork, could be 
+performed and was triggered after 8 
+hours, regardless of driving time. 
+However, the changes to the 30-minute 
+break provision do not increase the 
+maximum driving time during the work 
+shift or allow driving after the 14th hour 
+from the beginning of the work shift. 
+The flexibility provided with this 
+change will allow normal breaks from 
+driving (i.e., from ‘‘time on task’’ in the 
+research literature) to satisfy the 
+requirement, provided the break lasts at 
+least 30 minutes. 
+D. Sleeper Berth 
+FMCSA adopts the proposal allowing 
+a driver additional flexibility in taking 
+two off-duty periods under the sleeper 
+berth exception. One period must be at 
+least 7 consecutive hours spent in the 
+sleeper berth, paired with another 
+period of at least 2 hours spent either in 
+the berth or otherwise off-duty, if the 
+two periods total at least 10 hours. 
+When paired, neither qualifying period 
+counts against the 14-hour driving 
+window. (Prior to this final rule, the 
+shorter period counted against the 
+driving window.) Identical changes are 
+made to a parallel provision applicable 
+in the State of Alaska found in 
+§ 395.1(h). 
+E. Compliance Date for the Rulemaking 
+FMCSA believe that the flexibility 
+provided by these changes will be 
+beneficial to the motor carrier industry. 
+A short effective date would therefore 
+be ideal, however, there are other factors 
+to consider. The Congressional Review 
+Act (CRA) (5 U.S.C. chapter 8) requires 
+a 60 day delay before a major rule, like 
+this rule, can take effect. Additionally, 
+the need for ELD manufacturers to 
+update those systems that exceed the 
+minimum requirements, and to train 
+drivers and enforcement personnel must 
+be considered. 
+FMCSA believes that an effective date 
+120 days after publication is 
+appropriate, given the actions required 
+for full implementation. 
+F. Appendix B to 49 CFR Part 385 
+Based upon this final rule, technical 
+changes to the corresponding 
+paragraphs listing acute and critical 
+violations in 49 CFR part 385, Appendix 
+B, VII. List of Acute and Critical 
+Regulations are made. 
+VIII. International Impacts 
+The FMCSRs, and any exceptions to 
+the FMCSRs, apply only within the 
+VerDate Sep<11>2014 21:51 May 29, 2020 Jkt 250001 PO 00000 Frm 00042 Fmt 4701 Sfmt 4700 E:\FR\FM\01JNR3.SGM 01JNR3jbell on DSKJLSW7X2PROD with RULES3
+--- page 8 ---
+33437 Federal Register / Vol. 85, No. 105 / Monday, June 1, 2020 / Rules and Regulations 
+United States (and, in some cases, 
+United States Territories). Motor carriers 
+and drivers are subject to the laws and 
+regulations of the countries in which 
+they operate, unless an international 
+agreement states otherwise. Drivers and 
+carriers should be aware of the 
+regulatory differences among nations in 
+which they operate. Canada- and 
+Mexico-domiciled drivers must ensure 
+compliance with U.S. HOS 
+requirements while they are driving in 
+the U.S. 
+A driver domiciled in the United 
+States may comply with the Canadian 
+hours of service regulations while 
+driving in Canada. Upon re-entering the 
+United States, however, the driver is 
+subject to all the requirements of Part 
+395, including the 11- and 14-hour 
+rules, and the 60- or 70-hour rules 
+applicable to the previous 7 or 8 
+consecutive days. In other words, a 
+driver who takes full advantage of 
+Canadian requirements may have to 
+stop driving for a time immediately after 
+returning to the U.S. to restore 
+compliance with Part 395. Despite its 
+possible effect on decisions a U.S. driver 
+must make while in Canada, this 
+interpretation does not involve an 
+exercise of extraterritorial jurisdiction 
+(62 FR 16379, 16424; April 4, 1997). 
+IX. Section-by-Section Analysis 
+This rulemaking seeks to provide 
+additional flexibility under the HOS 
+rules in a manner that does not 
+compromise safety. Specifically, it (1) 
+modifies the definition of ‘‘adverse 
+driving conditions’’ and extends a 
+driver’s driving window by up to two 
+hours should adverse driving conditions 
+be encountered; (2) expands the scope 
+of the short-haul exception for drivers of 
+property-carrying CMVs requiring a CDL 
+and for passenger-carrying CMVs; (3) 
+modifies the sleeper berth rule; and (4) 
+amends the mandatory 30-minute break 
+to give drivers subject to the rule less 
+restrictive means of satisfying the 
+requirement. Additional technical 
+changes are made in this final rule. 
+Changes to the regulatory text proposed 
+in the NPRM are noted below. 
+A. Part 385—Safety Fitness Procedures 
+In Section VII of appendix B of part 
+385, the list of acute and critical 
+violations, is modified to match changes 
+made in part 395. Specifically, the 
+references to § 395.1(h)(1)(i), (ii), (iii), 
+and (iv) are modified to reflect the 
+redesignations, and text addressing 
+§ 395.3(a)(3)(ii) is modified to reflect the 
+substantive changes in the 30-minute 
+rule. While the changes to this list were 
+not included in the NPRM, their 
+inclusion on the designation of acute 
+and critical violations are distinctly 
+technical in nature; they simply update 
+the list for purposes of clarity and 
+comprehension to reflect regulatory 
+changes made elsewhere in the rule. 
+B. Part 395—Hours of Service of Drivers 
+1. Section 395.1 (Scope of Rules in This 
+Part) 
+In subparagraph (b)(1), FMCSA 
+modifies the exception for drivers of 
+property- and passenger-carrying CMVs 
+encountering adverse driving 
+conditions, allowing them to extend 
+their respective driving windows by a 
+maximum of 2 hours, consistent with 
+the long-standing provision governing 
+the extension of driving time. Other 
+changes in this subparagraph are merely 
+technical or clarifying. 
+In subparagraph (e)(1), FMCSA 
+modifies the short-haul exception for 
+drivers operating either property- 
+carrying or passenger-carrying CMVs, 
+under which time records can be used 
+in lieu of ELDs or RODS, and supporting 
+documents need not be submitted to the 
+motor carrier. This final rule extends the 
+scope of this exception from a 100- to 
+a 150-air-mile radius from the driver’s 
+normal work reporting location and 
+extends the driver’s maximum workday 
+from 12 to 14 hours, a period consistent 
+with the general rule governing the 
+maximum driving window applicable to 
+drivers operating property-carrying 
+CMVs. All short-haul drivers remain 
+subject to the existing limit on hours 
+spent driving—11 hours for drivers of 
+property-carrying CMVs requiring a CDL 
+and 10 hours for drivers of passenger- 
+carrying CMVs. Other changes in this 
+subparagraph are merely technical or 
+clarifying. For example, specific 
+references to the 14-hour duty window 
+for drivers of ‘‘ready-mixed concrete 
+delivery vehicles’’ are eliminated, given 
+the expansion of the duty day for all 
+short-haul drivers to 14 hours. 
+Provisions previously found in 
+§ 395.1(e)(1)(iv), duplicating provisions 
+limiting drivers’ hours under §§ 395.3 
+and 395.5, are eliminated as superfluous 
+and to avoid redundancy. 
+In subparagraph (g)(1), FMCSA 
+modifies the general sleeper berth 
+exception for drivers of property- 
+carrying CMVs who elect to use this 
+exception. Specifically, the Agency 
+replaces the requirement for 8 
+consecutive hours in the sleeper berth 
+and 2 additional hours, either in the 
+berth or off-duty, or some combination 
+thereof, with a requirement for at least 
+7 (but less than 10) consecutive hours in 
+the sleeper berth and at least 2 
+additional hours, either in the berth or 
+off-duty or some combination thereof. 
+However, the two periods must total at 
+least 10 hours, equivalent to the 10 off- 
+duty hours required of drivers who do 
+not use sleeper berths. Neither period 
+counts against the driver’s 14-hour 
+driving window. Other changes are 
+clarifying or technical. For example, the 
+provision authorizing a team driver to 
+count time in the passenger seat while 
+the CMV is moving toward his/her 
+sleeper berth break is modified to allow 
+up to 3 (rather than 2) hours in the 
+passenger seat for consistency with the 
+minimum hours required in the berth 
+under this rule. Long-standing language 
+omitted from the NPRM that required a 
+driver using the sleeper berth exception 
+to calculate available hours from the 
+end of the initial break period, is 
+restored in this final rule for clarity. 
+Provisions previously found in 
+paragraphs (g)(1)(i)(B) and (C) are 
+eliminated as superfluous because these 
+requirements are covered elsewhere in 
+part 395. Finally, provisions in former 
+§ 395.1(g) specific to drivers of property- 
+carrying CMVs operating in Alaska are 
+removed and recodified in § 395.1(h)— 
+addressing HOS requirements unique to 
+that State. 
+In paragraph (h), FMCSA revises the 
+HOS exception applicable to drivers of 
+property-carrying CMVs in the State of 
+Alaska. Provisions formerly found in 
+§ 395.1(g) specific to Alaska are 
+recodified and consolidated in 
+paragraphs (h), specifically in (h)(1)(ii) 
+and (iii), including provisions 
+addressing required off-duty periods 
+and sleeper berth provisions. Provisions 
+previously found in paragraph (g) that 
+are eliminated because they are covered 
+elsewhere are added here, given that 
+CMV drivers in the State of Alaska are 
+not covered by paragraphs § 395.3(a) 
+and (b) (property-carrying CMVs) or 
+§ 395.5 (passenger-carrying CMVs). 
+Although not proposed in the NPRM, 
+language is also added to this paragraph 
+to address how a driver using the 
+sleeper berth exception calculates 
+available hours from the end of the 
+initial break period, consistent with 
+provisions of paragraph (g). The changes 
+are either technical or stylistic. For 
+example, language proposed in the 
+NPRM is modified to more closely track 
+language in the current rules, and to 
+make clear that, under § 395.1(h), 
+neither rest period under the sleeper 
+berth provision can exceed 10 hours. 
+These changes are made for purposes of 
+clarity; except as noted above, changes 
+largely reflect language included in the 
+NPRM. 
+2. Section 395.2 (Definitions) 
+FMCSA modifies the definition of 
+‘‘adverse driving conditions,’’ 
+VerDate Sep<11>2014 21:51 May 29, 2020 Jkt 250001 PO 00000 Frm 00043 Fmt 4701 Sfmt 4700 E:\FR\FM\01JNR3.SGM 01JNR3jbell on DSKJLSW7X2PROD with RULES3
+--- page 9 ---
+33438 Federal Register / Vol. 85, No. 105 / Monday, June 1, 2020 / Rules and Regulations 
+60 In the NPRM, FMCSA posed a series of specific 
+questions on the potential modification of the 
+definition of ‘‘adverse driving conditions,’’ driven 
+in large part by comments the Agency received to 
+the ANPRM. Specifically, the Agency requested 
+comment on whether the knowledge requirement 
+ought to reside with the driver rather than 
+dispatcher, whether the lack of knowledge at time 
+of dispatch be eliminated, and whether the 
+definition ought to encompass additional 
+circumstances. See 84 FR at 44200, August 22, 
+2019. 
+61 Executive Order 12866 of September 30, 1993. 
+Regulatory Planning and Review. (58 FR 51735, 
+October 4, 1993). 
+62 Executive Order 13563 of January 18, 2011. 
+Improving Regulation and Regulatory Review. (76 
+FR 3821, January 21, 2011). 
+63 U.S. DOL, BLS. Employment Projections 
+Program. Table 1.2: Employment by detailed 
+occupation, 2016 and projected 2026. Available at: 
+http://www.bls.gov/emp/ind-occ-matrix/ 
+occupation.xlsx, last accessed October 29, 2018. 
+eliminating certain language addressing 
+conditions already covered, and 
+modifying the applicable standard to 
+encompass conditions ‘‘not known, or 
+[that] could not reasonably be known’’ 
+to clarify when the definition applies. 
+Furthermore, rather than focus solely on 
+the knowledge of the dispatcher, the 
+definition is modified to reflect 
+knowledge of either the driver or the 
+motor carrier at applicable points in 
+time.
+60 Additional clarifying changes 
+were made. For example, the word 
+‘‘immediately’’ is added to clarify the 
+point in time that the applicable 
+conditions must be known and the 
+reference to ‘‘unusual road and traffic 
+conditions’’ is modified to read 
+‘‘unusual road or traffic conditions’’ to 
+clarify either scenario would qualify. 
+FMCSA also modifies the definition 
+of ‘‘on-duty time’’ by updating 
+paragraph (4)(iii) of the definition to 
+align with § 395.1(g)(1)(i)(D) in this final 
+rule. 
+3. Section 395.3 (Maximum Driving 
+Time for Property-Carrying Vehicles) 
+FMCSA revises paragraphs (a)(2) and 
+(a)(3)(i) to remove superfluous language 
+and make stylistic changes, respectively. 
+No substantive change is intended. In 
+paragraph (a)(3)(ii), the Agency modifies 
+the 30-minute break requirement to 
+focus on extended consecutive driving 
+periods rather than a driver’s time on- 
+duty. Thus, a driver may not drive more 
+than 8 hours without an interruption of 
+at least 30 consecutive minutes. A 
+driver may satisfy the 30-minute period 
+by spending the time off-duty, on-duty 
+(not driving), or in the sleeper berth, or 
+any combination of these non-driving 
+statuses. The specific reference to time 
+in the sleeper berth is added for clarity. 
+As before, drivers operating under the 
+short-haul exception (§ 395.1(e)) are not 
+subject to the 30-minute break 
+requirement. 
+The Agency is not adopting the 
+NPRM’s proposal to extend the driver’s 
+14-hour duty period by taking an off- 
+duty break ranging from 30 minutes to 
+3 hours. 
+X. Regulatory Analyses 
+A. E.O. 12866 (Regulatory Planning and 
+Review and DOT Regulatory Policies 
+and Procedures as Supplemented by 
+E.O. 13563), and DOT Regulatory 
+Policies and Procedures 
+The Office of Information and 
+Regulatory Affairs has determined that 
+this rulemaking is an economically 
+significant regulatory action under E.O. 
+12866
+61 Regulatory Planning and 
+Review, as supplemented by E.O. 
+13563.
+62 It also is significant under DOT 
+regulations because the economic costs 
+and benefits of the rule exceed the $100 
+million annual threshold and because of 
+the substantial Congressional and public 
+interest concerning the HOS 
+requirements (84 FR 71714, Dec. 27, 
+2019). 
+An RIA is available in the docket. 
+That document: 
+• Identifies the problem targeted by 
+this rulemaking, including a statement 
+of the need for the action; 
+• Defines the scope and parameters of 
+the analysis; 
+• Defines the baseline; and, 
+• Defines and evaluates the costs and 
+benefits of the action. 
+The RIA is the synthesis of research 
+conducted specific to current HOS 
+practices, stakeholder comments, and 
+analysis of the impacts resulting from 
+changes to the HOS provisions in this 
+final rule. 
+Affected Entities 
+The changes in this final rule will 
+affect CMV drivers, motor carriers, and, 
+except as otherwise exempt under 
+§ 390.3T(f)(2). The HOS regulations 
+apply to CMV drivers. FMCSA obtained 
+driver count information, by carrier 
+operation, from the Motor Carrier 
+Management Information System 
+(MCMIS), which includes information 
+submitted to FMCSA by motor carriers 
+the first time the carrier applies for a 
+DOT number, and biennially thereafter. 
+Table 3 displays the 2018 estimate of 
+CMV drivers from MCMIS. With the 
+current baseline annual number of 
+6,520,268 CMV drivers (478,184 
+passenger carrier CMV drivers and 
+6,042,084 property carrier CMV drivers), 
+FMCSA then estimated the future 
+baseline number of CMV drivers who 
+will be affected by this final rule 
+annually during the analysis period of 
+2020 to 2029. These future baseline 
+projections were developed by 
+increasing the current baseline 2018 
+values consistent with occupation- 
+specific employment growth projections 
+obtained from the Bureau of Labor 
+Statistics (BLS) Employment Projections 
+program.
+63 The BLS employment 
+projections for the following standard 
+occupational classifications were used: 
+BLS SOC 53–3021 (Bus drivers, transit and 
+intercity) 
+BLS SOC 53–3022 (Bus drivers, school or 
+special client) 
+BLS SOC 53–3032 (Heavy and tractor-trailer 
+truck drivers) 
+BLS SOC 53–3023 (Light truck or delivery 
+service drivers) 
+The occupational categories noted 
+above do not overlap exactly with the 
+entire population of CMV drivers who 
+will be subject to this rule, primarily 
+because there are some CMV drivers 
+who operate vehicles over 10,001 
+pounds but do not specifically declare 
+their occupation as being a bus or truck 
+driver. However, as noted above, this 
+does not mean that those drivers are not 
+reflected in the baseline 2018 estimates 
+of CMV drivers produced above. All 
+CMV drivers, regardless of their 
+occupational category, are included in 
+the estimates. The occupational 
+categories above represent 
+approximately 3.6 million employees in 
+2018, and combined are used to forecast 
+the future growth from 2018 through 
+2029 based on the BLS estimates of 
+employees in those industries from 2018 
+through 2028. 
+BLS provides baseline 2018 values for 
+the total number of employees in all of 
+the occupational categories noted, as 
+well as estimates for 2028. An annual 
+compound growth rate for net overall 
+growth in the total population of CMV 
+bus drivers and CMV truck drivers was 
+calculated from the growth in the 
+number of employees in these 
+occupations from 2018 to 2028 as 
+projected by BLS. The projected net 
+growth in total employment for BLS 
+SOC 53–3021 (Bus drivers, transit and 
+intercity) from 2018 to 2028 is 6.1 
+percent, which equates to a 0.598 
+percent annual compound growth rate. 
+The projected net growth in total 
+employment for BLS SOC 53–3022 (Bus 
+drivers, school or special client) from 
+2018 to 2028 is 4.3 percent, which 
+equates to a 0.426 percent annual 
+compound growth rate. FMCSA then 
+computed a weighted average annual 
+compound bus driver growth rate of 
+0.472 percent for these two occupational 
+categories. The projected net growth in 
+VerDate Sep<11>2014 21:51 May 29, 2020 Jkt 250001 PO 00000 Frm 00044 Fmt 4701 Sfmt 4700 E:\FR\FM\01JNR3.SGM 01JNR3jbell on DSKJLSW7X2PROD with RULES3

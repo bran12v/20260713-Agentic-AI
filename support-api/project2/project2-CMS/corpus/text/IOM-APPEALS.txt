@@ -1,0 +1,961 @@
+
+--- page 1 ---
+ 
+ 
+110 - Glossary 
+(Rev. 12423; Issued: 12-20-23; Effective: 01-01-24; Implementation: 01-02-24)  
+  
+Adjudicator – The entity responsible for making the decision at any level of the Medicare claim 
+decision making process, from initial determination to the final level of appeal, on a specific claim.  
+  
+Administrative Law Judge (ALJ) – Adjudicator employed by the Department of Health and Human 
+Services (HHS), Office of Medicare Hearings and Appeals (OMHA) that holds hearings and issues 
+decisions related to level 3 of the appeals process.  
+  
+Affirmation - A term used to denote that a prior claims determination has been upheld by the current 
+claims adjudicator. Although appeals through the OMHA level are de novo, CMS and its contractors 
+often use this term when an adjudicator reaches the same conclusion as that in the prior determination, 
+even though he/she is not bound by the prior determination.  
+  
+Amount in Controversy (AIC) - The dollar amount required to be in dispute to establish the right to a 
+particular level of appeal.  Congress establishes the amount in controversy requirements.  
+  
+Appeals Council – The Medicare Appeals Council (herein Appeals Council), a division within the  
+Departmental Appeals Board, provides the final level of administrative review of claims for entitlement 
+to Medicare and individual claims for Medicare coverage and payment. (See also Departmental Appeals 
+Board.)  
+  
+Appellant - The term used to designate the party (i.e., the beneficiary, provider, supplier, or other person 
+showing an interest in the claim determination) or the representative of the party that has filed an appeal.  
+The adjudicator determines if a particular appellant is a proper party or representative of a proper party.  
+  
+Applicable plan – Applicable plan means liability insurance (including self-insurance), no-fault 
+insurance, or a workers' compensation law or plan.  
+  
+Appointed representative – The individual appointed by a party to represent the party in a Medicare 
+claim or claim appeal.  
+  
+Assignee – (1) With respect to the assignment of a claim for items or services, the assignee is the 
+supplier who has furnished items or services to a beneficiary and has accepted a valid assignment of a 
+claim;  
+  
+OR  
+  
+(2) With respect to an assignment of appeal rights, an assignee is a provider or supplier who is not 
+already a party to an appeal, who has furnished items or services to a beneficiary, and has accepted a 
+valid assignment of the right to appeal a claim executed by the beneficiary.  
+  
+Assignment of appeal rights – The transfer by a beneficiary of his or her right to appeal under the 
+claims appeal process to a provider or supplier who is not already a party, and who provided the items or 
+services to the beneficiary.  
+  
+Assignor – A beneficiary whose provider of service or supplier has taken assignment of a claim, or 
+assignment of an appeal of a claim.  
+  
+--- page 2 ---
+Attorney Adjudicator - A licensed attorney employed by OMHA with knowledge of Medicare 
+coverage and payment laws and guidance, authorized to take the actions provided for in 42 CFR 405 
+subpart I on requests for ALJ hearing and requests for reviews of QIC dismissals.  
+  
+Authorized representative – An individual authorized under State or other applicable law to act on 
+behalf of a beneficiary or other party involved in the appeal. The authorized representative will have all 
+of the rights and responsibilities of a beneficiary or party, as applicable, throughout the appeals process.  
+  
+Beneficiary – Individual who is enrolled to receive benefits under Medicare Part A and/or Part B.  
+  
+Contractor - An entity that contracts with the Federal government to review and/or adjudicate claims, 
+determinations and/or decisions.  
+  
+Date of Receipt – A determination, decision or notice is presumed to have been received by the party 
+five days from the date included on the determination or decision, unless there is evidence to the 
+contrary.  
+  
+NOTE:  Throughout Chapter 29, reference to day or days means calendar days unless otherwise 
+specified.  
+  
+Departmental Appeals Board (DAB) Review - The DAB provides impartial, independent review of 
+disputed decisions in a wide range of Department of Health and Human Services programs under more 
+than 60 statutory provisions.  The Medicare Appeals Council (herein Appeals Council), a division within 
+the Departmental Appeals Board, provides the final level of administrative review of claims for 
+entitlement to Medicare and individual claims for Medicare coverage and payment. (See section 340 in 
+this chapter.)  
+  
+De Novo - Latin phrase meaning “anew” or “afresh,” used to denote the manner in which claims are 
+adjudicated in the administrative appeals process.  Adjudicators at each level of appeal make a new, 
+independent and thorough evaluation of the claim(s) at issue, and are not bound by the findings and 
+decision made by an adjudicator in a prior determination or decision.  
+  
+Decisions and Determinations -If a Medicare appeal request does not result in a dismissal, adjudication 
+of the appeal results in either a “determination” or “decision.”  There is no apparent practical distinction 
+between these two terms although applicable regulations use the terms in distinct contexts.  
+  
+A decision that is reopened and thereafter revised is called a “revised determination.”  
+  
+Dismissal - An action taken by an adjudicator when an appeal will not be conducted as requested.  A 
+request for appeal may be dismissed for any number of reasons, including:  
+  
+1. Abandonment of the appeal by the appellant;  
+2. A request is made by the appellant to withdraw the appeal;  
+3. A determination that an appellant is not a proper party;  
+4. The amount in controversy requirements have not been met; and  
+5. The appellant has died and no one else is prejudiced by the claims determination.  
+  
+Limitation on Liability Determination- Section 1879 of the Social Security Act (the Act) provides 
+financial relief to beneficiaries, providers and suppliers by permitting Medicare payment to be made, or 
+requiring refunds to be made, for certain services and items for which Medicare coverage and payment 
+would otherwise be denied. This section of the Act is referred to as “the limitation on liability 
+provision.” Both the underlying coverage determination and the limitation on liability determination 
+may be challenged. For more detailed information see chapter 30 of this manual.   
+--- page 3 ---
+  
+Medicare number and/or Medicare beneficiary identifier (Mbi) - are general terms describing a 
+beneficiary’s Medicare identification number.  Medicare beneficiary identifier references both the Health 
+Insurance Claim Number (HICN) and the Medicare Beneficiary Identifier (MBI) during the new 
+Medicare card transition period and after for certain business areas that will continue to use the HICN as 
+part of their processes.  For the beneficiary population, the term Medicare number is used to describe the 
+Medicare beneficiary identifier (Mbi).  
+  
+ Office of Medicare Hearings and Appeals (OMHA) - The Office of Medicare Hearings and Appeals 
+is responsible for level 3 of the Medicare claims appeal process and certain Medicare entitlement 
+appeals and Part B premium appeals.  At level 3 of the appeals process, an appellant may have a hearing 
+before an OMHA ALJ, or review by an attorney adjudicator.  
+  
+Party - A person and/or entity normally understood to have standing to appeal an initial determination 
+and/or a subsequent administrative appeal determination or decision. (See section 210 in this chapter.)  
+  
+Provider of services (herein provider) – As used in this section, the definition in 42 CFR 405.902 for 
+provider applies.  Provider means a hospital, a critical access hospital (CAH), a skilled nursing facility, a 
+comprehensive outpatient rehabilitation facility, a home health agency, or a hospice that has in effect an 
+agreement to participate in Medicare, or a clinic, a rehabilitation agency, or a public health agency that 
+has in effect a similar agreement but only to furnish outpatient physical therapy or speech pathology 
+services, or a community mental health center that has in effect a similar agreement but only to furnish 
+partial hospitalization or intensive outpatient services.  NOTE: A non-participating provider, that is, an 
+entity eligible to enter into a provider agreement to participate in Medicare but has not entered into such 
+an agreement, is not considered a provider of services and does not have party status for an initial 
+determination or appeal.  
+  
+Qualified Independent Contractor (QIC) – Entity that contracts with the Secretary in accordance with 
+the Act to perform level 2 appeals, which are called reconsiderations, and expedited reconsiderations.  
+  
+Remand – An action taken by an adjudicator to vacate a lower level appeal decision, or a portion of the 
+decision, and return the case, or a portion of the case, to that level for a new decision.  
+  
+Reopening - See IOM 100-04 Chapter 34.  
+  
+Reversal - Although appeals in the administrative appeals process are de novo proceedings (i.e., a new 
+determination/decision is made at each level), Medicare uses this term where the new 
+determination/decision is more favorable to the appellant than the prior determination/decision, even if 
+some aspects of the prior determination/decision remain the same.  
+  
+NOTE: The term reversal describes the coverage determination, not the liability determination. For  
+example, an item or service may be determined to be non-covered as not medically reasonable and 
+necessary (under section 1862(a)(1)(A) of the Act), but Medicare may, nevertheless, make payment for 
+the item or service if the party is found not financially liable after applying the limitation on liability 
+provision (section 1879 of the Act).  Thus, the coverage determination is affirmed, but Medicare makes 
+payment as required by statute.  
+  
+Revised Determination or Decision - An initial determination or decision that is reopened and which 
+results in the issuance of a revised determination or decision.  A revised determination or decision is 
+considered a separate and distinct determination or decision and may be appealed. For example, a 
+postpayment review of an initial determination that results in a reversal of a previously covered/paid 
+claim (and, potentially, a subsequent overpayment determination) constitutes a reopening and a revised 
+initial determination.  The first level of appeal following a revised initial determination is a 
+--- page 4 ---
+redetermination. Spouse - The word “spouse” as used in this chapter, and as used in sections 405.952, 
+405.972, 405.1052, and 405.1114 of title 42 of the Code of Federal Regulations (CFR) regarding the 
+dismissal of an appeal includes same-sex spouses as well as opposite-sex spouses.  The relationship of 
+two individuals of the same sex will be recognized as a marriage if either (1) the state or territory in 
+which the individuals live recognizes their relationship as a marriage, or (2) the individuals entered into 
+a legally valid marriage under the law of any state, territory, or foreign jurisdiction.  Because civil unions 
+and domestic partnerships are not marriages, civil union and domestic partners are not regarded as 
+spouses by CMS.  
+  
+Supplier –Unless the context otherwise requires, a physician or other practitioner, a facility, or entity 
+(other than a provider of services) that furnishes items or services under Medicare.  
+  
+Vacate – To set aside a previous action.  
+ 
+200 - CMS Decisions Subject to the Administrative Appeals Process 
+(Rev. 12423; Issued: 12-20-23; Effective: 01-01-24; Implementation: 01-02-24)  
+ 
+  
+A. Entitlement Determinations  
+  
+In accordance with a memorandum of understanding with the Secretary, the Social Security 
+Administration (SSA) makes initial Part A and Part B entitlement determinations and initial 
+determinations on applications for entitlement.  Individuals should contact the SSA for administrative 
+appeals involving entitlement (telephone 1-800-772-1213 (TTY 1-800-325-0778 or access the SSA’s 
+website at: http://ssa.gov/pgm/medicare.htm).  This would include issues that involve the question of 
+whether the beneficiary:  
+  
+• Has attained age 65 or is entitled to Medicare benefits under the disability or renal disease 
+provisions of the law;  
+  
+• Is entitled to a monthly retirement, survivor, or disability benefit;  
+  
+• Is qualified as a railroad beneficiary;  
+  
+• Met the deemed insured provisions; and  
+  
+• Met the eligibility requirements for enrollment under the supplementary medical insurance 
+(SMI) program or for hospital insurance (HI) obtained by premium payment.  
+  
+If a beneficiary is dissatisfied with the SSA’s initial determination on entitlement, he or she may request 
+a reconsideration with the SSA.  The SSA performs a reconsideration of its initial determination in 
+accordance with 20 CFR part 404, subpart J.  Following the reconsideration, the beneficiary may request 
+a hearing before a HHS Administrative Law Judge (ALJ).  If the beneficiary obtains a hearing before an 
+ALJ and is dissatisfied with the decision of the ALJ, he or she may request the Appeals Council to 
+review the case.  Following the action of the Appeals Council, the beneficiary may be entitled to file suit 
+in Federal district court.  
+  
+B.  Initial Determinations 
+ 
+  
+The Medicare contractor makes initial determinations regarding claims for benefits under Medicare Part 
+A and Part B.  A finding that a request for payment does not meet the requirements for a Medicare claim 
+--- page 5 ---
+shall not be considered an initial determination.  An initial determination for purposes of this chapter 
+includes, but is not limited to, determinations with respect to:  
+  
+(1) Whether the items and/or services furnished are covered under title XVIII of the Act;  
+  
+(2) In the case of determinations on the basis of section 1879(b) or (c) of the Act, whether the 
+beneficiary, or supplier who accepts assignment under 42 CFR 424.55 knew, or could 
+reasonably have been expected to know at the time the services were furnished, that the 
+services were not covered;  
+  
+(3) In the case of determinations on the basis of section 1842(l)(1) of the Act, whether the 
+beneficiary or supplier knew, or could reasonably have been expected to know at the time 
+the services were furnished, that the services were not covered;  
+  
+(4) Whether the deductible has been met;  
+  
+(5) The computation of the coinsurance amount;  
+  
+(6) The number of days used for inpatient hospital, psychiatric hospital, or post-hospital 
+extended care;  
+  
+(7) Periods of hospice care used;  
+  
+(8) Requirements for certification and plan of treatment for physician services, durable medical 
+equipment, therapies, inpatient hospitalization, skilled nursing care, home health, hospice, 
+partial hospitalization services, and intensive outpatient services;  
+  
+(9) The beginning and ending of a spell of illness, including a determination made under the 
+presumptions established under 42 CFR 409.60(c)(2), and as specified in 42 CFR 
+409.60(c)(4);  
+  
+(10) The medical necessity of services, or the reasonableness or appropriateness of placement of 
+an individual at an acute level of patient care made by the Quality Improvement 
+Organization (QIO) on behalf of the contractor in accordance with 42 CFR 476.86(c)(1);  
+  
+(11) Any other issues having a present or potential effect on the amount of benefits to be paid 
+under Part A or Part B of Medicare, including a determination as to whether there has been 
+an underpayment of benefits paid under Part A or Part B, and if so, the amount thereof;  
+  
+(12) If a waiver of adjustment or recovery under sections 1870(b) and (c) of the Act is 
+appropriate:  
+  
+(i) when an overpayment of hospital insurance benefits or supplementary 
+medical insurance benefits (including a payment under section 1814(e) of the Act) has 
+been made with respect to an individual, or  
+  
+(ii) with respect to a Medicare Secondary Payer recovery claim against a 
+beneficiary or against a provider or supplier;  
+  
+(13) Whether a particular claim is not payable by Medicare based upon the application of the 
+Medicare Secondary Payer provisions of section 1862(b) of the Act;  
+  
+--- page 6 ---
+(14) Under the Medicare Secondary Payer provisions of section 1862(b) of the Act that 
+Medicare has a recovery claim against a provider, supplier, or beneficiary for services or 
+items that have already been paid by the Medicare program, except when the Medicare 
+Secondary Payer recovery claim against the provider or supplier is based upon failure to 
+file a proper claim as defined in 42 CFR part 411 because this action is a reopening;  
+  
+(15) A claim not payable to a beneficiary for the services of a physician who has opted-out. 
+NOTE: A physician who has opted-out of Medicare is not considered a party to the initial 
+determination or any subsequent appeal; and  
+    
+(16) Under the Medicare Secondary Payer provisions of section 1862(b) of the Act that 
+Medicare has a recovery claim if Medicare is pursuing recovery directly from an applicable 
+plan. That is, there is an initial determination with respect to the amount and existence of 
+the recovery claim.  
+  
+C.  Actions That Are Not Initial Determinations  
+  
+Actions that are not initial determinations and are not appealable under this chapter include, but are not 
+limited to—  
+  
+(1) Any determination for which CMS has sole responsibility, for example: whether an entity meets 
+the conditions for participation in the program; whether an independent laboratory meets the 
+conditions  
+for coverage of services; or a determination under the Medicare Secondary Payer provisions of 
+section 1862(b) of the Act of the debtor for a particular recovery claim;  
+  
+(2) The coinsurance amounts prescribed by regulation for outpatient services under the prospective 
+payment system;  
+  
+(3) Any issue regarding the computation of the payment amount of program reimbursement of 
+general applicability for which CMS or a contractor has sole responsibility under Part B, such as 
+the establishment of a fee schedule set forth in 42 CFR, part 414, subpart B, or an inherent 
+reasonableness adjustment pursuant to 42 CFR  405.502(g) and any issue regarding the cost 
+report settlement process under Part A:  
+  
+NOTE: For example, section 1848(i)(1) of the Act prohibits administrative and judicial review of the 
+individual components used to compute Medicare physician fee schedule payment amounts.  However, a 
+payment amount determination with respect to a particular item or service on a claim is an initial 
+determination that is appealable.  
+  
+(4) Whether an individual's appeal meets the qualifications for expedited access to judicial review 
+provided in 42 CFR 405.990;  
+  
+(5) Any determination regarding whether a Medicare overpayment claim should be compromised, 
+or collection action terminated or suspended under the Federal Claims Collection Act of 1966, 
+as amended;  
+  
+(6) Determinations regarding the transfer or discharge of residents of skilled nursing facilities in 
+accordance with 42 CFR 483.5 (definition of transfer and discharge) and 483.15;  
+  
+(7) Determinations regarding the readmission screening and annual resident review processes 
+required by 42 CFR part 483, subparts C and E;  
+  
+--- page 7 ---
+(8) Determinations with respect to a waiver of Medicare Secondary Payer recovery under section 
+1862(b) of the Act;  
+  
+(9) Determinations with respect to a waiver of interest;  
+  
+(10) Determinations for a finding regarding the general applicability of the Medicare Secondary 
+Payer provisions (as opposed to the application in a particular case);  
+  
+(11) Determinations under the Medicare Secondary Payer provisions of section 1862(b) of the Act 
+that Medicare has a recovery against an entity that was or is required or responsible (directly, as 
+an insurer or self-insurer; as a third party administrator; as an employer that sponsors, 
+contributes to or facilitates a group health plan or a large group health plan; or otherwise) to 
+make payment for services or items that were already reimbursed by the Medicare program, 
+except with respect to the amount and existence of a recovery claim under section 1862(b) of 
+the Act where Medicare is pursuing recovery directly from an applicable plan as specified in 42 
+CFR 405.924(b)(16);  
+  
+(12) A contractor's, QIC's, ALJ's, OMHA attorney adjudicator’s, or Appeals Council’s determination 
+or decision to reopen or not to reopen an initial determination, redetermination, reconsideration, 
+hearing decision, or review decision;  
+  
+(13) Determinations that CMS or its contractors may participate in the proceedings on a request for 
+an ALJ hearing or act as parties in an ALJ hearing or Appeals Council review;  
+  
+(14) Determinations that a provider or supplier failed to submit a claim timely or failed to submit a 
+timely claim despite being requested to do so by the beneficiary or the beneficiary’s subrogee;  
+  
+(15) Determinations with respect to whether an entity qualifies for an exception to the electronic 
+claims submission requirement under 42 CFR part 424;  
+  
+(16) Determinations by the Secretary of sustained or high levels of payment errors in accordance 
+with section 1893(f)(3)(B);  
+  
+(17) A contractor's prior determination related to coverage of physicians' services;  
+  
+(18) Requests for anticipated payment under the home health prospective payment system under 42 
+CFR 409.43(c)(ii)(s); and  
+  
+(19) Claim submissions on forms/formats that are incomplete, invalid, or do not meet the 
+requirements of a Medicare claim and returned or rejected to the provider or supplier.  
+  
+NOTE: Duplicate items and services are not afforded appeal rights, unless the supplier is appealing 
+whether or not the service was, in fact, a duplicate.  
+  
+D.  Initial Determinations Subject to Reopening  
+  
+Minor errors or omissions in an initial determination may be corrected only through the contractor’s 
+reopening process.  Since it is neither cost efficient or necessary for contractors to correct clerical errors 
+through the appeals process, requests for adjustments to claims resulting from clerical errors must be 
+handled and processed as reopenings.  In situations where a provider, supplier, or beneficiary requests 
+an appeal and the issue involves a minor error or omission, irrespective of the request for an appeal, 
+contractors shall treat the request as a request for reopening.  A contractor must transfer the appeal 
+request to the reopenings unit or other designated unit for processing. See Chapter 34 Section 10.1 
+--- page 8 ---
+Authority to Conduct a Reopening of the Medicare Claims Processing Manual for information specific 
+to conducting a reopening when a redetermination was requested.  
+ 
+210 - Who May Appeal 
+(Rev. 4380, Issued: 08-30-19, Effective: 07-08-19, Implementation: 10- 01-19) 
+ 
+A person or entity with a right to appeal an initial determination is considered a party to the redetermination 
+(as described in 42 CFR 405.906), referred to in the remainder of these instructions as a "party." 
+ 
+Parties to the initial determination include: 
+ 
+• Beneficiaries, who are almost always considered parties to a Medicare determination, as they are 
+entitled to appeal any initial determination (unless the beneficiary has assigned his or her appeal 
+rights); 
+ 
+• Providers who file a claim for items or services furnished to a beneficiary.  NOTE: A non-
+participating provider, that is, an entity eligible to enter into a provider agreement to participate in 
+Medicare but has not entered into such an agreement, is not considered a provider or provider of 
+service and does not have party status for an initial determination or appeal.  Beneficiaries are 
+parties to claims filed for services furnished by a non-participating provider; 
+ 
+• Participating suppliers and non-participating suppliers, but only with respect to items or services 
+furnished to a beneficiary that are billed on an assignment-related basis; 
+ 
+• An applicable plan (as defined in §110) with respect to the amount and existence of a recovery 
+claim under §405.924(b)(16) if Medicare is pursuing recovery directly from the applicable plan.  
+The applicable plan is the sole party to an initial determination under §405.924(b)(16) and any 
+subsequent appeal. 
+ 
+Parties to the redetermination and subsequent appeal levels include: 
+ 
+• The parties to the initial determination, above; 
+ 
+NOTE:  In addition to his/her own right to appeal Medicare’s decision regarding an initial determination, a 
+beneficiary is a party to any request for redetermination filed by a provider or supplier.  The beneficiary is 
+always a party to an appeal of services rendered on their behalf, at any level (except when the beneficiary 
+has assigned his/her appeal rights to a provider or supplier). 
+ 
+• A nonparticipating supplier has the same rights to appeal the contractor’s determination in an 
+unassigned claim for medical equipment and supplies if the contractor denies payment on the basis 
+of §1862(a)(1), §1834(a)(17)(B), §1834(j)(1), or §1834(a)(15) of the Act as a nonparticipating or 
+participating supplier has in assigned claims.  These rights of appeal also extend to determinations 
+that a refund is required either because the supplier knew or should have known that Medicare 
+would not pay for the item or service (See §1834(j)(4)), or because the beneficiary was not properly 
+informed in writing with an Advanced Beneficiary Notice of Non Coverage (ABN) that Medicare 
+would not pay or was unlikely to pay for the item or service. While the time limits in §310 apply 
+for filing requests for redetermination, refunds must be made within the time limits specified in 
+Chapter 30.  An adverse advance determination of coverage under  §1834(a)(15) of the Act is not an 
+initial determination on a claim for payment for items furnished and, therefore, is not appealable; 
+ 
+• A non-participating physician not billing on an assigned basis but who may be responsible for 
+making a refund to the beneficiary under §1842(l)(1) of the Act for services furnished to a 
+beneficiary that are denied on the basis of section 1862(a)(1) of the Act, has party status with 
+respect to the claim at issue; 
+ 
+--- page 9 ---
+• A provider or supplier who otherwise does not have the right to appeal may appeal when the 
+beneficiary dies and there is no other party available to appeal.  See §210.1 for information on 
+determining whether there is another party available to appeal; 
+ 
+• A Medicaid State agency or party authorized to act on behalf of the State. Medicaid State agencies 
+have party status at the redetermination level (and subsequent levels) for claims for items or 
+services involving a beneficiary who is enrolled to receive benefits under both Medicare and 
+Medicaid, but only if the Medicaid State agency has made payment for, or may be liable for such 
+items or services, and only if the State agency has filed a timely request for redetermination for 
+such items or services.  (See 42 CFR 405.908); and 
+ 
+• Any individual whose rights with respect to the particular claim being reviewed may be affected by 
+such review and any other individual whose rights with respect to supplementary medical insurance 
+benefits may be prejudiced by the decision (e.g., an individual or entity liable for payment under 42 
+CFR subpart E §424.60 in the case of a deceased beneficiary). 
+ 
+Neither the contractor nor CMS is considered a party to an appeal at the redetermination or reconsideration 
+levels, and therefore does not have the right to appeal or to participate as a party at this stage in the 
+administrative appeals process.  CMS or a contractor may choose to participate in an ALJ hearing, become a 
+party to an ALJ hearing (with CMS’ approval), or may recommend that the Administrative QIC (AdQIC) 
+refer an ALJ decision or dismissal to the Appeals Council for review under its own motion review authority.  
+At times, an ALJ may ask for a contractor’s or QIC’s input to a hearing.  This does not change the 
+contractor’s party status. 
+ 
+NOTE: While a representative may request an appeal on behalf of the party that he/she represents, the 
+representative is not a party to the appeal solely by virtue of being a representative.  (See §270 for the rights 
+and responsibilities of a representative.) The provider of the item or service denied may represent the 
+individual, but may not impose any financial liability on the individual in connection with such 
+representation.  If limitation on liability is involved, the provider of the item or service may represent the 
+individual only if the provider waives any rights for payment from the individual with respect to the services 
+or items involved in the appeal. 
+ 
+210.1 - Provider or Supplier Appeals When the Beneficiary is Deceased 
+(Rev. 695, Issued:  10-07-05; Effective:  05-01-05; Implementation:  01-09-06) 
+ 
+When a provider or supplier appeals on behalf of a deceased beneficiary and the provider or supplier 
+otherwise does not have the right to appeal, the MAC must determine whether another party is available to 
+appeal by taking either of the following actions: 
+ 
+• The MAC may send a letter to the last known address of the beneficiary, or to the beneficiary's 
+estate, if known.  The letter should advise the beneficiary's estate (or anyone taking responsibility for the 
+deceased's bills for medical or other health services) of the right to appeal the claim denial.  The letter also 
+should provide information that the provider or supplier wishes to appeal.  The letter should provide the 
+beneficiary's estate with the following three options: 
+ 
+o Option 1: I wish to appeal this claim. 
+ 
+o Option 2: I am not available to appeal, please process the provider's appeal and let me know   
+of the result. 
+ 
+o Option 3: I am available to appeal, but do not wish to exercise my right to appeal. 
+ 
+The MAC should allow the estate at least 10 days to respond, or the remainder of the time frame for 
+requesting an appeal -- whichever is greater.  If the estate does not respond in the allotted time frame, the 
+MAC should annotate the file that no other party is available to appeal and continue to process the provider's 
+--- page 10 ---
+or supplier's appeal.  If the estate responds that it is available and wishes to appeal, the MAC should 
+continue with the appeal and notify the provider or supplier of the results.  If the estate indicates that it is not 
+available to appeal, then the MAC should continue to process the appeal and notify the beneficiary's estate 
+of the decision.  If the estate indicates that it is available, but does not want to appeal, the MAC should 
+dismiss the provider or supplier's request on the basis that there is another party available, even though the 
+party does not intend to pursue the appeal; or  
+ 
+The MAC may send a letter to the provider or supplier to request written confirmation that they are not 
+aware of any other party available to appeal.  The MAC should allow the provider or supplier 10 days to 
+provide confirmation.  If the MAC does not receive written confirmation within 15 days, it should dismiss 
+the appeal on the basis that the provider or supplier did not confirm that there was no other party available to 
+appeal. 
+ 
+220 - Steps in the Appeals Process:  Overview 
+(Rev. 4278, Issued: 04-12-19, Effective: 06-13-19, Implementation: 06-13-19) 
+ 
+Regulations at 42 CFR 405.940-405.942 provide that a party to a redetermination that is dissatisfied with an 
+initial determination may request that the contractor make a redetermination. The request for redetermination 
+must be filed within 120 days after the date of receipt of the notice of the initial determination (the notice of 
+initial determination is presumed to be received 5 days after the date of the notice unless there is evidence to 
+the contrary). Contractors cannot accept an appeal for which no initial determination has been made. The 
+parties specified in §210 who are dissatisfied with a determination on their Part A or B claim have appeal 
+rights. 
+ 
+The appeals process consists of five levels. The appellant must begin the appeal at the first level after 
+receiving an initial determination. Each level, after the initial determination, has procedural steps the 
+appellant must take before appealing to the next level. Each level is discussed in detail in subsequent 
+sections. If the appellant meets the procedural steps at a specific level (including the amount in controversy 
+(AIC) requirement if applicable), the appellant (and all other parties to the appeal decision) is then afforded 
+the right to appeal any determination or decision to the next level in the process. The appellant may exercise 
+the right to appeal any determination or decision to the next higher level, until appeal rights are exhausted. 
+Although there are five distinct levels in the Medicare appeals process, the redetermination, level 1, is the 
+only level in the appeals process that the contractor performs. 
+ 
+When an appellant requests a reconsideration with a QIC (level 2), the contractor must prepare and forward 
+the case file to the QIC.  Further, the contractor may have effectuation responsibilities for decisions made by 
+the QIC. The contractor, however, does not have responsibility for reviewing the QIC’s decision for 
+accuracy. When an appellant requests an Administrative Law Judge (ALJ) hearing or review by an attorney 
+adjudicator (level 3), the QIC must prepare and forward the case file to the OMHA.  Further, the contractor 
+may have effectuation responsibilities for decisions made at OMHA, Departmental Appeals Board 
+(DAB)/Appeals Council, and Federal Court levels. 
+ 
+In the chart below, levels 1 – 4 are part of the Administrative Appeals Process. If an appellant has completed 
+all the first 4 steps of the administrative appeals process and is still dissatisfied, the appellant may appeal to 
+the Federal courts, provided the appellant satisfies the requirements for obtaining judicial review. 
+  
+--- page 11 ---
+CHART 1 - The Medicare Fee-for-Service Appeals Process 
+ 
+APPEAL LEVEL TIME LIMIT FOR FILING 
+REQUEST 
+MONETARY 
+THRESHOLD TO BE MET 
+1. Redetermination 120 days from date of receipt 
+of the notice initial 
+determination 
+None 
+2. Reconsideration 180 days from date of receipt 
+of the redetermination* 
+None 
+3. Administrative Law 
+Judge (ALJ) Hearing 
+60 days from the date of 
+receipt of the reconsideration 
+Current AIC requirements can be 
+found on CMS.gov at: 
+http://www.cms.gov/Medicare/Ap
+peals-and-
+Grievances/OrgMedFFSAppeals/
+HearingsALJ.html. 
+ 
+See §250 for additional 
+information. 
+4. Departmental 
+Appeals Board (DAB) 
+Review/Appeals 
+Council 
+60 days from the date of 
+receipt of the ALJ hearing 
+decision 
+None 
+5. Federal Court 
+Review 
+60 days from date of receipt 
+of the Appeals Council 
+decision 
+Current AIC requirement can be 
+found on CMS.gov at: 
+http://www.cms.gov/Medicare/Ap
+peals-and-
+Grievances/OrgMedFFSAppeals/
+Review-Federal-District-
+Court.html.  See §345 for 
+additional information 
+ 
+*NOTE: If a party requests QIC review of a contractor’s dismissal of a request for redetermination, the time 
+limit for filing a request for reconsideration is 60 days from the date of receipt of the contractor’s dismissal 
+notice. 
+ 
+230 - Where to Appeal 
+(Rev. 4380, Issued: 08-30-19, Effective: 07-08-19, Implementation: 10- 01-19) 
+ 
+Where a party must file an appeal depends on the level of appeal.  The chart below indicates where 
+appellants should file appeal requests for each level of appeal. 
+ 
+CHART 2 - Where to File an Appeal 
+ 
+LEVEL WHERE TO FILE AN APPEAL 
+  
+Part A* 
+ 
+Part B 
+ 
+DME 
+ 
+Redetermination 
+ 
+MAC 
+ 
+MAC 
+ 
+MAC 
+--- page 12 ---
+LEVEL WHERE TO FILE AN APPEAL 
+ 
+Reconsideration 
+ 
+QIC 
+ 
+QIC 
+ 
+QIC 
+ 
+ALJ Hearing 
+ 
+HHS OMHA Central 
+Operations 
+ 
+ 
+HHS OMHA Central 
+Operations 
+ 
+ 
+HHS OMHA Central 
+Operations 
+ 
+ 
+Appeals Council 
+Review 
+ 
+Appeals Council 
+ 
+Appeals Council 
+ 
+Appeals Council 
+ 
+*Includes part B claims filed with the Part A Medicare Administrative Contractor (MAC). 
+ 
+240 - Time Limits for Filing Appeals & Good Cause for Extension of the Time Limit 
+for Filing Appeals 
+(Rev. 4278, Issued: 04-12-19, Effective: 06-13-19, Implementation: 06-13-19) 
+ 
+A. Time Limits for Each Level of Appeal 
+The time limits for filing appeals vary according to the type of appeal: 
+ 
+• Redetermination - The time limit for filing a request for redetermination is 120 days from the 
+date of receipt of the Medicare Summary Notice (MSN) or Remittance Advice (RA).  See §240.1-
+240.5 for clarifications and exceptions to this rule.) 
+ 
+• QIC Reconsideration - The time limit for filing a request for reconsideration is 180 days from the 
+date of receipt of the notice of the redetermination.  If a party requests QIC review of a MAC’s 
+dismissal of a request for redetermination, the time limit for filing is 60 days from the date of receipt 
+of the MAC’s dismissal notice. 
+ 
+• ALJ Hearing - The time limit for filing a request for an ALJ hearing is 60 days from the date of 
+receipt of the reconsideration notice. 
+ 
+• Appeals Council Review - The time limit for filing a request for review by the Appeals Council is 
+60 days from the date of receipt of the ALJ’s or attorney adjudicator’s decision. 
+ 
+• Judicial Review - The time limit for filing for judicial review is 60 days from the date of the 
+Appeals Council's decision. 
+ 
+A request filed with the A/B MAC (A), (B), (HHH), or DME MAC is considered to have been filed as of the 
+date the MAC received it.  The MAC computes the time limit for requesting a redetermination by allowing 5 
+additional days beyond the time limit (120 days for a redetermination) from the date of the previous notice.  
+This allows a 5-day period for mail delivery.  The MAC allows for additional time if there is evidence that 
+the mail delivery was longer than 5 days. 
+ 
+NOTE: When the beneficiary preference is to have all documents converted into an accessible format, 
+MACs shall make allowances for additional delivery time of the accessible format. The MAC shall also 
+provide allowance for a delayed response as a result of a beneficiary having sought and received help from 
+an auxiliary resource (such as a SHIP or senior center), on account of his or her disability, in order to be able 
+to file an appeal (also see §240.2).  
+ 
+When the filing deadline for a redetermination ends on a Saturday, Sunday, legal holiday, or any other 
+nonwork day, the MAC shall apply a rollover period that extends the filing deadline to the first working day 
+--- page 13 ---
+after the Saturday, Sunday, legal holiday, or other nonwork day.  For example, if the filing deadline for a 
+redetermination falls on the Saturday before Columbus Day, the filing deadline is extended to the first 
+working day after the Columbus Day holiday. 
+ 
+These time limits may be extended if good cause for late filing is shown.  (See §240.1-240.5.)  When a 
+redetermination request appears to be filed late, the MAC makes a finding of good cause using the 
+guidelines in §240.2 through §240.4 before taking any other action on the appeal.  
+ 
+B. Extension of Time Limit for Filing a Request for Redetermination 
+ 
+The time limit for filing a request for redetermination may be extended in certain situations.  Generally, 
+providers, physicians or other suppliers are expected to file appeal requests on a timely basis.  A re quest 
+from a provider, physician, or other supplier to extend the period for filing the request for redetermination 
+should not be routinely granted and such requests warrant careful examination.  For a beneficiary request, 
+more lenience should be given. 
+ 
+Upon request by the party that has missed the filing deadline, the A/B MAC (A), (B), (HHH), or DME MAC 
+may extend the period for filing the request for redetermination.  The procedures for finding good cause to 
+excuse late filing are discussed below. 
+ 
+240.1 - Good Cause 
+(Rev. 4278, Issued: 04-12-19, Effective: 06-13-19, Implementation: 06-13-19) 
+ 
+If an appeal request is filed late, the applicable MAC may extend the time limit for filing an appeal if good 
+cause is shown.  The MAC resolves the issue of whether good cause exists before taking any other action on 
+the appeal.  Whenever a MAC makes a finding for good cause for late filing, the MAC shall document the 
+reason for that finding in the redetermination decision letter.  If no decision letter is issued (i.e., a decision 
+fully favorable to the appellant is made, which currently does not require issuance of a redetermination 
+decision letter), then the reason the MAC found that good cause exists for late filing shall be documented in 
+the redetermination case file. 
+ 
+NOTE:  A finding by the MAC that good cause exists for late filing for the redetermination does not mean 
+that the party is then excused from the timely filing rules for the reconsideration. 
+ 
+240.2 - Conditions and Examples That May Establish Good Cause for Late Filing by 
+Beneficiaries 
+(Rev. 4278, Issued: 04-12-19, Effective: 06-13-19, Implementation: 06-13-19) 
+ 
+A.  Conditions 
+ 
+Good cause may be found when the record clearly shows, or the beneficiary alleges, that the delay in filing 
+was due to one of the following: 
+ 
+• Circumstances beyond the beneficiary’s control, including mental or physical impairment 
+(e.g., disability, extended illness) or significant communication difficulties; 
+ 
+• Incorrect or incomplete information about the subject claim and/or appeal was furnished by official 
+sources (CMS, the contractor, or the Social Security Administration) to the beneficiary (e.g., a party 
+is not notified of her appeal rights or a party receives inaccurate information regarding a filing 
+deadline); 
+ 
+NOTE:  Whenever a beneficiary is not notified of his/her appeal rights or of the time limits for 
+filing, good cause must be found. 
+ 
+--- page 14 ---
+• Delay resulting from efforts by the beneficiary to secure supporting evidence, where the beneficiary 
+did not realize that the evidence could be submitted after filing the request; 
+ 
+• When destruction of or other damage to the beneficiary’s records was responsible for the delay in 
+filing (e.g., a fire, natural disaster); 
+ 
+• Unusual or unavoidable circumstances, the nature of which demonstrates that the beneficiary could 
+not reasonably be expected to have been aware of the need to file timely; 
+ 
+• Serious illness which prevented the party from contacting the contractor in person, in writing, 
+or through a friend, relative, or other person; 
+ 
+• A death or serious illness in his or her immediate family;  
+ 
+• A request was sent to a Government agency in good faith within the time limit, and the request did 
+not reach the appropriate contractor until after the time period to file a request expired; or 
+ 
+• Delay due to additional time required to produce the beneficiary’s Medicare documents (such as an 
+MSN) in an accessible format (e.g., large print, Braille, etc.); 
+  
+• Delay as the result of an individual having sought and received help from an auxiliary resource (such 
+as a SHIP or senior center), due to his or her disability, in order to be able to file the appeal. 
+ 
+B.  Examples 
+ 
+Following are examples of cases where good cause for late filing is found.  This list is illustrative only and 
+not all-inclusive: 
+ 
+• Beneficiary was hospitalized and extremely ill, causing a delay in filing; 
+ 
+• Beneficiary is deceased.  Her husband, as representative of the beneficiary’s estate, died during 
+the appeals filing period.  Request was then filed late by the deceased husband’s executor; 
+ 
+• The denial notice sent to the beneficiary did not specify the time limit for filing for the 
+redetermination; and 
+ 
+• The request was received after, but close to, the last day to file, and the beneficiary claims that the 
+request was submitted timely. 
+ 
+240.3 - Conditions and Examples That May Establish Good Cause for Late Filing by 
+Providers, Physicians, or Other Suppliers 
+(Rev. 4278, Issued: 04-12-19, Effective: 06-13-19, Implementation: 06-13-19) 
+ 
+In general, A/B MACs (A), (B), (HHH), and DME MACs should not routinely find good cause when a 
+provider, physician or other supplier submits an untimely appeal request.  However, good cause may be 
+found when the record clearly shows, or the provider, physician or other supplier alleges and the record 
+does not negate, that the delay in filing was due to one of the following: 
+ 
+• Incorrect or incomplete information about the subject claim and/or appeal was furnished by 
+official sources (CMS, the MACs, or the Social Security Administration) to the provider, 
+physician, or other supplier; or 
+ 
+• Unavoidable circumstances that prevented the provider, physician, or other supplier from timely 
+filing a request for redetermination.  Unavoidable circumstances encompass situations that are 
+--- page 15 ---
+beyond the provider, physician or supplier’s control, such as major floods, fires, tornados, and other 
+natural catastrophes. 
+ 
+NOTE:  Failure of a billing company or other consultant (that the provider, physician, or other supplier has 
+retained) to timely submit appeals or other information is NOT grounds for finding good cause for late 
+filing.  The MAC does not find good cause where the provider, physician, or other supplier claims that lack 
+of business office management skills or expertise caused the late filing. 
+ 
+240.4 – Good Cause - Administrative Relief Following a Disaster 
+(Rev. 4380, Issued: 08-30-19, Effective: 07-08-19, Implementation: 10- 01-19) 
+ 
+When a disaster occurs, whether natural or man-made, MACs shall anticipate both an increased demand for 
+emergency and other health care services, and a corresponding disruption to normal health care delivery 
+systems and networks.  For appeals purposes, as defined in this IOM, a ‘disaster area’ is declared by the 
+Federal Emergency Management Agency (FEMA).  In disaster situations, MACs that process appeals for 
+beneficiaries, providers, and suppliers affected by a disaster shall exercise good cause in accordance with the 
+regulations and follow the guidance below regarding how to process Fee-for-Service appeal requests in an 
+area(s) declared by FEMA as a disaster area. 
+   
+When a Presidential declaration occurs, the HHS Secretary may, under section 319 of the Public Health 
+Service Act, declare that a Public Health Emergency (PHE) exists in the affected State.  Once a PHE is 
+declared, section 1135 of the Social Security Act authorizes the Secretary, among other things, to 
+temporarily modify or waive certain Medicare, Medicaid, CHIP, and HIPAA requirements as determined 
+necessary by CMS. 
+ 
+A. Definition of Disaster  
+ 
+A disaster is defined as any natural or man-made catastrophe (such as hurricane, tornado, earthquake, 
+volcanic eruption, mudslide, snowstorm, tsunami, terrorist attack, bombing, fire, flood, or explosion) which 
+causes damage of sufficient severity and magnitude to partially or completely destroy medical records and 
+associated documentation that could be needed and/or requested by the MACs in the course of the 
+adjudication process, interrupts normal mail service (including US Postal delivery, overnight parcel delivery 
+services, etc.), impacts ability to file appeals in a timely manner, and/or otherwise significantly limit the 
+provider’s/supplier's daily operations.  
+ 
+A disaster may be widespread and impact multiple structures (e.g., a regional flood) or isolated and impact a 
+single site only (e.g., water main failure).  The fact that a provider/supplier is located in a presidentially 
+declared disaster area under the power of the Stafford Act is not sufficient in itself to justify administrative 
+relief, as not all structures in the disaster area may have been subject to the same amount of damage.  
+Damage must be of sufficient severity and extent to compromise retrieval of medical records.  The 
+provider/supplier needs to state that they were impacted by the disaster.  
+B. Basis for Providing Administrative Relief 
+ 
+In the event of a disaster, MACs shall grant temporary administrative relief to any affected providers and 
+suppliers for up to 6 months (or longer with good cause).  Administrative relief is to be granted to 
+providers/suppliers/beneficiaries on a case-by-case basis in accordance with the following guidelines:  
+ 
+1. Situation: A provider/supplier/beneficiary in the affected area needs an extension to file a 
+request for an appeal.  
+Action: The MAC shall grant an extension to request an appeal under the good cause 
+exception.  Please see 42 CFR § 405.942.  If the request is related to an overpayment, the 
+MAC shall accept the request and stop recoupment immediately.  
+2. Situation: The MAC has requested or needs to request additional documentation for a 
+pending appeal, but the provider/supplier/beneficiary has been impacted by a disaster.  
+--- page 16 ---
+ 
+Action: The MAC shall hold the request until the documentation can be obtained or 
+submitted.  However, to the extent that the contractor can use other data sources that are 
+available to substantiate payment for the claim, it should do so.  The CMS will waive the 
+timeliness requirements for processing these appeals.  
+ 
+3. Situation: A request for an appeal filed by an appointed representative on behalf of a 
+party contains a missing or defective appointment instrument and the party is in the 
+affected area.  
+Action: The contractor shall process the request and attempt to obtain the corrected 
+appointment instrument.  If the corrected appointment instrument is not received by the 
+end of the appeals adjudication period, contractors shall send the redetermination decision 
+letter to the appellant party and any other party to the appeal, but not to the individual 
+attempting to act as the representative.  
+4. Situation: A MAC receives a request for redetermination from a 
+provider/supplier/beneficiary in the affected area and the request is missing some of the 
+required elements to make it a valid request.  However, the MAC has information in the 
+shared systems that would allow it to identify the missing element(s).  
+ 
+Action: The MAC shall accept and process the request, using information already 
+available to it via the shared system.   
+ 
+C. Verification
+  
+In the case of complete destruction of medical records where no backup records exist, MAC Appeal Units 
+and QICs shall accept an attestation that no medical records exist and consider the services covered and 
+correctly coded. 
+ 
+240.5 - Procedures to Follow When a Party Fails to Establish Good Cause 
+(Rev. 4278, Issued: 04-12-19, Effective: 06-13-19, Implementation: 06-13-19) 
+ 
+If a party files an untimely request for redetermination and there is insufficient or no explanation for the 
+delay or no other evidence that establishes the reason for late filing, the MAC dismisses the redetermination 
+request.  The MAC explains in the dismissal letter that the party can:  1) request that the MAC vacate the 
+dismissal by providing an explanation for the late filing to the MAC within 6 months of the dismissal of the 
+redetermination request; and 2) request that the QIC review the MAC’s dismissal action by filing a request 
+with the QIC within 60 days of the date of receipt of the dismissal notice. 
+ 
+If an explanation or other evidence is submitted within 6 months from the dismissal that contains sufficient 
+evidence or other documentation that supports a finding of good cause for late filing, the MAC (as 
+applicable) makes a favorable good cause determination.  Once it makes a favorable good cause 
+determination, it considers the appeal to be timely filed and proceeds to vacate its prior dismissal and 
+performs a redetermination (see §310.6.3 Processing Requests to Vacate Dismissals). 
+ 
+The closed date is the date of the dismissal, and the dismissal is reported on the Contractor Reporting of 
+Operational Workload Data (CROWD) in the appropriate appeals report forms (Carriers Appeals Report 
+Form CMS-2590, Monthly Intermediary Part A and Part B Appeals Report Form CMS-2591, or Monthly 
+Statistical Report on Intermediary and Carrier Part A and Part B Appeals Activity Form CMS-2592).  The 
+closed date and date of dismissal are also captured in the Medicare Appeals System (MAS) and can be 
+appropriately reported on by the Part A MACs. 
+ 
+ 
+ 
+ 
+--- page 17 ---
+250 - Amount in Controversy (AIC) Requirements 
+(Rev. 2729, Issued: 06-21-13, Effective: 07-23-13, Implementation:07-23-13) 
+ 
+This section is informational only since the amount in controversy requirements only apply to the ALJ and 
+Federal court levels. 
+ 
+Section 1869 (b)(1)(E) of the Act established amount in controversy threshold amounts for ALJ hearing 
+requests and judicial review at $100 and $1,000, respectively.  As amended by section 940 of the MMA, this 
+amount will be adjusted annually.  In order to continue an appeal following the QIC reconsideration level, a 
+party must have an amount remaining in controversy that meets the threshold requirements. 
+ 
+250.1 - Amount in Controversy General Requirements 
+(Rev. 4380, Issued: 08-30-19, Effective: 07-08-19, Implementation: 10- 01-19) 
+ 
+Each calendar year, the dollar threshold for the AIC requirement for ALJ hearing requests or judicial review 
+will be recalculated to reflect the percentage increase in the medical care component of the consumer price 
+index for all urban consumers (U.S. city average) for July 2003 to the July preceding the year involved. Any 
+amount that is not a multiple of $10 will be rounded to the nearest multiple of $10.  Changes to the amount 
+in controversy threshold amounts are published annually in the Federal Register as per 42 CFR 405.1006(b).  
+Current AIC amounts, along with a link to the current Federal Register AIC Notice, can be found on the 
+CMS.gov website at: https://www.cms.gov/Medicare/Appeals -and-
+Grievances/OrgMedFFSAppeals/OMHA -ALJ-Hearing.html 
+ 
+250.2 - Principles for Determining Amount in Controversy 
+(Rev. 4278, Issued: 04-12-19, Effective: 06-13-19, Implementation: 06-13-19) 
+ 
+As part of the requirements for a hearing or review before OMHA, a party to a proceeding must meet the 
+AIC provisions at 42 CFR 405.1006, including the threshold amount, as adjusted, in accordance with 42 
+CFR 405.1006(b).   
+ 
+The AIC is computed as the actual amount charged the individual for the items and services in question, reduced 
+by 
+ 
+(a) Any Medicare payments already made or awarded for the items or services; and 
+ 
+(b) Any deductible and coinsurance amounts that may be collected for the items or services. 
+ 
+In such cases where payment is made for items or services under section 1879 of the Act or under 42 CFR 
+411.400 or the liability of the beneficiary is limited under 42 CFR411.402, the AIC is computed as the 
+amount that the beneficiary would have been charged for the items or services in question if those expenses 
+were not paid under 42 CFR 411.400 or that the liability was not limited under 42 CFR 411.402, reduced by 
+any deductible and coinsurance amounts that may be collected for the items or services. 
+ 
+When a matter involves a provider or supplier termination of Medicare-covered items or services that is 
+disputed by a beneficiary, and the beneficiary did not elect to continue receiving the items or services, the 
+amount in controversy is calculated in accordance with 42 CFR 405.1006(d)(1), except that the amount 
+charged to the individual and any deductible and coinsurance that may be collected for the items or services 
+are calculated using the amount the beneficiary would have been charged if the beneficiary had received the 
+items or services the beneficiary asserts should have been covered based on the beneficiary's current 
+condition, and Medicare payment were not made for the items or services. 
+ 
+When an appeal involves an identified overpayment, the amount in controversy is the amount of the 
+overpayment specified in the demand letter for the items or services in the disputed claim. When an appeal 
+involves an estimated overpayment amount determined through the use of statistical sampling and 

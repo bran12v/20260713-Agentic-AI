@@ -1,0 +1,94 @@
+{
+  "project": "Vigil",
+  "author": "U.S. Food and Drug Administration, Center for Devices and Radiological Health",
+  "footer": "This document is an excerpt of federal public-domain material, reproduced as a training artifact for the Vigil exercise. It is not a current or authoritative source and is not regulatory or clinical guidance. Consult the published source for the governing text.",
+  "ecfr_issue_date": "2026-08-04",
+  "documents": [
+    {
+      "doc_id": "CFR-803",
+      "title": "21 CFR Part 803 - Medical Device Reporting",
+      "doc_type": "regulation",
+      "kind": "ecfr",
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/{issue_date}/title-21.xml?part=803",
+      "cite_url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-803",
+      "sections": ["803.3", "803.10", "803.11", "803.12", "803.17", "803.19", "803.20", "803.50", "803.52", "803.53", "803.56", "803.58"],
+      "backs": ["R1", "R2", "R4"]
+    },
+    {
+      "doc_id": "CFR-807",
+      "title": "21 CFR Part 807 Subpart E - Premarket Notification Procedures",
+      "doc_type": "regulation",
+      "kind": "ecfr",
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/{issue_date}/title-21.xml?part=807",
+      "cite_url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-807/subpart-E",
+      "sections": ["807.81", "807.87", "807.90", "807.92", "807.93", "807.97", "807.100"],
+      "backs": ["R3"]
+    },
+    {
+      "doc_id": "CFR-806",
+      "title": "21 CFR Part 806 - Medical Devices; Reports of Corrections and Removals",
+      "doc_type": "regulation",
+      "kind": "ecfr",
+      "url": "https://www.ecfr.gov/api/versioner/v1/full/{issue_date}/title-21.xml?part=806",
+      "cite_url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-H/part-806",
+      "sections": ["806.2", "806.10", "806.20", "806.30", "806.40"],
+      "backs": []
+    },
+    {
+      "doc_id": "GUID-510K",
+      "title": "FDA Guidance - Deciding When to Submit a 510(k) for a Change to an Existing Device",
+      "doc_type": "guidance",
+      "kind": "pdf_pages",
+      "url": "https://www.fda.gov/media/99812/download",
+      "cite_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/deciding-when-submit-510k-change-existing-device",
+      "page_offset": 0,
+      "excerpts": [
+        {"section_path": "intro-principles", "label": "Introduction, background, scope and the guiding principles for deciding whether a change requires a new submission", "printed_pages": "5-11", "pdf_pages": [5, 11]},
+        {"section_path": "flowcharts", "label": "How to use the guidance, and the labeling and technology change flowcharts", "printed_pages": "12-24", "pdf_pages": [12, 24]}
+      ],
+      "backs": ["R3"]
+    },
+    {
+      "doc_id": "GUID-MDR",
+      "title": "FDA Guidance - Medical Device Reporting for Manufacturers",
+      "doc_type": "guidance",
+      "kind": "pdf_pages",
+      "url": "https://www.fda.gov/media/86420/download",
+      "cite_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/medical-device-reporting-manufacturers",
+      "page_offset": 0,
+      "excerpts": [
+        {"section_path": "reporting-requirements", "label": "The purpose of the reporting regulation and the manufacturer reporting requirements, in question-and-answer form", "printed_pages": "9-24", "pdf_pages": [9, 24]}
+      ],
+      "backs": ["R1", "R2", "R4"]
+    },
+    {
+      "doc_id": "FORM-3500A",
+      "title": "Form FDA 3500A, MedWatch mandatory reporting, with general instructions",
+      "doc_type": "form",
+      "kind": "pdf_pages",
+      "cite_url": "https://www.fda.gov/safety/medical-product-safety-information/medwatch-forms-fda-safety-reporting",
+      "excerpts": [
+        {"source": "form", "url": "https://www.fda.gov/media/69876/download", "section_path": "form", "label": "The MedWatch mandatory reporting form, all nine pages", "printed_pages": "1-9", "pdf_pages": [1, 9]},
+        {"source": "instructions", "url": "https://www.fda.gov/media/133177/download", "section_path": "instructions", "label": "General instructions for completing Form FDA 3500A, including the event and device blocks", "printed_pages": "1-12", "pdf_pages": [1, 12]}
+      ],
+      "backs": ["R2", "R4"]
+    }
+  ],
+  "verification": {
+    "distractors": ["malfunction", "serious injury", "510(k)", "significantly affect"],
+    "out_of_corpus": [
+      "minimum wage",
+      "family and medical leave",
+      "workers compensation",
+      "occupational safety",
+      "hazardous waste",
+      "sexual harassment",
+      "non-compete",
+      "prevailing wage",
+      "GDPR",
+      "Sarbanes-Oxley",
+      "anti-kickback"
+    ],
+    "near_miss": ["user facility", "correction", "importer", "remedial action"]
+  }
+}

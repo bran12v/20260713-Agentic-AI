@@ -1,0 +1,2889 @@
+
+--- page 1 ---
+48800 Federal Register / Vol. 90, No. 208 / Thursday, October 30, 2025 / Rules and Regulations 
+1 See E.O. 14159, Protecting the American People 
+Against Invasion (Jan. 20, 2025), 90 FR 8443, 8446 
+(Jan. 29, 2025). 
+2 See E.O. 14161, Protecting the United States 
+From Foreign Terrorists and Other National 
+Security and Public Safety Threats (Jan. 20, 2025), 
+90 FR 8451, 8451 (Jan. 30, 2025). 
+PRA—Paperwork Reduction Act 
+SBREFA—Small Business Regulatory 
+Enforcement Fairness Act of 1996 
+Secretary—Secretary of Homeland 
+Security 
+TFR—Temporary final rule 
+UMRA—Unfunded Mandates Reform 
+Act of 1995 
+U.S.C.—United States Code 
+USCIS—U.S. Citizenship and 
+Immigration Services 
+I. Public Participation 
+DHS invites all interested parties to 
+participate in this rulemaking by 
+submitting written data, views, 
+comments and arguments on all aspects 
+of this IFR. DHS also invites comments 
+that relate to the economic, 
+environmental, or federalism effects that 
+might result from this IFR. Comments 
+must be submitted in English, or an 
+English translation must be provided. 
+Comments that will provide the most 
+assistance to USCIS in implementing 
+these changes will reference a specific 
+portion of the IFR, explain the reason 
+for any recommended change, and 
+include data, information, or authority 
+that support such recommended change. 
+Comments submitted in a manner other 
+than the one listed above, including 
+emails or letters sent to DHS or USCIS 
+officials, will not be considered 
+comments on the IFR and may not 
+receive a response from DHS. 
+Instructions: If you submit a 
+comment, you must include the agency 
+name (U.S. Citizenship and Immigration 
+Services) and the DHS Docket No. 
+USCIS–USCIS–2025–0271 for this 
+rulemaking. Regardless of the method 
+used for submitting comments or 
+material, all submissions will be posted, 
+without change, to the Federal 
+eRulemaking Portal at http://
+www.regulations.gov, and will include 
+any personal information you provide. 
+Therefore, submitting this information 
+makes it public. You may wish to 
+consider limiting the amount of 
+personal information that you provide 
+in any voluntary public comment 
+submission you make to DHS. DHS may 
+withhold information provided in 
+comments from public viewing that it 
+determines may impact the privacy of 
+an individual or is offensive. For 
+additional information, please read the 
+Privacy and Security Notice available at 
+http://www.regulations.gov. 
+Docket: For access to the docket and 
+to read background documents or 
+comments received, go to http://
+www.regulations.gov, referencing DHS 
+Docket No. USCIS–USCIS–2025–0271. 
+You may also sign up for email alerts on 
+the online docket to be notified when 
+comments are posted or a final rule is 
+published. 
+II. Executive Summary 
+A. Purpose of the Regulatory Action 
+The purpose of this rulemaking is to 
+prioritize the proper vetting and 
+screening of aliens before granting a 
+new period of employment 
+authorization and/or a new EAD by 
+ending the practice of automatically 
+extending the validity of employment 
+authorization and/or EADs for aliens 
+who have timely filed an application to 
+renew their EAD in certain employment 
+authorization categories. DHS will also 
+continue to work to reduce frivolous, 
+fraudulent or otherwise non-meritorious 
+EAD filings to free up adjudicatory and 
+other resources to better ensure national 
+security and program integrity. Ending 
+the practice of providing automatic 
+extensions of EADs is consistent with 
+President Trump’s directive in 
+Executive Order (E.O.) 14159 
+‘‘Protecting the American People 
+Against Invasion,’’ which directs the 
+Secretary of Homeland Security, in 
+coordination with the Secretary of State 
+and the Attorney General, in Section 16 
+to take all appropriate action to align 
+any departmental activities with the 
+policies set out by the President, and to 
+ensure, among others, ‘‘that 
+employment authorization is provided 
+in a manner consistent with section 
+274A of the INA (8 U.S.C. 1324a), and 
+that employment authorization is not 
+provided to any unauthorized alien in 
+the United States.’’
+1 It is also consistent 
+with E.O. 14161, ‘‘Protecting the United 
+States From Foreign Terrorists and 
+Other National Security and Public 
+Safety Threats,’’ which directs the 
+Secretary of State, in coordination with 
+the Secretary of Homeland Security, the 
+Attorney General, and the Director of 
+National Intelligence in Section 2 to 
+‘‘identify all resources that may be used 
+to ensure that all aliens seeking 
+admission to the United States, or who 
+are already in the United States, are 
+vetted and screened to the maximum 
+degree possible.’’
+2 
+B. Legal Authority 
+The authority for the Secretary of 
+Homeland Security (Secretary) to issue 
+this IFR is found in section 103(a) of the 
+INA, 8 U.S.C. 1103(a), which authorizes 
+the Secretary to administer and enforce 
+the immigration and nationality laws 
+and establish such regulations as the 
+Secretary deems necessary for carrying 
+out such authority, and section 
+101(b)(1)(F) of the Homeland Security 
+Act (HSA), 6 U.S.C. 111(b)(1)(F), which 
+establishes as a primary mission of DHS 
+the duty to ‘‘ensure that the overall 
+economic security of the United States 
+is not diminished by efforts, activities, 
+and programs aimed at securing the 
+homeland.’’ 
+C. Summary of the Regulatory Action 
+This IFR makes the following 
+changes: 
+• DHS is revising the heading of 8 
+CFR 274a.13(d), to clearly indicate that 
+the up-to 540-day automatic extension 
+period only applies to renewal EAD 
+applications filed before October 30, 
+2025. DHS makes no other changes to 
+this paragraph. 
+• DHS is adding new 8 CFR 
+274a.13(e). The new provision explains 
+that, unless otherwise provided in 8 
+CFR 274a.13(d), by law, or through a 
+Federal Register notice for Temporary 
+Protected Status (TPS)-related 
+employment documentation, the 
+validity period of an expired or expiring 
+Employment Authorization Document 
+and/or employment authorization will 
+not be automatically extended by a 
+renewal EAD application filed on or 
+after October 30, 2025. 
+This IFR does not impact automatic 
+extensions of EADs and/or employment 
+authorization provided by law or 
+Federal Register notices, such as those 
+for TPS applicants and beneficiaries 
+pursuant to section 244 of the Act, 8 
+U.S.C. 1254a, and 8 CFR part 244. 
+III. Background & Purpose 
+A. Legal Authority 
+The Secretary of Homeland Security’s 
+(Secretary) authority for the regulatory 
+amendments made in this IFR are found 
+in various sections of the Immigration 
+and Nationality Act (INA or the Act), 8 
+U.S.C. 1101 et seq., and the Homeland 
+Security Act of 2002 (HSA), Public Law 
+107–296, 116 Stat. 2135 (codified in part 
+at 6 U.S.C. 101 et seq.). General 
+authority for issuing this rule is found 
+in section 103(a) of the INA, 8 U.S.C. 
+1103(a), which authorizes the Secretary 
+to administer and enforce the 
+immigration and nationality laws and 
+establish such regulations as the 
+Secretary deems necessary for carrying 
+out such authority, as well as section 
+102 of the HSA, 6 U.S.C. 112, which 
+vests all of the functions of DHS in the 
+Secretary and authorizes the Secretary 
+VerDate Sep<11>2014 15:43 Oct 29, 2025 Jkt 268001 PO 00000 Frm 00002 Fmt 4700 Sfmt 4700 E:\FR\FM\30OCR1.SGM 30OCR1lotter on DSK11XQN23PROD with RULES1
+--- page 2 ---
+48801 Federal Register / Vol. 90, No. 208 / Thursday, October 30, 2025 / Rules and Regulations 
+3 Although several provisions of the INA 
+discussed in this final rule refer exclusively to the 
+‘‘Attorney General,’’ such provisions are now to be 
+read as referring to the Secretary of Homeland 
+Security by operation of the HSA. See 6 U.S.C. 
+202(3), 251, 271(b), 542 note, 557; 8 U.S.C. 
+1103(a)(1) and (g), 1551 note; Nielsen v. Preap, 586 
+U.S. 392, 397 n.2 (2019). 
+4 Courts have acknowledged that Congress 
+delegated authority to DHS to grant or extend 
+employment authorization to certain classes of 
+aliens. See, e.g., Wash. All. of Tech. Workers v. 
+DHS, 50 F.4th 164, 191–192 (D.C. Cir. 2022) (‘‘What 
+matters is that section 1324a(h)(3) expressly 
+acknowledges that employment authorization need 
+not be specifically conferred by statute; it can also 
+be granted by regulation.’’). DHS is exercising this 
+discretionary authority consistent with all 
+applicable authorities, including the referenced 
+authorities in the HSA, and sections 103, 208, 214, 
+244, and 274A(h)(3) of the INA, 8 U.S.C. 1103, 
+1158, 1184, 1254a, and 1324a(h)(3), as well as the 
+Administrative Procedure Act at 5 U.S.C. 553. See 
+Loper Bright Enterprises v. Raimondo, 144 S. Ct. 
+2244, 2263 (2024) (‘‘In a case involving an agency, 
+of course, the statute’s meaning may well be that 
+the agency is authorized to exercise a degree of 
+discretion. Congress has often enacted such 
+statutes. For example, some statutes ‘expressly 
+delegate’ to an agency the authority to give meaning 
+to a particular statutory term. Others empower an 
+agency to prescribe rules to ‘fill up the details’ of 
+a statutory scheme, or to regulate subject to the 
+limits imposed by a term or phrase that leaves 
+agencies with flexibility,’ such as ‘appropriate’ or 
+‘reasonable.’ ’’) (internal citations omitted). 
+Litigation challenging DHS’s authority to provide 
+employment authorization to certain H–4 
+nonimmigrants is currently pending before the 
+Supreme Court. Save Jobs USA v. DHS, No. 24–923 
+(docketed Feb. 26, 2025). 
+5 There are several employment-eligible 
+categories that are not included in DHS regulations 
+but instead are described in the form instructions 
+to Form I–765, Application for Employment 
+Authorization (EAD application). Employment- 
+authorized L nonimmigrant spouses are an 
+example. See INA sec. 214(c)(2)(E), 8 U.S.C. 
+1184(c)(2)(E). 
+6 See 8 CFR 274a.12(a). 
+7 See 8 CFR 274a.12(b). 
+8 See 8 CFR 274a.12(c); Matter of Tong, 16 I&N 
+Dec. 593, 595 (BIA 1978) (holding that the term 
+‘‘ ‘employment’ is a common one, generally used 
+with relation to the most common pursuits,’’ and 
+includes ‘‘the act of being employed for one’s self’’). 
+9 See DHS, USCIS, Form I–765, ‘‘Instructions for 
+Application for Employment Authorization,’’ 
+https://www.uscis.gov/sites/default/files/document/ 
+forms/i-765instr.pdf (last visited June 16, 2025). In 
+reviewing the EAD application, USCIS ensures that 
+the fee was paid, a fee waiver was granted, or a fee 
+exemption applies. 
+10 See 8 CFR 103.2(a) and 8 CFR 274a.13(a). Some 
+aliens who are employment authorized incident to 
+status (e.g., asylees, refugees, TPS beneficiaries) 
+may file an EAD application to obtain an EAD. 
+Aliens who are filing within an eligibility category 
+listed in 8 CFR 274a.12(c) must, by contrast, use the 
+EAD application form to request both employment 
+authorization and an EAD. 
+11 See 8 CFR 274a.13(a). For example, the spouse 
+of an H–1B worker may file an EAD application at 
+the same time as his or her Form I–539, Application 
+to Extend/Change Nonimmigrant Status. See DHS, 
+USCIS, Employment Authorization for Certain H–4, 
+E Dependent Spouses (last visited June 16, 2025), 
+https://www.uscis.gov/working-in-the-united-states/ 
+temporary-workers/h-1b-specialty-occupations-and- 
+fashion-models/employment-authorization-for- 
+certain-h-4-dependent-spouses (last visited June 16, 
+2025). 
+12 See 8 CFR 274a.12(a) and (c). 
+to issue regulations.3 Further authority 
+for this rule is found in: 
+• Section 208(d)(2) of the INA, 8 
+U.S.C. 1158(d)(2), which provides the 
+Secretary with authority to grant 
+employment authorization, in her 
+discretion, to applicants for asylum if 
+180 days have passed since filing an 
+application for asylum; 
+• Section 214 of the INA, 8 U.S.C. 
+1184, including section 214(a)(1) of the 
+INA, 8 U.S.C. 1184(a)(1), which 
+authorizes the Secretary to prescribe, by 
+regulation, the time and conditions of 
+the admission of nonimmigrants; 
+• Section 244(a)(1)(B) of the INA, 8 
+U.S.C. 1254a(a)(1)(B), which states that 
+the Secretary shall authorize 
+employment and provide evidence of 
+employment authorization for aliens 
+who have been granted Temporary 
+Protected Status; 
+• Section 274A(b) of the INA, 8 
+U.S.C. 1324a(b), which provides for the 
+employment verification system and 
+outlines employment eligibility 
+verification requirements; 
+• Section 274A(h)(3)(B) of the INA, 8 
+U.S.C. 1324a(h)(3)(B), recognizes the 
+Secretary’s authority to extend 
+employment authorization to aliens in 
+the United States;
+4 and 
+• Sections 100003(c) and 100012(a) of 
+the One Big Beautiful Bill Act, Public 
+Law 119–21 (July 4, 2025), which limit 
+the validity period of any employment 
+authorization for aliens granted 
+Temporary Protected Status (TPS) under 
+section 244 of the INA, 8 U.S.C. 1254a, 
+to a period of one year or for the 
+duration of the designation of TPS, 
+whichever is shorter. 
+B. Legal Framework for Employment 
+Authorization and Verification 
+1. Types of Employment Authorization: 
+8 CFR 274a.12(a), (b), and (c) 
+Whether an alien is authorized to 
+work in the United States depends on 
+the alien’s immigration status or other 
+conditions that may permit employment 
+authorization (for example, having a 
+pending application for asylum or a 
+grant of deferred action). DHS 
+regulations outline three classes of 
+aliens who may be eligible for 
+employment in the United States, as 
+follows:
+5 
+• Aliens in the first class, described at 
+8 CFR 274a.12(a), are authorized to 
+work ‘‘incident to status’’ for any 
+employer, as well as to engage in self- 
+employment, as a condition of their 
+immigration status or circumstances. 
+This means that for certain eligible 
+aliens, employment authorization is 
+granted with the underlying 
+immigration status (called ‘‘incident to 
+status’’ employment authorization). 
+Although authorized to work as a 
+condition of their status or 
+circumstances, certain classes of aliens 
+must apply to USCIS, which they do by 
+filing a Form I–765 Application for 
+Employment Authorization, in order to 
+receive a Form I–766 EAD as evidence 
+of that employment authorization.
+6 
+• Aliens in the second class, 
+described at 8 CFR 274a.12(b), also are 
+authorized to work ‘‘incident to status’’ 
+as a condition of their immigration 
+status or circumstances, but generally 
+the authorization is valid only with a 
+specific employer.
+7 These aliens are 
+issued an Arrival-Departure Record 
+(Form I–94) indicating their 
+employment-authorized status in the 
+United States and in most cases do not 
+file separate requests for evidence of 
+employment authorization. 
+• Aliens in the third class, described 
+at 8 CFR 274a.12(c), are required to 
+apply for employment authorization, 
+which they do by filing a Form I–765 
+Application for Employment 
+Authorization, and may work only if 
+USCIS, in its discretion, approves their 
+application and issues a Form I–766 
+EAD. They are authorized to work for 
+any employer or engage in self- 
+employment with a valid EAD, subject 
+to certain restrictions.
+8 
+2. The Application Process for 
+Obtaining an Employment 
+Authorization Document 
+For certain eligibility categories listed 
+in 8 CFR 274a.12(a) (the first class) and 
+all eligibility categories listed in 8 CFR 
+274a.12(c) (the third class), as well as 
+additional categories specified in the 
+Form I–765 instructions,
+9 an EAD 
+application must be properly filed with 
+USCIS (with fee or fee waiver, as 
+applicable) before an alien can receive 
+an EAD and/or employment 
+authorization.
+10 If an EAD application is 
+approved under 8 CFR 274a.12(a), the 
+resultant EAD provides the alien with 
+proof of identity and employment 
+authorization incident to status or 
+circumstance. Certain aliens may file 
+EAD applications concurrently with 
+related benefit requests if permitted by 
+the applicable form instructions or as 
+announced by USCIS.
+11 In such 
+instances, the underlying benefit 
+requests, if granted, would form the 
+basis for an EAD or eligibility to apply 
+for employment authorization. For 
+eligibility categories listed in 8 CFR 
+274a.12(a) and (c), USCIS has the 
+discretion to establish a specific validity 
+period for the EAD.
+12 
+After an alien’s filing of an EAD 
+application, USCIS typically issues a 
+VerDate Sep<11>2014 15:43 Oct 29, 2025 Jkt 268001 PO 00000 Frm 00003 Fmt 4700 Sfmt 4700 E:\FR\FM\30OCR1.SGM 30OCR1lotter on DSK11XQN23PROD with RULES1
+--- page 3 ---
+48802 Federal Register / Vol. 90, No. 208 / Thursday, October 30, 2025 / Rules and Regulations 
+13 See 8 CFR 274a.13(b). But see 8 CFR 274a.14 
+(setting forth the basis for termination or revocation 
+of employment authorization); see also secs. 
+100003(b), (c), 100010(a) and 1000012(a) of the One 
+Big Beautiful Bill Act, Public Law 119–21 (July 4, 
+2025) (limiting any employment authorization for 
+aliens paroled into the United States or granted TPS 
+to a duration of one year or for the duration of the 
+parole/TPS, whichever is shorter). 
+14 See 8 CFR 274a.14(a)(1)(i). 
+15 The employee must present the employer with 
+acceptable and unexpired documents evidencing 
+identity and employment authorization. The lists of 
+acceptable documents can be found on Form I–9. 
+See DHS, USCIS, Form I–9, Employment Eligibility 
+Verification, https://www.uscis.gov/sites/default/ 
+files/document/forms/i-9.pdf (last visited June 16, 
+2025) and 8 CFR 274a.2(b)(1)(v). An example of 
+alternate evidence for an asylee is Form I–94, 
+Arrival/Departure Record, with the appropriate 
+stamp or notation paired with an acceptable 
+identity document, such as a state-issued driver’s 
+license or identity card. See DHS, USCIS, M–274, 
+Handbook for Employers, 7.3 Refugees and Asylees, 
+https://www.uscis.gov/i-9-central/form-i-9- 
+resources/handbook-for-employers-m-274/70- 
+evidence-of-employment-authorization-for-certain- 
+categories/73-refugees-and-asylees (last visited June 
+16, 2025). An employer that does not properly 
+complete Form I–9, which includes reverifying 
+continued employment authorization, or continues 
+to employ an individual with knowledge that the 
+individual is not authorized to work, may be subject 
+to civil money penalties. See DHS, USCIS, M–274, 
+Handbook for Employers, 11.8 Penalties for 
+Prohibited Practices, https://www.uscis.gov/i-9- 
+central/form-i-9-resources/handbook-for-employers- 
+m-274/110-unlawful-discrimination-and-penalties- 
+for-prohibited-practices/118-penalties-for- 
+prohibited-practices (last visited June 16, 2025). In 
+addition, an employer who engages in a ‘‘pattern or 
+practice’’ of employing unauthorized aliens may 
+face criminal penalties under 8 U.S.C. 1324a(f). U.S. 
+Immigration and Customs Enforcement has primary 
+enforcement responsibilities for enforcement of the 
+civil monetary penalties under INA sec. 274A, 8 
+U.S.C. 1324a. 
+16 See 8 CFR 103.2, 106.2, and 274a.13(a); see 
+DHS, USCIS, Form I–765, Instructions for 
+Application for Employment Authorization, https:// 
+www.uscis.gov/sites/default/files/document/forms/ 
+i-765instr.pdf (last visited June 16, 2025). In 
+reviewing the EAD application, USCIS ensures that 
+the fee was paid, a fee waiver was granted, or a fee 
+exemption applies. 
+17 See DHS, USCIS, ‘‘I–765, Application for 
+Employment Authorization,’’ https://
+www.uscis.gov/i-765 (last visited June 16, 2025); 
+DHS, USCIS, Employment Authorization Document 
+(last visited June 16, 2025), https://www.uscis.gov/ 
+green-card/green-card-processes-and-procedures/ 
+employment-authorization-document (last visited 
+June 16, 2025); see also 81 FR 82398, 82456. 
+18 See 8 CFR 274a.2(e)–(i). 
+Form I–797C, Notice of Action (‘‘Form 
+I–797C’’ or ‘‘receipt notice’’) to confirm 
+receipt. EAD applications received by 
+USCIS initially go through an intake 
+process. The technical mechanics of the 
+intake process vary based on the 
+requested employment authorization 
+category and whether the EAD 
+application was filed electronically or 
+by mail. Regardless of the applicable 
+category or method of filing, the EAD 
+application intake process generally 
+consists of the following steps: data is 
+entered into a USCIS case-management 
+system based on the information 
+provided by the applicant, the required 
+fee is collected or waived, and the 
+applicant’s signature is verified. 
+Once these steps are complete, USCIS 
+begins the pre-processing stage of the 
+adjudication. Pre-processing may 
+include A-number verification, 
+scheduling of a biometrics appointment 
+or biometric reuse, and resolution of 
+discrepancies related to the applicant’s 
+identity or address. This stage also 
+includes initial security checks based on 
+biographic information provided by the 
+applicant. If the initial security checks 
+reveal any national security or public 
+safety threat through ‘‘hits’’ in the 
+database system, these hits must be 
+promptly reviewed by an officer who 
+will have to resolve and address these 
+hits. The resolution of some hits can be 
+time consuming and may involve 
+collaboration with law enforcement 
+agencies. 
+Once pre-processing is complete, the 
+case moves into a queue to await 
+adjudication, where cases are assigned 
+for adjudication generally based on a 
+first-in-first-out processing order. At 
+adjudication, immigration service 
+officers (ISO) review the applicant’s 
+evidence of eligibility. If the ISO 
+determines that the applicant is eligible, 
+additional security checks may be 
+conducted. Upon final review of the 
+results of security checks and resolution 
+of any issues that are identified during 
+the security check and review process, 
+and if the applicant continues to be 
+eligible and merits a favorable exercise 
+of discretion, as applicable, the 
+application may be approved. 
+If eligibility is not established, or if 
+the applicant does not appear to merit 
+a favorable exercise of discretion, when 
+applicable, USCIS may issue a request 
+for evidence or notice of intent to deny 
+in order to provide the applicant with 
+the opportunity to address any 
+deficiencies in the record or rebut a 
+presumption of ineligibility. Upon 
+receiving the response, USCIS reviews 
+the submission and issues a final 
+decision on the application. Prior to 
+issuing the final decision, USCIS may 
+update or conduct additional security 
+checks. 
+3. Renewal of Employment 
+Authorization Documents 
+Temporary employment authorization 
+and EADs generally are not valid 
+indefinitely but instead expire after a 
+specified period of time.
+13 Generally, 
+aliens within the eligibility categories 
+listed in 8 CFR 274a.12(c) must obtain 
+a renewal of employment authorization 
+and their EADs before the expiration 
+date stated on their current EADs, or 
+they will lose their eligibility to work in 
+the United States (unless, since 
+obtaining their current EADs, the aliens 
+have obtained an immigration status or 
+belong to a class of aliens with 
+employment authorization incident to 
+that status or class, or obtain 
+employment authorization based on 
+another category).
+14 The same holds 
+true for some classes of aliens 
+authorized to work incident to status 
+whose EAD expiration dates coincide 
+with the termination or expiration of 
+their underlying immigration status. 
+Other aliens authorized to work 
+incident to status, such as asylees, 
+refugees, and TPS beneficiaries, may 
+have immigration status that confers 
+employment authorization that 
+continues past the expiration date stated 
+on their EADs. Nevertheless, such aliens 
+may wish to renew their EAD to have 
+acceptable evidence of their continuous 
+employment authorization for various 
+purposes, such as presenting evidence 
+of employment authorization and 
+identity to their employers for 
+completion of Form I–9, Employment 
+Eligibility Verification. Failure to renew 
+their EADs prior to the expiration date 
+may result in job loss if such aliens do 
+not have or cannot present unexpired 
+alternate acceptable evidence of 
+employment authorization to show their 
+employers.
+15 
+Those seeking to renew previously 
+granted employment authorization and/ 
+or obtain new EADs must file renewal 
+EAD applications with USCIS in 
+accordance with the form instructions.
+16 
+USCIS generally recommends filing a 
+renewal EAD application up to 180 days 
+before the current EAD expires.
+17 
+4. I–9 Employment Eligibility 
+Verification 
+The Immigration Reform and Control 
+Act (IRCA) requires employers to verify 
+the identity and employment eligibility 
+of their employees and sets forth 
+criminal and civil sanctions for 
+employment-related violations. See 
+Public Law 99–603, 100 Stat. 3445 
+(1986). Section 274A(b) of the INA, 8 
+U.S.C. 1324a(b), requires employers to 
+verify the identity and employment 
+eligibility of all individuals, including 
+aliens, hired in the United States. The 
+Employment Eligibility Verification 
+form (Form I–9) is used by employers to 
+document this verification. For all 
+current employees and certain former 
+employees, employers are required to 
+maintain for inspection original Forms 
+I–9 on paper or as an electronic version 
+generated by an electronic system that 
+can produce legible and readable paper 
+copies, among other requirements.
+18 
+Under 8 CFR 274a.2(b)(1)(vii), if an 
+employee’s EAD and/or employment 
+VerDate Sep<11>2014 15:43 Oct 29, 2025 Jkt 268001 PO 00000 Frm 00004 Fmt 4700 Sfmt 4700 E:\FR\FM\30OCR1.SGM 30OCR1lotter on DSK11XQN23PROD with RULES1
+--- page 4 ---
+48803 Federal Register / Vol. 90, No. 208 / Thursday, October 30, 2025 / Rules and Regulations 
+19 See DHS, USCIS, M–274, Handbook for 
+Employers, 6.1, Reverifying Employment 
+Authorization for Current Employees, https://
+www.uscis.gov/i-9-central/form-i-9-resources/ 
+handbook-for-employers-m-274/60-completing- 
+supplement-b-reverification-and-rehire-of-form-i-9/ 
+61-reverifying-employment-authorization-for- 
+current-employees (last visited June 16, 2025). 
+20 See INA sec. 274A(e)(5), 8 U.S.C. 1324a(e)(5). 
+21 See, e.g., INA sec. 237(a)(1)(C), 8 U.S.C. 
+1227(a)(1)(C); 8 CFR 214.1(e). 
+22 See INA sec. 245(c), (k); 8 U.S.C. 1255(c), (k). 
+23 See INA sec. 274A, 8 U.S.C. 1324a. 
+24 See 8 CFR 274a.13(d) (2016). 
+25 See 81 FR 82398 (Nov. 18, 2016) (AC21 Final 
+Rule). 
+26 See 89 FR 101208 (Dec. 13, 2024) (permanently 
+increased the automatic extension period to up to 
+540 days). In addition, DHS previously issued 
+temporary final rules on this same topic in May 
+2022 and April 2024, discussed further below in 
+Section III.D of this preamble. 
+27 For EADs and I–797C notices that contain 
+either an A12 or C19 category code, the category 
+codes need not match. 
+28 8 CFR 274a.13(d)(1)(i). TPS beneficiaries must 
+file during the re-registration period in the 
+applicable Federal Register notice; see 81 FR 
+82398, 82455 (Nov. 18, 2016). 
+29 See 8 CFR 274a.13(d)(1)(ii) (exempting aliens 
+approved for TPS with EADs issued pursuant to 8 
+CFR 274a.12(c)(19) from the requirement that the 
+employment authorization category on the face of 
+the expiring EAD be the same as on the renewal 
+EAD application). 
+30 See 8 CFR 274a.13(d)(1)(iii). 
+31 See DHS, USCIS, Automatic Employment 
+Authorization (EAD) Extension (last visited June 16, 
+2025), https://www.uscis.gov/working-in-the-united- 
+states/information-for-employers-and-employees/ 
+automatic-employment-authorization-document- 
+ead-extension (last visited June 16, 2025). 
+32 See 8 CFR 274a.12(a)(3). 
+33 See 8 CFR 274a.12(a)(5). 
+34 See 8 CFR 274a.12(a)(7). 
+35 See 8 CFR 274a.12(a)(8). 
+36 See 8 CFR 274a.12(a)(10). 
+37 See 8 CFR 274a.12(a)(12) or (c)(19). 
+38 See INA sec. 214(e)(2), 8 U.S.C. 1184(e)(2). 
+39 See INA sec. 214(c)(2)(E), 8 U.S.C. 
+1184(c)(2)(E). 
+40 See 8 CFR 274a.12(c)(8). 
+41 See 8 CFR 274a.12(c)(9). In certain adjustment 
+of status cases, if the applicant seeks an EAD and 
+advance parole (by filing Form I–131, Application 
+for Travel Document), USCIS may issue an 
+employment authorization card combined with an 
+Advance Parole Card (Form I–512). This is also 
+referred to as a ‘‘combo card.’’ If the EAD card is 
+combined with the advance parole authorization 
+(the EAD card has an annotation ‘‘SERVES AS I– 
+Continued 
+authorization expires, his or her 
+employer must reverify or update the 
+employee’s Form I–9 to reflect that the 
+employee is still authorized to work in 
+the United States; otherwise, the alien’s 
+continued employment may be in 
+violation of the law. No later than the 
+date employment authorization expires, 
+employees must present unexpired 
+acceptable documentation that 
+demonstrates continued authorization to 
+work.
+19 The employer is required to 
+reverify or update information on the 
+employee’s Form I–9 to record the 
+employee’s evidence of continued 
+employment authorization. Employers 
+who fail to properly complete Forms I– 
+9, including reverification, are subject to 
+civil money penalties for paperwork 
+violations.
+20 Employers must terminate 
+employment of employees who have 
+gaps in their employment authorization 
+documentation and are not able to 
+reverify or risk being fined under the 
+employer sanctions provisions in 
+section 274A of the INA, 8 U.S.C. 1324a. 
+If an alien engages in unauthorized 
+employment, such activity may render 
+the alien removable,
+21 render the alien 
+ineligible for future benefits such as 
+adjustment of status,
+22 and/or subject 
+the employer to civil and/or criminal 
+penalties.
+23 
+C. Automatic Extension of Employment
+Authorization and Documentation
+Before November 2016, 8 CFR 
+274a.13(d) stated that USCIS would 
+adjudicate an EAD application within 
+90 days of receipt. If USCIS did not 
+adjudicate the EAD application within 
+that timeframe, the alien was eligible to 
+request an interim EAD with a validity 
+period not to exceed 240 days.
+24 
+On November 18, 2016, as part of 
+DHS’s efforts to implement the 
+American Competitiveness in the 
+Twenty-first Century Act of 2000 
+(AC21), DHS published a final rule that 
+eliminated Interim EADs and replaced 
+them with a maximum 180-day 
+automatic extension period for certain 
+renewal applicants.
+25 DHS subsequently 
+issued a final rule in December 2024 
+that increased the automatic extension 
+period from up to 180 days to up to 540 
+days for certain applications pending on 
+May 4, 2022, or properly filed on or 
+after May 4, 2022.
+26 
+Under the current regulation, the 
+automatic extension period 
+automatically extends the validity 
+period of certain categories of EADs for 
+up to 540 days if the alien timely files 
+a renewal application (and USCIS is still 
+processing the application after the 
+expiration date of the current EAD). The 
+issuance of the receipt notice (Form I– 
+797C) indicating timely filing of the 
+EAD renewal application, and the same 
+employment eligibility category as 
+stated on the facially expired EAD is the 
+mechanism that serves to automatically 
+extend the EAD.
+27 However, at the time 
+of the issuance of the receipt notice, 
+vetting and screening checks have not 
+been completed, potential hits of 
+derogatory information have not been 
+resolved, a determination of continued 
+eligibility has not been made, and when 
+applicable, USCIS has not determined 
+that the employment authorization 
+should continue to be granted in the 
+exercise of discretion. Once USCIS 
+adjudicates the renewal EAD 
+application, the automatic extension 
+period ends. 
+To receive an automatic extension 
+under the current regulation, an eligible 
+renewal applicant must meet the 
+following conditions: 
+• The alien timely files an application
+to renew the EAD and/or employment 
+authorization before the EAD expires;
+28 
+• The renewal EAD application is
+based on the same employment 
+authorization category shown on the 
+front of the expiring EAD or, for an alien 
+approved for TPS, whose EAD was 
+issued pursuant to either 8 CFR 
+274a.12(a)(12) or (c)(19);
+29 and 
+• The alien’s eligibility to apply for
+employment authorization continues 
+notwithstanding the expiration of the 
+EAD and is based on an employment 
+authorization category that does not 
+require the adjudication of an 
+underlying application or petition 
+before the adjudication of the renewal 
+application, as may be announced on 
+the USCIS website.
+30 
+The following classes of aliens filing 
+to renew an EAD may be eligible to 
+receive an automatic extension of their 
+employment authorization and/or EAD 
+for up to 540 days under the current 
+regulation:
+31 
+• Aliens admitted as refugees
+(A03); 32 
+• Aliens granted asylum (A05); 33
+• Aliens admitted as parents or
+dependent children of aliens granted 
+permanent residence under section 
+101(a)(27)(I) of the INA, 8 U.S.C. 
+1101(a)(27)(I) (A07);
+34 
+• Aliens admitted to the United
+States as citizens of the Federated States 
+of Micronesia, the Republic of the 
+Marshall Islands, or the Republic of 
+Palau pursuant to agreements between 
+the United States and the former trust 
+territories (A08);
+35 
+• Aliens granted withholding of
+deportation or removal (A10); 36 
+• Aliens granted TPS, if the
+employment authorization category on 
+their current EAD is either A12 or C19 
+(A12);
+37 
+• Alien spouses of E–1/2/3
+nonimmigrants (Treaty Trader/Investor/ 
+Australian Specialty Worker) (A17);
+38 
+• Alien spouses of L–1
+nonimmigrants (Intracompany 
+Transferees) (A18);
+39 
+• Aliens who have filed applications
+for asylum and withholding of 
+deportation or removal (C08);
+40 
+• Aliens who have filed applications
+for adjustment of status to lawful 
+permanent resident under section 245 of 
+the INA, 8 U.S.C. 1255 (C09);
+41 
+VerDate Sep<11>2014 15:43 Oct 29, 2025 Jkt 268001 PO 00000 Frm 00005 Fmt 4700 Sfmt 4700 E:\FR\FM\30OCR1.SGM 30OCR1lotter on DSK11XQN23PROD with RULES1
+--- page 5 ---
+48804 Federal Register / Vol. 90, No. 208 / Thursday, October 30, 2025 / Rules and Regulations 
+512 ADVANCE PAROLE’’), any automatic extension 
+does not apply to the advance parole part of the 
+combo card. 
+42 See 8 CFR 274a.12(c)(10). 
+43 See 8 CFR 274a.12(c)(16). 
+44 See 8 CFR 274a.12(c)(19). 
+45 See 8 CFR 274a.12(c)(20). 
+46 See 8 CFR 274a.12(c)(22). 
+47 See 8 CFR 274a.12(c)(24). 
+48 See 8 CFR 274a.12(c)(26). 
+49 Family-based immigration generally requires 
+U.S. citizens and lawful permanent residents to file 
+a petition on behalf of their alien family members. 
+Some petitioners may misuse this process to further 
+abuse their alien family members by threatening to 
+withhold or withdraw sponsorship in order to 
+control, coerce, and intimidate them. With the 
+passage of VAWA and its subsequent 
+reauthorizations, Congress provided aliens who 
+have been abused by their U.S. citizen or lawful 
+permanent resident relative the ability to petition 
+for themselves (self-petition) without the abuser’s 
+knowledge, consent, or participation in the process. 
+The VAWA provisions allow victims to seek both 
+safety and independence from their abusers. 
+50 INA sec. 204(a)(1)(D)(i)(II), (IV), (a)(1)(K), 8 
+U.S.C. 1154(a)(1)(D)(i)(II), (IV), (a)(1)(K). 
+51 See 8 CFR 274a.13(d)(3). 
+52 See 8 CFR 274a.13(d)(4). 
+53 See DHS,USCIS, ‘‘Completing Supplement B, 
+Reverification and Rehires (formerly Section 3),’’ 
+https://www.uscis.gov/i-9-central/complete-correct- 
+form-i-9/completing-supplement-b-reverification- 
+and-rehires-formerly-section-3 (last visited June 16, 
+2025); see also DHS, USCIS, M–274 Handbook for 
+Employers, 5.2 Temporary Increase of Automatic 
+Extension of EADs from 180 Days to 540 Days (last 
+visited June 16, 2025), https://www.uscis.gov/i-9- 
+central/form-i-9-resources/handbook-for-employers- 
+m-274/50-automatic-extensions-of-employment- 
+authorization-andor-employment-authorization- 
+documents-eads-in/52-temporary-increase-of- 
+automatic-extension-of-eads-from-180-days-to-540- 
+days (last visited June 16, 2025). 
+54 See 8 CFR 274a.13(d)(3). 
+55 See 8 CFR 274a.2(b)(vii) (reverification 
+provision). 
+56 See 87 FR 26614, 26617–26 (May 4, 2022) 
+(identifying USCIS’ precarious fiscal status, the 
+COVID–19 public health emergency, and dramatic 
+increases in Form I–765 filings); see also 89 FR 
+24628, 24634–40 (Apr. 8, 2024) (identifying an 
+increase in referrals to USCIS for Credible Fear 
+Assessment and an increase in affirmative and 
+defensive asylum filings as contributing factors to 
+increased EAD processing times). 
+57 87 FR 26614 (May 4, 2022) (temporarily 
+increased the automatic extension period to up to 
+540 days). 
+58 89 FR 24628 (Apr. 8, 2024) (temporarily 
+increased the automatic extension period to up to 
+540 days). 
+59 89 FR 101208 (Dec. 13, 2024) (permanently 
+increased the automatic extension period to up to 
+540 days). 
+60 87 FR 26614, 26622, 26625 (May 4, 2022). 
+• Aliens who have filed applications 
+for suspension of deportation under 
+section 244 of the INA (as it existed 
+prior to April 1, 1997), cancellation of 
+removal pursuant to section 240A of the 
+INA, or special rule cancellation of 
+removal under section 309(f)(1) of the 
+Illegal Immigration Reform and 
+Immigrant Responsibility Act of 1996 
+(C10);
+42 
+• Aliens who have filed applications 
+for creation of record of lawful 
+admission for permanent residence 
+(C16);
+43 
+• Aliens who have filed applications 
+for TPS and who have been deemed 
+prima facie eligible for TPS under 8 CFR 
+244.10(a) and have received an EAD as 
+a ‘‘temporary treatment benefit’’ under 8 
+CFR 244.10(e) and 274a.12(c)(19) 
+(C19);
+44 
+• Aliens who have filed legalization 
+applications pursuant to section 210 of 
+the INA, 8 U.S.C. 1160 (C20);
+45 
+• Aliens who have filed legalization 
+applications pursuant to section 245A of 
+the INA, 8 U.S.C. 1255a (C22);
+46 
+• Aliens who have filed applications 
+for adjustment of status pursuant to 
+section 1104 of the Legal Immigration 
+Family Equity Act (C24);
+47 
+• Certain alien spouses (H–4) of H–1B 
+nonimmigrants with an unexpired Form 
+I–94 showing H–4 nonimmigrant status 
+(C26);
+48 and 
+• Aliens who are the principal 
+beneficiaries or derivative children of 
+approved Violence Against Women Act 
+(VAWA) self-petitioners,
+49 under the 
+employment authorization category 
+‘‘(c)(31)’’ in the form instructions to the 
+EAD application (C31).
+50 
+The extension automatically 
+terminates up to 540 days after the 
+expiration date on the face of the EAD, 
+or upon issuance of notification of a 
+decision denying the renewal request, 
+whichever date is earlier.
+51 An EAD that 
+is expired on its face is considered 
+unexpired when combined with a Form 
+I–797C receipt notice indicating a 
+timely filing of the application to renew 
+the EAD when the automatic extension 
+requirements are met.
+52 
+Therefore, when the ‘‘card expires’’ 
+date on the front of the EAD is reached, 
+an eligible alien who is continuing his 
+or her U.S. employment may present to 
+his or her employer the Form I–797C 
+receipt notice for the renewal EAD 
+application to show that the validity of 
+the EAD has been automatically 
+extended as evidence of continued 
+employment authorization, and the 
+employer must update the previously 
+completed Form I–9, Employment 
+Eligibility Verification, to reflect the 
+extended EAD expiration date based on 
+the automatic extension while the 
+renewal is pending. 
+For new employment, the automatic 
+extension date is recorded on the Form 
+I–9 by the employee and the employer 
+in the first instance. In either case, 
+reverification of employment 
+authorization and/or the EAD must 
+occur when the automatic extension 
+period terminates.
+53 
+If the renewal application is granted, 
+the new employment authorization and/ 
+or EAD generally is valid as of the date 
+of approval of the application. If the 
+application is denied, the automatically 
+extended employment authorization 
+and/or EAD generally is terminated on 
+the day of the denial.
+54 If the renewal 
+application was timely and properly 
+filed, but remains pending beyond the 
+maximum 540-day automatic extension 
+period, the applicant must stop working 
+upon the expiration of the automatically 
+extended validity period, and the 
+employer must remove the employee 
+from the payroll if the applicant/ 
+employee cannot provide other 
+acceptable evidence of current 
+employment authorization.
+55 
+D. Increasing the Automatic Extension 
+Period From a Maximum of 180 Days to 
+a Maximum of 540 Days 
+USCIS’ ability to process both initial 
+and renewal EAD applications within 
+USCIS’ targeted processing times was 
+adversely impacted by a variety of 
+circumstances since the promulgation of 
+the up to 180-day automatic extension 
+period for certain renewal EAD 
+applicants.
+56 To reduce the number of 
+renewal EAD applicants eligible for an 
+automatic extension of their EAD 
+validity under 8 CFR 274a.13(d) from 
+experiencing lapses in their EAD 
+validity and/or employment 
+authorization because of USCIS 
+processing delays, DHS issued 
+temporary final rules in May 2022
+57 and 
+April 2024 58 that temporarily increased 
+the automatic extension from up to 180 
+days to up to 540 days. DHS also issued 
+a final rule in December 2024
+59 that 
+codified the up to 540-day automatic 
+extension for certain applications 
+pending on May 4, 2022, or properly 
+filed on or after May 4, 2022. These 
+three regulatory actions are discussed in 
+more detail in the following sections. 
+1. Circumstances Resulting in the 2022 
+Temporary Final Rule 
+In 2022, processing times for renewal 
+EAD applications had significantly 
+increased due to fiscal and operational 
+challenges that were exacerbated by the 
+emergency measures USCIS employed 
+in response to the COVID–19 pandemic 
+and a sudden increase in EAD 
+application filings.
+60 
+USCIS is a fee-based agency that relies 
+on predictable fee revenue and its 
+carryover from the previous year. USCIS 
+began experiencing fiscal troubles in 
+early December 2019, due in part to the 
+fact that USCIS had not been able to 
+update its fee structure since the 2016 
+VerDate Sep<11>2014 15:43 Oct 29, 2025 Jkt 268001 PO 00000 Frm 00006 Fmt 4700 Sfmt 4700 E:\FR\FM\30OCR1.SGM 30OCR1lotter on DSK11XQN23PROD with RULES1
+--- page 6 ---
+48805 Federal Register / Vol. 90, No. 208 / Thursday, October 30, 2025 / Rules and Regulations 
+61 87 FR 26614, 26620 (May 4, 2022). 
+62 On January 31, 2020, the Secretary of Health 
+and Human Services (HHS) declared a public health 
+emergency under section 319 of the Public Health 
+Service Act (42 U.S.C. 247d), in response to 
+COVID–19.See HHS, Determination that a Public 
+Health Emergency Exists, https://aspr.hhs.gov/ 
+legal/PHE/Pages/2019-nCoV.aspx (last visited June 
+16, 2025). 
+63 In addition to the lowest number of receipts in 
+the past 5 years, USCIS also completed the lowest 
+number of benefit requests in the past 5 years. The 
+worst rates of completion were observed during the 
+beginning of the pandemic when USCIS field 
+offices and ASCs were closed to the public. While 
+USCIS attempted to recover by shifting 
+adjudications to form types not requiring in-person 
+appearances, USCIS still completed fewer benefit 
+requests than it received in FY 2020. See 2020 
+USCIS Statistical Annual Report, p. 4., https://
+www.uscis.gov/tools/reports-and-studies (last 
+updated May 28, 2025). 
+64 87 FR 26614, 26620–26621 (May 4, 2022). 
+65 87 FR 26614, 26624 (May 4, 2022). 
+66 87 FR 26614, 26618 (May 4, 2022). 
+67 87 FR 26614 (May 4, 2022). 
+68 See 8 CFR 274a.13(d); see also 87 FR 26614, 
+26651 (May 4, 2022). 
+69 See 8 CFR 274a.13(d); see also 87 FR 26614, 
+26651 (May 4, 2022). 
+70 See 87 FR 26614, 26631 (May 4, 2022). 
+71 As noted in the April 2024 EAD TFR, CBP had 
+a record number of encounters at the U.S. southern 
+border throughout FY 2022 and 2024. See 89 FR 
+24628, 24637. 
+72 As a result of the court order in Asylumworks 
+v. Mayorkas, 590 F. Supp. 3d 11 (D.D.C. Feb. 7, 
+2022), since February 7, 2022, USCIS has been 
+required to process initial EAD applications for all 
+asylum applicants within 30 days of filing for their 
+EAD. The burden created by the court’s order was 
+significant and impacted overall EAD processing 
+due to the surge in C08 EAD applications. 
+73 Under the INA, certain aliens arriving at the 
+U.S. border but who are inadmissible to the United 
+States on certain grounds, may be removed 
+expeditiously under the INA without a hearing 
+unless the alien indicates either an intention to 
+apply for asylum under section 208, 8 U.S.C. 1158, 
+or expresses a fear of persecution or torture. See 
+INA sec. 235(b)(1)(A)(i)–(iii), 8 U.S.C. 
+1225(b)(1)(A)(i)–(iii). If that is that is the case, then 
+the officer at the border refers the alien to a USCIS 
+asylum officer for a credible fear assessment. If the 
+alien has a credible fear of persecution or torture, 
+the individual may apply for asylum and remain in 
+the United States until a final determination is 
+made on the asylum application by an immigration 
+judge, or, in some cases, by a USCIS asylum officer. 
+Such an asylum applicant is also authorized to 
+apply for an EAD, and subsequently, renewal EADs 
+in accordance with the regulations. 
+74 To address the impact of these high numbers 
+of credible fear referrals from the southwest border 
+on existing asylum and credible fear procedures, 
+USCIS detailed USCIS personnel, including officers 
+who adjudicate EAD applications, to the USCIS 
+RAIO directorate for up to 120 days to conduct 
+credible fear screenings. Many USCIS detailees 
+were required to take a full-time asylum officer 
+training course lasting several weeks in addition to 
+the 120-day detail period. Diverting adjudicatory 
+resources by training and detailing adjudicators to 
+conduct credible fear screenings significantly 
+strained operational resources for renewal EAD 
+adjudications, resulting in increased processing 
+times. 
+75 Over the course of FY 2022 and FY 2023, the 
+Secretary of Homeland Security, in consultation 
+with interagency partners, designated, redesignated, 
+and extended the designation of several countries 
+for TPS under section 244 of the INA, 8 U.S.C. 
+1254a. The increased number of TPS-based EAD 
+filings (particularly in renewal EAD applications in 
+the A12 category) from FY 2022 to FY 2023 further 
+stretched limited USCIS resources and contributed 
+to the longer processing times for renewal EAD 
+applications overall. For a current list of designated 
+countries, see DHS, USCIS, Temporary Protected 
+Status, https://www.uscis.gov/humanitarian/ 
+temporary-protected-status (last visited June 16, 
+2025). 
+76 USCIS projected that without the 2024 TFR, 
+approximately 800,000 renewal applicants would 
+have been in danger of experiencing a lapse in their 
+EAD validity and/or employment authorization in 
+the period beginning May 2024 and ending March 
+2026. See 89 FR 24628, 24660 (Table 7) (Apr. 8, 
+2024). 
+77 89 FR 24628, 24635. 
+78 See 89 FR 24628 (Apr. 8, 2024). The 2024 TFR 
+increased the automatic extension period from up 
+Continued 
+Fee Rule, meaning that USCIS was 
+unable to fully cover the costs of 
+administering current and projected 
+volumes of immigration benefit 
+requests.
+61 
+This precarious financial situation 
+was exacerbated by the COVID–19 
+pandemic,
+62 which caused a significant 
+drop in receipts across many of the most 
+common benefit types, resulting in a 
+commensurate drop in revenues.
+63 
+Consequently, USCIS was forced to 
+take steps to preserve sufficient funds to 
+meet payroll and carryover obligations 
+by cutting overtime contractor support 
+services and imposing an agency-wide 
+hiring freeze from May 1, 2020, through 
+March 31, 2021. These cuts hindered 
+USCIS’ ability to address and mitigate 
+backlogs and ensure processing times 
+remained within goals.
+64 
+An additional contributing factor was 
+a substantial and sustained increase in 
+initial and renewal EAD applications 
+which significantly increased renewal 
+EAD processing times.
+65 The increased 
+filings resulted from, among other 
+things, new TPS designations by the 
+Biden Administration as well as 
+increased filings related to asylum 
+applications and DACA.
+66 
+To mitigate the impact of these 
+operational challenges on EAD 
+processing times, on May 4, 2022, DHS 
+published a TFR titled ‘‘Temporary 
+Increase of the Automatic Extension 
+Period of Employment Authorization 
+and Documentation for Certain Renewal 
+Applicants’’ (2022 TFR) in the Federal 
+Register.
+67 The rule temporarily 
+amended DHS regulations at 8 CFR 
+274a.13(d) by adding a new paragraph 8 
+CFR 274a.13(d)(5), which lengthened 
+the automatic extension period 
+provided in that section from up to 180 
+days to up to 540 days for those 
+categories described in the 2022 TFR, if 
+the renewal applicant timely filed a 
+renewal EAD application.
+68 That 
+increase was available to eligible 
+renewal applicants whose EAD 
+applications were pending as of May 4, 
+2022, including those renewal 
+applicants whose employment 
+authorization had already lapsed 
+following the initial 180-day extension 
+period. The increase was also available 
+to eligible aliens who filed a renewal 
+EAD application during the 540-day 
+period beginning on or after May 4, 
+2022, and ending October 26, 2023.
+69 
+On October 27, 2023, the automatic 
+extension renewal period reverted to 
+180 days (the automatic extension 
+period under 8 CFR 274a.13(d)(1)) for 
+eligible renewal EAD applications filed 
+on or after October 27, 2023.
+70 
+2. Circumstances Resulting in the 2024 
+Temporary Final Rule 
+As discussed later in this preamble, in 
+FY2023, the adjudicative demands 
+caused by the Biden Administration’s 
+approach to the border crisis,
+71 and 
+other increases in immigration benefit 
+filings and court-ordered processing 
+timeframes,
+72 created new operational 
+strains that significantly increased 
+renewal EAD application processing 
+times. 
+Specifically, the Biden 
+Administration’s encouragement of new 
+asylum applicants, the decision to 
+reassign USCIS employees to perform 
+credible fear assessments
+73 for the flood 
+of new asylum applicants,74 and the 
+additional TPS designations 75 
+combined to create renewal EAD 
+application processing backlogs such 
+that large numbers of renewal EAD 
+applicants eligible for the up to 180-day 
+automatic extension were projected to 
+nonetheless experience a gap in their 
+EAD validity and/or employment 
+authorization.
+76 
+The primary drivers in the growth of 
+EAD applications in FY 2023 (both 
+initials and renewals) were EAD 
+applications based on pending asylum 
+applications (C08), followed by TPS 
+(A12/C19) and parole (C11).
+77 The 
+efforts USCIS undertook to improve its 
+processing times for renewal EAD 
+applications, including increasing its 
+staffing levels, were insufficient to keep 
+up with the substantial increase in EAD 
+application filings. 
+In April 2024, in order to reduce the 
+number of renewal EAD applicants who 
+were projected to experience a lapse in 
+their EAD validity and/or employment 
+authorization, DHS published a 
+temporary final rule (‘‘2024 TFR’’) that, 
+for certain renewal EAD applications 
+filed from October 27, 2023, through 
+September 30, 2025, again temporarily 
+increased the automatic extension 
+period from up to 180 days to up to 540 
+days.
+78 
+VerDate Sep<11>2014 15:43 Oct 29, 2025 Jkt 268001 PO 00000 Frm 00007 Fmt 4700 Sfmt 4700 E:\FR\FM\30OCR1.SGM 30OCR1lotter on DSK11XQN23PROD with RULES1
+--- page 7 ---
+48806 Federal Register / Vol. 90, No. 208 / Thursday, October 30, 2025 / Rules and Regulations 
+to 180 days to up to 540 days for aliens who 
+properly filed their renewal EAD applications on or 
+after October 27, 2023, and that remained pending 
+on May 4, 2024, as well as renewal EAD 
+applications filed from May 4, 2024, through 
+September 30, 2025. 
+79 89 FR 101208, 101216. 
+80 89 FR 101208, 101224. 
+81 See 89 FR 101208 (Dec. 13, 2024). 
+82 See 89 FR 101208, 101224. 
+83 See 89 FR 101208. 
+84 DHS notes, however, that sections 100003(c) 
+and 100012(a) of the One Big Beautiful Bill Act, 
+Public Law 119–21 (July 4, 2025), limits the validity 
+period of any employment authorization for aliens 
+granted Temporary Protected Status (TPS) under 
+section 244 of the INA, 8 U.S.C. 1254a, to a period 
+of 1 year or for the duration of the designation of 
+TPS, whichever is shorter. 
+85 See, e.g., Conference Report to accompany H.R. 
+4567 [Report 108–774], ‘‘Making Appropriations for 
+the Department of Homeland Security for the Fiscal 
+Year Ending September 30, 2005,’’ p. 74 (Oct. 9, 
+2004), https://www.gpo.gov/fdsys/pkg/CRPT- 
+108hrpt774/pdf/CRPT-108hrpt774.pdf 
+(recommending, among other things, the creation of 
+an organization to conduct ‘‘law enforcement/ 
+background checks on every applicant, beneficiary, 
+and petitioner prior to granting immigration 
+benefits.’’) (last visited June 16, 2025). 
+86 See 90 FR 8443, 8446 (Jan. 29, 2025). 
+87 See 90 FR 8451, 8451 (Jan. 31, 2025). 
+3. Circumstances Resulting in the 2024 
+Final Rule 
+After the promulgation of the 2024 
+TFR, DHS determined that if the 
+automatic extension period were not 
+permanently increased to 540 days, 
+future renewal EAD applicants could be 
+in danger of experiencing a gap in EAD 
+validity and/or employment 
+authorization.
+79 After having considered 
+all operational realities, to include the 
+potential for a renewed surge in EAD 
+application filings or other 
+circumstances that may occur in the 
+future and which could result in large 
+numbers of renewal EAD applications 
+remaining pending beyond the 180-day 
+automatic extension period, DHS 
+determined that without a permanent 
+540-day automatic extension period 
+there could be significant loss of EAD 
+validity and/or employment 
+authorization.
+80 Accordingly, on 
+December 13, 2024, DHS published a 
+final rule that codified the automatic 
+extension period increase from up to 
+180 days to up to 540 days.
+81 This final 
+rule was effective on January 13, 2025. 
+Unlike the 2022 and 2024 TFRs, the 
+final rule was not issued to address 
+short-term issues with renewal EAD 
+processing times. Instead, the stated 
+purpose of the final rule was to mitigate 
+the impact of potential future renewal 
+EAD processing backlogs that may be 
+caused by a variety of circumstances.
+82 
+IV. Discussion of This Interim Final 
+Rule 
+Aliens who timely filed a renewal 
+EAD application for certain employment 
+authorization categories were eligible 
+for the automatic extension of their 
+EADs for up to 540 days.
+83 This IFR 
+amends DHS regulations to end the 
+practice of automatically extending the 
+validity of EADs. See new 8 CFR 
+274a.13(e). This IFR will not impact the 
+automatic extensions already granted to 
+renewal EAD applicants under 8 CFR 
+274a.13(d)(1), if the renewal EAD 
+request was filed before October 30, 
+2025. See 8 CFR 274a.13(d). This IFR 
+also does not impact automatic 
+extensions otherwise provided by law or 
+in an applicable Federal Register notice 
+regarding procedures for extending the 
+validity of TPS-related employment 
+documentation pursuant to section 244 
+of the INA, 8 U.S.C. 1254a, and 8 CFR 
+part 244.
+84 
+DHS’s mission is to safeguard the 
+American people, our homeland, and 
+our values with honor and integrity. In 
+service of that mission, DHS protects the 
+United States from threats by terrorists, 
+criminals, smugglers, transnational 
+criminal organizations, failed state 
+actors, and unpredictable lone offenders 
+that constitute present and future 
+threats to public safety and national 
+security. 
+As explained earlier in this preamble, 
+USCIS issues EADs to certain classes of 
+aliens. These documents are valid for a 
+specified period of time. Aliens who 
+intend to continue their employment 
+beyond the date specified on their EAD 
+must generally file an application to 
+renew their employment authorization 
+and/or EAD. This renewal EAD 
+requirement allows DHS to ensure that 
+the alien continues to be eligible for 
+employment authorization, including 
+warranting a favorable exercise of 
+discretion, when applicable, or 
+continues to be employment authorized 
+incident to their status or circumstance. 
+USCIS makes the determination of 
+eligibility through the adjudication of 
+the Form I–765, Application for 
+Employment Authorization. 
+Adjudication of the application is 
+critical as it involves an eligibility 
+determination for the benefit, vetting 
+and screening to ensure there are no 
+identifiable threats to national security 
+or public safety, and, for certain 
+categories, an exercise of discretion. 
+The automatic extension of the 
+validity of an EAD grants the benefit of 
+extending an alien’s expired EAD and/ 
+or employment authorization merely by 
+filing a timely renewal EAD application 
+and without first completing 
+adjudicative review and related vetting, 
+including resolution of derogatory 
+information identified during the 
+vetting process. That is, it grants the 
+benefit without an eligibility 
+determination; without completing 
+vetting and screening checks; without 
+resolving potential hits of derogatory 
+information; and, when applicable, 
+without a determination that the 
+employment authorization should be 
+granted in the exercise of discretion. 
+Without this IFR, aliens could still 
+obtain an automatic extension despite 
+derogatory information that could flag 
+them as a national security or public 
+safety risk. As described above, vetting 
+and screening might not be completed 
+and derogatory information reviewed 
+and resolved before the alien’s EAD 
+expires. The automatic extension, 
+therefore, poses a security vulnerability 
+that could allow bad actors to continue 
+to work and generate income to 
+potentially finance nefarious activities 
+that pose an imminent threat to the 
+American public. Granting benefits 
+without proper vetting and full 
+adjudication is contrary to the mission 
+of DHS and poses a threat to the safety 
+and security of the American people.
+85 
+Therefore, DHS is ending the practice 
+of providing automatic extension of 
+EADs to fulfill its mission by 
+prioritizing the proper vetting and 
+screening of aliens before granting a 
+new period of employment 
+authorization and/or a new EAD. DHS 
+will also continue to work to reduce 
+frivolous, fraudulent or otherwise non- 
+meritorious EAD filings to free up 
+adjudicatory and other resources to 
+better ensure national security and 
+program integrity. 
+Ending the practice of providing 
+automatic extensions of EADs is also 
+consistent with President Trump’s 
+directive in E.O. 14159 ‘‘Protecting the 
+American People Against Invasion,’’ 
+which directs the Secretary of 
+Homeland Security, in coordination 
+with the Secretary of State and the 
+Attorney General, in Section 16 to take 
+all appropriate action to align any 
+departmental activities with the policies 
+set out by the President and to ensure, 
+among others, ‘‘that employment 
+authorization is provided in a manner 
+consistent with section 274A of the INA 
+(8 U.S.C. 1324a), and that employment 
+authorization is not provided to any 
+unauthorized alien in the United 
+States.’’
+86 It is also consistent with E.O. 
+14161, Protecting the United States 
+From Foreign Terrorists and Other 
+National Security and Public Safety 
+Threats (Jan. 20, 2025),
+87 which directs 
+the Secretary of State, in coordination 
+with the Secretary of Homeland 
+Security, the Attorney General, and the 
+Director of National Intelligence in 
+VerDate Sep<11>2014 15:43 Oct 29, 2025 Jkt 268001 PO 00000 Frm 00008 Fmt 4700 Sfmt 4700 E:\FR\FM\30OCR1.SGM 30OCR1lotter on DSK11XQN23PROD with RULES1
+--- page 8 ---
+48807 Federal Register / Vol. 90, No. 208 / Thursday, October 30, 2025 / Rules and Regulations 
+88 See 90 FR 8451, 8451 (Jan. 31, 2025). 
+89 Proclamation 10949 (June 4, 2025), 90 FR 
+24497–98 (June 10, 2025). 
+90 Proclamation 10949 (June 4, 2025), 90 FR 
+24497–98 (June 10, 2025). 
+91 See E.O. 14159, Protecting the American 
+People Against Invasion, Section 1, Purpose, 90 FR 
+8443 (Jan. 29, 2025); see also Andre Byik, USA 
+Today, No, 51M ‘illegals’ have not entered US 
+under Biden, Harris | Fact check (Aug. 12, 2024), 
+https://www.usatoday.com/story/news/factcheck/ 
+2024/08/12/51-million-border-illegally-biden-fact- 
+check/74595944007/ (relaying that U.S. Border 
+Patrol data showed in the range of 10 million 
+nationwide encounters, and that figure is imprecise 
+because of overcounts and ‘‘people who are not 
+turned back or apprehended after making an illegal 
+entry’’). 
+92 See E.O. 14159, Protecting the American 
+People Against Invasion, Section 1. Purpose, 90 FR 
+8443 (Jan. 29, 2025; see also Adam Shaw, Fox 
+News, Over 1.7M migrants who could pose national 
+security risk arrived in US during Biden admin: 
+report (Oct. 3, 2024), https://www.foxnews.com/ 
+politics/over-1-7-million-migrants-who-could-pose- 
+national-security-risk-arrived-us-biden-admin- 
+report (citing an Oct. 3, 2024 House of 
+Representatives Judiciary Committee report on The 
+Biden-Harris Border Crisis: At Least 1.7 Million 
+Potential National Security Threats). 
+93 See E.O. 14159, Protecting the American 
+People Against Invasion, Section 1. Purpose, 90 FR 
+8443 (Jan. 29, 2025; see also Simon Hankinson, The 
+Heritage Foundation, Biden’s Border Crisis 
+Promotes Foreign Espionage in Plain Sight (May 31, 
+2024). https://www.heritage.org/border-security/ 
+commentary/bidens-border-crisis-promotes-foreign- 
+espionage-plain-sight (arguing that asylum provides 
+an avenue for employment authorization that 
+attracts Chinese nationals who are primed to 
+become espionage assets). 
+94 See E.O. 14159, Protecting the American 
+People Against Invasion, Section 1. Purpose, 90 FR 
+8443 (Jan. 29, 2025). 
+95 See DHS, USCIS, Number of Service-wide 
+Forms By Quarter, Form Status, and Processing 
+Time (July 1–Sept. 30, 2023), https://
+www.uscis.gov/sites/default/files/document/forms/ 
+quarterly_all_forms_fy2023_q4.pdf (last visited 
+Sept. 22, 2025) (showing that USCIS approved 
+almost 3 million Forms I–765 during the data 
+period). See also Annual Statistical Report FY2023, 
+p.14 (acknowledging that in ‘‘FY 2023, USCIS 
+received over 3.5 million applications for 
+employment authorization, 50 percent more than 
+the previous year, and completed over 3.4 million 
+applications, 45 percent more than in FY 2022.’’), 
+https://www.uscis.gov/sites/default/files/document/ 
+reports/fy2023_annual_statistical_report.pdf. 
+96 See 89 FR 101208, 101245 (noting ‘‘the purpose 
+of this final rule is to provide a long-term solution 
+to mitigate the potential for unpredictable 
+circumstances to significantly increase renewal 
+EAD application processing times that would 
+require future urgent action). 
+97 See, e.g., 89 FR 101208, 101224 (Table 7, 
+showing that, as of February 2024, USCIS had 
+approximately 439,000 pending renewal EAD 
+requests in the categories eligible for automatic 
+extension, and the number was projected to grow 
+Continued 
+Section 2 to promptly ‘‘identify all 
+resources that may be used to ensure 
+that all aliens seeking admission to the 
+United States, or who are already in the 
+United States, are vetted and screened 
+to the maximum degree possible,’’ and 
+‘‘vet and screen to the maximum degree 
+possible all aliens who intend to be 
+admitted, enter, or are already inside the 
+United States, particularly those aliens 
+coming from regions or nations with 
+identified security risks.’’
+88 
+This IFR is also supported by the 
+Presidential Proclamation ‘‘Restricting 
+the Entry of Foreign Nationals to Protect 
+the United States from Foreign 
+Terrorists and Other National Security 
+and Public Safety Threats,’’ wherein the 
+President noted that the ‘‘United States 
+must ensure that admitted aliens and 
+aliens otherwise already present in the 
+United States do not bear hostile 
+attitudes toward its citizens, culture, 
+government, institutions, or founding 
+principles, and do not advocate for, aid, 
+or support designated foreign terrorists 
+or other threats to our national 
+security.’’
+89 The President also noted 
+that ‘‘it is the policy of the United States 
+to protect its citizens from terrorist 
+attacks and other national security or 
+public-safety threats’’ and that 
+‘‘[s]creening and vetting protocols and 
+procedures associated with visa 
+adjudications and other immigration 
+processes play a critical role in 
+implementing that policy.’’
+90 As such, 
+the President has made clear that a 
+primary goal of this administration is to 
+ensure that admitted aliens and aliens 
+otherwise already present in the United 
+States do not bear hostile attitudes 
+toward its citizens, culture, government, 
+institutions, or founding principles, and 
+do not advocate for, aid, or support 
+designated foreign terrorists and other 
+threats to our public safety and national 
+security. 
+DHS recognizes the differences 
+between the various employment 
+authorization categories under 8 CFR 
+274a.12(a) and (c), including the 
+different underlying benefit requests, 
+statuses, and circumstances upon which 
+employment authorization is based. 
+DHS, however, has decided to take a 
+uniform approach in this IFR by ending 
+the practice of providing automatic 
+extensions of employment authorization 
+and/or EADs for all affected categories. 
+A uniform approach avoids the 
+potential for confusion among the 
+regulated public, particularly employers 
+who must comply with Form I–9 
+employment eligibility verification 
+paperwork requirements or face 
+potential adverse consequences, 
+including possible civil or criminal 
+penalties depending on the nature and 
+extent of the violation(s). Additionally, 
+it also advances the goal of providing a 
+comprehensive policy solution and 
+administrative simplicity. 
+A. Negative Impact of Prior Policies 
+Over the last four years, the prior 
+administration invited, administered, 
+and oversaw an unprecedented flood of 
+immigration into the United States. 
+Millions of aliens crossed our borders or 
+were permitted to fly directly into the 
+United States on commercial flights and 
+allowed to settle in American 
+communities.
+91 
+Some of these aliens within the 
+United States present significant threats 
+to national security and public safety, 
+committing vile and heinous acts 
+against innocent Americans.
+92 Others 
+are engaged in hostile activities, 
+including espionage, economic 
+espionage, and preparations for terror- 
+related activities.
+93 Enforcing our 
+Nation’s immigration laws is critically 
+important to the national security and 
+public safety of the United States. The 
+American people deserve a Federal 
+Government that puts their interests 
+first and a government that understands 
+its sacred obligation to prioritize the 
+safety, security, and financial and 
+economic well-being of Americans.
+94 
+1. Impact of EAD Automatic Extensions 
+on Public Safety and National Security 
+The immigration policies of the prior 
+administration encouraged a historically 
+high influx of EAD applicants, resulting 
+in over one million aliens being granted 
+employment authorization in under one 
+year.
+95 The overwhelming flood of EAD 
+applicants continues to bog down 
+USCIS processing times and 
+adjudicative resources. 
+To address this unmanageable influx 
+of EAD applications, which was largely 
+caused by the prior administration’s 
+policies that allowed a significant 
+number of aliens to enter the country on 
+parole and seek asylum and/or TPS, and 
+alongside such applications, 
+employment authorization, DHS issued 
+two temporary rules and a final rule to 
+triple the automatic extension period 
+from a maximum of 180 days to a 
+maximum of 540 days. The 2024 final 
+rule made this change permanent in 
+order to try to reduce the impact of 
+potential future renewal EAD processing 
+backlogs based on events that had not 
+yet materialized, but could happen in 
+the future—thus, the final rule was 
+based on speculative assumptions given 
+the operational realities at USCIS at the 
+time.
+96 
+These automatic extensions, however, 
+resulted in a substantial number of 
+aliens being granted automatically 
+extended EADs and being permitted to 
+continue working lawfully without the 
+completion of appropriate vetting and 
+screening of such aliens relating to their 
+renewal applications.
+97 In other words, 
+VerDate Sep<11>2014 15:43 Oct 29, 2025 Jkt 268001 PO 00000 Frm 00009 Fmt 4700 Sfmt 4700 E:\FR\FM\30OCR1.SGM 30OCR1lotter on DSK11XQN23PROD with RULES1
+--- page 9 ---
+48808 Federal Register / Vol. 90, No. 208 / Thursday, October 30, 2025 / Rules and Regulations 
+given that USCIS received an average of 
+approximately 52,800 additional automatic 
+extension-eligible renewal EAD applications per 
+month in FY 2023, which exceeded the 
+approximately 49,100 automatic extension-eligible 
+renewal EAD application completions per month at 
+that time). 
+98 See USCIS, Annual Statistical Report FY2023, 
+p.14 (acknowledging that in ‘‘FY 2023, USCIS 
+received over 3.5 million applications for 
+employment authorization, 50 percent more than 
+the previous year, and completed over 3.4 million 
+applications, 45 percent more than in FY 2022.’’), 
+https://www.uscis.gov/sites/default/files/document/ 
+reports/fy2023_annual_statistical_report.pdf. 
+99 See Colleen Slevin and Jesse Bedayn, Man 
+Accused of Yelling ‘Free Palestine’ and 
+Firebombing Demonstrators Charged with 
+Attempted Murder, The Associated Press, June 5, 
+2025, https://apnews.com/article/boulder- 
+firebombing-attack-9820f4b51d73efc
+3da72150b80634ea2 (last visited June 16, 2025). 
+100 Id. 
+101 USCIS, CBP, ICE, and USCIS to Ramp Up 
+Crackdown on Visa Overstays Following Boulder 
+Terrorist Attack, June 4, 2025, https://
+www.uscis.gov/newsroom/news-releases/cbp-ice- 
+and-uscis-to-ramp-up-crackdown-on-visa-overstays- 
+following-boulder-terrorist-attack (last visited June 
+16, 2025); see also DHS, Secretary Noem 
+Announces ICE Detains Boulder Terrorist Soliman’s 
+Family, June 4, 2025. https://www.dhs.gov/news/ 
+2025/06/04/secretary-noem-announces-ice-detains- 
+boulder-terrorist-solimans-family (last updated June 
+5, 2025); see Adam Sabes, Timeline Exposes 
+Boulder Suspect’s Movements Before Allegedly 
+Carrying out Firebomb Attack on Pro-Israel Group, 
+Fox News, June 3, 2025, https://www.foxnews.com/ 
+us/timeline-exposes-boulder-suspects-movements- 
+before-allegedly-carrying-out-firebomb-attack-pro- 
+israel-group (last visited June 16, 2025). 
+102 See DHS, Secretary Noem Announces ICE 
+Detains Boulder Terrorist Soliman’s Family, June 4, 
+2025, https://www.dhs.gov/news/2025/06/04/ 
+secretary-noem-announces-ice-detains-boulder- 
+terrorist-solimans-family (last visited June 4, 2025). 
+103 See NBC Washington, US immigration 
+authorities detain family of Colorado Molotov 
+attack suspect, June 3, 2025, https://
+www.nbcwashington.com/news/national- 
+international/colorado-attack-backed-off-zionist- 
+scared/3927308/?os=io....sxj9oul93fno_
+journeystrue&ref=app&noamp=mobile (last visited 
+June 16, 2025). 
+104 See 90 FR 8443, 8446. 
+while these applicants were screened in 
+the context of their initial EAD 
+application(s), the automatic extensions 
+allows them to have their EADs 
+extended, for up to 540 days, without 
+the complete and proper vetting that 
+would be done when adjudicating the 
+renewal application. This delay could 
+impede DHS from timely identifying 
+derogatory information or other 
+concerns that may have arisen since the 
+adjudication of the initial EAD. 
+Through this IFR, DHS intends to 
+address prior policy decisions that, as 
+described in the preceding sections, 
+resulted in the filing of over 3 million 
+EAD applications, resulting in 
+substantial backlogs across all EAD 
+adjudications.
+98 
+This administration’s priority is the 
+robust vetting of all aliens in our 
+country to better protect the safety of 
+American workers and the public at 
+large. This rule will enhance public 
+safety by ensuring proper vetting before 
+issuing renewal EADs, which are 
+important benefits, and improve 
+program integrity. DHS is enhancing its 
+vetting and screening efforts, increasing 
+its ability to detect aliens with 
+potentially harmful intent, deter fraud, 
+and place removable aliens into 
+proceedings. USCIS uses all provisions 
+under the law, to the extent permissible 
+under the law, to deny benefits to those 
+who are a risk to public safety and 
+national security. This rulemaking ends 
+the practice of automatically extending 
+the validity of employment 
+authorization documents, so that DHS 
+can take appropriate action before an 
+immigration benefit is again provided to 
+an alien. 
+The need to conduct complete and 
+thorough vetting of applicants for 
+renewal EADs to mitigate potential risks 
+to public safety and national security 
+became abundantly clear on June 1, 
+2025, when an alien firebombed and 
+assaulted demonstrators at a peaceful 
+Jewish event to support hostages in 
+Gaza.
+99 The alien threw Molotov 
+cocktails that burned multiple victims, 
+and his attack injured 15 people.100 The 
+alien had entered the United States in 
+August 2022 and remained in the 
+United States beyond the expiration of 
+his nonimmigrant status.
+101 He applied 
+for asylum in September 2022, and that 
+application was still pending at the time 
+of the attack.
+102 He also obtained an 
+EAD based on a pending asylum 
+application which was then 
+automatically extended for a period of 
+up to 540 days.
+103 This attack by an 
+alien against peaceful demonstrators 
+highlights the critical need and urgency 
+to ensure that aliens are not provided 
+immigration benefits in the United 
+States without thorough vetting and 
+more frequent determinations of 
+continued eligibility and, when 
+applicable, determinations that the alien 
+continues to merit a favorable exercise 
+of discretion. 
+DHS has determined that the 
+automatic extension of EADs provides a 
+significant benefit to aliens without 
+adequate vetting and is therefore not 
+consistent with the E.O.s and the 
+administration’s priorities. The 
+automatic extension of an EAD grants 
+the benefit of extending an alien’s 
+expired EAD and/or employment 
+authorization merely by filing a timely 
+renewal EAD application and without 
+first completing adjudicative review and 
+related vetting, including resolution of 
+any derogatory information identified 
+during the vetting process. That is, it 
+grants the benefit without a concurrent 
+eligibility determination; without 
+concurrently completing vetting and 
+screening checks; without resolving 
+potential hits of derogatory information 
+in connection with the alien; and 
+without a determination that the 
+employment authorization should be 
+renewed in the exercise of discretion, 
+when applicable. As stated previously, 
+without this IFR, aliens could still 
+obtain an automatic extension despite 
+derogatory information that could flag 
+them as a national security or public 
+safety risk. The automatic extension 
+therefore poses a security vulnerability 
+that could allow bad actors to continue 
+to work and generate income to 
+potentially finance nefarious activities 
+that pose an imminent threat to the 
+American public. 
+For these reasons, DHS is amending 
+its regulations to no longer provide 
+automatic extension of EADs for 
+renewal applicants who have timely 
+filed Form I–765, Application for 
+Employment Authorization (Form I– 
+765). See new 8 CFR 274a.13(e). 
+2. Impact of the EAD Automatic
+Extension Final Rule on Employment
+Authorization Eligibility
+In addition to concerns with vetting to 
+better protect the safety and security of 
+the United States, DHS, and specifically 
+USCIS, is charged with ensuring that 
+only those aliens who are eligible are 
+granted employment authorization and/ 
+or an EAD. This was highlighted in 
+E.O.14159, Protecting the American 
+People Against Invasion, where the 
+Secretary was directed to ensure ‘‘that 
+employment authorization is provided 
+in a manner consistent with section 
+274A of the INA (8 U.S.C. 1324a), and 
+that employment authorization is not 
+provided to any unauthorized alien in 
+the United States.’’
+104 
+As stated previously, prior DHS rules 
+codified automatically extending 
+employment authorization and/or an 
+EAD for a period of up to 540 days. This 
+grant occurs before USCIS determined 
+that the alien continues to be eligible for 
+the benefit sought and, when applicable, 
+continues to merit a favorable exercise 
+of discretion. For the reasons discussed 
+above, DHS now believes this is a 
+security vulnerability, and that the risk 
+posed by such a vulnerability outweighs 
+the benefit provided by automatically 
+extending employment authorization 
+and/or EADs. Furthermore, with 
+automatic extensions of employment 
+authorization and/or EADs, employers 
+are more vulnerable to inadvertently 
+employ aliens that do not have 
+employment authorization because the 
+VerDate Sep<11>2014 15:43 Oct 29, 2025 Jkt 268001 PO 00000 Frm 00010 Fmt 4700 Sfmt 4700 E:\FR\FM\30OCR1.SGM 30OCR1lotter on DSK11XQN23PROD with RULES1
+--- page 10 ---
+48809 Federal Register / Vol. 90, No. 208 / Thursday, October 30, 2025 / Rules and Regulations 
+105 See 89 FR 24628, 24648 (Apr. 8, 2024). 
+106 Increasing the automatic extension period also 
+frustrates the ability of state agencies to issue 
+benefits such as driver’s licenses for aliens, but also 
+for others owing to the delays that seeking SAVE 
+verification of immigration status causes. See 89 FR 
+101208, 101240 (explaining that a commenter 
+raised a concern that, although USCIS is making 
+improvements to the SAVE system, many cases 
+presented to front-line motor vehicle service clerks 
+require additional verifications that cannot be 
+verified at the time of transaction if the document 
+presented to show immigration status is an 
+automatically extended EAD. Manual verification 
+by SAVE (also called ‘‘additional verification’’) can 
+require applicants to revisit service locations to 
+repeat transactions and disrupt the ability of the 
+states to serve other customers as they explain the 
+need for additional verification). 
+107 See USCIS, Annual Statistical Report FY2023, 
+p.14 (acknowledging that in ‘‘FY 2023, USCIS 
+received over 3.5 million applications for 
+employment authorization, 50 percent more than 
+the previous year, and completed over 3.4 million 
+applications, 45 percent more than in FY 2022.’’), 
+https://www.uscis.gov/sites/default/files/document/ 
+reports/fy2023_annual_statistical_report.pdf. 
+108 90 FR 8443, 8446. 
+109 See 90 FR 8443, 8446. 
+110 See, e.g., Termination of Parole Processes for 
+Cubans, Haitians, Nicaraguans, and Venezuelans, 
+90 FR 13611 (Mar. 25, 2025); Termination of the 
+October 3, 2023 Designation of Venezuela for 
+Temporary Protected Status, 90 FR 9040 (Feb. 5, 
+2025); Special Immigrant Juvenile Classification 
+and Deferred Action, USCIS Policy Alert (June 6, 
+2025) https://www.uscis.gov/sites/default/files/ 
+document/policy-manual-updates/20250606- 
+SIJDeferredAction.pdf (last accessed June 13, 2025). 
+111 DHS acknowledges that the loss of 
+employment authorization for asylum applicants 
+may pose additional challenges given that they may 
+be in a precarious financial situation due to 
+circumstances such as fleeing persecution in their 
+home country. See 89 FR at 101224. 
+112 DHS also acknowledges that a valid EAD may 
+be necessary for certain aliens, such as for asylees 
+and TPS beneficiaries, for proof of identity or 
+immigration status to establish identity for purposes 
+such as obtaining a REAL ID-compliant driver’s 
+license or identification card. See 89 FR at 101225; 
+see Real ID Act of 2005, Public Law 109–13, div. 
+B. Title II, Sec. 201(3) (May 11, 2005); 6 CFR 
+37.11(c). Following the full implementation of 
+REAL ID requirements, if an individual chooses to 
+present a state-issued driver’s license or 
+identification card for defined official purposes, 
+including access to certain Federal facilities and 
+boarding federally regulated commercial aircrafts, 
+the driver’s license or identification card must be 
+REAL–ID compliant. DHS reasoned that without the 
+automatic extension of the EAD, these aliens may 
+not be able to obtain REAL–ID compliant driver’s 
+licenses or identification cards. Given the security 
+posture of this country at this time, DHS believes 
+it is utterly unwise to allow aliens, such as the alien 
+in Boulder, Colorado, who was an asylum 
+applicant, to obtain identification cards and driver’s 
+licenses based on an expired EAD that is 
+automatically extended by a Form I–797C receipt 
+notice that was issued without having more 
+recently assessed the alien’s continued eligibility 
+and potential for security risk—especially if these 
+REAL ID cards provide access to Federal Facilities 
+and our airports. 
+employer is dependent on the 
+truthfulness of the alien in reporting 
+whether the renewal EAD request was 
+approved or denied prior to the end of 
+the 540-day automatic extension. 
+During the prior rulemakings, DHS 
+has recognized the risks associated with 
+lengthy automatic extension of 
+employment authorization; DHS 
+acknowledged that the longer the period 
+of time before an employer has to 
+reverify an alien employee whose 
+employment authorization is 
+automatically extended, the greater the 
+risk that the employer could 
+unknowingly employ someone whose 
+employment authorization has 
+ended.
+105 Renewal EAD applications are 
+filed by the alien, so employers do not 
+typically know when or if the 
+application is approved or denied; 
+employers rely on the employee to 
+provide the information. The employer 
+also relies on a non-secure document 
+presented by the alien when the alien’s 
+employment authorization is based on 
+an automatic extension.
+106 
+B. Administration Policies To Reduce 
+EAD Filings Overall 
+As discussed above, there was an 
+unprecedented flood of illegal 
+immigration into the United States 
+during the prior administration. This, in 
+turn, encouraged a historically high 
+influx of EAD applications, resulting in 
+over three million applications being 
+filed within one year.
+107 The 
+overwhelming flood of EAD applicants 
+bogged down USCIS processing times 
+and adjudicative resources. 
+It is the policy of the Trump 
+Administration ‘‘to faithfully execute 
+the immigration laws against all 
+inadmissible and removable aliens, 
+particularly those aliens who threaten 
+the safety or security of the American 
+people.’’
+108 Pursuant to this policy, the 
+Secretary of DHS, in collaboration with 
+the Secretary of State and the Attorney 
+General have been directed by the 
+President to ‘‘rescind the policy 
+decisions of the previous administration 
+that led to the increased or continued 
+presence of illegal aliens in the United 
+States, and align any and all 
+departmental activities with the policies 
+set out by this order and the 
+immigration laws’’ including by 
+‘‘ensuring that the parole authority 
+under section 212(d)(5) of the INA (8 
+U.S.C. 1182(d)(5)) is exercised on only 
+a case-by-case basis in accordance with 
+the plain language of the statute’’ and by 
+‘‘ensuring that designations of 
+Temporary Protected Status are 
+consistent with the provisions of section 
+244 of the INA (8 U.S.C. 1254a), and 
+that such designations are appropriately 
+limited in scope and made for only so 
+long as may be necessary to fulfill the 
+textual requirements of that statute.’’
+109 
+DHS has already taken a number of 
+actions in support of these directives.110 
+Accordingly, DHS does not anticipate a 
+further influx of initial and renewal 
+EAD applications that will overwhelm 
+USCIS adjudicative resources. Thus, in 
+addition to the serious concerns relating 
+to automatic EAD extensions discussed 
+previously, given that DHS has taken 
+the above described measures 
+addressing floods of filings from TPS 
+and other applicants, DHS expects that 
+overall EAD filing rates (initials and 
+renewals) are likely to substantially 
+decline, freeing up adjudicative 
+resources to reduce renewal EAD 
+processing times and the need for 
+renewal EAD applicants in the longer 
+term to rely on an automatic extension 
+of their EAD to avoid lapses in 
+employment authorization and/or EADs 
+due to processing delays. 
+C. IFR Impact on Aliens and Employers 
+1. Reliance Interests 
+DHS is cognizant that the current 
+regulatory and policy framework 
+involving renewal EAD applications and 
+automatic extensions may have 
+engendered reliance interests. Aliens, 
+their families, and employers may have 
+relied on the automatic extensions to 
+maintain the alien’s continuous 
+employment authorization and/or EADs 
+and to avoid lapses in employment 
+authorization that may be detrimental to 
+the alien, their family’s finances, and 
+their employer’s operations.
+111 Some 
+aliens may have also relied on the 
+automatic extension of their EAD to 
+obtain other forms of identification, 
+such as driver’s licenses.
+112 DHS is 
+mindful of the disruption that may 
+occur when employment authorization 
+and/or EADs temporarily lapse. 
+However, as explained below, DHS 
+believes that the weight of these 
+interests is significantly diminished by 
+various factors, and therefore, that the 
+government’s interests and policy 
+concerns underlying this rulemaking 
+outweigh these interests. DHS notes that 
+with this rule, DHS is merely 
+discontinuing the practice of providing 
+an automatic extension of the EAD or 
+employment authorization upon the 
+filing of a renewal EAD application, 
+because it grants a benefit without an 
+eligibility determination, without 
+completing vetting and screening 
+checks, and without resolving the 
+potential hits and derogatory 
+information. This IFR does not remove 
+the ability of aliens to obtain a renewal 
+of their EADs and/or employment 
+authorization. DHS is also not 
+preventing eligible aliens from obtaining 
+EADs for purposes such as proof of 
+identity. 
+VerDate Sep<11>2014 15:43 Oct 29, 2025 Jkt 268001 PO 00000 Frm 00011 Fmt 4700 Sfmt 4700 E:\FR\FM\30OCR1.SGM 30OCR1lotter on DSK11XQN23PROD with RULES1
+--- page 11 ---
+48810 Federal Register / Vol. 90, No. 208 / Thursday, October 30, 2025 / Rules and Regulations 
+113 See 89 FR 101208, 101232–33. 
+114 See 89 FR 24628, 24648. 
+115 SAVE is a program administered by USCIS 
+and is used by Federal, state, and local benefit 
+granting agencies to verify the immigration status of 
+their benefit applicants in order for the agency to 
+determine eligibility for the benefits they 
+administer. See USCIS, About SAVE, https://
+www.uscis.gov/save/about-save/about-save (last 
+visited June 16, 2025). 
+Furthermore, DHS and USCIS have 
+been provided with considerable 
+flexibility by Congress under sections 
+103(a) and 274A of the INA, 8 U.S.C. 
+1103(a) and 1324a, among other 
+provisions, to administer and enforce 
+the INA, including the granting of 
+employment authorization and the 
+issuance of EADs. There is no explicit 
+statutory mandate that requires DHS to 
+provide an automatic extension of EAD 
+validity and/or employment 
+authorization for aliens filing renewal 
+EAD applications under 8 CFR 
+274a.12(a) or (c). 
+Additionally, the issuance of a 
+renewal EAD and/or employment 
+authorization depends in large part on 
+the applicant’s timely filing of a renewal 
+EAD application. The proper planning 
+by the alien and the employer, and 
+monitoring of EAD processing times, 
+may allow the alien to timely file a 
+renewal EAD application as soon as 
+eligible, thus mitigating the risk for the 
+alien, the alien’s family, as well as the 
+employer that the alien will experience 
+prolonged lapses in their EAD validity 
+and/or employment authorization. 
+Proper planning may ameliorate the risk 
+of losing valid employment 
+authorization, as well as the disruption 
+and associated instability with business 
+continuity or other financial harm for 
+employers and the community as a 
+whole. 
+DHS believes this rule will increase 
+the security posture of the United States 
+as an alien’s EAD validity and 
+employment authorization will only be 
+extended based on the issuance of a 
+secure document issued after USCIS has 
+determined that the applicant is eligible 
+for the renewal EAD and warrants a 
+favorable exercise of discretion, if 
+applicable. As DHS noted in the 2024 
+Final Rule
+113 and the preceding 2024 
+Temporary Final Rule,114 DHS opted for 
+an automatic extension period of no 
+more than 540 days, to limit the amount 
+of time employers would have to rely on 
+a non-secure document, such as Form I– 
+797C, Notice of Action, to assess the 
+applicability of the automatic extension 
+and run the risk of unwittingly 
+continuing to employ a worker whose 
+employment authorization is in fact no 
+longer valid. Having one document 
+only—a secure EAD card—may 
+eliminate confusion for employers and 
+other agencies for purposes of Form I– 
+9 verification, issuing of driver licenses, 
+or other benefits in the United States. 
+This helps ensure that only aliens 
+whose eligibility has been fully 
+determined and background vetted are 
+in possession of this important 
+document that has the potential to grant 
+access to many locations, including 
+federal facilities and airports. 
+Thus, DHS believes the benefits of 
+this rule to the United States outweigh 
+any reliance interests held by the alien, 
+his or her family, the employer or the 
+public at-large in the automatic 
+extensions of EADs to avoid temporary 
+lapses in employment authorization 
+and/or EADs. The Federal Government 
+has a duty to protect U.S. national 
+security, public safety, and the integrity 
+of immigration benefits, and more 
+specific to this rule, to better ensure that 
+employment authorization is provided 
+in a manner consistent with prohibiting 
+the unlawful employment of aliens and 
+is granted only after a determination is 
+made that the alien continues to be 
+eligible and, when applicable, continues 
+to merit a favorable exercise of 
+discretion. Any reliance interest in the 
+current regulatory framework and policy 
+does not outweigh the need to protect 
+public safety and the integrity of 
+immigration benefits and employment 
+authorization. 
+2. Alternatives Considered 
+DHS considered returning to the up to 
+180-day automatic extension period, 
+issuing interim EAD cards again, or 
+delaying the issuance of this rule. DHS 
+recognizes that these measures might 
+reduce the impact on the affected 
+regulated public and the public as a 
+whole. However, these alternatives 
+suffer the same flaws as the up to 540- 
+day automatic extension. The automatic 
+extension of an EAD, whether for 180 
+days, 540 days, or through the issuance 
+of an interim EAD, grants the benefit of 
+extending an alien’s expired EAD and/ 
+or employment authorization merely by 
+filing a timely renewal EAD application 
+and without USCIS first completing 
+adjudicative review and related vetting 
+for the renewal, including resolution of 
+any derogatory information identified 
+during the vetting process. That is, it 
+grants the benefit without an eligibility 
+determination, without resolving 
+potential hits of derogatory information 
+in connection with the aliens, and 
+without a determination that the 
+employment authorization should be 
+granted in the exercise of discretion, 
+when applicable. If DHS pursued these 
+options, aliens with derogatory 
+information flagged during the 
+background check process would 
+nevertheless still obtain an automatic 
+extension of 180 days, or an interim 
+EAD, even if derogatory information 
+cannot be reviewed and resolved, and 
+their application denied, before the 
+alien’s EAD expires. These automatic 
+extensions therefore pose a security 
+vulnerability that could allow bad actors 
+to continue to work and generate 
+income to potentially finance nefarious 
+activities that pose an imminent threat 
+to the American public. 
+3. Employment Authorization 
+Verification 
+This rule does not modify the current 
+requirements an employer must follow 
+for Form I–9 at 8 CFR 274a.2(b)(1)(vii) 
+for reverifying employment 
+authorization and documentation. 
+USCIS, in general, issues Form I–797C, 
+Notices of Action for any benefit request 
+USCIS receives. The I–797C 
+acknowledges receipt of the benefit 
+request, to include the filing date, and 
+provides general information to the 
+applicant. To conform to the changes 
+made by this rule, Notices of Action 
+issued on or after October 30, 2025, will 
+no longer contain information regarding 
+automatic extensions of employment 
+authorization documentation. Instead, 
+USCIS will add appropriate information 
+to the Notices of Action clearly 
+indicating that the document is not 
+evidence of employment authorization 
+and cannot be used by itself or in 
+conjunction with an expired EAD as 
+proof of employment authorization. 
+USCIS will also update I–9 Central on 
+the USCIS website and the Handbook 
+for Employers, M–274 to provide 
+employees and employers with specific 
+guidance on Form I–9 completion. 
+DHS will also inform other agencies 
+that renewal EAD applicants will no 
+longer receive an automatic extension of 
+their EAD and/or employment 
+authorization if they file their renewal 
+EAD application on or after October 30, 
+2025. See 8 CFR 274a.13(e). If another 
+agency accepts EADs for any purposes 
+(such as identity or, in some situations, 
+immigration status), then the agency 
+should generally no longer consider as 
+valid any unexpired EADs that bear a 
+date that demonstrates that the EAD is 
+expired (that are ‘‘facially expired’’), 
+unless the applicant presents a Form I– 
+797C, Notice of Action Receipt 
+demonstrating that the alien had timely 
+(such as, before the EAD expired) filed 
+a renewal EAD application before 
+October 30, 2025. Benefits granting 
+agencies that are registered to use the 
+SAVE
+115 program to verify immigration 
+status will receive a result that indicates 
+VerDate Sep<11>2014 15:43 Oct 29, 2025 Jkt 268001 PO 00000 Frm 00012 Fmt 4700 Sfmt 4700 E:\FR\FM\30OCR1.SGM 30OCR1lotter on DSK11XQN23PROD with RULES1
+--- page 12 ---
+48811 Federal Register / Vol. 90, No. 208 / Thursday, October 30, 2025 / Rules and Regulations 
+116 For example, in the case of an asylee, the 
+SAVE response is ‘‘asylee EA indefinite.’’ 
+117 See INA sec. 214(c)(2)(E), 8 U.S.C. 
+1184(c)(2)(E). 
+118 In this case, the new status expiration date is 
+the date stated on the alien’s Form I–94, Arrival 
+Departure document. 
+119 An L–2 can still have other evidence of 
+documentation of work authorization, such as a 
+Form I–94, Arrival/Departure Record, designated 
+with the L–2S classification. 
+120 Employment authorization granted pursuant 
+to 8 CFR 274a.12(c) is generally granted in the 
+discretion of the Secretary. See 8 CFR 274a.13(a)(1) 
+(‘‘The approval of applications filed under 8 CFR 
+274a.12(c), except for 8 CFR 274a.12(c)(8), are 
+within the discretion of USCIS.’’). 
+121 For example, employment authorization may 
+also end prior to the expiration date displayed on 
+the EAD, in accordance with 8 CFR 274a.14, if 
+exclusion or deportation proceedings are instituted 
+against the alien; if a condition upon which the 
+EAD was granted has not been met or no longer 
+exists; or upon a showing that the information 
+contained in the request for an EAD was not true 
+and correct. 
+122 See 89 FR 101208 (Dec. 13, 2024). 
+an expiration date of employment 
+authorization (if any) 116 that does not 
+include the up to 540-day automatic 
+extension period. 
+D. Conclusion 
+Ending the practice of providing 
+automatic extension of employment 
+authorization documents enhances 
+benefit integrity in adjudications of 
+work authorization requests and will 
+better protect public safety and national 
+security by ensuring that aliens are 
+properly vetted and determined to 
+continue to be eligible, and when 
+applicable, merit a favorable exercise of 
+discretion, for employment 
+authorization before such authorization 
+is provided to the alien. 
+E. Description of Regulatory Changes: 
+Adding New 8 CFR 274a.13(e) and 
+Modifying the Heading of 8 CFR 
+274a.13(d) 
+1. Adding New 8 CFR 274a.13(e) 
+With this IFR, DHS is amending 8 
+CFR 274a.13 to add a new paragraph (e) 
+that will be in effect immediately with 
+the publication of this rule. With the 
+new paragraph, DHS is eliminating the 
+practice of providing automatic 
+extension periods for EAD validity and/ 
+or employment authorization for up to 
+540 days for renewal applications filed 
+on or after October 30, 2025. Therefore, 
+renewal EAD applicants will no longer 
+receive an up to 540-day automatic 
+extension of their EAD and/or 
+employment authorization if they file 
+their application on or after October 30, 
+2025. See new 8 CFR 274a.13(e). 
+Except as otherwise provided by law, 
+in 8 CFR 274a.13(d), or in accordance 
+with applicable Federal Register notice 
+regarding procedures for renewing TPS- 
+related employment documentation, an 
+alien’s EAD validity and/or an alien’s 
+attendant employment authorization 
+will expire as follows: For those aliens 
+who are employment authorized 
+incident to status under 8 CFR 
+274a.12(a), unless otherwise provided 
+by law, their EAD will expire on the 
+date after the end validity date stated on 
+the face of the EAD. See new 8 CFR 
+274a.13(e)(1). Because the alien’s 
+employment authorization is tied to the 
+alien’s status in the United States, the 
+employment authorization will expire 
+or terminate when the alien’s status in 
+the United States expires or terminates. 
+For example, an alien in L–2 
+nonimmigrant status as the spouse of an 
+L–1 nonimmigrant is employment 
+authorized incident to status.
+117 If the 
+L–2 nonimmigrant chooses to apply for 
+an EAD to evidence his or her 
+employment authorization, the EAD 
+will expire as of the date indicated on 
+the EAD card. In some cases that may 
+be the same date as the expiration of the 
+L–2’s nonimmigrant status. But in other 
+cases, the L–2 status expiration date 
+may be after the EAD expiration date, 
+particularly if the L–2 nonimmigrant 
+travelled outside of the United States 
+after obtaining an EAD and, upon return 
+to the United States, was provided a 
+new status expiration date that will 
+expire after the EAD expires.
+118 In that 
+scenario, the L–2 nonimmigrant would 
+remain employment authorized while in 
+L–2 nonimmigrant status, even after the 
+EAD expires, but the expired EAD 
+would no longer be a valid document to 
+evidence the L–2 nonimmigrant’s 
+employment authorization.
+119 Once the 
+alien is no longer in L–2 status (for 
+example, the L–2 nonimmigrant status 
+expires), the alien would no longer be 
+employment authorized as an L–2 
+nonimmigrant because such 
+employment authorization is dependent 
+on being in L–2 nonimmigrant status. 
+For aliens who are not employment 
+authorized incident to their immigration 
+status and who instead must obtain 
+employment authorization from USCIS 
+pursuant to 8 CFR 274a.12(c), before 
+accepting employment in the United 
+States, such as adjustment of status 
+applicants or aliens with a pending 
+asylum application, USCIS determines 
+the length of the period of employment 
+authorization in the exercise of its 
+discretion and thereafter, issues an EAD 
+reflecting the validity period.
+120 
+Therefore, the EAD will expire and the 
+employment authorization will 
+terminate the day after the end validity 
+date stated on the face of the EAD, in 
+the situations outlined in 8 CFR 
+274a.14, or for TPS applicants pursuant 
+to section 244 of the Act and 8 CFR part 
+244.
+121 See new 8 CFR 274a.13(e)(2). 
+For example, an alien with a pending 
+adjustment of status application (Form 
+I–485) is in possession of an EAD that 
+expires on December 15, 2025. The 
+alien’s adjustment of status application 
+has not yet been adjudicated and 
+continues to be pending. The alien is 
+eligible to apply for a renewal EAD 
+based on the pending adjustment of 
+status application. The alien applies for 
+a renewal of the EAD after October 30, 
+2025. The alien will maintain 
+continuous employment authorization if 
+his or her renewal application is granted 
+by the time his or her current 
+employment authorization expires on 
+December 15, 2025. If the renewal EAD 
+application remains unadjudicated on 
+December 16, 2025, the alien cannot 
+continue to work for his or her employer 
+on or after December 16, 2025, unless 
+the alien is employment authorized on 
+a separate basis. See new 8 CFR 
+274a.13(e). If the renewal EAD 
+application is subsequently approved, 
+the alien would again be employment 
+authorized and may resume 
+employment during the validity period 
+stated on the new EAD. The longer an 
+alien waits to file a renewal EAD 
+application, the more likely it is that he 
+or she may experience a temporary 
+lapse in his or her EAD validity and/or 
+employment authorization. 
+2. Modifying the Heading of 8 CFR 
+274a.13(d) 
+On December 13, 2024, DHS 
+published a final rule amending 8 CFR 
+274a.13(d) to permanently increase the 
+automatic extension period for certain 
+employment authorization and/or EAD 
+validity. The rule became effective on 
+January 13, 2025.
+122 DHS is retaining 
+the provision granting an automatic 
+extension for those aliens who had 
+timely filed a renewal EAD request and 
+who meet the requirements of 8 CFR 
+274a.13(d). To avoid confusion between 
+the automatic extension period granted 
+under 8 CFR 274a.13(d) for those 
+renewal EAD requests filed prior to 
+October 30, 2025, and those filed after 
+the publication of this rule, DHS is 
+amending existing 8 CFR 274a.13(d) by 
+revising the paragraph’s heading to 
+reflect that the paragraph applies to 
+renewal requests properly filed before 
+October 30, 2025. With this IFR, DHS is 
+not otherwise amending the provision. 
+This will ensure that this IFR does not 
+retroactively affect those aliens who 
+have already timely and properly filed 
+a renewal EAD application before 
+VerDate Sep<11>2014 15:43 Oct 29, 2025 Jkt 268001 PO 00000 Frm 00013 Fmt 4700 Sfmt 4700 E:\FR\FM\30OCR1.SGM 30OCR1lotter on DSK11XQN23PROD with RULES1
+--- page 13 ---
+48812 Federal Register / Vol. 90, No. 208 / Thursday, October 30, 2025 / Rules and Regulations 
+123 If an adjustment of status applicant’s (C09) 
+EAD card is combined with the advance parole 
+authorization, i.e., the applicant is issued a combo 
+card (in this case, the EAD itself has an annotation 
+‘‘SERVES AS I–512 ADVANCE PAROLE’’), the up- 
+to 540-day automatic extension under 8 CFR 
+274a.13(d) does not apply to the advance parole 
+part of the applicant’s combo card. 
+124 See Nat. Res. Def. Council v. Nat’l Highway 
+Traffic Safety Admin, 894 F.3d 95, 114 (2d Cir. 
+2018); see Jifry v. FAA, 370 F.3d 1174, 1179 (D.C. 
+Cir. 2004) (finding good cause for the promulgation 
+of security rules in the aftermath of 9/11 terrorist 
+attacks); see also Util. Solid Waste Activities Grp. 
+v. EPA, 236 F.3d 749 (D.C. Cir. 2001). 
+125 See State of New Jersey v. EPA, 626 F.2d 1038, 
+1045 (D.C. Cir. 1980); see also Am. Fed. Gov’t Emps. 
+v. Block, 655 F.2d 1153, 1156 (D.C. Cir. 1981) (‘‘As 
+the legislative history of the APA makes clear, 
+moreover, the exceptions at issue here are not 
+‘escape clauses’ that may be arbitrarily utilized at 
+the agency’s whim. Rather, use of these exceptions 
+by administrative agencies should be limited to 
+emergency situations . . .’’). 
+126 See U.S. v. Dean, 604 F.3d 1275, 1379 (11th 
+Cir. 2010); United States Steel Corp. v. United 
+States Environmental Protection Agency, 595 F.2d 
+207, 214 (5th Cir. 1979). 
+127 See, e.g., Jifry v. FAA, 370 F.3d 1174, 1179– 
+90 (D.C. Cir. 2004) (excusing APA 553 procedures 
+for a regulation governing the suspension and 
+revocation of airman certificates of aliens for 
+security reasons, finding that the agency had 
+legitimate concerns over the threat of further 
+terrorist acts involving aircrafts, and that notice and 
+comment would have delayed the ability of TSA 
+and the FAA to take effective action); see also Tri- 
+Cty. Tel. Ass’n, Inc. v. FCC, 999 F.3d 714, 719–20 
+(D.C. Cir. 2021) (per curiam) (sustaining a finding 
+of good cause because the damage from hurricanes 
+and upcoming hurricanes created an emergency 
+sufficient to make notice and comment 
+impracticable to issue funds). 
+128 See Jifry v. FAA, 370 F.3d 1174, 1179 (D.C. 
+Cir. 2004). 
+129 See Council of the S. Mountains, Inc. v. 
+Donovan, 653 F.2d 573, 581 (D.C. Cir. 1981). 
+130 See United States v. Dean, 604 F.3d 1275 
+(11th Cir. 2010) (finding that the Attorney General’s 
+public safety justification was good cause for 
+bypassing the notice and comment requirements of 
+the Administrative Procedure Act (APA) in 
+promulgating interim rule making the Sex Offender 
+Registration and Notification Act (SORNA) 
+registration retroactive to all sex offenders 
+convicted prior to SORNA’s enactment). 
+131 See Malek-Marzban v. Immigr. & 
+Naturalization Serv., 653 F.2d 113, 116 (4th Cir. 
+1981) (Upholding the agency’s finding that notice 
+and comment procedures were impracticable, 
+unnecessary, and contrary to the public interest 
+when swift action was needed to regulate the 
+presence of aliens in light of the urgency of the 
+international crisis.’’). 
+October 30, 2025. For these aliens, an 
+EAD that appears on its face to be 
+expired (‘‘facially expired’’) is 
+considered unexpired under this IFR for 
+up to 540-days from the expiration date 
+on the front of the EAD when combined 
+with a Notice of Action (Form I–797C) 
+indicating timely filing (i.e., the receipt 
+notice for the Form I–765 issued by 
+USCIS has a receipt date that is prior to 
+the expiration date on the EAD case and 
+before October 30, 2025) of the renewal 
+application based on the same 
+employment eligibility category as 
+stated on the facially expired EAD (or in 
+the case of an EAD and I–797C notice 
+that contains either an A12 or C19 
+category code, the category codes need 
+not match). In those cases, the alien’s 
+facially expired EAD is considered 
+unexpired for the up to 540-day period 
+from the date of the EAD.
+123 USCIS will 
+update the web page on the USCIS 
+website with the appropriate 
+information. USCIS will also update I– 
+9 Central on the USCIS website and the 
+Handbook for Employers, M–274, to 
+provide employers and employees with 
+additional guidance. 
+DHS also reminds the public that the 
+automatic extension applies to EADs; 
+therefore, if another agency accepts 
+unexpired EADs for any purposes (such 
+as establishing identity or, in some 
+situations, immigration status) then the 
+agency should generally accept the 
+EADs that are automatically extended 
+under 8 CFR 274a.13(d). That is even if 
+the EAD presented by the alien is 
+facially expired, the EAD is 
+automatically extended if the alien can 
+present a Form I–797C receipt notice 
+which indicates that the alien timely 
+filed (i.e., before the EAD expired) a 
+renewal EAD application before October 
+30, 2025. 
+Finally, DHS also reminds aliens that 
+under existing 8 CFR 274a.13(d), DHS 
+retains the ability to otherwise terminate 
+any employment authorization and/or 
+EAD, or extension period for such 
+employment authorization and/or EAD, 
+by written notice to the applicant, by 
+notice to a class of aliens published in 
+the Federal Register, or as provided by 
+statute or regulation, including 8 CFR 
+274a.14. 
+F. Severability 
+In issuing this IFR, it is DHS’s 
+intention that the rule’s various 
+provisions be considered severable from 
+one another to the greatest extent 
+possible. For instance, if a court of 
+competent jurisdiction were to hold that 
+ending the practice of automatically 
+extending the validity of employment 
+authorization and/or EADs for aliens 
+who have timely filed an application to 
+renew their employment authorization 
+and/or EAD in certain employment 
+categories may only be applied to a 
+particular category of renewal EAD 
+applicants or in a particular 
+circumstance, DHS would intend for the 
+court to leave the remainder of the rule 
+in place with respect to all other 
+covered persons and circumstances. 
+DHS’ overarching goal is to militate 
+against threats to national security and 
+public safety and to ensure that 
+employment authorization and/or EADs 
+are provided only after USCIS conducts 
+adequate vetting and determines that 
+the alien continues to be eligible and, 
+when applicable, merits a favorable 
+exercise of discretion. 
+V. Statutory and Regulatory 
+Requirements 
+A. Administrative Procedure Act 
+DHS has issued this IFR without prior 
+notice or public procedure because DHS 
+is invoking the ‘‘good cause’’ exception 
+of the APA. See 5 U.S.C. 553(b)(B). 
+Furthermore, the regulatory amendment 
+involves a foreign affairs function under 
+5 U.S.C. 553(a)(1). For the same reasons, 
+a delayed effective date is not required 
+under 5 U.S.C. 553(d)(3). 
+1. Good Cause 
+An agency may forgo notice and 
+comment rulemaking and a delayed 
+effective date when the agency ‘‘for 
+good cause finds . . . that notice and 
+public procedure thereon are 
+impracticable, unnecessary, or contrary 
+to the public interest.’’ See 5 U.S.C. 
+553(b)(B). Likewise, section 553(d)’s 
+requirement of 30-day advance 
+publication may be waived by the 
+agency for good cause found and 
+published with the rule. See 5 U.S.C. 
+553(d)(3). 
+The ‘‘impracticable’’ prong of the 
+good cause exception excuses notice 
+and comment in emergency situations, 
+or where the delay caused by the APA’s 
+notice and comment procedures would 
+result in serious harm to life, property 
+or an immediate threat to public 
+safety.
+124 Although the good cause 
+exception is ‘‘narrowly construed and 
+only reluctantly countenanced,’’125 it is 
+an important safety valve to be used 
+where delay caused by notice and 
+comment would do real harm (even 
+absent an emergency situation).
+126 An 
+agency may find that advance notice 
+and comment or a delayed effective date 
+is ‘‘impracticable’’ when undertaking 
+such procedure would impede due and 
+timely execution of an important agency 
+function.
+127 For example, courts have 
+explained that notice and comment 
+rulemaking may be impracticable 
+where, for instance, air travel security 
+would be unable to address threats 
+posing a ‘‘possible imminent hazard to 
+aircraft, persons and property within the 
+United States;’’
+128 if a rule was of life- 
+saving importance to mine workers in 
+the event of a mine explosion; 129 if 
+public safety is jeopardized; 130 or in 
+case of an urgency related to an 
+international crisis and national 
+security.
+131 Impracticability is 
+VerDate Sep<11>2014 15:43 Oct 29, 2025 Jkt 268001 PO 00000 Frm 00014 Fmt 4700 Sfmt 4700 E:\FR\FM\30OCR1.SGM 30OCR1lotter on DSK11XQN23PROD with RULES1

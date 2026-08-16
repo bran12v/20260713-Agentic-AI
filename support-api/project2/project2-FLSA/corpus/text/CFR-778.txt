@@ -1,0 +1,637 @@
+
+29 CFR Part 778 - Overtime Compensation and the Regular Rate
+============================================================
+
+
+§ 778.107 General standard for overtime pay.
+--------------------------------------------
+
+The general overtime pay standard in section 7(a) requires that overtime must be compensated
+at a rate not less than one and one-half times the regular rate at which the employee is
+actually employed. The regular rate of pay at which the employee is employed may in no event
+be less than the statutory minimum. (The statutory minimum is the specified minimum wage
+applicable under section 6 of the Act, except in the case of workers specially provided for
+in section 14 and workers in Puerto Rico, the Virgin Islands, and American Samoa who are
+covered by wage orders issued pursuant to section 8 of the Act.) If the employee's regular
+rate of pay is higher than the statutory minimum, his overtime compensation must be computed
+at a rate not less than one and one-half times such higher rate. Under certain conditions
+prescribed in section 7 (f), (g), and (j), the Act provides limited exceptions to the
+application of the general standard of section 7(a) for computing overtime pay based on the
+regular rate. With respect to these, see §§ 778.400 through 778.421 and 778.601 and part 548
+of this chapter. The Act also provides, in section 7(b), (i), (k) and (m) and in section 13,
+certain partial and total exemptions from the application of section 7(a) to certain
+employees and under certain conditions. Regulations and interpretations concerning these
+exemptions are outside the scope of this part 778 and reference should be made to other
+applicable parts of this chapter.
+
+
+----------------------------------------------------------------------
+
+
+§ 778.108 The “regular rate”.
+-----------------------------
+
+The “regular rate” of pay under the Act cannot be left to a declaration by the parties as to
+what is to be treated as the regular rate for an employee; it must be drawn from what
+happens under the employment contract (Bay Ridge Operating Co. v. Aaron, 334 U.S. 446). The
+Supreme Court has described it as the hourly rate actually paid the employee for the normal,
+nonovertime workweek for which he is employed—an “actual fact” (Walling v. Youngerman-
+Reynolds Hardwood Co., 325 U.S. 419). Section 7(e) of the Act requires inclusion in the
+“regular rate” of “all remuneration for employment paid to, or on behalf of, the employee”
+except payments specifically excluded by paragraphs (1) through (7) of that subsection.
+(These seven types of payments, which are set forth in § 778.200 and discussed in §§ 778.201
+through 778.224, are hereafter referred to as “statutory exclusions.”) As stated by the
+Supreme Court in the Youngerman-Reynolds case cited above: “Once the parties have decided
+upon the amount of wages and the mode of payment the determination of the regular rate
+becomes a matter of mathematical computation, the result of which is unaffected by any
+designation of a contrary ‘regular rate’ in the wage contracts.”
+
+
+----------------------------------------------------------------------
+
+
+§ 778.114 Fluctuating Workweek Method of Computing Overtime.
+------------------------------------------------------------
+
+(a) An employer may use the fluctuating workweek method to properly compute overtime
+compensation based on the regular rate for a nonexempt employee under the following
+circumstances:
+
+(1) The employee works hours that fluctuate from week to week;
+
+(2) The employee receives a fixed salary that does not vary with the number of hours worked
+in the workweek, whether few or many;
+
+(3) The amount of the employee's fixed salary is sufficient to provide compensation to the
+employee at a rate not less than the applicable minimum wage rate for every hour worked in
+those workweeks in which the number of hours the employee works is greatest;
+
+(4) The employee and the employer have a clear and mutual understanding that the fixed
+salary is compensation (apart from overtime premiums and any bonuses, premium payments,
+commissions, hazard pay, or other additional pay of any kind not excludable from the regular
+rate under section 7(e)(l) through (8) of the Act) for the total hours worked each workweek
+regardless of the number of hours, although the clear and mutual understanding does not need
+to extend to the specific method used to calculate overtime pay; and
+
+(5) The employee receives overtime compensation, in addition to such fixed salary and any
+bonuses, premium payments, commissions, hazard pay, and additional pay of any kind, for all
+overtime hours worked at a rate of not less than one-half the employee's regular rate of pay
+for that workweek. Since the salary is fixed, the regular rate of the employee will vary
+from week to week and is determined by dividing the amount of the salary and any non-
+excludable additional pay received each workweek by the number of hours worked in the
+workweek. Payment for overtime hours at not less than one-half such rate satisfies the
+overtime pay requirement because such hours have already been compensated at the straight
+time rate by payment of the fixed salary and non-excludable additional pay. Payment of any
+bonuses, premium payments, commissions, hazard pay, and additional pay of any kind is
+compatible with the fluctuating workweek method of overtime payment, and such payments must
+be included in the calculation of the regular rate unless excludable under section 7(e)(1)
+through (8) of the Act.
+
+(b) The application of the principles stated above may be illustrated by the case of an
+employee whose hours of work do not customarily follow a regular schedule but vary from week
+to week, whose work hours never exceed 50 hours in a workweek, and whose salary of $600 a
+week is paid with the understanding that it constitutes the employee's compensation (apart
+from overtime premiums and any bonuses, premium payments, commissions, hazard pay, or other
+additional pay of any kind not excludable from the regular rate under section 7(e)(1)
+through (8)) for all hours worked in the workweek.
+
+(1) Example. If during the course of 4 weeks this employee receives no additional
+compensation and works 37.5, 44, 50, and 48 hours, the regular rate of pay in each of these
+weeks is $16, $13.64, $12, and $12.50, respectively. Since the employee has already received
+straight time compensation for all hours worked in these weeks, only additional half-time
+pay is due for overtime hours. For the first week the employee is owed $600 (fixed salary of
+$600, with no overtime hours); for the second week $627.28 (fixed salary of $600, and 4
+hours of overtime pay at one-half times the regular rate of $13.64 for a total overtime
+payment of $27.28); for the third week $660 (fixed salary of $600, and 10 hours of overtime
+pay at one-half times the regular rate of $12 for a total overtime payment of $60); for the
+fourth week $650 (fixed salary of $600, and 8 overtime hours at one-half times the regular
+rate of $12.50 for a total overtime payment of $50).
+
+(2) Example. If during the course of 2 weeks this employee works 37.5 and 48 hours and 4 of
+the hours the employee worked each week were nightshift hours compensated at a premium rate
+of an extra $5 per hour, the employee's total straight time earnings would be $620 (fixed
+salary of $600 plus $20 of premium pay for the 4 nightshift hours). In this case, the
+regular rate of pay in each of these weeks is $16.53 and $12.92, respectively, and the
+employee's total compensation would be calculated as follows: For the 37.5 hour week the
+employee is owed $620 (fixed salary of $600 plus $20 of non-overtime premium pay, with no
+overtime hours); and for the 48 hour week $671.68 (fixed salary of $600 plus $20 of non-
+overtime premium pay, and 8 hours of overtime at one-half times the regular rate of $12.92
+for a total overtime payment of $51.68). This principle applies in the same manner
+regardless of the reason for the hourly premium rate (e.g., weekend hours).
+
+(3) Example. If during the course of 2 weeks this employee works 37.5 and 48 hours and the
+employee received a $100 productivity bonus each week, the employee's total straight time
+earnings would be $700 (fixed salary of $600 plus $100 productivity bonus). In this case,
+the regular rate of pay in each of these weeks is $18.67 and $14.58, respectively, and the
+employee's total compensation would be calculated as follows: For the 37.5 hour week the
+employee is owed $700 (fixed salary of $600 plus $100 productivity bonus, with no overtime
+hours); and for the 48 hour week $758.32 (fixed salary of $600 plus $100 productivity bonus,
+and 8 hours of overtime at one-half times the regular rate of $14.58 for a total overtime
+payment of $58.32).
+
+(c) Typically, such fixed salaries are paid to employees who do not customarily work a
+regular schedule of hours and are in amounts agreed on by the parties as adequate
+compensation for long workweeks as well as short ones, under the circumstances of the
+employment as a whole. Where the conditions for the use of the fluctuating workweek method
+of overtime payment are present, the Act, in requiring that “not less than” the prescribed
+premium of 50 percent for overtime hours worked be paid, does not prohibit paying more. On
+the other hand, where all the facts indicate that an employee is being paid for overtime
+hours at a rate no greater than that which the employee receives for nonovertime hours,
+compliance with the Act cannot be rested on any application of the fluctuating workweek
+overtime formula.
+
+(d) The fixed salary described in paragraph (a) of this section does not vary with the
+number of hours worked in the workweek, whether few or many. However, employers using the
+fluctuating workweek method of overtime payment may take occasional disciplinary deductions
+from the employee's salary for willful absences or tardiness or for infractions of major
+work rules, provided that the deductions do not cut into the minimum wage or overtime pay
+required by the Act.
+
+
+----------------------------------------------------------------------
+
+
+§ 778.200 Provisions governing inclusion, exclusion, and crediting of particular payments.
+------------------------------------------------------------------------------------------
+
+(a) Section 7(e). This subsection of the Act provides as follows:
+
+As used in this section the “regular rate” at which an employee is employed shall be deemed
+to include all remuneration for employment paid to, or on behalf of, the employee, but shall
+not be deemed to include: (1) Sums paid as gifts; payments in the nature of gifts made at
+Christmas time or on other special occasions, as a reward for service, the amounts of which
+are not measured by or dependent on hours worked, production, or efficiency; [discussed in §
+778.212]. (2) Payments made for occasional periods when no work is performed due to
+vacation, holiday, illness, failure of the employer to provide sufficient work, or other
+similar cause; reasonable payments for traveling expenses, or other expenses, incurred by an
+employee in the furtherance of his employer's interests and properly reimbursable by the
+employer; and other similar payments to an employee which are not made as compensation for
+his hours of employment; [discussed in §§ 778.216 through 778.224]. (3) Sums paid in
+recognition of services performed during a given period if either, (a) both the fact that
+payment is to be made and the amount of the payment are determined at the sole discretion of
+the employer at or near the end of the period and not pursuant to any prior contract,
+agreement, or promise causing the employee to expect such payments regularly; or (b) the
+payments are made pursuant to a bona fide profit-sharing plan or trust or bona fide thrift
+or savings plan, meeting the requirements of the Secretary of Labor set forth in appropriate
+regulations which he shall issue, having due regard among other relevant factors, to the
+extent to which the amounts paid to the employee are determined without regard to hours of
+work, production, or efficiency; or (c) the payments are talent fees (as such talent fees
+are defined and delimited by regulations of the Secretary) paid to performers, including
+announcers, on radio and television programs; [discussed in §§ 778.208 through 778.215 and
+778.225]. (4) Contributions irrevocably made by an employer to a trustee or third person
+pursuant to a bona fide plan for providing old-age, retirement, life, accident, or health
+insurance or similar benefits for employees; [discussed in §§ 778.214 and 778.215]. (5)
+Extra compensation provided by a premium rate paid for certain hours worked by the employee
+in any day or workweek because such hours are hours worked in excess of eight in a day or in
+excess of the maximum workweek applicable to such employee under subsection (a) or in excess
+of the employee's normal working hours or regular working hours, as the case may be;
+[discussed in §§ 778.201 and 778.202]. (6) Extra compensation provided by a premium rate
+paid for work by the employee on Saturdays, Sundays, holidays, or regular days of rest, or
+on the sixth or seventh day of the workweek, where such premium rate is not less than one
+and one-half times the rate established in good faith for like work performed in nonovertime
+hours on other days; or [discussed in §§ 778.203, 778.205, and 778.206]. (7) Extra
+compensation provided by a premium rate paid to the employee, in pursuance of an applicable
+employment contract or collective bargaining agreement, for work outside of the hours
+established in good faith by the contract or agreement as the basic, normal, or regular
+workday (not exceeding eight hours) or workweek (not exceeding the maximum workweek
+applicable to such employee under subsection (a)), where such premium rate is not less than
+one and one-half times the rate established in good faith by the contract or agreement for
+like work performed during such workday or workweek; [discussed in §§ 778.201 and 778.206].
+(8) Any value or income derived from employer-provided grants or rights provided pursuant to
+a stock option, stock appreciation right, or bona fide employee stock purchase program which
+is not otherwise excludable under any of paragraphs (a)(1) through (a)(7) of this section
+if— (i) Grants are made pursuant to a program, the terms and conditions of which are
+communicated to participating employees either at the beginning of the employee's
+participation in the program or at the time of the grant; (ii) In the case of stock options
+and stock appreciation rights, the grant or right cannot be exercisable for a period of at
+least 6 months after the time of grant (except that grants or rights may become exercisable
+because of an employee's death, disability, retirement, or a change in corporate ownership,
+or other circumstances permitted by regulation), and the exercise price is at least 85
+percent of the fair market value of the stock at the time of grant; (iii) Exercise of any
+grant or right is voluntary; and (iv) Any determinations regarding the award of, and the
+amount of, employer-provided grants or rights that are based on performance are— (A) Made
+based upon meeting previously established performance criteria (which may include hours of
+work, efficiency, or productivity) of any business unit consisting of at least 10 employees
+or of a facility, except that, any determinations may be based on length of service or
+minimum schedule of hours or days of work; or (B) Made based upon the past performance
+(which may include any criteria) of one or more employees in a given period so long as the
+determination is in the sole discretion of the employer and not pursuant to any prior
+contract.
+
+(b) Section 7(h). This subsection of the Act provides as follows:
+
+(1) Except as provided in paragraph (2), sums excluded from the regular rate pursuant to
+subsection (e) shall not be creditable toward wages required under section 6 or overtime
+compensation required under this section. (2) Extra compensation paid as described in
+paragraphs (5), (6), and (7) of subsection (e) of this section shall be creditable toward
+overtime compensation payable pursuant to this section.
+
+(c) Only the statutory exclusions are authorized. It is important to determine the scope of
+these exclusions, since all remuneration for employment paid to employees which does not
+fall within one of these seven exclusionary clauses must be added into the total
+compensation received by the employee before his regular hourly rate of pay is determined.
+
+
+----------------------------------------------------------------------
+
+
+§ 778.208 Inclusion and exclusion of bonuses in computing the “regular rate.”
+-----------------------------------------------------------------------------
+
+Section 7(e) of the Act requires the inclusion in the regular rate of all remuneration for
+employment except eight specified types of payments. Among these excludable payments are
+discretionary bonuses, gifts and payments in the nature of gifts on special occasions,
+contributions by the employer to certain welfare plans and payments made by the employer
+pursuant to certain profit-sharing, thrift and savings plans. These are discussed in §§
+778.211 through 778.214. Bonuses which do not qualify for exclusion from the regular rate as
+one of these types must be totaled in with other earnings to determine the regular rate on
+which overtime pay must be based. Bonus payments are payments made in addition to the
+regular earnings of an employee. For a discussion on the bonus form as an evasive
+bookkeeping device, see §§ 778.502 and 778.503.
+
+
+----------------------------------------------------------------------
+
+
+§ 778.209 Method of inclusion of bonus in regular rate.
+-------------------------------------------------------
+
+(a) General rules. Where a bonus payment is considered a part of the regular rate at which
+an employee is employed, it must be included in computing his regular hourly rate of pay and
+overtime compensation. No difficulty arises in computing overtime compensation if the bonus
+covers only one weekly pay period. The amount of the bonus is merely added to the other
+earnings of the employee (except statutory exclusions) and the total divided by total hours
+worked. Under many bonus plans, however, calculations of the bonus may necessarily be
+deferred over a period of time longer than a workweek. In such a case the employer may
+disregard the bonus in computing the regular hourly rate until such time as the amount of
+the bonus can be ascertained. Until that is done he may pay compensation for overtime at one
+and one-half times the hourly rate paid by the employee, exclusive of the bonus. When the
+amount of the bonus can be ascertained, it must be apportioned back over the workweeks of
+the period during which it may be said to have been earned. The employee must then receive
+an additional amount of compensation for each workweek that he worked overtime during the
+period equal to one-half of the hourly rate of pay allocable to the bonus for that week
+multiplied by the number of statutory overtime hours worked during the week.
+
+(b) Allocation of bonus where bonus earnings cannot be identified with particular workweeks.
+If it is impossible to allocate the bonus among the workweeks of the period in proportion to
+the amount of the bonus actually earned each week, some other reasonable and equitable
+method of allocation must be adopted. For example, it may be reasonable and equitable to
+assume that the employee earned an equal amount of bonus each week of the period to which
+the bonus relates, and if the facts support this assumption additional compensation for each
+overtime week of the period may be computed and paid in an amount equal to one-half of the
+average hourly increase in pay resulting from bonus allocated to the week, multiplied by the
+number of statutory overtime hours worked in that week. Or, if there are facts which make it
+inappropriate to assume equal bonus earnings for each workweek, it may be reasonable and
+equitable to assume that the employee earned an equal amount of bonus each hour of the pay
+period and the resultant hourly increase may be determined by dividing the total bonus by
+the number of hours worked by the employee during the period for which it is paid. The
+additional compensation due for the overtime workweeks in the period may then be computed by
+multiplying the total number of statutory overtime hours worked in each such workweek during
+the period by one-half this hourly increase.
+
+
+----------------------------------------------------------------------
+
+
+§ 778.211 Discretionary bonuses.
+--------------------------------
+
+(a) Statutory provision. Section 7(e) (3)(a) of the Act provides that the regular rate shall
+not be deemed to include “sums paid in recognition of services performed during a given
+period if * * * (a) both the fact that payment is to be made and the amount of the payment
+are determined at the sole discretion of the employer at or near the end of the period and
+not pursuant to any prior contract, agreement, or promise causing the employee to expect
+such payments regularly * * *”. Such sums may not, however, be credited toward overtime
+compensation due under the Act.
+
+(b) Discretionary character of excluded bonus. In order for a bonus to qualify for exclusion
+as a discretionary bonus under section 7(e)(3)(a) the employer must retain discretion both
+as to the fact of payment and as to the amount until a time quite close to the end of the
+period for which the bonus is paid. The sum, if any, to be paid as a bonus is determined by
+the employer without prior promise or agreement. The employee has no contract right, express
+or implied, to any amount. If the employer promises in advance to pay a bonus, he has
+abandoned his discretion with regard to it. Thus, if an employer announces to his employees
+in January that he intends to pay them a bonus in June, he has thereby abandoned his
+discretion regarding the fact of payment by promising a bonus to his employees. Such a bonus
+would not be excluded from the regular rate under section 7(e)(3)(a). Similarly, an employer
+who promises to sales employees that they will receive a monthly bonus computed on the basis
+of allocating 1 cent for each item sold whenever, is his discretion, the financial condition
+of the firm warrants such payments, has abandoned discretion with regard to the amount of
+the bonus though not with regard to the fact of payment. Such a bonus would not be excluded
+from the regular rate. On the other hand, if a bonus such as the one just described were
+paid without prior contract, promise or announcement and the decision as to the fact and
+amount of payment lay in the employer's sole discretion, the bonus would be properly
+excluded from the regular rate.
+
+(c) Promised bonuses not excluded. The bonus, to be excluded under section 7(e)(3)(a), must
+not be paid pursuant to any prior contract, agreement, or promise. For example, any bonus
+which is promised to employees upon hiring or which is the result of collective bargaining
+would not be excluded from the regular rate under this provision of the Act. Bonuses which
+are announced to employees to induce them to work more steadily or more rapidly or more
+efficiently or to remain with the firm are regarded as part of the regular rate of pay. Most
+attendance bonuses, individual or group production bonuses, bonuses for quality and accuracy
+of work, bonuses contingent upon the employee's continuing in employment until the time the
+payment is to be made and the like are in this category; in such circumstances they must be
+included in the regular rate of pay.
+
+(d) Labels are not determinative. The label assigned to a bonus does not conclusively
+determine whether a bonus is discretionary under section 7(e)(3). Instead, the terms of the
+statute and the facts specific to the bonus at issue determine whether bonuses are
+excludable discretionary bonuses. Thus, regardless of the label or name assigned to bonuses,
+bonuses are discretionary and excludable if both the fact that the bonuses are to be paid
+and the amounts are determined at the sole discretion of the employer at or near the end of
+the periods to which the bonuses correspond and they are not paid pursuant to any prior
+contract, agreement, or promise causing the employee to expect such payments regularly.
+Examples of bonuses that may be discretionary include bonuses to employees who made unique
+or extraordinary efforts which are not awarded according to pre-established criteria,
+severance bonuses, referral bonuses for employees not primarily engaged in recruiting
+activities, bonuses for overcoming challenging or stressful situations, employee-of-the-
+month bonuses, and other similar compensation. Such bonuses are usually not promised in
+advance and the fact and amount of payment is in the sole discretion of the employer until
+at or near the end of the period to which the bonus corresponds.
+
+
+----------------------------------------------------------------------
+
+
+§ 778.212 Gifts, Christmas and special occasion bonuses.
+--------------------------------------------------------
+
+(a) Statutory provision. Section 7(e)(1) of the Act provides that the term “regular rate”
+shall not be deemed to include “sums paid as gifts; payments in the nature of gifts made at
+Christmas time or on other special occasions, as a reward for service, the amounts of which
+are not measured by or dependent on hours worked, production, or efficiency * * *”. Such
+sums may not, however, be credited toward overtime compensation due under the Act.
+
+(b) Gift or similar payment. To qualify for exclusion under section 7(e)(1) the bonus must
+be actually a gift or in the nature of a gift. If it is measured by hours worked,
+production, or efficiency, the payment is geared to wages and hours during the bonus period
+and is no longer to be considered as in the nature of a gift. If the payment is so
+substantial that it can be assumed that employees consider it a part of the wages for which
+they work, the bonus cannot be considered to be in the nature of a gift. Obviously, if the
+bonus is paid pursuant to contract (so that the employee has a legal right to the payment
+and could bring suit to enforce it), it is not in the nature of a gift.
+
+(c) Application of exclusion. If the bonus paid at Christmas or on other special occasion is
+a gift or in the nature of a gift, it may be excluded from the regular rate under section
+7(e)(1) even though it is paid with regularity so that the employees are led to expect it
+and even though the amounts paid to different employees or groups of employees vary with the
+amount of the salary or regular hourly rate of such employees or according to their length
+of service with the firm so long as the amounts are not measured by or directly dependent
+upon hours worked, production, or efficiency. A Christmas bonus paid (not pursuant to
+contract) in the amount of two weeks' salary to all employees and an equal additional amount
+for each 5 years of service with the firm, for example, would be excludable from the regular
+rate under this category. Employers may also provide gifts with more regularity throughout
+the year, as long as they are provided with the understanding that they are gifts. Office
+coffee and snacks provided to employees, for example, would also be excludable from the
+regular rate under this category.
+
+
+----------------------------------------------------------------------
+
+
+§ 778.215 Conditions for exclusion of benefit-plan contributions under section 7(e)(4).
+---------------------------------------------------------------------------------------
+
+(a) General rules. In order for an employer's contribution to qualify for exclusion from the
+regular rate under section 7(e)(4) of the Act the following conditions must be met:
+
+(1) The contributions must be made pursuant to a specific plan or program adopted by the
+employer, or by contract as a result of collective bargaining, and communicated to the
+employees. This may be either a company-financed plan or an employer-employee contributory
+plan.
+
+(2) The primary purpose of the plan must be to provide systematically for the payment of
+benefits to employees on account of death, disability, advanced age, retirement, illness,
+medical expenses, hospitalization, accident, unemployment, legal services, or other events
+that could cause significant future financial hardship or expense.
+
+(3) In a plan or trust, either:
+
+(i) The benefits must be specified or definitely determinable on an actuarial basis; or
+
+(ii) There must be both a definite formula for determining the amount to be contributed by
+the employer and a definite formula for determining the benefits for each of the employees
+participating in the plan; or
+
+(iii) There must be both a formula for determining the amount to be contributed by the
+employer and a provision for determining the individual benefits by a method which is
+consistent with the purposes of the plan or trust under section 7(e)(4) of the Act.
+
+(iv) Note: The requirements in paragraphs (a)(3) (ii) and (iii) of this section for a
+formula for determining the amount to be contributed by the employer may be met by a formula
+which requires a specific and substantial minimum contribution and which provides that the
+employer may add somewhat to that amount within specified limits; provided, however, that
+there is a reasonable relationship between the specified minimum and maximum contributions.
+Thus, formulas providing for a minimum contribution of 10 percent of profits and giving the
+employer discretion to add to that amount up to 20 percent of profits, or for a minimum
+contribution of 5 percent of compensation and discretion to increase up to a maximum of 15
+percent of compensation, would meet the requirement. However, a plan which provides for
+insignificant minimum contributions and permits a variation so great that, for all practical
+purposes, the formula becomes meaningless as a measure of contributions, would not meet the
+requirements.
+
+(4) The employer's contributions must be paid irrevocably to a trustee or third person
+pursuant to an insurance agreement, trust or other funded arrangement. The trustee must
+assume the usual fiduciary responsibilities imposed upon trustees by applicable law. The
+trust or fund must be set up in such a way that in no event will the employer be able to
+recapture any of the contributions paid in nor in any way divert the funds to his own use or
+benefit. (It should also be noted that in the case of joint employer-employee contributory
+plans, where the employee contributions are not paid over to a third person or to a trustee
+unaffiliated with the employer, violations of the Act may result if the employee
+contributions cut into the required minimum or overtime rates. See part 531 of this
+chapter.) Although an employer's contributions made to a trustee or third person pursuant to
+a benefit plan must be irrevocably made, this does not prevent return to the employer of
+sums which he had paid in excess of the contributions actually called for by the plan, as
+where such excess payments result from error or from the necessity of marking payments to
+cover the estimated cost of contributions at a time when the exact amount of the necessary
+contributions under the plan is not yet ascertained. For example, a benefit plan may provide
+for definite insurance benefits for employees in the event of the happening of a specified
+contingency such as death, sickness, accident, etc., and may provide that the cost of such
+definite benefits, either in full or any balance in excess of specified employee
+contributions, will be borne by the employer. In such a case the return by the insurance
+company to the employer of sums paid by him in excess of the amount required to provide the
+benefits which, under the plan, are to be provided through contributions by the employer,
+will not be deemed a recapture or diversion by the employer of contributions made pursuant
+to the plan.
+
+(5) The plan must not give an employee the right to assign his benefits under the plan nor
+the option to receive any part of the employer's contributions in cash instead of the
+benefits under the plan: Provided, however, That if a plan otherwise qualified as a bona
+fide benefit plan under section 7(e)(4) of the Act, it will still be regarded as a bona fide
+plan even though it provides, as an incidental part thereof, for the payment to an employee
+in cash of all or a part of the amount standing to his credit (i) at the time of the
+severance of the employment relation due to causes other than retirement, disability, or
+death, or (ii) upon proper termination of the plan, or (iii) during the course of his
+employment under circumstances specified in the plan and not inconsistent with the general
+purposes of the plan to provide the benefits described in section 7(e)(4) of the Act.
+
+(b) Plans under sections of the Internal Revenue Code. In the absence of evidence to the
+contrary, where the benefit plan or trust has been approved by the Internal Revenue Service
+as satisfying the requirements of section 401(a), 403(a), or 403(b) of the Internal Revenue
+Code, is otherwise maintained pursuant to a written document that the plan sponsor
+reasonably believes satisfies the requirements of section 401(a), 403(a), 403(b), 408(k) or
+408(p) of the Internal Revenue Code, or is sponsored by a government employer that
+reasonably believes the plan satisfies the requirements of section 457(b) of the Internal
+Revenue Code, the plan or trust will be considered to meet the conditions specified in
+paragraphs (a)(1), (2), (4), and (5) of this section.
+
+
+----------------------------------------------------------------------
+
+
+§ 778.221 “Call-back” pay.
+--------------------------
+
+(a) General. Typically, “call-back” or “call-out” payments are made pursuant to agreement or
+established practice and consist of a specified number of hours' pay at the applicable
+straight time or overtime rates received by an employee on occasions when, after his
+scheduled hours of work have ended and without prearrangement, he responds to a call from
+his employer to perform extra work. The amount by which the specified number of hours' pay
+exceeds the compensation for hours actually worked is considered as a payment that is not
+made for hours worked. As such, it may be excluded from the computation of the employee's
+regular rate and cannot be credited toward statutory overtime compensation due the employee.
+Payments that are prearranged, however, may not be excluded from the regular rate. For
+example, if an employer retailer called in an employee to help clean up the store for 3
+hours after an unexpected roof leak, and then again 3 weeks later for 2 hours to cover for a
+coworker who left work for a family emergency, payments for those instances would be without
+prearrangement and any call-back pay that exceeded the amount the employee would receive for
+the hours worked would be excludable. However, when payments under §§ 778.221 and 778.222
+are prearranged, they are compensation for work. The key inquiry for determining
+prearrangement is whether the extra work was anticipated and therefore reasonably could have
+been scheduled. For example, if an employer restaurant anticipates needing extra servers for
+two hours during the busiest part of each Saturday evening and calls in employees to meet
+that need instead of scheduling additional servers, that would be prearrangement and any
+call-back pay would be included in the regular rate.
+
+(b) Application illustrated. The application of the principles in paragraph (a) of this
+section to call-back payments may be illustrated as follows: An employment agreement
+provides a minimum of 3 hours' pay at time and one-half for any employee called back to work
+outside his scheduled hours. The employees covered by the agreement, who are entitled to
+overtime pay after 40 hours a week, normally work 8 hours each day, Monday through Friday,
+inclusive, in a workweek beginning on Monday, and are paid overtime compensation at time and
+one-half for all hours worked in excess of 8 in any day or 40 in any workweek. Assume that
+an employee covered by this agreement and paid at the rate of $12 an hour works 1 hour
+overtime or a total of 9 hours on Monday, and works 8 hours each on Tuesday through Friday,
+inclusive. After he has gone home on Friday evening, he is called back to perform an
+emergency job. His hours worked on the call total 2 hours and he receives 3 hours' pay at
+time and one-half, or $54, under the call-back provision, in addition to $480 for working
+his regular schedule and $18 for overtime worked on Monday evening. In computing overtime
+compensation due this employee under the Act, the 43 actual hours (not 44) are counted as
+working time during the week. In addition to $516 pay at the $12 rate for all these hours,
+he has received under the agreement a premium of $6 for the 1 overtime hour on Monday and of
+$12 for the 2 hours of overtime work on the call, plus an extra sum of $18 paid by reason of
+the provision for minimum call-back pay. For purposes of the Act, the extra premiums paid
+for actual hours of overtime work on Monday and on the Friday call (a total of $18) may be
+excluded as true overtime premiums in computing his regular rate for the week and may be
+credited toward compensation due under the Act, but the extra $18 received under the call-
+back provision is not regarded as paid for hours worked; thus, it may be excluded from the
+regular rate, but it cannot be credited toward overtime compensation due under the Act. The
+regular rate of the employee, therefore, remains $12, and he has received an overtime
+premium of $6 an hour for 3 overtime hours of work. This satisfies the requirements of
+section 7 of the Act. The same would be true, of course, if in the foregoing example, the
+employee was called back outside his scheduled hours for the 2-hour emergency job on another
+night of the week or on Saturday or Sunday, instead of on Friday night.
+
+
+----------------------------------------------------------------------
+
+
+§ 778.223 Pay for non-productive hours distinguished.
+-----------------------------------------------------
+
+(a) Under the Act an employee must be compensated for all hours worked. As a general rule
+the term “hours worked” will include:
+
+(1) All time during which an employee is required to be on duty or to be on the employer's
+premises or at a prescribed workplace; and
+
+(2) All time during which an employee is suffered or permitted to work whether or not he is
+required to do so.
+
+(b) Thus, working time is not limited to the hours spent in active productive labor, but
+includes time given by the employee to the employer even though part of the time may be
+spent in idleness. Some of the hours spent by employees, under certain circumstances, in
+such activities as waiting for work, remaining “on call”, traveling on the employer's
+business or to and from workplaces, and in meal periods and rest periods are regarded as
+working time and some are not. The governing principles are discussed in part 785 of this
+chapter (interpretative bulletin on “hours worked”) and part 790 of this chapter (statement
+of effect of Portal-to-Portal Act of 1947). To the extent that these hours are regarded as
+working time, payment made as compensation for these hours obviously cannot be characterized
+as “payments not for hours worked.” Such compensation is treated in the same manner as
+compensation for any other working time and is, of course, included in the regular rate of
+pay. Where payment is ostensibly made as compensation for such of these hours as are not
+regarded as working time under the Act, the payment is nevertheless included in the regular
+rate of pay unless it qualifies for exclusion from the regular rate as one of a type of
+“payments made for occasional periods when no work is performed due to failure of the
+employer to provide sufficient work, or other similar cause” as discussed in § 778.218 or is
+excludable on some other basis under section 7(e)(2). For example, an employment contract
+may provide that employees who are assigned to take calls for specific periods will receive
+a payment of $5 for each 8-hour period during which they are “on call” in addition to pay at
+their regular (or overtime) rate for hours actually spent in making calls. If the employees
+who are thus on call are not confined to their homes or to any particular place, but may
+come and go as they please, provided that they leave word where they may be reached, the
+hours spent “on call” are not considered as hours worked. Although the payment received by
+such employees for such “on call” time is, therefore, not allocable to any specific hours of
+work, it is clearly paid as compensation for performing a duty involved in the employee's
+job and is not of a type excludable under section 7(e)(2). The payment must therefore be
+included in the employee's regular rate in the same manner as any payment for services, such
+as an attendance bonus, which is not related to any specific hours of work. The principle in
+this paragraph (b) also applies when such “on call” pay is mandated by state or local law.
+
+
+----------------------------------------------------------------------
+
+
+§ 778.224 “Other similar payments”.
+-----------------------------------
+
+(a) General. Sections 778.216 through 778.223 have enumerated and discussed the basic types
+of payments for which exclusion from the regular rate is specifically provided under section
+7(e)(2) because they are not made as compensation for hours of work. Section 7(e)(2) also
+authorizes exclusion from the regular rate of other similar payments to an employee which
+are not made as compensation for his hours of employment. Such payments do not depend on
+hours worked, services rendered, job performance, or other criteria that depend on the
+quality or quantity of the employee's work. Conditions not dependent on the quality or
+quality of work include a reasonable waiting period for eligibility, the requirement to
+repay benefits as a remedy for employee misconduct, and limiting eligibility on the basis of
+geographic location or job position. Since a variety of miscellaneous payments are paid by
+an employer to an employee under peculiar circumstances, it was not considered feasible to
+attempt to list them. They must, however, be “similar” in character to the payments
+specifically described in section 7(e)(2). It is clear that the clause was not intended to
+permit the exclusion from the regular rate of payments such as most bonuses or the
+furnishing of facilities like board and lodging which, though not directly attributable to
+any particular hours of work are, nevertheless, clearly understood to be compensation for
+services.
+
+(b) Examples of other excludable payments. A few examples may serve to illustrate some of
+the types of payments intended to be excluded as “other similar payments”.
+
+(1) Sums paid to an employee for the rental of his truck or car.
+
+(2) Loans or advances made by the employer to the employee.
+
+(3) The cost to the employer of conveniences furnished to the employee such as:
+
+(i) Parking spaces and parking benefits;
+
+(ii) Restrooms and lockers;
+
+(iii) On-the-job medical care;
+
+(iv) Treatment provided on-site from specialists such as chiropractors, massage therapists,
+physical therapists, personal trainers, counselors, or Employee Assistance Programs; or
+
+(v) Gym access, gym memberships, fitness classes, and recreational facilities.
+
+(4) The cost to the employer of providing wellness programs, such as health risk
+assessments, biometric screenings, vaccination clinics (including annual flu vaccinations),
+nutrition classes, weight loss programs, smoking cessation programs, stress reduction
+programs, exercise programs, coaching to help employees meet health goals, financial
+wellness programs or financial counseling, and mental health wellness programs.
+
+(5) Discounts on employer-provided retail goods and services, and tuition benefits (whether
+paid to an employee, an education provider, or a student loan program).
+
+(6) Adoption assistance (including financial assistance, legal services, or information and
+referral services).

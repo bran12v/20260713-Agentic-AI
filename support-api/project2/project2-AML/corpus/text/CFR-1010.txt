@@ -1,0 +1,658 @@
+
+31 CFR Part 1010 - General Provisions
+=====================================
+
+
+§ 1010.306 Filing of reports.
+-----------------------------
+
+(a)(1) A report required by § 1010.311 or § 1021.311, shall be filed by the financial
+institution within 15 days following the day on which the reportable transaction occurred.
+
+(2) A copy of each report filed pursuant to §§ 1010.311, 1010.313, 1020.315, 1021.311 and
+1021.313, shall be retained by the financial institution for a period of five years from the
+date of the report.
+
+(3) All reports required to be filed by §§ 1010.311, 1010.313, 1020.315, 1021.311 and
+1021.313, shall be filed with FinCEN, unless otherwise specified.
+
+(b)(1) A report required by § 1010.340(a) shall be filed at the time of entry into the
+United States or at the time of departure, mailing or shipping from the United States,
+unless otherwise specified by the Commissioner of Customs and Border Protection.
+
+(2) A report required by § 1010.340(b) shall be filed within 15 days after receipt of the
+currency or other monetary instruments.
+
+(3) All reports required by § 1010.340 shall be filed with the Customs officer in charge at
+any port of entry or departure, or as otherwise specified by the Commissioner of Customs and
+Border Protection. Reports required by § 1010.340(a) for currency or other monetary
+instruments not physically accompanying a person entering or departing from the United
+States, may be filed by mail on or before the date of entry, departure, mailing or shipping.
+All reports required by § 1010.340(b) may also be filed by mail. Reports filed by mail shall
+be addressed to the Commissioner of Customs and Border Protection, Attention: Currency
+Transportation Reports, Washington, DC 20229.
+
+(c) Reports required to be filed by § 1010.350 shall be filed with FinCEN on or before June
+30 of each calendar year with respect to foreign financial accounts exceeding $10,000
+maintained during the previous calendar year.
+
+(d) Reports required by § 1010.311, § 1010.313, § 1010.340, § 1010.350, § 1020.315, §
+1021.311 or § 1021.313 of this chapter shall be filed on forms prescribed by the Secretary.
+All information called for in such forms shall be furnished.
+
+(e) Forms to be used in making the reports required by § 1010.311, § 1010.313, § 1010.350, §
+1020.315, § 1021.311 or § 1021.313 of this chapter may be obtained from BSA E-Filing System.
+Forms to be used in making the reports required by § 1010.340 may be obtained from the U.S.
+Customs and Border Protection or FinCEN.
+
+
+----------------------------------------------------------------------
+
+
+§ 1010.311 Filing obligations for reports of transactions in currency.
+----------------------------------------------------------------------
+
+Each financial institution other than a casino shall file a report of each deposit,
+withdrawal, exchange of currency or other payment or transfer, by, through, or to such
+financial institution which involves a transaction in currency of more than $10,000, except
+as otherwise provided in this section. In the case of the U.S. Postal Service, the
+obligation contained in the preceding sentence shall not apply to payments or transfers made
+solely in connection with the purchase of postage or philatelic products.
+
+
+----------------------------------------------------------------------
+
+
+§ 1010.313 Aggregation.
+-----------------------
+
+(a) Multiple branches. A financial institution includes all of its domestic branch offices,
+and any recordkeeping facility, wherever located, that contains records relating to the
+transactions of the institution's domestic offices, for purposes of the transactions in
+currency reporting requirements in this chapter.
+
+(b) Multiple transactions. In the case of financial institutions other than casinos, for
+purposes of the transactions in currency reporting requirements in this chapter, multiple
+currency transactions shall be treated as a single transaction if the financial institution
+has knowledge that they are by or on behalf of any person and result in either cash in or
+cash out totaling more than $10,000 during any one business day (or in the case of the U.S.
+Postal Service, any one day). Deposits made at night or over a weekend or holiday shall be
+treated as if received on the next business day following the deposit.
+
+
+----------------------------------------------------------------------
+
+
+§ 1010.314 Structured transactions.
+-----------------------------------
+
+No person shall for the purpose of evading the transactions in currency reporting
+requirements of this chapter with respect to such transaction:
+
+(a) Cause or attempt to cause a domestic financial institution to fail to file a report
+required under the transactions in currency reporting requirements of this chapter;
+
+(b) Cause or attempt to cause a domestic financial institution to file a report required
+under the transactions in currency reporting requirements of this chapter that contains a
+material omission or misstatement of fact; or
+
+(c) Structure (as that term is defined in § 1010.100(xx)) or assist in structuring, or
+attempt to structure or assist in structuring, any transaction with one or more domestic
+financial institutions.
+
+
+----------------------------------------------------------------------
+
+
+§ 1010.315 Exemptions for non-bank financial institutions.
+----------------------------------------------------------
+
+A non-bank financial institution is not required to file a report otherwise required by §
+1010.311 with respect to a transaction in currency between the institution and a commercial
+bank.
+
+
+----------------------------------------------------------------------
+
+
+§ 1010.330 Reports relating to currency in excess of $10,000 received in a trade or business.
+---------------------------------------------------------------------------------------------
+
+(a) Reporting requirement—(1) Reportable transactions—(i) In general. Any person (solely for
+purposes of section 5331 of title 31, United States Code and this section, “person” shall
+have the same meaning as under 26 U.S.C. 7701(a)(1)) who, in the course of a trade or
+business in which such person is engaged, receives currency in excess of $10,000 in 1
+transaction (or 2 or more related transactions) shall, except as otherwise provided, make a
+report of information with respect to the receipt of currency. This section does not apply
+to amounts received in a transaction reported under 31 U.S.C. 5313 and § 1010.311, §
+1010.313, § 1020.315, § 1021.311 or § 1021.313 of this chapter.
+
+(ii) Certain financial transactions. Section 6050I of title 26 of the United States Code
+requires persons to report information about financial transactions to the IRS, and 31
+U.S.C. 5331 requires persons to report the same information to the Financial Crimes
+Enforcement Network. This information shall be reported on the same form as prescribed by
+the Secretary.
+
+(2) Currency received for the account of another. Currency in excess of $10,000 received by
+a person for the account of another must be reported under this section. Thus, for example,
+a person who collects delinquent accounts receivable for an automobile dealer must report
+with respect to the receipt of currency in excess of $10,000 from the collection of a
+particular account even though the proceeds of the collection are credited to the account of
+the automobile dealer (i.e., where the rights to the proceeds from the account are retained
+by the automobile dealer and the collection is made on a fee-for-service basis).
+
+(3) Currency received by agents— (i) General rule. Except as provided in paragraph
+(a)(3)(ii) of this section, a person who in the course of a trade or business acts as an
+agent (or in some other similar capacity) and receives currency in excess of $10,000 from a
+principal must report the receipt of currency under this section.
+
+(ii) Exception. An agent who receives currency from a principal and uses all of the currency
+within 15 days in a currency transaction (the “second currency transaction”) which is
+reportable under section 5312 of title 31, or 31 U.S.C. 5331 and this section, and who
+discloses the name, address, and TIN of the principal to the recipient in the second
+currency transaction need not report the initial receipt of currency under this section. An
+agent will be deemed to have met the disclosure requirements of this paragraph (a)(3)(ii) if
+the agent discloses only the name of the principal and the agent knows that the recipient
+has the principal's address and taxpayer identification number.
+
+(iii) Example. The following example illustrates the application of the rules in paragraphs
+(a)(3)(i) and (ii) of this section:
+
+(b) Multiple payments. The receipt of multiple currency deposits or currency installment
+payments (or other similar payments or prepayments) relating to a single transaction (or two
+or more related transactions), is reported as set forth in paragraphs (b)(1) through (b)(3)
+of this section.
+
+(1) Initial payment in excess of $10,000. If the initial payment exceeds $10,000, the
+recipient must report the initial payment within 15 days of its receipt.
+
+(2) Initial payment of $10,000 or less. If the initial payment does not exceed $10,000, the
+recipient must aggregate the initial payment and subsequent payments made within one year of
+the initial payment until the aggregate amount exceeds $10,000, and report with respect to
+the aggregate amount within 15 days after receiving the payment that causes the aggregate
+amount to exceed $10,000.
+
+(3) Subsequent payments. In addition to any other required report, a report must be made
+each time that previously unreportable payments made within a 12-month period with respect
+to a single transaction (or two or more related transactions), individually or in the
+aggregate, exceed $10,000. The report must be made within 15 days after receiving the
+payment in excess of $10,000 or the payment that causes the aggregate amount received in the
+12-month period to exceed $10,000. (If more than one report would otherwise be required for
+multiple currency payments within a 15-day period that relate to a single transaction (or
+two or more related transactions), the recipient may make a single combined report with
+respect to the payments. The combined report must be made no later than the date by which
+the first of the separate reports would otherwise be required to be made.)
+
+(4) Example. The following example illustrates the application of the rules in paragraphs
+(b)(1) through (b)(3) of this section:
+
+(c) Meaning of terms. The following definitions apply for purposes of this section—
+
+(1) Currency. The term currency means—
+
+(i) The coin and currency of the United States or of any other country, which circulate in
+and are customarily used and accepted as money in the country in which issued; and
+
+(ii) A cashier's check (by whatever name called, including “treasurer's check” and “bank
+check”), bank draft, traveler's check, or money order having a face amount of not more than
+$10,000—
+
+(A) Received in a designated reporting transaction as defined in paragraph (c)(2) of this
+section (except as provided in paragraphs (c)(3), (4), and (5) of this section), or
+
+(B) Received in any transaction in which the recipient knows that such instrument is being
+used in an attempt to avoid the reporting of the transaction under section 5331 and this
+section.
+
+(2) Designated reporting transaction. A designated reporting transaction is a retail sale
+(or the receipt of funds by a broker or other intermediary in connection with a retail sale)
+of—
+
+(i) A consumer durable,
+
+(ii) A collectible, or
+
+(iii) A travel or entertainment activity.
+
+(3) Exception for certain loans. A cashier's check, bank draft, traveler's check, or money
+order received in a designated reporting transaction is not treated as currency pursuant to
+paragraph (c)(1)(ii)(A) of this section if the instrument constitutes the proceeds of a loan
+from a bank. The recipient may rely on a copy of the loan document, a written statement from
+the bank, or similar documentation (such as a written lien instruction from the issuer of
+the instrument) to substantiate that the instrument constitutes loan proceeds.
+
+(4) Exception for certain installment sales. A cashier's check, bank draft, traveler's
+check, or money order received in a designated reporting transaction is not treated as
+currency pursuant to paragraph (c)(1)(ii)(A) of this section if the instrument is received
+in payment on a promissory note or an installment sales contract (including a lease that is
+considered to be a sale for Federal income tax purposes). However, the preceding sentence
+applies only if—
+
+(i) Promissory notes or installment sales contracts with the same or substantially similar
+terms are used in the ordinary course of the recipient's trade or business in connection
+with sales to ultimate consumers; and
+
+(ii) The total amount of payments with respect to the sale that are received on or before
+the 60th day after the date of the sale does not exceed 50 percent of the purchase price of
+the sale.
+
+(5) Exception for certain down payment plans. A cashier's check, bank draft, traveler's
+check, or money order received in a designated reporting transaction is not treated as
+currency pursuant to paragraph (c)(1)(ii)(A) of this section if the instrument is received
+pursuant to a payment plan requiring one or more down payments and the payment of the
+balance of the purchase price by a date no later than the date of the sale (in the case of
+an item of travel or entertainment, a date no later than the earliest date that any item of
+travel or entertainment pertaining to the same trip or event is furnished). However, the
+preceding sentence applies only if—
+
+(i) The recipient uses payment plans with the same or substantially similar terms in the
+ordinary course of its trade or business in connection with sales to ultimate consumers; and
+
+(ii) The instrument is received more than 60 days prior to the date of the sale (in the case
+of an item of travel or entertainment, the date on which the final payment is due).
+
+(6) Examples. The following examples illustrate the definition of “currency” set forth in
+paragraphs (c)(1) through (c)(5) of this section:
+
+(7) Consumer durable. The term consumer durable means an item of tangible personal property
+of a type that is suitable under ordinary usage for personal consumption or use, that can
+reasonably be expected to be useful for at least 1 year under ordinary usage, and that has a
+sales price of more than $10,000. Thus, for example, a $20,000 automobile is a consumer
+durable (whether or not it is sold for business use), but a $20,000 dump truck or a $20,000
+factory machine is not.
+
+(8) Collectible. The term collectible means an item described in paragraphs (A) through (D)
+of section 408 (m)(2) of title 26 of the United States Code (determined without regard to
+section 408 (m)(3) of title 26 of the United States Code).
+
+(9) Travel or entertainment activity. The term travel or entertainment activity means an
+item of travel or entertainment (within the meaning of 26 CFR 1.274-2(b)(1)) pertaining to a
+single trip or event where the aggregate sales price of the item and all other items
+pertaining to the same trip or event that are sold in the same transaction (or related
+transactions) exceeds $10,000.
+
+(10) Retail sale. The term retail sale means any sale (whether for resale or for any other
+purpose) made in the course of a trade or business if that trade or business principally
+consists of making sales to ultimate consumers.
+
+(11) Trade or business. The term trade or business has the same meaning as under section 162
+of title 26, United States Code.
+
+(12) Transaction. (i) Solely for purposes of 31 U.S.C. 5331 and this section, the term
+transaction means the underlying event precipitating the payer's transfer of currency to the
+recipient. In this context, transactions include (but are not limited to) a sale of goods or
+services; a sale of real property; a sale of intangible property; a rental of real or
+personal property; an exchange of currency for other currency; the establishment or
+maintenance of or contribution to a custodial, trust, or escrow arrangement; a payment of a
+preexisting debt; a conversion of currency to a negotiable instrument; a reimbursement for
+expenses paid; or the making or repayment of a loan. A transaction may not be divided into
+multiple transactions in order to avoid reporting under this section.
+
+(ii) The term related transactions means any transaction conducted between a payer (or its
+agent) and a recipient of currency in a 24-hour period. Additionally, transactions conducted
+between a payer (or its agent) and a currency recipient during a period of more than 24
+hours are related if the recipient knows or has reason to know that each transaction is one
+of a series of connected transactions.
+
+(iii) The following examples illustrate the definition of paragraphs (c)(12)(i) and (ii) of
+this section:
+
+(13) Recipient. (i) The term recipient means the person receiving the currency. Except as
+provided in paragraph (c)(13)(ii) of this section, each store, division, branch, department,
+headquarters, or office (“branch”) (regardless of physical location) comprising a portion of
+a person's trade or business shall for purposes of this section be deemed a separate
+recipient.
+
+(ii) A branch that receives currency payments will not be deemed a separate recipient if the
+branch (or a central unit linking such branch with other branches) would in the ordinary
+course of business have reason to know the identity of payers making currency payments to
+other branches of such person.
+
+(iii) Examples. The following examples illustrate the application of the rules in paragraphs
+(c)(13)(i) and (ii) of this section:
+
+(d) Exceptions to the reporting requirements of 31 U.S.C. 5331—(1) Receipt is made with
+respect to a foreign currency transaction—(i) In general. Generally, there is no requirement
+to report with respect to a currency transaction if the entire transaction occurs outside
+the United States (the fifty states and the District of Columbia). An entire transaction
+consists of both the transaction as defined in paragraph (c)(12)(i) of this section and the
+receipt of currency by the recipient. If, however, any part of an entire transaction occurs
+in the Commonwealth of Puerto Rico or a possession or territory of the United States and the
+recipient of currency in that transaction is subject to the general jurisdiction of the
+Internal Revenue Service under title 26 of the United States Code, the recipient is required
+to report the transaction under this section.
+
+(ii) Example. The following example illustrates the application of the rules in paragraph
+(d)(1)(i) of this section:
+
+(2) Receipt of currency not in the course of the recipient's trade or business. The receipt
+of currency in excess of $10,000 by a person other than in the course of the person's trade
+or business is not reportable under 31 U.S.C. 5331. Thus, for example, F, an individual in
+the trade or business of selling real estate, sells a motorboat for $12,000, the purchase
+price of which is paid in currency. F did not use the motorboat in any trade or business in
+which F was engaged. F is not required to report under 31 U.S.C. 5331 or this section
+because the exception provided in this paragraph (d)(2) applies.
+
+(e) Time, manner, and form of reporting—(1) In general. The reports required by paragraph
+(a) of this section must be made by filing a Form 8300, as specified in 26 CFR
+1.6050I-1(e)(2). The reports must be filed at the time and in the manner specified in 26 CFR
+1.6050I-1(e)(1) and (3) respectively.
+
+(2) Verification. A person making a report of information under this section must verify the
+identity of the person from whom the reportable currency is received. Verification of the
+identity of a person who purports to be an alien must be made by examination of such
+person's passport, alien identification card, or other official document evidencing
+nationality or residence. Verification of the identity of any other person may be made by
+examination of a document normally acceptable as a means of identification when cashing or
+accepting checks (for example, a driver's license or a credit card). In addition, a report
+will be considered incomplete if the person required to make a report knows (or has reason
+to know) that an agent is conducting the transaction for a principal, and the return does
+not identify both the principal and the agent.
+
+(3) Retention of reports. A person required to make a report under this section must keep a
+copy of each report filed for five years from the date of filing.
+
+
+----------------------------------------------------------------------
+
+
+§ 1010.410 Records to be made and retained by financial institutions.
+---------------------------------------------------------------------
+
+Each financial institution shall retain either the original or a copy or reproduction of
+each of the following:
+
+(a) A record of each extension of credit in an amount in excess of $10,000, except an
+extension of credit secured by an interest in real property, which record shall contain the
+name and address of the person to whom the extension of credit is made, the amount thereof,
+the nature or purpose thereof, and the date thereof;
+
+(b) A record of each advice, request, or instruction received or given regarding any
+transaction resulting (or intended to result and later canceled if such a record is normally
+made) in the transfer of currency or other monetary instruments, funds, checks, investment
+securities, or credit, of more than $10,000 to or from any person, account, or place outside
+the United States.
+
+(c) A record of each advice, request, or instruction given to another financial institution
+or other person located within or without the United States, regarding a transaction
+intended to result in the transfer of funds, or of currency, other monetary instruments,
+checks, investment securities, or credit, of more than $10,000 to a person, account or place
+outside the United States.
+
+(d) A record of such information for such period of time as the Secretary may require in an
+order issued under § 1010.370(a), not to exceed five years.
+
+(e) Nonbank financial institutions. Each agent, agency, branch, or office located within the
+United States of a financial institution other than a bank is subject to the requirements of
+this paragraph (e) with respect to a transmittal of funds in the amount of $3,000 or more:
+
+(1) Recordkeeping requirements. (i) For each transmittal order that it accepts as a
+transmittor's financial institution, a financial institution shall obtain and retain either
+the original or a microfilm, other copy, or electronic record of the following information
+relating to the transmittal order:
+
+(A) The name and address of the transmittor;
+
+(B) The amount of the transmittal order;
+
+(C) The execution date of the transmittal order;
+
+(D) Any payment instructions received from the transmittor with the transmittal order;
+
+(E) The identity of the recipient's financial institution;
+
+(F) As many of the following items as are received with the transmittal order: 1
+
+1 For transmittals of funds effected through the Federal Reserve's Fedwire funds transfer
+system by a domestic broker or dealers in securities, only one of the items is required to
+be retained, if received with the transmittal order, until such time as the bank that sends
+the order to the Federal Reserve Bank completes its conversion to the expanded Fedwire
+message format.
+
+(1) The name and address of the recipient;
+
+(2) The account number of the recipient; and
+
+(3) Any other specific identifier of the recipient; and
+
+(G) Any form relating to the transmittal of funds that is completed or signed by the person
+placing the transmittal order.
+
+(ii) For each transmittal order that it accepts as an intermediary financial institution, a
+financial institution shall retain either the original or a microfilm, other copy, or
+electronic record of the transmittal order.
+
+(iii) For each transmittal order that it accepts as a recipient's financial institution, a
+financial institution shall retain either the original or a microfilm, other copy, or
+electronic record of the transmittal order.
+
+(2) Transmittors other than established customers. In the case of a transmittal order from a
+transmittor that is not an established customer, in addition to obtaining and retaining the
+information required in paragraph (e)(1)(i) of this section:
+
+(i) If the transmittal order is made in person, prior to acceptance the transmittor's
+financial institution shall verify the identity of the person placing the transmittal order.
+If it accepts the transmittal order, the transmittor's financial institution shall obtain
+and retain a record of the name and address, the type of identification reviewed, and the
+number of the identification document (e.g., driver's license), as well as a record of the
+person's taxpayer identification number (e.g., social security or employer identification
+number) or, if none, alien identification number or passport number and country of issuance,
+or a notation in the record of the lack thereof. If the transmittor's financial institution
+has knowledge that the person placing the transmittal order is not the transmittor, the
+transmittor's financial institution shall obtain and retain a record of the transmittor's
+taxpayer identification number (e.g., social security or employer identification number) or,
+if none, alien identification number or passport number and country of issuance, if known by
+the person placing the order, or a notation in the record of the lack thereof.
+
+(ii) If the transmittal order accepted by the transmittor's financial institution is not
+made in person, the transmittor's financial institution shall obtain and retain a record of
+the name and address of the person placing the transmittal order, as well as the person's
+taxpayer identification number (e.g., social security or employer identification number) or,
+if none, alien identification number or passport number and country of issuance, or a
+notation in the record of the lack thereof, and a copy or record of the method of payment
+(e.g., check or credit card transaction) for the transmittal of funds. If the transmittor's
+financial institution has knowledge that the person placing the transmittal order is not the
+transmittor, the transmittor's financial institution shall obtain and retain a record of the
+transmittor's taxpayer identification number (e.g., social security or employer
+identification number) or, if none, alien identification number or passport number and
+country of issuance, if known by the person placing the order, or a notation in the record
+of the lack thereof.
+
+(3) Recipients other than established customers. For each transmittal order that it accepts
+as a recipient's financial institution for a recipient that is not an established customer,
+in addition to obtaining and retaining the information required in paragraph (e)(1)(iii) of
+this section:
+
+(i) If the proceeds are delivered in person to the recipient or its representative or agent,
+the recipient's financial institution shall verify the identity of the person receiving the
+proceeds and shall obtain and retain a record of the name and address, the type of
+identification reviewed, and the number of the identification document (e.g., driver's
+license), as well as a record of the person's taxpayer identification number (e.g., social
+security or employer identification number) or, if none, alien identification number or
+passport number and country of issuance, or a notation in the record of the lack thereof. If
+the recipient's financial institution has knowledge that the person receiving the proceeds
+is not the recipient, the recipient's financial institution shall obtain and retain a record
+of the recipient's name and address, as well as the recipient's taxpayer identification
+number (e.g., social security or employer identification number) or, if none, alien
+identification number or passport number and country of issuance, if known by the person
+receiving the proceeds, or a notation in the record of the lack thereof.
+
+(ii) If the proceeds are delivered other than in person, the recipient's financial
+institution shall retain a copy of the check or other instrument used to effect payment, or
+the information contained thereon, as well as the name and address of the person to which it
+was sent.
+
+(4) Retrievability. The information that a transmittor's financial institution must retain
+under paragraphs (e)(1)(i) and (e)(2) of this section shall be retrievable by the
+transmittor's financial institution by reference to the name of the transmittor. If the
+transmittor is an established customer of the transmittor's financial institution and has an
+account used for transmittals of funds, then the information also shall be retrievable by
+account number. The information that a recipient's financial institution must retain under
+paragraphs (e)(1)(iii) and (e)(3) of this section shall be retrievable by the recipient's
+financial institution by reference to the name of the recipient. If the recipient is an
+established customer of the recipient's financial institution and has an account used for
+transmittals of funds, then the information also shall be retrievable by account number.
+This information need not be retained in any particular manner, so long as the financial
+institution is able to retrieve the information required by this paragraph, either by
+accessing transmittal of funds records directly or through reference to some other record
+maintained by the financial institution.
+
+(5) Verification. Where verification is required under paragraphs (e)(2) and (e)(3) of this
+section, a financial institution shall verify a person's identity by examination of a
+document (other than a customer signature card), preferably one that contains the person's
+name, address, and photograph, that is normally acceptable by financial institutions as a
+means of identification when cashing checks for persons other than established customers.
+Verification of the identity of an individual who indicates that he or she is an alien or is
+not a resident of the United States may be made by passport, alien identification card, or
+other official document evidencing nationality or residence (e.g., a foreign driver's
+license with indication of home address).
+
+(6) Exceptions. The following transmittals of funds are not subject to the requirements of
+this section:
+
+(i) Transmittals of funds where the transmittor and the recipient are any of the following:
+
+(A) A bank;
+
+(B) A wholly-owned domestic subsidiary of a bank chartered in the United States;
+
+(C) A broker or dealer in securities;
+
+(D) A wholly-owned domestic subsidiary of a broker or dealer in securities;
+
+(E) A futures commission merchant or an introducing broker in commodities;
+
+(F) A wholly-owned domestic subsidiary of a futures commission merchant or an introducing
+broker in commodities;
+
+(G) The United States;
+
+(H) A state or local government; or
+
+(I) A Federal, State or local government agency or instrumentality; or
+
+(J) A mutual fund; and
+
+(ii) Transmittals of funds where both the transmittor and the recipient are the same person
+and the transmittor's financial institution and the recipient's financial institution are
+the same broker or dealer in securities.
+
+(f) Any transmittor's financial institution or intermediary financial institution located
+within the United States shall include in any transmittal order for a transmittal of funds
+in the amount of $3,000 or more, information as required in this paragraph (f):
+
+(1) A transmittor's financial institution shall include in a transmittal order, at the time
+it is sent to a receiving financial institution, the following information:
+
+(i) The name and, if the payment is ordered from an account, the account number of the
+transmittor;
+
+(ii) The address of the transmittor, except for a transmittal order through Fedwire until
+such time as the bank that sends the order to the Federal Reserve Bank completes its
+conversion to the expanded Fedwire format;
+
+(iii) The amount of the transmittal order;
+
+(iv) The execution date of the transmittal order;
+
+(v) The identity of the recipient's financial institution;
+
+(vi) As many of the following items as are received with the transmittal order: 2
+
+2 For transmittals of funds effected through the Federal Reserve's Fedwire funds transfer
+system by a financial institution, only one of the items is required to be included in the
+transmittal order, if received with the sender's transmittal order, until such time as the
+bank that sends the order to the Federal Reserve Bank completes its conversion to the
+expanded Fedwire message format.
+
+(A) The name and address of the recipient;
+
+(B) The account number of the recipient;
+
+(C) Any other specific identifier of the recipient; and
+
+(vii) Either the name and address or numerical identifier of the transmittor's financial
+institution.
+
+(2) A receiving financial institution that acts as an intermediary financial institution, if
+it accepts a transmittal order, shall include in a corresponding transmittal order at the
+time it is sent to the next receiving financial institution, the following information, if
+received from the sender:
+
+(i) The name and the account number of the transmittor;
+
+(ii) The address of the transmittor, except for a transmittal order through Fedwire until
+such time as the bank that sends the order to the Federal Reserve Bank completes its
+conversion to the expanded Fedwire format;
+
+(iii) The amount of the transmittal order;
+
+(iv) The execution date of the transmittal order;
+
+(v) The identity of the recipient's financial institution;
+
+(vi) As many of the following items as are received with the transmittal order: 3
+
+3 For transmittals of funds effected through the Federal Reserve's Fedwire funds transfer
+system by a financial institution, only one of the items is required to be included in the
+transmittal order, if received with the sender's transmittal order, until such time as the
+bank that sends the order to the Federal Reserve Bank completes its conversion to the
+expanded Fedwire message format.
+
+(A) The name and address of the recipient;
+
+(B) The account number of the recipient;
+
+(C) Any other specific identifier of the recipient; and
+
+(vii) Either the name and address or numerical identifier of the transmittor's financial
+institution.
+
+(3) Safe harbor for transmittals of funds prior to conversion to the expanded Fedwire
+message format. The following provisions apply to transmittals of funds effected through the
+Federal Reserve's Fedwire funds transfer system or otherwise by a financial institution
+before the bank that sends the order to the Federal Reserve Bank or otherwise completes its
+conversion to the expanded Fedwire message format.
+
+(i) Transmittor's financial institution. A transmittor's financial institution will be
+deemed to be in compliance with the provisions of paragraph (f)(1) of this section if it:
+
+(A) Includes in the transmittal order, at the time it is sent to the receiving financial
+institution, the information specified in paragraphs (f)(1)(iii) through (v), and the
+information specified in paragraph (f)(1)(vi) of this section to the extent that such
+information has been received by the financial institution, and
+
+(B) Provides the information specified in paragraphs (f)(1)(i), (ii) and (vii) of this
+section to a financial institution that acted as an intermediary financial institution or
+recipient's financial institution in connection with the transmittal order, within a
+reasonable time after any such financial institution makes a request therefor in connection
+with the requesting financial institution's receipt of a lawful request for such information
+from a Federal, State, or local law enforcement or financial regulatory agency, or in
+connection with the requesting financial institution's own Bank Secrecy Act compliance
+program.
+
+(ii) Intermediary financial institution. An intermediary financial institution will be
+deemed to be in compliance with the provisions of paragraph (f)(2) of this section if it:
+
+(A) Includes in the transmittal order, at the time it is sent to the receiving financial
+institution, the information specified in paragraphs (f)(2)(iii) through (f)(2)(vi) of this
+section, to the extent that such information has been received by the intermediary financial
+institution; and
+
+(B) Provides the information specified in paragraphs (f)(2)(i), (ii) and (vii) of this
+section, to the extent that such information has been received by the intermediary financial
+institution, to a financial institution that acted as an intermediary financial institution
+or recipient's financial institution in connection with the transmittal order, within a
+reasonable time after any such financial institution makes a request therefor in connection
+with the requesting financial institution's receipt of a lawful request for such information
+from a Federal, State, or local law enforcement or regulatory agency, or in connection with
+the requesting financial institution's own Bank Secrecy Act compliance program.
+
+(iii) Obligation of requesting financial institution. Any information requested under
+paragraph (f)(3)(i)(B) or (f)(3)(ii)(B) of this section shall be treated by the requesting
+institution, once received, as if it had been included in the transmittal order to which
+such information relates.
+
+(4) Exceptions. The requirements of this paragraph (f) shall not apply to transmittals of
+funds that are listed in paragraph (e)(6) of this section or § 1020.410(a)(6) of this
+chapter.
