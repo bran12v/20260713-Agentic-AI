@@ -1,0 +1,150 @@
+{
+  "description": "Golden set for the Foundry IQ demo. Seventeen cases: eleven in-corpus, two near-miss, four out-of-corpus. Part 3 sweeps the reranker threshold against this set to find the value at which the two halves separate.",
+  "corpus": "foundry-iq-corpus",
+  "cases": [
+    {
+      "id": "G01",
+      "question": "Does rotating a TLS certificate on a load balancer need CAB approval?",
+      "expect": "answer",
+      "expected_doc_ids": ["CHG-STD", "CHG-CAT"],
+      "hops": 2,
+      "cross_reference": "X1",
+      "note": "The general rule is in CHG-STD 4.1; the exception that resolves it is entry SC-01 in CHG-CAT. One hop gives the wrong answer."
+    },
+    {
+      "id": "G02",
+      "question": "Who authorises an emergency change, and by when must it be reviewed afterwards?",
+      "expect": "answer",
+      "expected_doc_ids": ["CHG-STD", "EXC-PROC"],
+      "hops": 2,
+      "cross_reference": "X2",
+      "note": "Duty Change Authority; retrospective review within 24 hours of implementation."
+    },
+    {
+      "id": "G03",
+      "question": "What does it take for a backout path to count as verified?",
+      "expect": "answer",
+      "expected_doc_ids": ["RBK-STD"],
+      "hops": 1,
+      "note": "RBK-STD 2 lists three things that explicitly do not count."
+    },
+    {
+      "id": "G04",
+      "question": "If a vendor's security review expires, what happens to their production access?",
+      "expect": "answer",
+      "expected_doc_ids": ["VND-SOP", "ACC-POL"],
+      "hops": 2,
+      "cross_reference": "X4",
+      "note": "Lapses automatically, no grace period."
+    },
+    {
+      "id": "G05",
+      "question": "Within how long must an emergency change be retrospectively reviewed?",
+      "expect": "answer",
+      "expected_doc_ids": ["EXC-PROC"],
+      "hops": 1,
+      "distractor": "24 hour",
+      "note": "24 hours from completion of implementation. Two other documents also say 24 hours about unrelated clocks."
+    },
+    {
+      "id": "G06",
+      "question": "How long is a record held after it is queued for deletion?",
+      "expect": "answer",
+      "expected_doc_ids": ["RET-SCH"],
+      "hops": 1,
+      "distractor": "24 hour",
+      "note": "24-hour grace period. Must not return the emergency-change clock."
+    },
+    {
+      "id": "G07",
+      "question": "How often must clients be updated during a Severity 2 incident?",
+      "expect": "answer",
+      "expected_doc_ids": ["SEV-MTX"],
+      "hops": 1,
+      "distractor": "24 hour",
+      "note": "Every 24 hours after an initial notice within 2 hours. Third use of the same number."
+    },
+    {
+      "id": "G08",
+      "question": "What are the quarter-end freeze windows for 2026?",
+      "expect": "answer",
+      "expected_doc_ids": ["FRZ-CAL"],
+      "hops": 1,
+      "note": "Closed enumerated list. Three quarter-end windows plus three others."
+    },
+    {
+      "id": "G09",
+      "question": "How quickly must a backout complete once the decision is made?",
+      "expect": "answer",
+      "expected_doc_ids": ["RBK-STD"],
+      "hops": 1,
+      "note": "30 minutes, measured from decision rather than from start of execution."
+    },
+    {
+      "id": "G10",
+      "question": "Which assessment components does a Tier 2 vendor review require?",
+      "expect": "answer",
+      "expected_doc_ids": ["VND-SOP"],
+      "hops": 1,
+      "note": "Table-heavy answer. Tests whether the chunker kept the table intact."
+    },
+    {
+      "id": "G11",
+      "question": "Who gets paged when a Severity 1 incident is declared, and how fast must they respond?",
+      "expect": "answer",
+      "expected_doc_ids": ["ONC-RUN"],
+      "hops": 1,
+      "note": "Incident commander plus service on-call, 5 minutes."
+    },
+    {
+      "id": "G12",
+      "question": "Does creating a database index on a production table need CAB approval?",
+      "expect": "answer",
+      "expected_doc_ids": ["CHG-CAT"],
+      "hops": 1,
+      "near_miss": true,
+      "note": "Near miss. Schema changes are normal changes; SC-04 carves out one narrow case. A threshold tuned only to suppress hallucination starts refusing this."
+    },
+    {
+      "id": "G13",
+      "question": "How long are break-glass production session logs retained?",
+      "expect": "answer",
+      "expected_doc_ids": ["RET-SCH"],
+      "hops": 1,
+      "near_miss": true,
+      "note": "Near miss. Three years, in a twelve-row table."
+    },
+    {
+      "id": "G14",
+      "question": "What is our parental leave entitlement?",
+      "expect": "refuse",
+      "expected_doc_ids": [],
+      "hops": 0,
+      "note": "Out of corpus. Zero occurrences."
+    },
+    {
+      "id": "G15",
+      "question": "How do I claim expense reimbursement for client travel?",
+      "expect": "refuse",
+      "expected_doc_ids": [],
+      "hops": 0,
+      "note": "Out of corpus. Zero occurrences."
+    },
+    {
+      "id": "G16",
+      "question": "How do we respond to a data subject access request?",
+      "expect": "refuse",
+      "expected_doc_ids": [],
+      "hops": 0,
+      "note": "Out of corpus, and the hardest refusal: the corpus is full of records, retention and legal-hold language that scores well lexically."
+    },
+    {
+      "id": "G17",
+      "question": "What is the sales commission structure for this quarter?",
+      "expect": "refuse",
+      "expected_doc_ids": [],
+      "hops": 0,
+      "note": "Out of corpus. 'Quarter' appears throughout FRZ-CAL, which is the trap."
+    }
+  ]
+}
