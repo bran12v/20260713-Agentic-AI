@@ -39,6 +39,7 @@ KB_NAME = "delivery-standards"
 KS_FILES = "delivery-standards-files"
 KS_INDEX = "delivery-standards-index"
 INDEX_NAME = "delivery-standards-idx"
+SEMANTIC_CONFIG = "sem-config"
 
 credential = DefaultAzureCredential()
 index_client = SearchIndexClient(endpoint=SEARCH_ENDPOINT, credential=credential)
@@ -47,8 +48,22 @@ kb_client = KnowledgeBaseRetrievalClient(
 )
 
 # Query
-def query(text: str, activity: bool = False):
-    """Ask the knowledge base one question. Returns the raw retrieval result."""
+def query(text: str, doc_type: str, activity: bool = False, source_data: bool = False):
+    """Ask the knowledge base one question. Returns the raw retrieval result.
+    
+    source_data / doc_type which will target the index source rather than the integrated KB.
+    """
+    params = None
+    if source_data or doc_type:
+        params = [
+            SearchIndexKnowledgeSourceParams(
+                knowledge_source_name=KS_INDEX,
+                include_references=True,
+                include_reference_source_data=True,
+                filter_add_on=f"doc_type eq '{doc_type}'" if doc_type else None,
+                always_query_source=bool(doc_type)
+            )
+        ]
     return kb_client.retrieve(
         KnowledgeBaseRetrievalRequest(
             messages=[
@@ -57,6 +72,7 @@ def query(text: str, activity: bool = False):
                     content=[KnowledgeBaseMessageTextContent(text=text)]
                 )
             ],
+            knowledge_source_params=params, # makes it so we will hit our index if we query our specific params
             include_activity=activity,
             retrieval_reasoning_effort=KnowledgeRetrievalLowReasoningEffort(),
         )
