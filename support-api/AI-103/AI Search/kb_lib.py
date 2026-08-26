@@ -48,7 +48,7 @@ kb_client = KnowledgeBaseRetrievalClient(
 )
 
 # Query
-def query(text: str, doc_type: str, activity: bool = False, source_data: bool = False):
+def query(text: str, doc_type: str | None = None, activity: bool = False, source_data: bool = False):
     """Ask the knowledge base one question. Returns the raw retrieval result.
     
     source_data / doc_type which will target the index source rather than the integrated KB.
