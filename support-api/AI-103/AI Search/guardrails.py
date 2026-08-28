@@ -4,7 +4,7 @@ import asyncio
 import json
 from collections.abc import Awaitable, Callable
 import os
-
+import re
 from agent_framework import Agent
 from agent_framework.foundry import FoundryChatClient
 from azure.identity.aio import AzureCliCredential
@@ -22,7 +22,7 @@ load_dotenv()
 # Calibrated threshold value based on evaluations of a golden set against agent retrieval.
 TAU = 2.47
 
-GATE_MAKER = "GATE_REFUSED:"
+GATE_MARKER = "GATE_REFUSED:"
 
 REFUSAL = (
     "That isn't covered in our current standards library - "
@@ -39,7 +39,17 @@ def _payload(result) -> dict:
         return json.loads(text)
     except(json.JSONDecodeError, TypeError):
         return {}
-    
+
+def verify(answer: str, retrieved: set[str]) -> tuple[list[dict], list[str]]:
+    """
+    All cited documents that were retrieved this agent turn. Getting info on anything that exists in the corpus.
+    A citation to a real document but the agent never uses it is still a fabrication.
+    """
+    cited = set(re.findall(r"\[doc_id:\s*([A-Z]{3}-[A-Z]{3})\]", answer))
+    sources = [{"doc_id": d} for d in sorted(cited & retrieved)]
+    unsupported = sorted(cited - retrieved)
+    return sources, unsupported
+
 
 @function_middleware
 async def gate_on_reranker(
@@ -59,10 +69,10 @@ async def gate_on_reranker(
     if top < TAU:
         print(f"    [gate] top {top:.2f} < {TAU} -> REFUSE (no synthesis call)")
         # set the context to have a appropriate error to indicate to the agent what happened.
-        context.result = [Content.from_text(GATE_MAKER + json.dumps(
+        context.result = [Content.from_text(GATE_MARKER + json.dumps(
             {"reason": "below_retrieval_threshold", "top": round(top, 2), "tau": TAU}
         ))]
-        # raise MiddlewareTermination(f"below tau: {top:.2f}") # FAILURE
+        raise MiddlewareTermination(f"below tau: {top:.2f}") # FAILURE
     else:
         # JOB 2 - the filter.
         # The Gate passed, but there may be individual chunks below the threshold that will be distractors.
