@@ -3,10 +3,10 @@ name: support-api -> ACA
 on: # triggers
     pull_request:
         branches: [main]
-        paths: ['support-api/**', '.github/workflows/support-api-CICD.yaml']
+        paths: ['support-api/src/**', '.github/workflows/support-api-CICD.yaml']
     push:
         branches: [main]
-        paths: ['support-api/**', '.github/workflows/support-api-CICD.yaml']
+        paths: ['support-api/src/**', '.github/workflows/support-api-CICD.yaml']
     workflow_dispatch: # manual deployment
 
 permissions: # OIDC creds to work, otherwise our azure/login will fail
