@@ -4,3 +4,5 @@ __pycache__
 .env
 tickets.db
 .pytest_cache
+support-api/AI-103/multi-agent-patterns/workflow-builder/checkpoints/
+support-api/AI-103/multi-agent-patterns/workflow-builder/sessions/
