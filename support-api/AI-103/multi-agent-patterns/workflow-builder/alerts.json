@@ -1,0 +1,3370 @@
+{
+ "alerts": [
+  {
+   "alert_id": "AML-8807",
+   "raised": "2026-07-16",
+   "customer_id": "CUS-4000",
+   "counterparty": "Marchetti Ventures LLP",
+   "amount": 48500,
+   "currency": "GBP",
+   "jurisdiction": "MT",
+   "channel": "SWIFT",
+   "rule": "RULE-NAME-02 possible watchlist name match"
+  },
+  {
+   "alert_id": "AML-8815",
+   "raised": "2026-08-12",
+   "customer_id": "CUS-4003",
+   "counterparty": null,
+   "amount": 9450,
+   "currency": "gbp",
+   "jurisdiction": "Cyprus",
+   "channel": "CHAPS",
+   "rule": "RULE-STRUCT-04 rapid structuring below threshold"
+  },
+  {
+   "alert_id": "AML-8823",
+   "raised": "2026-06-22",
+   "customer_id": "CUS-4005",
+   "counterparty": "Haddad Trading Ltd",
+   "amount": 250000,
+   "currency": "EUR",
+   "jurisdiction": "AE",
+   "channel": "SWIFT",
+   "rule": "RULE-GEO-11 high-risk jurisdiction exposure"
+  },
+  {
+   "alert_id": "AML-8803",
+   "raised": "2026-08-21",
+   "customer_id": "CUS-4027",
+   "counterparty": "Rahman Commodities Ltd",
+   "amount": 12000,
+   "currency": "USD",
+   "jurisdiction": "gb",
+   "channel": "FPS",
+   "rule": "RULE-GEO-11 high-risk jurisdiction exposure"
+  },
+  {
+   "alert_id": "AML-8804",
+   "raised": "2026-08-26",
+   "customer_id": "CUS-4003",
+   "counterparty": "Rahman Freight GmbH",
+   "amount": 9450,
+   "currency": "USD",
+   "jurisdiction": "MT",
+   "channel": "FPS",
+   "rule": "RULE-VEL-07 velocity spike vs 90-day baseline"
+  },
+  {
+   "alert_id": "AML-8805",
+   "raised": "2026-08-14",
+   "customer_id": "CUS-4029",
+   "counterparty": "Silva Commodities Ltd",
+   "amount": 4800,
+   "currency": "USD",
+   "jurisdiction": "CY",
+   "channel": "FPS",
+   "rule": "RULE-GEO-11 high-risk jurisdiction exposure"
+  },
+  {
+   "alert_id": "AML-8806",
+   "raised": "2026-07-11",
+   "customer_id": "CUS-4039",
+   "counterparty": "Nakamura Trading Ltd",
+   "amount": 3200,
+   "currency": "EUR",
+   "jurisdiction": "mlt",
+   "channel": "SEPA",
+   "rule": "RULE-NAME-02 possible watchlist name match"
+  },
+  {
+   "alert_id": "AML-8807",
+   "raised": "2026-06-14",
+   "customer_id": "CUS-4038",
+   "counterparty": "Petrov Metals SARL",
+   "amount": 9450,
+   "currency": "EUR",
+   "jurisdiction": "GB",
+   "channel": "SWIFT",
+   "rule": "RULE-VEL-07 velocity spike vs 90-day baseline"
+  },
+  {
+   "alert_id": "AML-8808",
+   "raised": "2026-06-27",
+   "customer_id": "CUS-4013",
+   "counterparty": "Berisha Capital Partners",
+   "amount": 9450,
+   "currency": "EUR",
+   "jurisdiction": "LV",
+   "channel": "CHAPS",
+   "rule": "RULE-GEO-11 high-risk jurisdiction exposure"
+  },
+  {
+   "alert_id": "AML-8809",
+   "raised": "2026-06-16",
+   "customer_id": "CUS-4000",
+   "counterparty": "Okonkwo Metals SARL",
+   "amount": 48500,
+   "currency": "GBP",
+   "jurisdiction": "mlt",
+   "channel": "CHAPS",
+   "rule": "RULE-VEL-07 velocity spike vs 90-day baseline"
+  },
+  {
+   "alert_id": "AML-8810",
+   "raised": "2026-08-22",
+   "customer_id": "CUS-4011",
+   "counterparty": "Rahman Logistics BV",
+   "amount": 4800,
+   "currency": "EUR",
+   "jurisdiction": "CY",
+   "channel": "card",
+   "rule": "RULE-VEL-07 velocity spike vs 90-day baseline"
+  },
+  {
+   "alert_id": "AML-8811",
+   "raised": "2026-07-11",
+   "customer_id": "CUS-4034",
+   "counterparty": "Voronin Commodities Ltd",
+   "amount": 4800,
+   "currency": "GBP",
+   "jurisdiction": "mlt",
+   "channel": "card",
+   "rule": "RULE-NAME-02 possible watchlist name match"
+  },
+  {
+   "alert_id": "AML-8812",
+   "raised": "2026-07-23",
+   "customer_id": "CUS-4010",
+   "counterparty": "Duarte Holdings Ltd",
+   "amount": 3200,
+   "currency": "USD",
+   "jurisdiction": "mlt",
+   "channel": "card",
+   "rule": "RULE-NAME-02 possible watchlist name match"
+  },
+  {
+   "alert_id": "AML-8813",
+   "raised": "2026-07-17",
+   "customer_id": "CUS-4015",
+   "counterparty": "Haddad Metals SARL",
+   "amount": 3200,
+   "currency": "GBP",
+   "jurisdiction": "gb",
+   "channel": "SEPA",
+   "rule": "RULE-DORM-03 dormant account reactivation"
+  },
+  {
+   "alert_id": "AML-8814",
+   "raised": "2026-07-10",
+   "customer_id": "CUS-4033",
+   "counterparty": "Ferreira Trading Ltd",
+   "amount": 12000,
+   "currency": "USD",
+   "jurisdiction": "GB",
+   "channel": "SEPA",
+   "rule": "RULE-STRUCT-04 rapid structuring below threshold"
+  },
+  {
+   "alert_id": "AML-8815",
+   "raised": "2026-07-22",
+   "customer_id": "CUS-4030",
+   "counterparty": "Adeyemi Commodities Ltd",
+   "amount": 9450,
+   "currency": "CHF",
+   "jurisdiction": "UAE",
+   "channel": "FPS",
+   "rule": "RULE-VEL-07 velocity spike vs 90-day baseline"
+  },
+  {
+   "alert_id": "AML-8816",
+   "raised": "2026-08-16",
+   "customer_id": "CUS-4033",
+   "counterparty": null,
+   "amount": 4800,
+   "currency": "CHF",
+   "jurisdiction": "TR",
+   "channel": "card",
+   "rule": "RULE-VEL-07 velocity spike vs 90-day baseline"
+  },
+  {
+   "alert_id": "AML-8817",
+   "raised": "2026-08-27",
+   "customer_id": "CUS-4021",
+   "counterparty": "Voronin Logistics BV",
+   "amount": 4800,
+   "currency": "EUR",
+   "jurisdiction": "UAE",
+   "channel": "SWIFT",
+   "rule": "RULE-VEL-07 velocity spike vs 90-day baseline"
+  },
+  {
+   "alert_id": "AML-8818",
+   "raised": "2026-07-11",
+   "customer_id": "CUS-4014",
+   "counterparty": "Kowalski Metals SARL",
+   "amount": 4800,
+   "currency": "EUR",
+   "jurisdiction": "mlt",
+   "channel": "card",
+   "rule": "RULE-NAME-02 possible watchlist name match"
+  },
+  {
+   "alert_id": "AML-8819",
+   "raised": "2026-08-12",
+   "customer_id": "CUS-4006",
+   "counterparty": "Duarte Ventures LLP",
+   "amount": 76400,
+   "currency": "EUR",
+   "jurisdiction": "Cyprus",
+   "channel": "CHAPS",
+   "rule": "RULE-STRUCT-04 rapid structuring below threshold"
+  },
+  {
+   "alert_id": "AML-8820",
+   "raised": "2026-06-23",
+   "customer_id": "CUS-4003",
+   "counterparty": "Ferreira Metals SARL",
+   "amount": 48500,
+   "currency": "EUR",
+   "jurisdiction": "Malta",
+   "rule": "RULE-NAME-02 possible watchlist name match"
+  },
+  {
+   "alert_id": "AML-8821",
+   "raised": "2026-08-11",
+   "customer_id": "CUS-4014",
+   "counterparty": "Okonkwo Import Export SA",
+   "amount": 3200,
+   "currency": "USD",
+   "jurisdiction": "HK",
+   "channel": "FPS",
+   "rule": "RULE-NAME-02 possible watchlist name match"
+  },
+  {
+   "alert_id": "AML-8822",
+   "raised": "2026-06-11",
+   "customer_id": "CUS-4031",
+   "counterparty": "Petrov Shipping Ltd",
+   "amount": 48500,
+   "currency": "CHF",
+   "jurisdiction": "UAE",
+   "channel": "SEPA",
+   "rule": "RULE-DORM-03 dormant account reactivation"
+  },
+  {
+   "alert_id": "AML-8823",
+   "raised": "2026-07-23",
+   "customer_id": "CUS-4051",
+   "counterparty": "Petrov Commodities Ltd",
+   "amount": 4800,
+   "currency": "GBP",
+   "jurisdiction": "PA",
+   "channel": "CHAPS",
+   "rule": "RULE-NAME-02 possible watchlist name match"
+  },
+  {
+   "alert_id": "AML-8824",
+   "raised": "2026-07-28",
+   "customer_id": "CUS-4030",
+   "counterparty": "Berisha Metals SARL",
+   "amount": 4800,
+   "currency": "USD",
+   "jurisdiction": "UAE",
+   "channel": "card",
+   "rule": "RULE-STRUCT-04 rapid structuring below threshold"
+  },
+  {
+   "alert_id": "AML-8825",
+   "raised": "2026-08-13",
+   "customer_id": "CUS-4034",
+   "counterparty": "Silva Import Export SA",
+   "amount": 48500,
+   "currency": "USD",
+   "jurisdiction": "GB",
+   "rule": "RULE-DORM-03 dormant account reactivation"
+  },
+  {
+   "alert_id": "AML-8826",
+   "raised": "2026-06-10",
+   "customer_id": "CUS-4005",
+   "counterparty": null,
+   "amount": 9900,
+   "currency": "CHF",
+   "jurisdiction": "LV",
+   "channel": "SWIFT",
+   "rule": "RULE-DORM-03 dormant account reactivation"
+  },
+  {
+   "alert_id": "AML-8827",
+   "raised": "2026-08-23",
+   "customer_id": "CUS-4007",
+   "counterparty": null,
+   "amount": 48500,
+   "currency": "EUR",
+   "jurisdiction": "HK",
+   "channel": "SWIFT",
+   "rule": "RULE-NAME-02 possible watchlist name match"
+  },
+  {
+   "alert_id": "AML-8828",
+   "raised": "2026-08-23",
+   "customer_id": "CUS-4042",
+   "counterparty": "Adeyemi Ventures LLP",
+   "amount": 12000,
+   "currency": "USD",
+   "jurisdiction": "AE",
+   "channel": "SEPA",
+   "rule": "RULE-DORM-03 dormant account reactivation"
+  },
+  {
+   "alert_id": "AML-8829",
+   "raised": "2026-06-18",
+   "customer_id": "CUS-4012",
+   "counterparty": "Silva Logistics BV",
+   "amount": 4800,
+   "currency": "EUR",
+   "jurisdiction": "Malta",
+   "channel": "SEPA",
+   "rule": "RULE-VEL-07 velocity spike vs 90-day baseline"
+  },
+  {
+   "alert_id": "AML-8830",
+   "raised": "2026-08-22",
+   "customer_id": "CUS-4009",
+   "counterparty": "Voronin Shipping Ltd",
+   "amount": 12000,
+   "currency": "USD",
+   "jurisdiction": "PA",
+   "channel": "FPS",
+   "rule": "RULE-DORM-03 dormant account reactivation"
+  },
+  {
+   "alert_id": "AML-8831",
+   "raised": "2026-06-14",
+   "customer_id": "CUS-4000",
+   "counterparty": "Rahman Freight GmbH",
+   "amount": 4800,
+   "currency": "USD",
+   "jurisdiction": "PA",
+   "channel": "card",
+   "rule": "RULE-NAME-02 possible watchlist name match"
+  },
+  {
+   "alert_id": "AML-8832",
+   "raised": "2026-06-13",
+   "customer_id": "CUS-4016",
+   "counterparty": "Ferreira Holdings Ltd",
+   "amount": 48500,
+   "currency": "CHF",
+   "jurisdiction": "Cyprus",
+   "channel": "card",
+   "rule": "RULE-GEO-11 high-risk jurisdiction exposure"
+  },
+  {
+   "alert_id": "AML-8833",
+   "raised": "2026-06-15",
+   "customer_id": "CUS-4010",
+   "counterparty": "Ferreira Shipping Ltd",
+   "amount": 48500,
+   "currency": "EUR",
+   "jurisdiction": "LV",
+   "channel": "FPS",
+   "rule": "RULE-DORM-03 dormant account reactivation"
+  },
+  {
+   "alert_id": "AML-8834",
+   "raised": "2026-08-21",
+   "customer_id": "CUS-4030",
+   "counterparty": null,
+   "amount": 3200,
+   "currency": "gbp",
+   "jurisdiction": "mlt",
+   "channel": "CHAPS",
+   "rule": "RULE-VEL-07 velocity spike vs 90-day baseline"
+  },
+  {
+   "alert_id": "AML-8835",
+   "raised": "2026-08-23",
+   "customer_id": "CUS-4002",
+   "counterparty": null,
+   "amount": 9450,
+   "currency": "EUR",
+   "jurisdiction": "Malta",
+   "channel": "CHAPS",
+   "rule": "RULE-VEL-07 velocity spike vs 90-day baseline"
+  },
+  {
+   "alert_id": "AML-8836",
+   "raised": "2026-06-24",
+   "customer_id": "CUS-4028",
+   "counterparty": "Okonkwo Ventures LLP",
+   "amount": 3200,
+   "currency": "CHF",
+   "jurisdiction": "CY",
+   "channel": "card",
+   "rule": "RULE-GEO-11 high-risk jurisdiction exposure"
+  },
+  {
+   "alert_id": "AML-8837",
+   "raised": "2026-08-20",
+   "customer_id": "CUS-4005",
+   "counterparty": null,
+   "amount": 9900,
+   "currency": "gbp",
+   "jurisdiction": "MT",
+   "rule": "RULE-VEL-07 velocity spike vs 90-day baseline"
+  },
+  {
+   "alert_id": "AML-8838",
+   "raised": "2026-07-28",
+   "customer_id": "CUS-4039",
+   "counterparty": "Marchetti Ventures LLP",
+   "amount": 4800,
+   "currency": "CHF",
+   "jurisdiction": "GB",
+   "rule": "RULE-DORM-03 dormant account reactivation"
+  },
+  {
+   "alert_id": "AML-8839",
+   "raised": "2026-06-25",
+   "customer_id": "CUS-4042",
+   "counterparty": "Silva Metals SARL",
+   "amount": 12000,
+   "currency": "CHF",
+   "jurisdiction": "gb",
+   "channel": "SEPA",
+   "rule": "RULE-NAME-02 possible watchlist name match"
+  },
+  {
+   "alert_id": "AML-8840",
+   "raised": "2026-08-18",
+   "customer_id": "CUS-4036",
+   "counterparty": "Nakamura Import Export SA",
+   "amount": 48500,
+   "currency": "CHF",
+   "jurisdiction": "AE",
+   "channel": "card",
+   "rule": "RULE-GEO-11 high-risk jurisdiction exposure"
+  },
+  {
+   "alert_id": "AML-8841",
+   "raised": "2026-08-23",
+   "customer_id": "CUS-4001",
+   "counterparty": "Larsen Commodities Ltd",
+   "amount": 250000,
+   "currency": "CHF",
+   "jurisdiction": "Malta",
+   "channel": "FPS",
+   "rule": "RULE-VEL-07 velocity spike vs 90-day baseline"
+  },
+  {
+   "alert_id": "AML-8842",
+   "raised": "2026-06-11",
+   "customer_id": "CUS-4051",
+   "counterparty": "Kowalski Trading Ltd",
+   "amount": 250000,
+   "currency": "EUR",
+   "jurisdiction": "Malta",
+   "channel": "FPS",
+   "rule": "RULE-VEL-07 velocity spike vs 90-day baseline"
+  },
+  {
+   "alert_id": "AML-8843",
+   "raised": "2026-06-16",
+   "customer_id": "CUS-4021",
+   "counterparty": "Larsen Metals SARL",
+   "amount": 12000,
+   "currency": "USD",
+   "jurisdiction": "CY",
+   "channel": "SWIFT",
+   "rule": "RULE-NAME-02 possible watchlist name match"
+  },
+  {
+   "alert_id": "AML-8844",
+   "raised": "2026-06-16",
+   "customer_id": "CUS-4026",
+   "counterparty": "Petrov Trading Ltd",
+   "amount": 9900,
+   "currency": "CHF",
+   "jurisdiction": "UAE",
+   "channel": "FPS",
+   "rule": "RULE-STRUCT-04 rapid structuring below threshold"
+  },
+  {
+   "alert_id": "AML-8845",
+   "raised": "2026-07-14",
+   "customer_id": "CUS-4039",
+   "counterparty": "Marchetti Commodities Ltd",
+   "amount": 4800,
+   "currency": "EUR",
+   "jurisdiction": "PA",
+   "channel": "SWIFT",
+   "rule": "RULE-GEO-11 high-risk jurisdiction exposure"
+  },
+  {
+   "alert_id": "AML-8846",
+   "raised": "2026-08-16",
+   "customer_id": "CUS-4031",
+   "counterparty": "Marchetti Import Export SA",
+   "amount": 9450,
+   "currency": "gbp",
+   "jurisdiction": "gb",
+   "channel": "CHAPS",
+   "rule": "RULE-DORM-03 dormant account reactivation"
+  },
+  {
+   "alert_id": "AML-8847",
+   "raised": "2026-06-19",
+   "customer_id": "CUS-4018",
+   "counterparty": "Haddad Ventures LLP",
+   "amount": 4800,
+   "currency": "CHF",
+   "jurisdiction": "CY",
+   "channel": "card",
+   "rule": "RULE-GEO-11 high-risk jurisdiction exposure"
+  },
+  {
+   "alert_id": "AML-8848",
+   "raised": "2026-06-26",
+   "customer_id": "CUS-4008",
+   "counterparty": "Silva Shipping Ltd",
+   "amount": 76400,
+   "currency": "EUR",
+   "jurisdiction": "HK",
+   "channel": "FPS",
+   "rule": "RULE-GEO-11 high-risk jurisdiction exposure"
+  },
+  {
+   "alert_id": "AML-8849",
+   "raised": "2026-06-13",
+   "customer_id": "CUS-4033",
+   "counterparty": null,
+   "amount": 9450,
+   "currency": "GBP",
+   "jurisdiction": "gb",
+   "channel": "CHAPS",
+   "rule": "RULE-STRUCT-04 rapid structuring below threshold"
+  },
+  {
+   "alert_id": "AML-8850",
+   "raised": "2026-08-12",
+   "customer_id": "CUS-4020",
+   "counterparty": "Kowalski Shipping Ltd",
+   "amount": 250000,
+   "currency": "CHF",
+   "jurisdiction": "Malta",
+   "rule": "RULE-STRUCT-04 rapid structuring below threshold"
+  },
+  {
+   "alert_id": "AML-8851",
+   "raised": "2026-07-23",
+   "customer_id": "CUS-4004",
+   "counterparty": "Larsen Logistics BV",
+   "amount": 250000,
+   "currency": "USD",
+   "jurisdiction": "Malta",
+   "channel": "SEPA",
+   "rule": "RULE-GEO-11 high-risk jurisdiction exposure"
+  },
+  {
+   "alert_id": "AML-8852",
+   "raised": "2026-08-17",
+   "customer_id": "CUS-4026",
+   "counterparty": null,
+   "amount": 9900,
+   "currency": "USD",
+   "jurisdiction": "LV",
+   "channel": "SWIFT",
+   "rule": "RULE-VEL-07 velocity spike vs 90-day baseline"
+  },
+  {
+   "alert_id": "AML-8853",
+   "raised": "2026-07-10",
+   "customer_id": "CUS-4015",
+   "counterparty": "Haddad Commodities Ltd",
+   "amount": 12000,
+   "currency": "gbp",
+   "jurisdiction": "UAE",
+   "channel": "card",
+   "rule": "RULE-NAME-02 possible watchlist name match"
+  },
+  {
+   "alert_id": "AML-8854",
+   "raised": "2026-06-13",
+   "customer_id": "CUS-4001",
+   "counterparty": "Voronin Trading Ltd",
+   "amount": 9900,
+   "currency": "EUR",
+   "jurisdiction": "AE",
+   "rule": "RULE-NAME-02 possible watchlist name match"
+  },
+  {
+   "alert_id": "AML-8855",
+   "raised": "2026-06-22",
+   "customer_id": "CUS-4009",
+   "counterparty": null,
+   "amount": 48500,
+   "currency": "gbp",
+   "jurisdiction": "HK",
+   "channel": "card",
+   "rule": "RULE-GEO-11 high-risk jurisdiction exposure"
+  }
+ ],
+ "customers": [
+  {
+   "customer_id": "CUS-4000",
+   "legal_name": "Marchetti Ventures LLP",
+   "risk_rating": "medium",
+   "kyc_refreshed": null,
+   "pep": false,
+   "sic": "46900"
+  },
+  {
+   "customer_id": "CUS-4001",
+   "legal_name": "Voronin Import Export SA",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2020-07-02",
+   "pep": true,
+   "sic": "46900"
+  },
+  {
+   "customer_id": "CUS-4002",
+   "legal_name": "Silva Trading Ltd",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2025-06-30",
+   "pep": true,
+   "sic": "52290"
+  },
+  {
+   "customer_id": "CUS-4003",
+   "legal_name": "Berisha Commodities Limited",
+   "risk_rating": "low",
+   "kyc_refreshed": "2019-03-11",
+   "pep": false,
+   "sic": "46900"
+  },
+  {
+   "customer_id": "CUS-4004",
+   "legal_name": "Okonkwo Holdings Ltd",
+   "risk_rating": "low",
+   "kyc_refreshed": "2024-11-19",
+   "pep": false,
+   "sic": "64999"
+  },
+  {
+   "customer_id": "CUS-4005",
+   "legal_name": "Kowalski Commodities Ltd",
+   "risk_rating": "low",
+   "kyc_refreshed": "2018-01-24",
+   "pep": false,
+   "sic": "46900"
+  },
+  {
+   "customer_id": "CUS-4006",
+   "legal_name": "Silva Commodities Ltd",
+   "risk_rating": "high",
+   "kyc_refreshed": "2025-02-14",
+   "pep": true,
+   "sic": null
+  },
+  {
+   "customer_id": "CUS-4007",
+   "legal_name": "Petrov Logistics BV",
+   "risk_rating": "low",
+   "kyc_refreshed": "2019-03-11",
+   "pep": false,
+   "sic": "64999"
+  },
+  {
+   "customer_id": "CUS-4008",
+   "legal_name": "Haddad Metals SARL",
+   "risk_rating": "low",
+   "kyc_refreshed": "2024-11-19",
+   "pep": false,
+   "sic": null
+  },
+  {
+   "customer_id": "CUS-4009",
+   "legal_name": "Petrov Shipping Ltd",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2020-07-02",
+   "pep": false,
+   "sic": "46900"
+  },
+  {
+   "customer_id": "CUS-4010",
+   "legal_name": "Okonkwo Logistics BV",
+   "risk_rating": "high",
+   "kyc_refreshed": "2020-07-02",
+   "pep": false,
+   "sic": "64999"
+  },
+  {
+   "customer_id": "CUS-4011",
+   "legal_name": "Okonkwo Capital Partners",
+   "risk_rating": "high",
+   "kyc_refreshed": "2020-07-02",
+   "pep": false,
+   "sic": null
+  },
+  {
+   "customer_id": "CUS-4012",
+   "legal_name": "Haddad Capital Partners",
+   "risk_rating": "medium",
+   "kyc_refreshed": null,
+   "pep": false,
+   "sic": null
+  },
+  {
+   "customer_id": "CUS-4013",
+   "legal_name": "Duarte Metals SARL",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2018-01-24",
+   "pep": false,
+   "sic": "52290"
+  },
+  {
+   "customer_id": "CUS-4014",
+   "legal_name": "Larsen Ventures LLP",
+   "risk_rating": "high",
+   "kyc_refreshed": "2018-01-24",
+   "pep": false,
+   "sic": "52290"
+  },
+  {
+   "customer_id": "CUS-4015",
+   "legal_name": "Marchetti Commodities Ltd",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2025-06-30",
+   "pep": true,
+   "sic": "46900"
+  },
+  {
+   "customer_id": "CUS-4016",
+   "legal_name": "Haddad Capital Partners",
+   "risk_rating": "high",
+   "kyc_refreshed": "2019-03-11",
+   "pep": true,
+   "sic": "64999"
+  },
+  {
+   "customer_id": "CUS-4017",
+   "legal_name": "Silva Metals SARL",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2018-01-24",
+   "pep": true,
+   "sic": "52290"
+  },
+  {
+   "customer_id": "CUS-4018",
+   "legal_name": "Rahman Freight GmbH",
+   "risk_rating": "low",
+   "kyc_refreshed": "2024-11-19",
+   "pep": false
+  },
+  {
+   "customer_id": "CUS-4019",
+   "legal_name": "Berisha Logistics BV",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2020-07-02",
+   "pep": false,
+   "sic": null
+  },
+  {
+   "customer_id": "CUS-4020",
+   "legal_name": "Haddad Trading Ltd",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2019-03-11",
+   "pep": false,
+   "sic": "64999"
+  },
+  {
+   "customer_id": "CUS-4021",
+   "legal_name": "Larsen Commodities Ltd",
+   "risk_rating": "low",
+   "kyc_refreshed": "2019-03-11",
+   "pep": false,
+   "sic": null
+  },
+  {
+   "customer_id": "CUS-4022",
+   "legal_name": "Okonkwo Holdings Limited",
+   "risk_rating": "medium",
+   "kyc_refreshed": null,
+   "pep": true,
+   "sic": "64999"
+  },
+  {
+   "customer_id": "CUS-4023",
+   "legal_name": "Adeyemi Holdings Ltd",
+   "risk_rating": "high",
+   "kyc_refreshed": "2018-01-24",
+   "pep": true,
+   "sic": "46900"
+  },
+  {
+   "customer_id": "CUS-4024",
+   "legal_name": "Rahman Shipping Limited",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2025-06-30",
+   "pep": false,
+   "sic": "52290"
+  },
+  {
+   "customer_id": "CUS-4025",
+   "legal_name": "Petrov Freight GmbH",
+   "risk_rating": "low",
+   "kyc_refreshed": "2019-03-11",
+   "pep": true,
+   "sic": null
+  },
+  {
+   "customer_id": "CUS-4026",
+   "legal_name": "Haddad Ventures LLP",
+   "risk_rating": "low",
+   "kyc_refreshed": "2025-02-14",
+   "pep": false,
+   "sic": "64999"
+  },
+  {
+   "customer_id": "CUS-4027",
+   "legal_name": "Duarte Holdings Limited",
+   "risk_rating": "low",
+   "kyc_refreshed": "2024-11-19",
+   "pep": false,
+   "sic": "52290"
+  },
+  {
+   "customer_id": "CUS-4028",
+   "legal_name": "Marchetti Trading Ltd",
+   "risk_rating": "medium",
+   "kyc_refreshed": null,
+   "pep": false,
+   "sic": "64999"
+  },
+  {
+   "customer_id": "CUS-4029",
+   "legal_name": "Kowalski Trading Ltd",
+   "risk_rating": "high",
+   "kyc_refreshed": "2020-07-02",
+   "pep": false,
+   "sic": "46900"
+  },
+  {
+   "customer_id": "CUS-4030",
+   "legal_name": "Duarte Import Export SA",
+   "risk_rating": "high",
+   "kyc_refreshed": "2020-07-02",
+   "pep": false,
+   "sic": "52290"
+  },
+  {
+   "customer_id": "CUS-4031",
+   "legal_name": "Haddad Commodities Ltd",
+   "risk_rating": "low",
+   "kyc_refreshed": null,
+   "pep": true,
+   "sic": "52290"
+  },
+  {
+   "customer_id": "CUS-4032",
+   "legal_name": "Nakamura Holdings Limited",
+   "risk_rating": "high",
+   "kyc_refreshed": "2019-03-11",
+   "pep": false
+  },
+  {
+   "customer_id": "CUS-4033",
+   "legal_name": "Berisha Commodities Ltd",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2025-02-14",
+   "pep": true,
+   "sic": null
+  },
+  {
+   "customer_id": "CUS-4034",
+   "legal_name": "Adeyemi Freight GmbH",
+   "risk_rating": "high",
+   "kyc_refreshed": "2025-06-30",
+   "pep": true,
+   "sic": "64999"
+  },
+  {
+   "customer_id": "CUS-4035",
+   "legal_name": "Petrov Freight GmbH",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2019-03-11",
+   "pep": true,
+   "sic": "64999"
+  },
+  {
+   "customer_id": "CUS-4036",
+   "legal_name": "Kowalski Freight GmbH",
+   "risk_rating": "medium",
+   "kyc_refreshed": null,
+   "pep": true,
+   "sic": "64999"
+  },
+  {
+   "customer_id": "CUS-4037",
+   "legal_name": "Rahman Holdings Limited",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2020-07-02",
+   "pep": false,
+   "sic": null
+  },
+  {
+   "customer_id": "CUS-4038",
+   "legal_name": "Berisha Holdings Ltd",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2019-03-11",
+   "pep": true,
+   "sic": "52290"
+  },
+  {
+   "customer_id": "CUS-4039",
+   "legal_name": "Berisha Shipping Ltd",
+   "risk_rating": "low",
+   "kyc_refreshed": "2019-03-11",
+   "pep": false,
+   "sic": "52290"
+  },
+  {
+   "customer_id": "CUS-4040",
+   "legal_name": "Kowalski Ventures LLP",
+   "risk_rating": "low",
+   "kyc_refreshed": "2019-03-11",
+   "pep": false,
+   "sic": "46900"
+  },
+  {
+   "customer_id": "CUS-4041",
+   "legal_name": "Adeyemi Metals SARL",
+   "risk_rating": "low",
+   "kyc_refreshed": "2024-11-19",
+   "pep": false,
+   "sic": "64999"
+  },
+  {
+   "customer_id": "CUS-4042",
+   "legal_name": "Petrov Logistics BV",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2025-02-14",
+   "pep": false,
+   "sic": "64999"
+  },
+  {
+   "customer_id": "CUS-4043",
+   "legal_name": "Nakamura Commodities Ltd",
+   "risk_rating": "low",
+   "kyc_refreshed": "2020-07-02",
+   "pep": true,
+   "sic": null
+  },
+  {
+   "customer_id": "CUS-4044",
+   "legal_name": "Nakamura Shipping Ltd",
+   "risk_rating": "high",
+   "kyc_refreshed": "2024-11-19",
+   "pep": false,
+   "sic": "46900"
+  },
+  {
+   "customer_id": "CUS-4045",
+   "legal_name": "Berisha Import Export SA",
+   "risk_rating": "low",
+   "kyc_refreshed": null,
+   "pep": true,
+   "sic": "52290"
+  },
+  {
+   "customer_id": "CUS-4046",
+   "legal_name": "Novak Trading Limited",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2025-06-30",
+   "pep": false,
+   "sic": "52290"
+  },
+  {
+   "customer_id": "CUS-4047",
+   "legal_name": "Kowalski Holdings Ltd",
+   "risk_rating": "medium",
+   "kyc_refreshed": null,
+   "pep": false,
+   "sic": "46900"
+  },
+  {
+   "customer_id": "CUS-4048",
+   "legal_name": "Ferreira Ventures LLP",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2020-07-02",
+   "pep": false,
+   "sic": "52290"
+  },
+  {
+   "customer_id": "CUS-4049",
+   "legal_name": "Haddad Holdings Limited",
+   "risk_rating": "low",
+   "kyc_refreshed": "2025-06-30",
+   "pep": true,
+   "sic": "46900"
+  },
+  {
+   "customer_id": "CUS-4050",
+   "legal_name": "Nakamura Import Export SA",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2019-03-11",
+   "pep": false,
+   "sic": "52290"
+  },
+  {
+   "customer_id": "CUS-4051",
+   "legal_name": "Kowalski Holdings Ltd",
+   "risk_rating": "medium",
+   "kyc_refreshed": "2018-01-24",
+   "pep": false,
+   "sic": "64999"
+  }
+ ],
+ "watchlist": [
+  {
+   "name": "Voronin Import Export SA",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "individual"
+  },
+  {
+   "name": "Kowalski Trading Ltd",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "individual"
+  },
+  {
+   "name": "Okonkwo Capital Partners",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity"
+  },
+  {
+   "name": "Marchetti Import Export SA",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "individual"
+  },
+  {
+   "name": "Rahman Shipping Ltd",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity"
+  },
+  {
+   "name": "Larsen Freight GmbH",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity"
+  },
+  {
+   "name": "Petrov Freight GmbH",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity"
+  },
+  {
+   "name": "Marchetti Import Export SA",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity"
+  },
+  {
+   "name": "Novak Capital Partners",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "individual"
+  },
+  {
+   "name": "Novak Logistics BV",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity"
+  },
+  {
+   "name": "Petrov Trading Ltd",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity"
+  },
+  {
+   "name": "Silva Capital Partners",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity"
+  },
+  {
+   "name": "Okonkwo Ventures LLP",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity"
+  },
+  {
+   "name": "Larsen Freight GmbH",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "individual"
+  },
+  {
+   "name": "Voronin Holdings Ltd",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "individual"
+  },
+  {
+   "name": "Nakamura Ventures LLP",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "individual"
+  },
+  {
+   "name": "Novak Logistics BV",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "individual"
+  },
+  {
+   "name": "Larsen Logistics BV",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "individual"
+  },
+  {
+   "name": "Larsen Metals SARL",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "entity"
+  },
+  {
+   "name": "Ferreira Holdings Ltd",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "entity"
+  },
+  {
+   "name": "Marchetti Shipping Ltd",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "entity"
+  },
+  {
+   "name": "Petrov Shipping Ltd",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "entity"
+  },
+  {
+   "name": "Adeyemi Holdings Ltd",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "entity"
+  },
+  {
+   "name": "Rahman Commodities Ltd",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "individual"
+  },
+  {
+   "name": "Nakamura Capital Partners",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "entity"
+  },
+  {
+   "name": "Nakamura Shipping Ltd",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "entity"
+  },
+  {
+   "name": "Ferreira Holdings Ltd",
+   "list": "UN",
+   "program": "UN 1267",
+   "type": "individual"
+  },
+  {
+   "name": "Rahman Logistics BV",
+   "list": "UN",
+   "program": "UN 1267",
+   "type": "entity"
+  },
+  {
+   "name": "Larsen Freight GmbH",
+   "list": "UN",
+   "program": "UN 1267",
+   "type": "entity"
+  },
+  {
+   "name": "Marchetti Import Export SA",
+   "list": "UN",
+   "program": "UN 1267",
+   "type": "individual"
+  },
+  {
+   "name": "Voronin Commodities Ltd",
+   "list": "UN",
+   "program": "UN 1267",
+   "type": "entity"
+  },
+  {
+   "name": "Kowalski Ventures LLP",
+   "list": "UN",
+   "program": "UN 1267",
+   "type": "entity"
+  },
+  {
+   "name": "Marchetti Shipping Ltd",
+   "list": "UN",
+   "program": "UN 1267",
+   "type": "entity"
+  },
+  {
+   "name": "Rahman Ventures LLP",
+   "list": "UN",
+   "program": "UN 1267",
+   "type": "entity"
+  },
+  {
+   "name": "Kowalski Commodities Ltd",
+   "list": "UN",
+   "program": "UN 1267",
+   "type": "entity"
+  },
+  {
+   "name": "Ferreira Freight GmbH",
+   "list": "UN",
+   "program": "UN 1267",
+   "type": "entity"
+  },
+  {
+   "name": "Duarte Metals SARL",
+   "list": "UN",
+   "program": "UN 1267",
+   "type": "individual"
+  },
+  {
+   "name": "Voronin Freight GmbH",
+   "list": "UN",
+   "program": "UN 1267",
+   "type": "individual"
+  },
+  {
+   "name": "Ferreira Logistics BV",
+   "list": "UN",
+   "program": "UN 1267",
+   "type": "individual"
+  },
+  {
+   "name": "Rahman Capital Partners",
+   "list": "EU",
+   "program": "EU CFSP",
+   "type": "entity"
+  },
+  {
+   "name": "Marchetti Capital Partners",
+   "list": "EU",
+   "program": "EU CFSP",
+   "type": "individual"
+  },
+  {
+   "name": "Kowalski Capital Partners",
+   "list": "EU",
+   "program": "EU CFSP",
+   "type": "individual"
+  },
+  {
+   "name": "Larsen Ventures LLP",
+   "list": "EU",
+   "program": "EU CFSP",
+   "type": "entity"
+  },
+  {
+   "name": "Marchetti Ventures LLP",
+   "list": "EU",
+   "program": "EU CFSP",
+   "type": "entity"
+  },
+  {
+   "name": "Rahman Ventures LLP",
+   "list": "EU",
+   "program": "EU CFSP",
+   "type": "entity"
+  },
+  {
+   "name": "Duarte Trading Ltd",
+   "list": "EU",
+   "program": "EU CFSP",
+   "type": "entity"
+  },
+  {
+   "name": "Haddad Commodities Ltd",
+   "list": "EU",
+   "program": "EU CFSP",
+   "type": "individual"
+  },
+  {
+   "name": "Marchetti Import Export SA",
+   "list": "EU",
+   "program": "EU CFSP",
+   "type": "individual"
+  },
+  {
+   "name": "Adeyemi Commodities Ltd",
+   "list": "EU",
+   "program": "EU CFSP",
+   "type": "entity"
+  },
+  {
+   "name": "Silva Trading Ltd",
+   "list": "EU",
+   "program": "EU CFSP",
+   "type": "individual"
+  },
+  {
+   "name": "Nakamura Capital Partners",
+   "list": "EU",
+   "program": "EU CFSP",
+   "type": "individual"
+  },
+  {
+   "name": "Petrov Freight GmbH",
+   "list": "EU",
+   "program": "EU CFSP",
+   "type": "individual"
+  },
+  {
+   "name": "Marchetti Ventures LLP",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "entity",
+   "note": "near-miss: differs from customer record by legal suffix only"
+  },
+  {
+   "name": "Marchettii Ventures LLP",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity",
+   "note": "near-miss: transliteration variant"
+  },
+  {
+   "name": "Voronin Import Export S.A.",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "entity",
+   "note": "near-miss: differs from customer record by legal suffix only"
+  },
+  {
+   "name": "Voroninn Import Export SA",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity",
+   "note": "near-miss: transliteration variant"
+  },
+  {
+   "name": "Silva Trading Limited",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "entity",
+   "note": "near-miss: differs from customer record by legal suffix only"
+  },
+  {
+   "name": "Silvaa Trading Ltd",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity",
+   "note": "near-miss: transliteration variant"
+  },
+  {
+   "name": "Berisha Commodities Limited",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "entity",
+   "note": "near-miss: differs from customer record by legal suffix only"
+  },
+  {
+   "name": "Berishaa Commodities Limited",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity",
+   "note": "near-miss: transliteration variant"
+  },
+  {
+   "name": "Okonkwo Holdings Limited",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "entity",
+   "note": "near-miss: differs from customer record by legal suffix only"
+  },
+  {
+   "name": "Okonkwoo Holdings Ltd",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity",
+   "note": "near-miss: transliteration variant"
+  },
+  {
+   "name": "Kowalski Commodities Limited",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "entity",
+   "note": "near-miss: differs from customer record by legal suffix only"
+  },
+  {
+   "name": "Kowalskii Commodities Ltd",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity",
+   "note": "near-miss: transliteration variant"
+  },
+  {
+   "name": "Silva Commodities Limited",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "entity",
+   "note": "near-miss: differs from customer record by legal suffix only"
+  },
+  {
+   "name": "Silvaa Commodities Ltd",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity",
+   "note": "near-miss: transliteration variant"
+  },
+  {
+   "name": "Petrov Logistics BV",
+   "list": "UK",
+   "program": "UK HMT",
+   "type": "entity",
+   "note": "near-miss: differs from customer record by legal suffix only"
+  },
+  {
+   "name": "Petrovv Logistics BV",
+   "list": "US",
+   "program": "OFAC SDN",
+   "type": "entity",
+   "note": "near-miss: transliteration variant"
+  }
+ ],
+ "transactions": [
+  {
+   "customer_id": "CUS-4000",
+   "date": "2026-01-11",
+   "amount": 48500,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4000",
+   "date": "2026-05-25",
+   "amount": 48500,
+   "currency": "EUR",
+   "counterparty": "Okonkwo Metals SARL",
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4000",
+   "date": "2026-08-16",
+   "amount": 900,
+   "currency": "GBP",
+   "counterparty": "Okonkwo Logistics BV",
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4001",
+   "date": "2026-03-22",
+   "amount": 32000,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "TR"
+  },
+  {
+   "customer_id": "CUS-4001",
+   "date": "2026-01-13",
+   "amount": 4800,
+   "currency": "USD",
+   "counterparty": "Okonkwo Ventures LLP",
+   "jurisdiction": "Malta"
+  },
+  {
+   "customer_id": "CUS-4001",
+   "date": "2026-07-19",
+   "amount": 9450,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4001",
+   "date": "2026-08-16",
+   "amount": 9450,
+   "currency": "gbp",
+   "counterparty": "Berisha Freight GmbH",
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4001",
+   "date": "2026-06-27",
+   "amount": 4800,
+   "currency": "EUR",
+   "counterparty": "Silva Trading Ltd",
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4002",
+   "date": "2026-07-18",
+   "amount": 9450,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4002",
+   "date": "2026-04-12",
+   "amount": 4800,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4002",
+   "date": "2026-02-27",
+   "amount": 32000,
+   "currency": "USD",
+   "counterparty": "Kowalski Logistics BV",
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4002",
+   "date": "2026-03-27",
+   "amount": 4800,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4002",
+   "date": "2026-01-15",
+   "amount": 48500,
+   "currency": "gbp",
+   "counterparty": "Ferreira Import Export SA",
+   "jurisdiction": "mlt"
+  },
+  {
+   "customer_id": "CUS-4002",
+   "date": "2026-08-15",
+   "amount": 900,
+   "currency": "GBP",
+   "counterparty": "Kowalski Import Export SA",
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4002",
+   "date": "2026-01-22",
+   "amount": 1200,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4003",
+   "date": "2026-02-14",
+   "amount": 1200,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4003",
+   "date": "2026-08-20",
+   "amount": 15000,
+   "currency": "gbp",
+   "counterparty": "Berisha Logistics BV",
+   "jurisdiction": "Malta"
+  },
+  {
+   "customer_id": "CUS-4003",
+   "date": "2026-08-27",
+   "amount": 4800,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4004",
+   "date": "2026-08-14",
+   "amount": 1200,
+   "currency": "GBP",
+   "counterparty": "Rahman Capital Partners",
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4004",
+   "date": "2026-02-22",
+   "amount": 48500,
+   "currency": "EUR",
+   "counterparty": "Marchetti Logistics BV",
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4004",
+   "date": "2026-05-17",
+   "amount": 4800,
+   "currency": "EUR",
+   "counterparty": "Haddad Metals SARL",
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4004",
+   "date": "2026-08-20",
+   "amount": 48500,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4004",
+   "date": "2026-05-20",
+   "amount": 1200,
+   "currency": "GBP",
+   "counterparty": "Nakamura Metals SARL",
+   "jurisdiction": "LV"
+  },
+  {
+   "customer_id": "CUS-4004",
+   "date": "2026-08-10",
+   "amount": 48500,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "Malta"
+  },
+  {
+   "customer_id": "CUS-4005",
+   "date": "2026-03-15",
+   "amount": 4800,
+   "currency": "EUR",
+   "counterparty": "Voronin Logistics BV",
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4005",
+   "date": "2026-04-23",
+   "amount": 4800,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4005",
+   "date": "2026-07-17",
+   "amount": 1200,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "LV"
+  },
+  {
+   "customer_id": "CUS-4005",
+   "date": "2026-07-25",
+   "amount": 32000,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4005",
+   "date": "2026-03-12",
+   "amount": 900,
+   "currency": "USD",
+   "counterparty": "Ferreira Commodities Ltd",
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4005",
+   "date": "2026-05-16",
+   "amount": 4800,
+   "currency": "gbp",
+   "counterparty": "Berisha Metals SARL",
+   "jurisdiction": "mlt"
+  },
+  {
+   "customer_id": "CUS-4006",
+   "date": "2026-07-25",
+   "amount": 48500,
+   "currency": "CHF",
+   "counterparty": "Nakamura Commodities Ltd",
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4006",
+   "date": "2026-03-25",
+   "amount": 4800,
+   "currency": "USD",
+   "counterparty": "Haddad Ventures LLP",
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4006",
+   "date": "2026-03-20",
+   "amount": 32000,
+   "currency": "CHF",
+   "counterparty": "Nakamura Import Export SA",
+   "jurisdiction": "LV"
+  },
+  {
+   "customer_id": "CUS-4006",
+   "date": "2026-03-21",
+   "amount": 32000,
+   "currency": "EUR",
+   "counterparty": "Rahman Commodities Ltd",
+   "jurisdiction": "TR"
+  },
+  {
+   "customer_id": "CUS-4006",
+   "date": "2026-03-20",
+   "amount": 4800,
+   "currency": "USD",
+   "counterparty": "Kowalski Import Export SA",
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4007",
+   "date": "2026-01-19",
+   "amount": 15000,
+   "currency": "EUR",
+   "counterparty": "Adeyemi Logistics BV",
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4007",
+   "date": "2026-03-27",
+   "amount": 1200,
+   "currency": "GBP",
+   "counterparty": "Larsen Metals SARL",
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4008",
+   "date": "2026-03-11",
+   "amount": 32000,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4008",
+   "date": "2026-01-13",
+   "amount": 32000,
+   "currency": "EUR",
+   "counterparty": null,
+   "jurisdiction": "Malta"
+  },
+  {
+   "customer_id": "CUS-4008",
+   "date": "2026-01-12",
+   "amount": 4800,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4008",
+   "date": "2026-07-27",
+   "amount": 48500,
+   "currency": "GBP",
+   "counterparty": "Voronin Logistics BV",
+   "jurisdiction": "TR"
+  },
+  {
+   "customer_id": "CUS-4008",
+   "date": "2026-02-14",
+   "amount": 4800,
+   "currency": "gbp",
+   "counterparty": "Novak Metals SARL",
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4009",
+   "date": "2026-03-19",
+   "amount": 32000,
+   "currency": "gbp",
+   "counterparty": "Novak Capital Partners",
+   "jurisdiction": "CY"
+  },
+  {
+   "customer_id": "CUS-4009",
+   "date": "2026-08-28",
+   "amount": 4800,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4009",
+   "date": "2026-04-16",
+   "amount": 15000,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4009",
+   "date": "2026-01-20",
+   "amount": 9450,
+   "currency": "gbp",
+   "counterparty": "Okonkwo Import Export SA",
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4009",
+   "date": "2026-01-10",
+   "amount": 9450,
+   "currency": "GBP",
+   "counterparty": "Adeyemi Holdings Ltd",
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4010",
+   "date": "2026-06-24",
+   "amount": 15000,
+   "currency": "EUR",
+   "counterparty": null,
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4010",
+   "date": "2026-07-15",
+   "amount": 900,
+   "currency": "GBP",
+   "counterparty": "Nakamura Trading Ltd",
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4010",
+   "date": "2026-06-17",
+   "amount": 15000,
+   "currency": "CHF",
+   "counterparty": "Rahman Trading Ltd",
+   "jurisdiction": "CY"
+  },
+  {
+   "customer_id": "CUS-4011",
+   "date": "2026-03-24",
+   "amount": 32000,
+   "currency": "gbp",
+   "counterparty": "Marchetti Import Export SA",
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4011",
+   "date": "2026-02-24",
+   "amount": 9450,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4011",
+   "date": "2026-02-16",
+   "amount": 900,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "LV"
+  },
+  {
+   "customer_id": "CUS-4011",
+   "date": "2026-08-12",
+   "amount": 32000,
+   "currency": "CHF",
+   "counterparty": "Haddad Import Export SA",
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4011",
+   "date": "2026-04-13",
+   "amount": 4800,
+   "currency": "USD",
+   "counterparty": "Haddad Import Export SA",
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4011",
+   "date": "2026-06-12",
+   "amount": 15000,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "CY"
+  },
+  {
+   "customer_id": "CUS-4012",
+   "date": "2026-06-12",
+   "amount": 9450,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4012",
+   "date": "2026-06-17",
+   "amount": 1200,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "mlt"
+  },
+  {
+   "customer_id": "CUS-4012",
+   "date": "2026-07-14",
+   "amount": 48500,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4012",
+   "date": "2026-05-20",
+   "amount": 32000,
+   "currency": "GBP",
+   "counterparty": "Petrov Trading Ltd",
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4012",
+   "date": "2026-07-25",
+   "amount": 32000,
+   "currency": "GBP",
+   "counterparty": "Marchetti Freight GmbH",
+   "jurisdiction": "CY"
+  },
+  {
+   "customer_id": "CUS-4013",
+   "date": "2026-08-15",
+   "amount": 1200,
+   "currency": "gbp",
+   "counterparty": "Kowalski Ventures LLP",
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4013",
+   "date": "2026-01-16",
+   "amount": 1200,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4013",
+   "date": "2026-07-26",
+   "amount": 9450,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4013",
+   "date": "2026-08-23",
+   "amount": 900,
+   "currency": "GBP",
+   "counterparty": "Novak Commodities Ltd",
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4013",
+   "date": "2026-03-10",
+   "amount": 32000,
+   "currency": "CHF",
+   "counterparty": "Ferreira Commodities Ltd",
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4013",
+   "date": "2026-06-22",
+   "amount": 1200,
+   "currency": "EUR",
+   "counterparty": "Marchetti Trading Ltd",
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4013",
+   "date": "2026-08-27",
+   "amount": 32000,
+   "currency": "USD",
+   "counterparty": "Petrov Shipping Ltd",
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4014",
+   "date": "2026-03-13",
+   "amount": 15000,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "mlt"
+  },
+  {
+   "customer_id": "CUS-4014",
+   "date": "2026-03-10",
+   "amount": 9450,
+   "currency": "CHF",
+   "counterparty": "Duarte Logistics BV",
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4014",
+   "date": "2026-03-27",
+   "amount": 1200,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "mlt"
+  },
+  {
+   "customer_id": "CUS-4015",
+   "date": "2026-02-15",
+   "amount": 48500,
+   "currency": "USD",
+   "counterparty": "Haddad Logistics BV",
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4015",
+   "date": "2026-01-12",
+   "amount": 15000,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4015",
+   "date": "2026-01-24",
+   "amount": 4800,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "CY"
+  },
+  {
+   "customer_id": "CUS-4016",
+   "date": "2026-08-17",
+   "amount": 32000,
+   "currency": "EUR",
+   "counterparty": null,
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4016",
+   "date": "2026-08-13",
+   "amount": 4800,
+   "currency": "EUR",
+   "counterparty": "Larsen Commodities Ltd",
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4016",
+   "date": "2026-03-13",
+   "amount": 9450,
+   "currency": "gbp",
+   "counterparty": "Adeyemi Holdings Ltd",
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4016",
+   "date": "2026-01-14",
+   "amount": 48500,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "LV"
+  },
+  {
+   "customer_id": "CUS-4016",
+   "date": "2026-05-22",
+   "amount": 32000,
+   "currency": "CHF",
+   "counterparty": "Kowalski Trading Ltd",
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4016",
+   "date": "2026-06-16",
+   "amount": 15000,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4016",
+   "date": "2026-01-16",
+   "amount": 15000,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "Malta"
+  },
+  {
+   "customer_id": "CUS-4017",
+   "date": "2026-04-27",
+   "amount": 4800,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "TR"
+  },
+  {
+   "customer_id": "CUS-4017",
+   "date": "2026-06-16",
+   "amount": 4800,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "mlt"
+  },
+  {
+   "customer_id": "CUS-4017",
+   "date": "2026-03-19",
+   "amount": 15000,
+   "currency": "EUR",
+   "counterparty": "Berisha Holdings Ltd",
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4017",
+   "date": "2026-08-24",
+   "amount": 1200,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "Malta"
+  },
+  {
+   "customer_id": "CUS-4017",
+   "date": "2026-01-13",
+   "amount": 48500,
+   "currency": "USD",
+   "counterparty": "Ferreira Capital Partners",
+   "jurisdiction": "TR"
+  },
+  {
+   "customer_id": "CUS-4017",
+   "date": "2026-02-26",
+   "amount": 48500,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4017",
+   "date": "2026-07-14",
+   "amount": 15000,
+   "currency": "gbp",
+   "counterparty": "Adeyemi Ventures LLP",
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4018",
+   "date": "2026-05-11",
+   "amount": 48500,
+   "currency": "gbp",
+   "counterparty": "Novak Logistics BV",
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4018",
+   "date": "2026-02-22",
+   "amount": 1200,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4018",
+   "date": "2026-02-24",
+   "amount": 15000,
+   "currency": "gbp",
+   "counterparty": "Nakamura Shipping Ltd",
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4018",
+   "date": "2026-06-23",
+   "amount": 900,
+   "currency": "gbp",
+   "counterparty": "Kowalski Shipping Ltd",
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4018",
+   "date": "2026-01-10",
+   "amount": 32000,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4018",
+   "date": "2026-03-23",
+   "amount": 9450,
+   "currency": "CHF",
+   "counterparty": "Larsen Shipping Ltd",
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4018",
+   "date": "2026-07-20",
+   "amount": 1200,
+   "currency": "gbp",
+   "counterparty": "Okonkwo Import Export SA",
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4019",
+   "date": "2026-07-16",
+   "amount": 15000,
+   "currency": "USD",
+   "counterparty": "Novak Import Export SA",
+   "jurisdiction": "TR"
+  },
+  {
+   "customer_id": "CUS-4019",
+   "date": "2026-07-10",
+   "amount": 9450,
+   "currency": "gbp",
+   "counterparty": "Duarte Capital Partners",
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4019",
+   "date": "2026-01-24",
+   "amount": 32000,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4019",
+   "date": "2026-05-13",
+   "amount": 15000,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4019",
+   "date": "2026-01-22",
+   "amount": 32000,
+   "currency": "USD",
+   "counterparty": "Marchetti Ventures LLP",
+   "jurisdiction": "TR"
+  },
+  {
+   "customer_id": "CUS-4019",
+   "date": "2026-08-19",
+   "amount": 48500,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "TR"
+  },
+  {
+   "customer_id": "CUS-4019",
+   "date": "2026-08-11",
+   "amount": 9450,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4020",
+   "date": "2026-04-11",
+   "amount": 15000,
+   "currency": "GBP",
+   "counterparty": "Berisha Ventures LLP",
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4020",
+   "date": "2026-08-28",
+   "amount": 15000,
+   "currency": "gbp",
+   "counterparty": "Petrov Trading Ltd",
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4020",
+   "date": "2026-07-13",
+   "amount": 48500,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "mlt"
+  },
+  {
+   "customer_id": "CUS-4020",
+   "date": "2026-06-14",
+   "amount": 4800,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "CY"
+  },
+  {
+   "customer_id": "CUS-4020",
+   "date": "2026-02-12",
+   "amount": 32000,
+   "currency": "USD",
+   "counterparty": "Voronin Capital Partners",
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4020",
+   "date": "2026-04-15",
+   "amount": 32000,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4020",
+   "date": "2026-02-27",
+   "amount": 9450,
+   "currency": "USD",
+   "counterparty": "Ferreira Logistics BV",
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4021",
+   "date": "2026-05-27",
+   "amount": 900,
+   "currency": "gbp",
+   "counterparty": "Silva Commodities Ltd",
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4021",
+   "date": "2026-01-19",
+   "amount": 1200,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4021",
+   "date": "2026-04-13",
+   "amount": 1200,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4022",
+   "date": "2026-08-18",
+   "amount": 15000,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "CY"
+  },
+  {
+   "customer_id": "CUS-4022",
+   "date": "2026-01-21",
+   "amount": 15000,
+   "currency": "EUR",
+   "counterparty": null,
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4022",
+   "date": "2026-02-21",
+   "amount": 9450,
+   "currency": "gbp",
+   "counterparty": "Berisha Shipping Ltd",
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4022",
+   "date": "2026-05-21",
+   "amount": 15000,
+   "currency": "CHF",
+   "counterparty": "Novak Trading Ltd",
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4023",
+   "date": "2026-07-18",
+   "amount": 9450,
+   "currency": "EUR",
+   "counterparty": "Berisha Freight GmbH",
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4023",
+   "date": "2026-03-12",
+   "amount": 15000,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4023",
+   "date": "2026-03-17",
+   "amount": 32000,
+   "currency": "gbp",
+   "counterparty": "Kowalski Capital Partners",
+   "jurisdiction": "mlt"
+  },
+  {
+   "customer_id": "CUS-4024",
+   "date": "2026-02-19",
+   "amount": 32000,
+   "currency": "EUR",
+   "counterparty": "Marchetti Holdings Ltd",
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4024",
+   "date": "2026-04-23",
+   "amount": 15000,
+   "currency": "GBP",
+   "counterparty": "Silva Trading Ltd",
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4024",
+   "date": "2026-02-16",
+   "amount": 32000,
+   "currency": "USD",
+   "counterparty": "Berisha Capital Partners",
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4025",
+   "date": "2026-02-23",
+   "amount": 900,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "mlt"
+  },
+  {
+   "customer_id": "CUS-4025",
+   "date": "2026-06-28",
+   "amount": 32000,
+   "currency": "gbp",
+   "counterparty": "Larsen Logistics BV",
+   "jurisdiction": "TR"
+  },
+  {
+   "customer_id": "CUS-4025",
+   "date": "2026-04-27",
+   "amount": 15000,
+   "currency": "GBP",
+   "counterparty": "Okonkwo Holdings Ltd",
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4026",
+   "date": "2026-02-26",
+   "amount": 9450,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "TR"
+  },
+  {
+   "customer_id": "CUS-4026",
+   "date": "2026-08-10",
+   "amount": 4800,
+   "currency": "GBP",
+   "counterparty": "Nakamura Metals SARL",
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4027",
+   "date": "2026-04-19",
+   "amount": 32000,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4027",
+   "date": "2026-05-19",
+   "amount": 1200,
+   "currency": "CHF",
+   "counterparty": "Adeyemi Logistics BV",
+   "jurisdiction": "TR"
+  },
+  {
+   "customer_id": "CUS-4027",
+   "date": "2026-08-10",
+   "amount": 32000,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4028",
+   "date": "2026-03-28",
+   "amount": 48500,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4028",
+   "date": "2026-02-13",
+   "amount": 900,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4028",
+   "date": "2026-04-16",
+   "amount": 32000,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4028",
+   "date": "2026-02-18",
+   "amount": 9450,
+   "currency": "CHF",
+   "counterparty": "Rahman Commodities Ltd",
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4028",
+   "date": "2026-06-28",
+   "amount": 48500,
+   "currency": "EUR",
+   "counterparty": null,
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4028",
+   "date": "2026-08-10",
+   "amount": 32000,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "Malta"
+  },
+  {
+   "customer_id": "CUS-4028",
+   "date": "2026-06-25",
+   "amount": 1200,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "TR"
+  },
+  {
+   "customer_id": "CUS-4029",
+   "date": "2026-08-16",
+   "amount": 32000,
+   "currency": "USD",
+   "counterparty": "Silva Ventures LLP",
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4029",
+   "date": "2026-04-20",
+   "amount": 1200,
+   "currency": "gbp",
+   "counterparty": "Novak Commodities Ltd",
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4029",
+   "date": "2026-05-26",
+   "amount": 4800,
+   "currency": "EUR",
+   "counterparty": null,
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4029",
+   "date": "2026-07-26",
+   "amount": 4800,
+   "currency": "USD",
+   "counterparty": "Haddad Metals SARL",
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4029",
+   "date": "2026-07-28",
+   "amount": 900,
+   "currency": "GBP",
+   "counterparty": "Okonkwo Capital Partners",
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4030",
+   "date": "2026-05-25",
+   "amount": 1200,
+   "currency": "EUR",
+   "counterparty": null,
+   "jurisdiction": "Malta"
+  },
+  {
+   "customer_id": "CUS-4030",
+   "date": "2026-07-25",
+   "amount": 4800,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4030",
+   "date": "2026-07-18",
+   "amount": 15000,
+   "currency": "gbp",
+   "counterparty": "Nakamura Capital Partners",
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4030",
+   "date": "2026-07-25",
+   "amount": 9450,
+   "currency": "gbp",
+   "counterparty": "Okonkwo Ventures LLP",
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4030",
+   "date": "2026-05-27",
+   "amount": 32000,
+   "currency": "EUR",
+   "counterparty": null,
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4030",
+   "date": "2026-03-13",
+   "amount": 32000,
+   "currency": "EUR",
+   "counterparty": "Adeyemi Freight GmbH",
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4031",
+   "date": "2026-05-26",
+   "amount": 15000,
+   "currency": "gbp",
+   "counterparty": "Silva Ventures LLP",
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4031",
+   "date": "2026-08-27",
+   "amount": 9450,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4031",
+   "date": "2026-02-25",
+   "amount": 1200,
+   "currency": "EUR",
+   "counterparty": "Adeyemi Ventures LLP",
+   "jurisdiction": "TR"
+  },
+  {
+   "customer_id": "CUS-4031",
+   "date": "2026-02-19",
+   "amount": 900,
+   "currency": "EUR",
+   "counterparty": "Novak Capital Partners",
+   "jurisdiction": "LV"
+  },
+  {
+   "customer_id": "CUS-4031",
+   "date": "2026-06-13",
+   "amount": 9450,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4032",
+   "date": "2026-04-15",
+   "amount": 4800,
+   "currency": "gbp",
+   "counterparty": "Ferreira Freight GmbH",
+   "jurisdiction": "CY"
+  },
+  {
+   "customer_id": "CUS-4032",
+   "date": "2026-07-26",
+   "amount": 9450,
+   "currency": "CHF",
+   "counterparty": "Novak Holdings Ltd",
+   "jurisdiction": "mlt"
+  },
+  {
+   "customer_id": "CUS-4032",
+   "date": "2026-07-20",
+   "amount": 900,
+   "currency": "CHF",
+   "counterparty": "Okonkwo Logistics BV",
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4032",
+   "date": "2026-05-16",
+   "amount": 900,
+   "currency": "gbp",
+   "counterparty": "Haddad Trading Ltd",
+   "jurisdiction": "CY"
+  },
+  {
+   "customer_id": "CUS-4032",
+   "date": "2026-07-22",
+   "amount": 32000,
+   "currency": "gbp",
+   "counterparty": "Nakamura Ventures LLP",
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4032",
+   "date": "2026-01-27",
+   "amount": 4800,
+   "currency": "GBP",
+   "counterparty": "Novak Shipping Ltd",
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4033",
+   "date": "2026-03-17",
+   "amount": 4800,
+   "currency": "CHF",
+   "counterparty": "Petrov Capital Partners",
+   "jurisdiction": "mlt"
+  },
+  {
+   "customer_id": "CUS-4033",
+   "date": "2026-08-14",
+   "amount": 9450,
+   "currency": "EUR",
+   "counterparty": "Duarte Logistics BV",
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4033",
+   "date": "2026-06-19",
+   "amount": 900,
+   "currency": "EUR",
+   "counterparty": null,
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4033",
+   "date": "2026-05-19",
+   "amount": 9450,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4033",
+   "date": "2026-06-28",
+   "amount": 15000,
+   "currency": "GBP",
+   "counterparty": "Voronin Commodities Ltd",
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4033",
+   "date": "2026-01-22",
+   "amount": 15000,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4033",
+   "date": "2026-05-15",
+   "amount": 15000,
+   "currency": "EUR",
+   "counterparty": "Voronin Capital Partners",
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4034",
+   "date": "2026-02-19",
+   "amount": 9450,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4034",
+   "date": "2026-05-21",
+   "amount": 900,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "CY"
+  },
+  {
+   "customer_id": "CUS-4034",
+   "date": "2026-08-25",
+   "amount": 9450,
+   "currency": "CHF",
+   "counterparty": "Marchetti Logistics BV",
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4034",
+   "date": "2026-01-21",
+   "amount": 1200,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4035",
+   "date": "2026-04-23",
+   "amount": 900,
+   "currency": "GBP",
+   "counterparty": "Silva Trading Ltd",
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4035",
+   "date": "2026-03-21",
+   "amount": 48500,
+   "currency": "CHF",
+   "counterparty": "Adeyemi Freight GmbH",
+   "jurisdiction": "LV"
+  },
+  {
+   "customer_id": "CUS-4035",
+   "date": "2026-04-23",
+   "amount": 15000,
+   "currency": "GBP",
+   "counterparty": "Duarte Ventures LLP",
+   "jurisdiction": "CY"
+  },
+  {
+   "customer_id": "CUS-4035",
+   "date": "2026-04-23",
+   "amount": 900,
+   "currency": "USD",
+   "counterparty": "Nakamura Trading Ltd",
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4035",
+   "date": "2026-03-15",
+   "amount": 32000,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4036",
+   "date": "2026-03-12",
+   "amount": 900,
+   "currency": "gbp",
+   "counterparty": "Marchetti Ventures LLP",
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4036",
+   "date": "2026-06-22",
+   "amount": 15000,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4036",
+   "date": "2026-01-11",
+   "amount": 4800,
+   "currency": "USD",
+   "counterparty": "Duarte Commodities Ltd",
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4036",
+   "date": "2026-08-14",
+   "amount": 32000,
+   "currency": "EUR",
+   "counterparty": null,
+   "jurisdiction": "CY"
+  },
+  {
+   "customer_id": "CUS-4036",
+   "date": "2026-05-15",
+   "amount": 900,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "mlt"
+  },
+  {
+   "customer_id": "CUS-4036",
+   "date": "2026-04-19",
+   "amount": 32000,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "LV"
+  },
+  {
+   "customer_id": "CUS-4037",
+   "date": "2026-08-26",
+   "amount": 32000,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4037",
+   "date": "2026-01-28",
+   "amount": 4800,
+   "currency": "gbp",
+   "counterparty": "Novak Holdings Ltd",
+   "jurisdiction": "TR"
+  },
+  {
+   "customer_id": "CUS-4038",
+   "date": "2026-02-10",
+   "amount": 48500,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4038",
+   "date": "2026-08-15",
+   "amount": 48500,
+   "currency": "gbp",
+   "counterparty": "Haddad Holdings Ltd",
+   "jurisdiction": "CY"
+  },
+  {
+   "customer_id": "CUS-4038",
+   "date": "2026-02-21",
+   "amount": 48500,
+   "currency": "GBP",
+   "counterparty": "Duarte Logistics BV",
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4038",
+   "date": "2026-02-21",
+   "amount": 32000,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4038",
+   "date": "2026-07-27",
+   "amount": 32000,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4038",
+   "date": "2026-03-15",
+   "amount": 9450,
+   "currency": "gbp",
+   "counterparty": "Voronin Freight GmbH",
+   "jurisdiction": "Malta"
+  },
+  {
+   "customer_id": "CUS-4039",
+   "date": "2026-04-27",
+   "amount": 4800,
+   "currency": "gbp",
+   "counterparty": "Voronin Logistics BV",
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4039",
+   "date": "2026-04-11",
+   "amount": 1200,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4039",
+   "date": "2026-02-24",
+   "amount": 900,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4039",
+   "date": "2026-06-19",
+   "amount": 1200,
+   "currency": "EUR",
+   "counterparty": null,
+   "jurisdiction": "Malta"
+  },
+  {
+   "customer_id": "CUS-4040",
+   "date": "2026-02-17",
+   "amount": 15000,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4040",
+   "date": "2026-02-20",
+   "amount": 32000,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4040",
+   "date": "2026-04-25",
+   "amount": 4800,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4040",
+   "date": "2026-04-17",
+   "amount": 9450,
+   "currency": "EUR",
+   "counterparty": null,
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4041",
+   "date": "2026-02-18",
+   "amount": 32000,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4041",
+   "date": "2026-03-13",
+   "amount": 4800,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4041",
+   "date": "2026-06-16",
+   "amount": 1200,
+   "currency": "USD",
+   "counterparty": "Nakamura Metals SARL",
+   "jurisdiction": "CY"
+  },
+  {
+   "customer_id": "CUS-4041",
+   "date": "2026-05-24",
+   "amount": 4800,
+   "currency": "gbp",
+   "counterparty": "Voronin Metals SARL",
+   "jurisdiction": "mlt"
+  },
+  {
+   "customer_id": "CUS-4042",
+   "date": "2026-04-19",
+   "amount": 9450,
+   "currency": "gbp",
+   "counterparty": "Duarte Holdings Ltd",
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4042",
+   "date": "2026-04-11",
+   "amount": 48500,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4042",
+   "date": "2026-08-27",
+   "amount": 4800,
+   "currency": "CHF",
+   "counterparty": "Kowalski Ventures LLP",
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4043",
+   "date": "2026-04-18",
+   "amount": 15000,
+   "currency": "USD",
+   "counterparty": "Nakamura Ventures LLP",
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4043",
+   "date": "2026-03-16",
+   "amount": 32000,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "LV"
+  },
+  {
+   "customer_id": "CUS-4043",
+   "date": "2026-08-26",
+   "amount": 32000,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4043",
+   "date": "2026-08-25",
+   "amount": 15000,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4043",
+   "date": "2026-06-25",
+   "amount": 15000,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4043",
+   "date": "2026-05-18",
+   "amount": 48500,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4044",
+   "date": "2026-02-22",
+   "amount": 48500,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "Malta"
+  },
+  {
+   "customer_id": "CUS-4044",
+   "date": "2026-03-12",
+   "amount": 15000,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "AE"
+  },
+  {
+   "customer_id": "CUS-4044",
+   "date": "2026-06-15",
+   "amount": 9450,
+   "currency": "GBP",
+   "counterparty": "Rahman Metals SARL",
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4044",
+   "date": "2026-06-25",
+   "amount": 32000,
+   "currency": "EUR",
+   "counterparty": null,
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4044",
+   "date": "2026-05-15",
+   "amount": 32000,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4044",
+   "date": "2026-04-20",
+   "amount": 15000,
+   "currency": "USD",
+   "counterparty": "Voronin Logistics BV",
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4044",
+   "date": "2026-05-24",
+   "amount": 900,
+   "currency": "gbp",
+   "counterparty": "Larsen Metals SARL",
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4045",
+   "date": "2026-03-28",
+   "amount": 1200,
+   "currency": "CHF",
+   "counterparty": "Adeyemi Capital Partners",
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4045",
+   "date": "2026-05-23",
+   "amount": 900,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4045",
+   "date": "2026-05-18",
+   "amount": 1200,
+   "currency": "EUR",
+   "counterparty": "Larsen Holdings Ltd",
+   "jurisdiction": "TR"
+  },
+  {
+   "customer_id": "CUS-4046",
+   "date": "2026-03-12",
+   "amount": 48500,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "LV"
+  },
+  {
+   "customer_id": "CUS-4046",
+   "date": "2026-07-16",
+   "amount": 1200,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "LV"
+  },
+  {
+   "customer_id": "CUS-4047",
+   "date": "2026-08-10",
+   "amount": 32000,
+   "currency": "GBP",
+   "counterparty": "Rahman Capital Partners",
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4047",
+   "date": "2026-06-10",
+   "amount": 48500,
+   "currency": "CHF",
+   "counterparty": "Rahman Shipping Ltd",
+   "jurisdiction": "TR"
+  },
+  {
+   "customer_id": "CUS-4047",
+   "date": "2026-07-13",
+   "amount": 900,
+   "currency": "CHF",
+   "counterparty": "Larsen Shipping Ltd",
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4047",
+   "date": "2026-02-20",
+   "amount": 15000,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4047",
+   "date": "2026-02-14",
+   "amount": 15000,
+   "currency": "USD",
+   "counterparty": "Ferreira Commodities Ltd",
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4048",
+   "date": "2026-05-10",
+   "amount": 15000,
+   "currency": "gbp",
+   "counterparty": "Duarte Holdings Ltd",
+   "jurisdiction": "MT"
+  },
+  {
+   "customer_id": "CUS-4048",
+   "date": "2026-01-11",
+   "amount": 15000,
+   "currency": "EUR",
+   "counterparty": null,
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4049",
+   "date": "2026-02-11",
+   "amount": 48500,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4049",
+   "date": "2026-01-16",
+   "amount": 9450,
+   "currency": "EUR",
+   "counterparty": null,
+   "jurisdiction": "UAE"
+  },
+  {
+   "customer_id": "CUS-4049",
+   "date": "2026-02-25",
+   "amount": 32000,
+   "currency": "USD",
+   "counterparty": "Marchetti Import Export SA",
+   "jurisdiction": "gb"
+  },
+  {
+   "customer_id": "CUS-4049",
+   "date": "2026-06-16",
+   "amount": 1200,
+   "currency": "EUR",
+   "counterparty": "Berisha Metals SARL",
+   "jurisdiction": "mlt"
+  },
+  {
+   "customer_id": "CUS-4050",
+   "date": "2026-04-27",
+   "amount": 48500,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "HK"
+  },
+  {
+   "customer_id": "CUS-4050",
+   "date": "2026-01-20",
+   "amount": 32000,
+   "currency": "GBP",
+   "counterparty": null,
+   "jurisdiction": "Malta"
+  },
+  {
+   "customer_id": "CUS-4050",
+   "date": "2026-06-19",
+   "amount": 9450,
+   "currency": "gbp",
+   "counterparty": null,
+   "jurisdiction": "Cyprus"
+  },
+  {
+   "customer_id": "CUS-4051",
+   "date": "2026-07-18",
+   "amount": 15000,
+   "currency": "USD",
+   "counterparty": null,
+   "jurisdiction": "GB"
+  },
+  {
+   "customer_id": "CUS-4051",
+   "date": "2026-05-16",
+   "amount": 1200,
+   "currency": "EUR",
+   "counterparty": null,
+   "jurisdiction": "PA"
+  },
+  {
+   "customer_id": "CUS-4051",
+   "date": "2026-02-10",
+   "amount": 15000,
+   "currency": "CHF",
+   "counterparty": null,
+   "jurisdiction": "CY"
+  }
+ ]
+}
