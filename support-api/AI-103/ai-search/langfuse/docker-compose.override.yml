@@ -1,0 +1,10 @@
+# Local override. Compose loads this automatically alongside docker-compose.yml.
+#
+# The upstream file publishes Postgres on 127.0.0.1:5432, which collides with the
+# native PostgreSQL 18 Windows service (postgresql-x64-18) already listening there.
+# Langfuse does not need the host mapping: langfuse-web and langfuse-worker reach
+# Postgres over the Compose network at postgres:5432. Dropping the publication is
+# the fix; !reset clears the inherited list rather than appending to it.
+services:
+  postgres:
+    ports: !reset []
