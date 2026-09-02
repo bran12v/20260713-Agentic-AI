@@ -24,6 +24,8 @@ from attacks import _ask
 from guardrails import GATE_MARKER, TAU, verify
 from kb_tool import retrieve
 
+from observability import start_tracing, guardrail_span
+
 load_dotenv()
 
 COMPRESS_PROMPT = (
@@ -81,30 +83,35 @@ async def gate_and_compress(
     top = max((c.get("reranker") or 0.0 for c in chunks), default=0.0)
 
     kept = []
+    with guardrail_span("retrieval_threshold") as span:
+        # JOB 1 - the Gate.
+        # the best result does not clear the threshold, we need to return a error dict without synthesizing
+        if top < TAU:
+            span.record(allowed=False, reason="below_refusal_threshold", top=round(top, 2), tau=TAU, hit_count=len(chunks))
+            
+            print(f"    [gate] top {top:.2f} < {TAU} -> REFUSE (no synthesis call)")
+            # set the context to have a appropriate error to indicate to the agent what happened.
+            context.result = [Content.from_text(GATE_MARKER + json.dumps(
+                {"reason": "below_retrieval_threshold", "top": round(top, 2), "tau": TAU}
+            ))]
+            raise MiddlewareTermination(f"below tau: {top:.2f}") # FAILURE
+        
+        # Compress, do not filter.
+        kept = []
+        for c in chunks:
+            out = (_ask(COMPRESS_PROMPT + f"Question: {context.arguments['question']}\n\n"
+                        f"Passage:\n{c['content']}") or "").strip()
+            if out.upper().startswith("NONE") or not out:
+                continue
+            kept.append({**c, "content": out})
+        before = sum(len(c["content"]) for c in chunks)
+        after = sum(len(c["content"]) for c in kept)
 
-    # JOB 1 - the Gate.
-    # the best result does not clear the threshold, we need to return a error dict without synthesizing
-    if top < TAU:
-        print(f"    [gate] top {top:.2f} < {TAU} -> REFUSE (no synthesis call)")
-        # set the context to have a appropriate error to indicate to the agent what happened.
-        context.result = [Content.from_text(GATE_MARKER + json.dumps(
-            {"reason": "below_retrieval_threshold", "top": round(top, 2), "tau": TAU}
-        ))]
-        raise MiddlewareTermination(f"below tau: {top:.2f}") # FAILURE
-    
-    # Compress, do not filter.
-    kept = []
-    for c in chunks:
-        out = (_ask(COMPRESS_PROMPT + f"Question: {context.arguments['question']}\n\n"
-                    f"Passage:\n{c['content']}") or "").strip()
-        if out.upper().startswith("NONE") or not out:
-            continue
-        kept.append({**c, "content": out})
-    before = sum(len(c["content"]) for c in chunks)
-    after = sum(len(c["content"]) for c in kept)
-    print(f"    [gate] top {top:.2f} >= {TAU} PASS | compressed {before}->{after} chars, "
-          f"{len(chunks)}->{len(kept)} chunks, docs {sorted({c['doc_id'] for c in kept})}")
-    context.result = [Content.from_text(json.dumps({"chunks": kept}))]
+        span.record(allowed=True, reason="ok", top=round(top, 2), tau=TAU, kept=len(kept), dropped=(len(chunks)-len(kept)))
+
+        print(f"    [gate] top {top:.2f} >= {TAU} PASS | compressed {before}->{after} chars, "
+            f"{len(chunks)}->{len(kept)} chunks, docs {sorted({c['doc_id'] for c in kept})}")
+        context.result = [Content.from_text(json.dumps({"chunks": kept}))]
 
 
 async def ask(agent, question: str) -> Decision:
@@ -133,7 +140,7 @@ async def main() -> None:
                          tools=[search_standards],
                          middleware=[gate_and_compress]) as agent:
             for q in ("Does rotating a TLS certificate on a load balancer need CAB approval?",
-                      "What is our parental leave entitlement?"):
+                       "What is our parental leave entitlement?"):
                 print(f"\nQ: {q}")
                 d = await ask(agent, q)
                 if not d.answered:
@@ -145,4 +152,5 @@ async def main() -> None:
 
 
 if __name__ == "__main__":
+    start_tracing()
     asyncio.run(main())

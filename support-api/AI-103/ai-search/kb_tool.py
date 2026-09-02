@@ -14,6 +14,8 @@ from azure.search.documents.models import VectorizableTextQuery
 from dotenv import load_dotenv
 from pydantic import Field
 
+from observability import retrieval_span
+
 from agent_framework import tool
 
 load_dotenv()
@@ -26,29 +28,31 @@ search = SearchClient(os.environ["SEARCH_ENDPOINT"], INDEX_NAME, DefaultAzureCre
 
 def retrieve(question: str, k: int = 5) -> list[dict]:
     """Hybrid + cross-encoder. Returns rows carrying the reranker score."""
-    results = search.search(
-        search_text=question, # BM25 Keyword
-        vector_queries=[VectorizableTextQuery(
-            text=question, k_nearest_neighbors=k*2, fields="embedding"
-        )], # HNSW Vector Search
-        select=FIELDS,
-        query_type="semantic", # semantic ranker / cross-encoder
-        semantic_configuration_name=SEMANTIC_CONFIG,
-        top=k
-    )
-    rows = []
-    for result in results:
-        rows.append({
-            "chunk_id": result["chunk_id"],
-            "doc_id": result["doc_id"],
-            "section_path": result["section_path"],
-            "content": result["content"],
-            # 0-4, bounded, comparable. THIS is the number our Gate will need to apply a threshold.
-            "reranker": result.get("@search.reranker_score") # None
-        })
-        if len(rows) >= k:
-            break
-    return rows
+    with retrieval_span(question, top_k=k) as span:
+        results = search.search(
+            search_text=question, # BM25 Keyword
+            vector_queries=[VectorizableTextQuery(
+                text=question, k_nearest_neighbors=k*2, fields="embedding"
+            )], # HNSW Vector Search
+            select=FIELDS,
+            query_type="semantic", # semantic ranker / cross-encoder
+            semantic_configuration_name=SEMANTIC_CONFIG,
+            top=k
+        )
+        rows = []
+        for result in results:
+            rows.append({
+                "chunk_id": result["chunk_id"],
+                "doc_id": result["doc_id"],
+                "section_path": result["section_path"],
+                "content": result["content"],
+                # 0-4, bounded, comparable. THIS is the number our Gate will need to apply a threshold.
+                "reranker": result.get("@search.reranker_score") # None
+            })
+            if len(rows) >= k:
+                break
+        span.record(rows)
+        return rows
 
 @tool(approval_mode="never_require")
 def search_standards(
