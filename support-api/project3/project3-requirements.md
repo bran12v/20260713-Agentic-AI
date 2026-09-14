@@ -169,97 +169,54 @@ is why it is shaped that way.
 ### 3.1 High-Level Flow
 
 ```
-  HubSpot email ──▶ POST /api/v1/tickets/ingest ──▶ INTAKE (deterministic)
-  Direct tickets                                    verify HMAC over raw bytes
-                                                    dedupe on event_id · redact
-                                                    resolve requester
-                                                              │
-                                                              ▼
-                                                    ╌╌╌ Service Bus ╌╌╌  ← webhook
-                                                              │            returns here
-                                                              ▼
-                                                    PROMPT SHIELDS over every
-                                                    string, before any model
-                                                              │
-                                                              ▼
-                                               ┌──────────────────────────┐
-                                               │  COORDINATOR (agent)     │
-                                               │  0..N SubRequests, each  │
-                                               │  naming a worker         │
-                                               └────────────┬─────────────┘
-                                      N = 0  ◀──────────────┤
-                                    (decline,               │
-                                     reply, close)          │
-                                                            │
-              selection function (pure) — the fan-out width is the model's
-          ┌─────────────────────────────┬─────────────────────────────┐
-          ▼                             ▼                             ▼
-    IDENTITY WORKER               ACCESS WORKER                 DEVICE WORKER
-    Graph reads (MCP)             groups · roles                manuals filtered
-    identity runbooks             tool-access matrix            on device_model
-
-  ══ every lane is the same shape; one lane shown, N run ═══════════════════════
-
-     OWNING WORKER          loops on its own tools · own agent thread
-        │
-        ├─ needs_info ─────▶  interrupt + checkpoint, the reply resumes this run
-        │                     and re-enters this worker
-        │
-        ├─ answer / decline / escalate ─────────────────────▶  lane terminal state
-        │
-        └─ proposes 0..N actions
-              │
-              ▼
-           POLICY GATE       reject ─▶ back to this worker            cycle ①
-              │ pass
-              ▼
-           GROUNDING         reject ─▶ back to this worker            cycle ②
-           REVIEWER
-              │ pass
-              ▼
-           per-action fan-out — one action set can hold both kinds
-              │
-              ├─ ungated ────────────────────────────────────▶  EXECUTE
-              │
-              └─ gated
-                    │
-                    ▼
-                 interrupt + checkpoint (approval)
-                    │
-                    ├─ rejected ─▶ ESCALATE ─▶  lane terminal state
-                    │
-                    └─ approved
-                          │
-                          ▼
-                       RE-VALIDATE   withdraw ─▶ back to this worker  cycle ③
-                          │ still holds
-                          ▼
-                       EXECUTE       partial failure ─▶ this worker   cycle ④
-                          │
-                          ▼
-                       lane terminal state
-
-     A lane ends in exactly one of: executed · answered · declined · escalated.
-  ══════════════════════════════════════════════════════════════════════════════
-
-              all N lanes ─▶ JOIN (hand-written) — counts arrivals against the
-                             Coordinator's ordered SubRequest list
-                                   │
-                                   ▼
-                             Ticket updated/closed in HubSpot + run record
-
-  ① ② ③ ④ are the four bounded cycles. Each re-enters the lane's OWN worker — ① and ② with
-  a structured objection, ③ with the precondition that moved, ④ with the results so far — and each
-  carries a hard cap (§ 5) — the graph is cyclic,
-  not a DAG.
-
-  A needs_info question interrupts and checkpoints exactly as an approval does;
-  the requester's reply resumes the same run.
-
-  Lanes reach different stages independently: approval #1 can return at 14:02 and
-  #2 at 17:40. The join assembles the ticket update and is not a barrier before
-  approval.
+                HubSpot email · direct tickets
+                               │
+                               ▼
+                       ┌───────────────┐
+                       │    INGEST     │   validate · dedupe · redact · queue
+                       └───────┬───────┘   the webhook returns here
+                               ▼
+                       ┌───────────────┐
+                       │  COORDINATOR  │   splits the ticket into 0..N sub-requests
+                       └───────┬───────┘
+                               │
+          ┌────────────────────┼────────────────────┐
+          ▼                    ▼                    ▼
+    ┌───────────┐        ┌───────────┐        ┌───────────┐
+    │ IDENTITY  │        │  ACCESS   │        │  DEVICE   │   one lane per
+    │   LANE    │        │   LANE    │        │   LANE    │   sub-request
+    └─────┬─────┘        └─────┬─────┘        └─────┬─────┘
+          └────────────────────┼────────────────────┘
+                               ▼
+                       ┌───────────────┐
+                       │     JOIN      │   waits for every lane
+                       └───────┬───────┘
+                               ▼
+                       ┌───────────────┐
+                       │   APPROVAL    │   one card, only if something is gated
+                       └───────┬───────┘
+                               ▼
+                       ┌───────────────┐
+                       │     CLOSE     │   ticket updated + run record
+                       └───────────────┘
 ```
+
+**The width of that fan-out is the model's.** The Coordinator reads one email and decides how many
+distinct requests it contains — a lockout, an access question and a full laptop is three lanes; a
+one-line email is one; zero is a valid outcome that declines and closes. A pure selection function
+does the routing, so planning stays with the model and dispatch stays testable.
+
+**Lanes run independently and do not share state.** Each has its own agent thread, its own budget and
+its own terminal state, and one lane's work never appears in another's context.
+
+**Approval happens once, after the join.** Every lane first runs everything it can — ungated actions
+execute, answers are written, declines recorded. Whatever remains gated across the whole ticket goes
+onto a single card, so the approver sees the full blast radius rather than fragments of it.
+
+**[graph-reference.md](graph-reference.md) is the node-by-node detail** — what happens inside a lane,
+how the three workers differ, the bounded cycles, and what a pause does to the rest of the graph.
+Read it when you are building a node; this diagram is for holding the shape in your head.
+
 
 ### 3.2 Core Components
 
@@ -272,11 +229,11 @@ is why it is shaped that way.
 | **Device Worker** | Decides whether the manual corpus covers the reported symptom and what steps to give. Mutates nothing, ever. | Agent Framework, Foundry fast deployment |
 | **Entitlement MCP server** | Holds the identity-scoped reads — `get_user`, `get_group_memberships`, `resolve_entitlements`. Resolves the caller from authenticated context, never from a tool argument, and enforces the grant on every call. **Holds the only database credential — no agent reaches PostgreSQL directly.** The second deployed service. | Python, Streamable HTTP, Azure Container Apps |
 | **Join** | Counts lane arrivals against the Coordinator's ordered `SubRequest` list and assembles the ticket update. Hand-written, because a fan-in declared over three workers blocks forever when the selection function activated one. **It runs whenever a lane reaches a terminal state, not once** — a ticket with a lane still awaiting approval gets an interim update saying which lanes finished and which is waiting on whom. A lane that never arrives is reaped by the same deadline that expires approvals and becomes `escalated`. | Agent Framework workflow layer |
-| **Orchestration graph** | `WorkflowBuilder` executors and typed edges: the model-sized fan-out from the Coordinator, the per-lane gate and reviewer, the per-action fan-out onto the approval interrupt, the re-validation and execution legs, the four bounded cycles back into the owning worker, and the join. **The graph is built with the framework's primitives, not hand-rolled `asyncio`** — the queue consumer that starts a run is ordinary async code and is not what this excludes. | Agent Framework workflow layer |
+| **Orchestration graph** | `WorkflowBuilder` executors and typed edges: the model-sized fan-out from the Coordinator, the per-lane gate and reviewer, the per-action sort into gated and ungated, the join, the single approval interrupt that follows it, the re-validation and execution legs, and the three bounded cycles back into the owning worker. **The graph is built with the framework's primitives, not hand-rolled `asyncio`** — the queue consumer that starts a run is ordinary async code and is not what this excludes. | Agent Framework workflow layer |
 | **Knowledge layer** | Azure AI Search over three indexes: the IT runbook / policy / tool-access corpus, the laptop manuals for the models SkillStorm issues, and closed-ticket resolutions. Hybrid retrieval with the semantic ranker, filterable on `doc_type`, `section_path` and `device_model`. Refusal is gated on `@search.rerankerScore`. | Azure AI Search, Azure AI Foundry embedding deployment |
 | **Policy gate** | Deterministic code. Checks the requester's entitlement over the target on every action, decides from the closed action enum whether the action falls in the approval-gated set, and enforces the verification steps the retrieved runbook requires. Runs per lane, and rejects back into that lane's owning worker with a structured objection. | Python |
 | **Grounding reviewer** | A harness stage with its own session per lane, never sharing a transcript with a worker. Checks that every grounded claim — the justification on a proposed action, **and the steps in a Device lane's reply to the requester** — is actually supported by the chunk it cites. A requester reading unreviewed device steps is the same failure as an approver reading ungrounded prose, and the device corpus is where a wrong answer is most fluent. | Agent Framework, Foundry fast deployment |
-| **Approval service** | Two endpoints bridging the graph and the provided Power Automate flow. Persists a pending-approval record per gated action, renders the approval card from the typed action object, and re-enters the graph on decision. Actions outside the gated set never reach it. | Flask, PostgreSQL |
+| **Approval service** | Two endpoints bridging the graph and the provided Power Automate flow. Persists **one** pending-approval record per ticket, covering every gated action on it, renders the card from the typed action objects, and re-enters the graph on decision. Actions outside the gated set never reach it. | Flask, PostgreSQL |
 | **Action executors** | Deterministic, individually testable, idempotent Python functions, one per member of § 4.2's action enum: MFA reset, password reset, user and mailbox creation, group membership add/remove, license assign/remove, enable/disable, session revoke, delete, and ticket update. Unreachable by the model. | Microsoft Graph SDK, Exchange, HubSpot integrations (provided) |
 | **Audit & observability** | A run record per ticket covering every tool call, retrieval, gate decision, approval and execution result. Agent tracing, token usage, latency and cost via the Agent Framework's OpenTelemetry layer exporting to Azure Monitor. | PostgreSQL, `agent_framework.observability`, Application Insights |
 | **Identity/Secrets** | Managed identities and secret storage for all credentials. | Azure Key Vault, Entra ID app registrations |
@@ -296,9 +253,9 @@ you are implementing it.
 | 5 | **The join is hand-written and sits after execution.** It counts arrivals against the Coordinator's ordered `SubRequest` list. It is not a barrier before approval. |
 | 6 | **The model decides what; the graph routes it; code executes it.** Every action is a member of a closed enum defined in code. The model never composes an API call and never reaches an executor. |
 | 7 | **The approval-gated set is closed and defined in code** — deactivate, reactivate, delete. Not a runtime judgment, and the model has no say in membership. |
-| 8 | **Gating is per action, not per lane.** A lane proposes an action *set*, and a set can hold gated and ungated members. The lane fans out once more over its own actions, the ungated ones execute, each gated one gets its own approval record, and the lane reaches its terminal state only when every action it proposed has. § 4.2 depends on this: a mixed ticket runs the ungated and holds the gated. |
+| 8 | **Gating is classified per action; the approval is per ticket.** A lane sorts its own action set — ungated members execute in the lane, gated ones are held. After the join, every gated action on the ticket goes onto **one** card. § 4.2 depends on this: a mixed ticket runs the ungated and holds the gated. |
 | 9 | **A pause is an interrupt plus a checkpoint on the same run** — see § 3.3.1. |
-| 10 | **Approval is permission to act, not a committed instruction.** On re-entry the owning worker re-validates against live state before executing. |
+| 10 | **Approval is permission to act, not a committed instruction.** Before executing, each approved action is re-validated against live state by re-running its recorded `preconditions` — deterministic, and not a return to the worker, whose lane has already finished. |
 | 11 | **The approval card is rendered from the typed action object**, never from model prose. |
 | 12 | **Retrieval is load-bearing.** Below the reranker threshold the lane blocks and escalates. It never degrades to answering from model knowledge. |
 | 13 | **Identity is resolved server-side.** Entitlement-scoped reads sit behind the MCP server, which takes the subject from authenticated caller context rather than from a tool argument. |
@@ -345,7 +302,7 @@ Magentic. **This system uses none of them directly**, and
 
 What it builds instead is a `WorkflowBuilder` graph using the primitives directly: a variable-width
 fan-out driven by a selection function over a typed plan, three specialist workers looping on their
-own tools, a conditional edge onto the approval interrupt, four bounded cycles, the reviewer,
+own tools, a single approval interrupt after the join, three bounded cycles, the reviewer,
 re-validation, and a join written by hand.
 
 > **The Magentic guard rail.** If the Coordinator ever reasons about one lane's result in order to
@@ -401,6 +358,10 @@ will be defined during design and refined iteratively during the build.
   **asking is not a terminal state**: a question interrupts the lane (§ 3.3.1) and the lane terminates
   on one of the four once the reply arrives.
 
+  **A lane holding a gated action has finished planning, not finished.** Its ungated actions have run
+  and it counts as arrived for the join; its gated ones reach a terminal state after the ticket's
+  single approval (§ 4.6).
+
 - **Escalation is a real state with a real destination, and "the human queue" means exactly this:**
   the ticket stays open in New, the evidence the lane gathered goes onto the thread as an internal
   note, and `hubspot_owner_id` is then set so it lands in a person's queue. **The note is the whole
@@ -422,6 +383,11 @@ will be defined during design and refined iteratively during the build.
   guessing. The ticket stays open in New and the lane records on the run record that it is waiting on
   a reply; the answer arrives as a reply and resumes the same run (§ 3.3.1) rather than starting a new
   one.
+- **A question carries a deadline and escalates when it passes**, exactly as an approval does. Without
+  one a requester who never replies hangs the ticket — and because the ticket's single approval is
+  raised only after every lane is terminal, an unanswered question in one lane would also hold up a
+  gated action in another. On expiry the lane reaches `escalated`, the join completes, and the
+  approval is raised for whatever else is pending.
 - **An out-of-scope ticket is declined, not queued.** The system replies on the ticket — which
   reaches the requester by email, since the ticket is the channel they wrote in on — naming the
   specific reason the request falls outside this system's remit, pointing at the correct channel where
@@ -534,9 +500,15 @@ ticket update says plainly which executed and which is waiting on whom.
 - **Three operations are approval-gated: deactivation, reactivation and deletion.** The set is closed,
   defined in code, and not a runtime judgment. Every other operation executes once the policy gate's
   entitlement check passes.
-- One endpoint triggers the provided Power Automate approval flow for a specific pending gated action.
-- A second endpoint receives the decision: an approved action proceeds to re-validation, a rejected one
-  ends its lane and escalates.
+- **One ticket raises at most one approval, and it is raised last.** Every lane first runs what it
+  can — ungated actions execute, answers are written, declines recorded. The join then assembles, and
+  whatever is still gated across the whole ticket goes onto a single card. An approver sees everything
+  the system wants to do rather than fragments of it.
+- **The card is all-or-nothing.** Power Automate offers Approve and Reject, so an approver who wants to
+  permit one action and refuse another rejects with a comment and the set escalates. That is a platform
+  limitation, not a design choice, and the team should not try to work around it.
+- One endpoint triggers the flow with that card's payload (§ 6.2). A second receives the decision:
+  approved actions proceed to re-validation, a rejection ends the gated set and escalates.
 - **A gated action reaching an executor without a matching approval record is refused at runtime.** The
   executor checks for itself; the graph is not the only thing standing between a delete and the
   directory.
@@ -546,13 +518,12 @@ ticket update says plainly which executed and which is waiting on whom.
   the withdrawal is recorded on the ticket with the reason. It may also narrow the action — but
   narrowing that changes the action type re-enters approval rather than executing under the old one
   (§ 5).
-- **A rejection ends that lane and escalates it.** The system does not re-plan against the rejection:
-  a human looked at the proposal and said no, so a human takes it from there. The rejection comment is
-  the handover — an approver writing "wrong person, this is the contractor Jane Doe" is telling
-  whoever picks the ticket up what was wrong, which is why § 6.3 refuses a rejection that carries no
-  comment. Other lanes on the same ticket are unaffected.
-- Approvals that are never answered expire on a configured deadline and escalate the same way. Any
-  ungated actions on the same ticket are unaffected — they have already run.
+- **A rejection ends the gated set and escalates it.** The system does not re-plan against the
+  rejection: a human looked at the proposal and said no, so a human takes it from there. The comment is
+  the handover — an approver writing "wrong person, this is the contractor Jane Doe" is telling whoever
+  picks the ticket up what was wrong, which is why § 6.3 refuses a rejection that carries none.
+- An approval that is never answered expires on a configured deadline and escalates the same way. Any
+  ungated actions are unaffected — they have already run.
 - **Expiry belongs to this system, not to the approval flow.** The pending record is ours, so we reap
   it. A decision arriving for a record that has already expired or already been decided is refused,
   and the action does not execute — an approver clicking Approve an hour after the deadline must not
@@ -815,9 +786,9 @@ consistency problem, not a feature.
 
 ### 6.2 Approval request contract
 
-`POST /api/v1/approvals/request` renders this from the typed action object and posts it to the Power
-Automate flow's trigger URL. **Every property is either rendered onto the approval card or used in a
-branch** — nothing here is decoration.
+`POST /api/v1/approvals/request` posts one card per ticket to the Power Automate flow's trigger URL,
+covering every gated action the ticket produced. **Every property is either rendered onto the card or
+used in a branch** — nothing here is decoration.
 
 | Field | Type | Req. | Notes |
 |---|---|---|---|
@@ -825,18 +796,28 @@ branch** — nothing here is decoration.
 | `correlation_id` | string | yes | Run correlation id, for tracing the approval back to the investigation that proposed it |
 | `ticket_id` | string | yes | HubSpot ticket id |
 | `ticket_url` | string | yes | Deep link into HubSpot Help Desk, so the approver can read the thread before deciding |
-| `action` | `deactivate` \| `reactivate` \| `delete` | yes | The gated operation. These three are the entire gated set; everything else executes on the entitlement check alone and never reaches this flow |
-| `target_upn` | string | yes | UPN of the account the action would change. **Not the requester** |
-| `target_display_name` | string | yes | So the card reads as a person rather than a UPN |
-| `requester_email` | string | yes | Who asked. Often the same person as the target, and the difference is what an approver most needs to see |
-| `justification` | string | yes | Why the system proposes this action, rendered from the typed action object rather than from model prose |
-| `risk_tier` | `standard` \| `elevated` | yes | **Derived in code from the action and its blast radius, never from the model. Delete is always `elevated`.** § 7 requires a unit test on this derivation |
+| `requester_email` | string | yes | Who asked. Often the same person as a target, and the difference is what an approver most needs to see |
+| `risk_tier` | `standard` \| `elevated` | yes | The **highest** tier among the actions below — a delete anywhere makes the whole card `elevated`. **Derived in code from the action and its blast radius, never from the model.** § 7 requires a unit test on this derivation |
 | `expires_at` | ISO-8601 | yes | The deadline. The flow's approval timeout is set to match, so it releases rather than hanging. **The receiver owns expiry** and refuses any decision arriving after this |
-| `citations` | array | no | Runbook or policy passages the justification rests on, each `{doc_id, title, chunk_id}`. Empty only when no grounded claim was made |
+| `actions` | array | yes | One entry per gated action, **at least one** — the card is not raised at all when the ticket produced none |
 
-**Send `[]` for citations, never `null`.** The card joins the citation titles into one line, and a
-join over null throws — which fails the whole flow and loses the approval. Only `title` is rendered,
-so it has to be human-readable on its own; `chunk_id` is what makes the passage resolvable afterwards.
+Each entry in `actions` carries:
+
+| Field | Type | Req. | Notes |
+|---|---|---|---|
+| `action` | `deactivate` \| `reactivate` \| `delete` | yes | These three are the entire gated set; everything else executes on the entitlement check alone and never reaches this flow |
+| `target_upn` | string | yes | UPN of the account this action would change. **Not the requester** |
+| `target_display_name` | string | yes | So the card reads as a person rather than a UPN |
+| `justification` | string | yes | Why the system proposes this action, rendered from the typed action object rather than from model prose |
+| `citations` | array | no | Runbook or policy passages this justification rests on, each `{doc_id, title, chunk_id}`. Empty only when no grounded claim was made |
+
+**Send `[]` for citations, never `null`.** The card joins the citation titles into one line per action,
+and a join over null throws — which fails the whole flow and loses the approval. Only `title` is
+rendered, so it has to be human-readable on its own; `chunk_id` is what makes the passage resolvable
+afterwards.
+
+**The card is all-or-nothing.** Power Automate offers Approve and Reject over the whole card, so an
+approver who wants one action and not another rejects with a comment and the set escalates (§ 4.6).
 
 The approval is **first-to-respond**, so one `decision_id` yields exactly one decision. There is no
 quorum to reconcile.
@@ -941,8 +922,10 @@ required.
 1. **A multi-request email produces N lanes** with N distinct tool sequences in the run record; a
    single-request email produces one. The width is not in the code, so this is the case a state
    machine cannot fake.
-2. **Two lanes' approvals return out of order and both execute correctly**, the later one
-   re-validating against state the earlier one changed.
+2. **A clarifying question is answered hours later and the same run resumes.** A lane asks, the run
+   checkpoints, the reply arrives long after, and that worker continues from where it stopped with its
+   tool history intact — while the other lanes, which finished before the run idled, are still in the
+   join.
 3. **The world changed during approval.** Approve a plan, mutate the live state out of band, and
    confirm re-validation withdraws or narrows it rather than executing.
 4. **The join distinguishes a complete set from a partial one**, and emits an interim ticket update
@@ -1054,8 +1037,8 @@ working, not around landing one more capability.
 4. **Demonstration artifacts** — five committed files, not screenshots of a terminal that has since
    scrolled away:
    - **The multi-lane contrast** — the run record of a three-lane ticket beside a one-lane ticket.
-   - **The out-of-order approval** — two lanes whose approvals return minutes apart, with the second
-     re-validating against state the first changed.
+   - **The long pause** — a lane's clarifying question answered hours later, with the run record
+     showing the same run resuming and that worker continuing from where it stopped.
    - **Indirect-injection resistance** — the transcript against the poisoned ticket, with the Prompt
      Shields event and the unchanged plan both visible.
    - **The grounded-versus-ungrounded contrast** — both transcripts from § 7's first adversarial case.
@@ -1086,8 +1069,12 @@ working, not around landing one more capability.
 - ☐ Every gated action traces to a matching approval record, checked at the executor and not only at
   the graph
 - ☐ The gated set is a closed enum in code; the model has no say in membership
-- ☐ A rejected approval ends its lane and escalates — it does not re-plan, and it does not close the
-  ticket
+- ☐ **One ticket raises at most one approval**, covering every gated action on it, and it is raised
+  only after every lane is terminal
+- ☐ A clarifying question carries a deadline and escalates on expiry, so an unanswered one cannot hold
+  up the ticket's approval
+- ☐ A rejected approval ends the gated set and escalates — it does not re-plan, and it does not close
+  the ticket
 - ☐ An escalated lane leaves the ticket open in New, writes its evidence as an internal note, and then
   sets an owner — checked in that order, because the note is the handover
 - ☐ An approved action is re-validated against live state before it executes, and a moved precondition

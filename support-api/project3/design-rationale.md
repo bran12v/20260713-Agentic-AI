@@ -66,8 +66,11 @@ three. It is that **a fan-in declared over three sources blocks forever when the
 activated one.** That is why the join is yours: the Coordinator records what it ordered into workflow
 state and the join counts arrivals against that list.
 
-It sits *after* execution and only assembles the ticket update. A join placed before approval would
-make every lane wait on the slowest approver and collapse the design back into a chain.
+It sits after each lane has executed everything it can, and it is the barrier the single approval
+waits behind — but it is **not** a barrier before execution. Ungated actions run inside their lane
+the moment the gate and the reviewer pass them; nothing holds an unlock while a different lane is
+still investigating. What the join gates is the *approval*, because the card has to carry every gated
+action on the ticket, and until every lane is terminal you do not know what those are.
 
 **And the join assembles, not the Coordinator** — which is why the Coordinator holds no tools and
 never reads a lane's result. It is the one component positioned to see every lane, so it is the one
@@ -113,13 +116,20 @@ A lane proposes an action *set*, and a set can hold both kinds: "unlock Jane and
 is ungated; "and deactivate the contractor account she's been using" is not. § 4.2 requires the
 ungated members to run while the gated ones wait.
 
-Gate the lane instead of the action and you get one of two wrong behaviours: either the whole lane
-waits on an approver who is only needed for one of its actions, which is the delay that gets
-automation switched off, or the whole lane executes on one approval, which is the approver agreeing to
-something they were never shown.
+So each action is classified on its own. Gate the whole *lane* instead and you get one of two wrong
+behaviours: either an unlock waits on an approver who was only ever needed for the deactivation —
+the delay that gets automation switched off — or everything in the lane executes on one approval,
+which is the approver agreeing to things they were never shown.
 
-The cost is a second fan-out inside the lane, and it is real work. It is also why the lane's terminal
-state is not reached until every action it proposed has one.
+**But the card is per ticket, not per action.** Classification and approval are different questions.
+An approver looking at one card sees everything the system wants to do to that ticket; a stream of
+single-action cards is how someone approves "deactivate Bob" without registering that it is half of
+an offboarding that also deletes an account. The blast radius is the thing being judged, and it is a
+property of the ticket.
+
+That is why the approval waits for the join. It costs a little — a gated action cannot be raised
+until every lane has finished, so a slow lane delays it — and that is the trade: latency on the
+rarest path in exchange for an approver who can see what they are agreeing to.
 
 
 ## Why a pause is a checkpoint and not a new run
