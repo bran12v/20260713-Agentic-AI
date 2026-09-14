@@ -14,17 +14,57 @@ what actually came back — not what the documentation implies.
 
 ## Identifiers
 
-Read from the live thread rather than configured by hand. The first three are per-inbox and belong in
-typed configuration; the last two are per-ticket and come off the inbound payload.
+**Four of these come off the ingest payload. Do not configure them by hand.**
 
 | Value | Where it comes from | Sandbox value |
 |---|---|---|
-| `channelId` | The inbox's channel. `1002` is email | `1002` |
-| `channelAccountId` | The connected inbox | `4021198932` |
-| `inboxId` | The Help Desk inbox | `948000001` |
-| `senderActorId` | `A-<hubspotUserId>` for the account the token belongs to | `A-47306113` |
+| `channelId` | `channel_id` on the ingest payload | `1002` |
+| `channelAccountId` | `channel_account_id` on the ingest payload | `4021198932` |
 | Thread id | `thread_id` on the ingest payload | `11178480985` |
 | Recipient | The `HS_EMAIL_ADDRESS` delivery identifier off the **inbound** message — never from model output | `bvanek@skillstorm.com` |
+| `senderActorId` | `A-<hubspotUserId>` for the account the token belongs to. Config | `A-47306113` |
+| `inboxId` | The Help Desk inbox. Config, and needed only when creating a thread | `948000001` |
+
+### Why the first two are payload values and not config
+
+**`channelId` is a HubSpot-wide constant.** `GET /conversations/v3/conversations/channels` returns the
+same fixed set in every portal, and `1002` is email:
+
+```
+1000 LIVE_CHAT      1003 FORMS                         1010 INSTAGRAM
+1001 FB_MESSENGER   1004 CUSTOMER_PORTAL_THREAD_VIEW   1011 MIGRATION
+1002 EMAIL          1007 WHATSAPP                      1009 SMS
+```
+
+**`channelAccountId` identifies one connected mailbox and is portal-specific.** This is the one that
+bites. `GET /conversations/v3/conversations/channel-accounts` on portal 51681374 returns four email
+accounts, and **three of them share the same inbox**:
+
+| `id` | `channelId` | `inboxId` | Delivery identifier |
+|---|---|---|---|
+| **`4021198932`** | 1002 | **948000001** | **`helpdesk@skillstormlab.onmicrosoft.com`** ← ours |
+| `3551452839` | 1002 | 948000001 | `support-3@skillstorm.com.hs-inbox.com` |
+| `3558743646` | 1002 | 948000001 | `sample@51681374.hs-inbox.com` |
+| `3551452842` | 1002 | 948000000 | `support-4@skillstorm.com.hs-inbox.com` |
+
+Resolve the account by inbox id and take the first result and you send from `support-3@…` or
+`sample@…`. **The API call succeeds.** Nothing fails, no error is logged, and the first sign of trouble
+is a requester replying to an address nobody reads. Only `deliveryIdentifier.value` separates them.
+
+So do not resolve it at all. **Every message on a thread carries both fields**, and the ingest action
+copies them onto the payload:
+
+```
+direction=INCOMING   channelId=1002   channelAccountId=4021198932   bvanek@skillstorm.com
+direction=OUTGOING   channelId=1002   channelAccountId=4021198932   helpdesk@skillstormlab...
+```
+
+Replying with the values the message arrived on is correct by construction, and it stays correct if
+the mailbox is ever reconnected — which changes the id.
+
+**The fallback.** A chat-sourced or manually created ticket has no thread, so both fields arrive null.
+Only then fall back to configuration, and pin the configured value by delivery identifier rather than
+by inbox.
 
 ---
 
@@ -187,12 +227,14 @@ that true, and **both must survive any refactor**:
 
 ## Wiring it into your service
 
-Three of the five identifiers are per-inbox and belong in typed configuration. Two are per-ticket and
-come off the ingest payload. Getting that split right is most of the work.
+Getting the config/payload split right is most of the work.
 
 | Config (`pydantic-settings`) | Per-ticket (from the ingest payload) |
 |---|---|
-| `hubspot_channel_id` · `hubspot_channel_account_id` · `hubspot_sender_actor_id` | `thread_id` · `requester_email` |
+| `hubspot_sender_actor_id` · `hubspot_inbox_id` · the two stage ids · **fallback** channel values | `thread_id` · `requester_email` · `channel_id` · `channel_account_id` |
+
+The channel values are in both columns on purpose: the payload carries them for every threaded ticket,
+and the configured pair is used **only** when a chat-sourced or manual ticket arrives with both null.
 
 **The token comes from Key Vault, never from an environment variable in code.** § 2.4 is keyless
 throughout: fetch it with the managed identity at startup, and treat it as a secret with a rotation
@@ -206,11 +248,13 @@ HUBSPOT_API = "https://api.hubapi.com"
 
 
 class HubSpotConfig(BaseModel):
-    channel_id: str            # 1002 — email
-    channel_account_id: str    # the connected inbox
     sender_actor_id: str       # A-<hubspotUserId>
     resolved_stage_id: str     # 954564780
     declined_stage_id: str     # 954498199
+    # Fallback only, for a ticket that arrived with no thread. Pin the account
+    # by its delivery identifier, never by inbox — three accounts share ours.
+    fallback_channel_id: str           # 1002
+    fallback_channel_account_id: str   # 4021198932
 
 
 class HubSpotClient:
@@ -222,21 +266,36 @@ class HubSpotClient:
         self._store = store          # (correlation_id, operation) -> hubspot id
         self._http = client
 
+    def _channel(self, ticket) -> tuple[str, str]:
+        """Reply on the account the message arrived on.
+
+        Both are null only when the ticket had no thread. Resolving the account
+        any other way is how you send from the wrong mailbox: the portal has four
+        email channel accounts, three share one inbox, and the API accepts all of
+        them without complaint.
+        """
+        return (
+            ticket.channel_id or self._cfg.fallback_channel_id,
+            ticket.channel_account_id or self._cfg.fallback_channel_account_id,
+        )
+
     async def reply_to_requester(
-        self, correlation_id: str, thread_id: str, to_email: str, subject: str, body: str
+        self, correlation_id: str, ticket, to_email: str, subject: str, body: str
     ) -> str:
         """Emails the requester. Use for clarifying questions and completion notices."""
         if existing := await self._store.get(correlation_id, "reply"):
             return existing
 
+        channel_id, channel_account_id = self._channel(ticket)
+        thread_id = ticket.thread_id
         payload = {
             "type": "MESSAGE",
             "text": body,
             # Without richText the email arrives unformatted.
             "richText": f"<p>{body}</p>",
             "senderActorId": self._cfg.sender_actor_id,
-            "channelId": self._cfg.channel_id,
-            "channelAccountId": self._cfg.channel_account_id,
+            "channelId": channel_id,
+            "channelAccountId": channel_account_id,
             "subject": subject,
             "recipients": [{
                 "recipientField": "TO",

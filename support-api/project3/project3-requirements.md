@@ -684,7 +684,7 @@ teams: the six typed models and the index schema frozen on day 1 (§ 8).
 
 ### 6.1 Ingest payload contract
 
-HubSpot posts one JSON object per ticket event. Seventeen fields, all present on every request; the
+HubSpot posts one JSON object per ticket event. Nineteen fields, all present on every request; the
 nullable ones carry `null` rather than being omitted.
 
 | Field | Type | Null? | Notes |
@@ -699,6 +699,8 @@ nullable ones carry `null` rather than being omitted.
 | `body_truncated` | boolean | no | True means `body` is a prefix, not the whole message |
 | `requester_email` | string | yes | Lower-cased, from the message's delivery identifier, falling back to the ticket's contact rollup |
 | `attachment_count` | integer | no | Count only; fetching an attachment is a separate call |
+| `channel_id` | string | yes | The conversations channel the message arrived on. `1002` is email — a HubSpot-wide constant, the same in every portal. Null when the ticket has no thread |
+| `channel_account_id` | string | yes | The connected mailbox it arrived on. Portal-specific. **Reply with this value** rather than choosing one. Null when the ticket has no thread |
 | `pipeline` | string | yes | `648529809` for IT Service |
 | `pipeline_stage` | string | yes | Stage id, not label |
 | `category` | string | yes | Unpopulated in practice, and its options do not describe IT work |
@@ -736,6 +738,13 @@ outcome is worse than declining.
 
 `created_at` is ticket age and `occurred_at` is event time. A day-old ticket with a reply thirty
 seconds ago is a live conversation, not a stale record.
+
+**Reply on the account the message arrived on.** Send outbound messages with the `channel_id` and
+`channel_account_id` from the payload, not with values chosen from configuration. The sandbox portal
+has four email channel accounts and **three of them share one inbox**, so a receiver that resolves the
+account by inbox id sends from `support-3@…` or `sample@…` instead of the helpdesk address — and the
+API call succeeds, so nothing fails until someone reads the mail. Configuration is the fallback for a
+ticket with no thread, where both fields are null.
 
 **Five behaviours of the producer that are not visible in the table.**
 
