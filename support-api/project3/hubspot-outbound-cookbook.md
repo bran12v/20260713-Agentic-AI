@@ -461,20 +461,19 @@ halves are load-bearing and both failure modes are silent:
 
 ### What this system writes to HubSpot
 
-**Three things, and none of them is a new field.** A `MESSAGE` on the thread, a `COMMENT` on the
-thread, and `hs_pipeline_stage` on the ticket. Everything else the system knows — which lane is
-waiting on whom, the correlation id, the decline reason, the requester's laptop model, the target of
-the request — lives on the run record in your own database.
+**Three things.** A `MESSAGE` on the thread, a `COMMENT` on the thread, and `hs_pipeline_stage` on the
+ticket. Everything else the system knows — which lane is waiting on whom, the correlation id, the
+decline reason, the requester's laptop model, the target of the request — lives on the run record in
+your own database.
 
-That is a deliberate constraint, not an oversight: it means the project needs no HubSpot admin, no
-property migration, and nothing to keep consistent between two systems. The cost is that HubSpot
-shows an open ticket and nothing else while a run is in flight, so **the internal note is the only
-place a human can see what happened.** Write it for them.
+So HubSpot needs no administration and there is nothing to hold consistent between two systems. The
+cost is that **HubSpot shows an open ticket and nothing else while a run is in flight**: the internal
+note is the only place a human can see what happened. Write it for them.
 
-`hs_ticket_category` exists but its options are HubSpot's stock set — Product issue, Billing issue,
-Feature request, General inquiry — none of which distinguish a lockout from a laptop fault, and it is
-unpopulated on every ticket examined. `hs_ticket_priority` is unpopulated too. Neither is worth
-reading, and neither is being changed.
+Two properties on the ticket look useful and are not. `hs_ticket_category` carries HubSpot's stock
+options — Product issue, Billing issue, Feature request, General inquiry — none of which distinguish a
+lockout from a laptop fault, and it is unpopulated on every ticket examined. `hs_ticket_priority` is
+unpopulated too. The system reads neither.
 
 ---
 

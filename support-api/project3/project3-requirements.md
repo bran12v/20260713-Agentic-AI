@@ -496,14 +496,13 @@ ticket update says plainly which executed and which is waiting on whom.
 - **The investigation summary, the actions proposed and the approval outcome are internal notes**, not
   replies. They are the audit trail § 5 requires; emailing them to the requester would send the
   system's own reasoning to the person who asked the question.
-- **Only two ticket states are used: it arrives open in New and ends closed.** **No HubSpot field is
-  created for this project — the system works with the properties and stages that already exist.**
-  In-flight state therefore lives entirely on the run record: which lane is investigating, which is
-  waiting on a reply, which is waiting on an approver. The ticket carries none of it.
-- **The consequence is that HubSpot is not the place to look at a run in progress.** A HelpDesk person
-  reading the board sees an open ticket and nothing more, so anything a human needs to know mid-flight
-  has to be written into the thread as an internal note — which is also the audit trail. Make the
-  notes worth reading.
+- **Only two ticket states are used: it arrives open in New and ends closed.** The system writes three
+  things to HubSpot — a message on the thread, an internal note, and the pipeline stage on close.
+  In-flight state lives on the run record: which lane is investigating, which is waiting on a reply,
+  which is waiting on an approver. The ticket carries none of it.
+- **HubSpot is therefore not the place to look at a run in progress.** A HelpDesk person reading the
+  board sees an open ticket and nothing more, so anything a human needs to know mid-flight goes into
+  the thread as an internal note — which is also the audit trail. Make the notes worth reading.
 - Ticket writes are idempotent on the run's correlation id, which the system holds in its own store as
   `(correlation_id, operation) -> HubSpot message id` and checks before every write. **The platform
   offers no idempotency key and no field to keep one in**, so a retried update must be recognised
