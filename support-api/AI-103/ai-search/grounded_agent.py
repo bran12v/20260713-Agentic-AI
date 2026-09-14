@@ -24,7 +24,9 @@ from attacks import _ask
 from guardrails import GATE_MARKER, TAU, verify
 from kb_tool import retrieve
 
-from observability import start_tracing, guardrail_span
+from runrecord import RunRecordExporter
+
+from observability import langfuse_exporter, start_tracing, guardrail_span, turn_middleware
 
 load_dotenv()
 
@@ -138,7 +140,7 @@ async def main() -> None:
                                    model=os.environ["AZURE_OPENAI_CHAT_DEPLOYMENT"], credential=cred)
         async with Agent(client, name="grounded", instructions=INSTRUCTIONS,
                          tools=[search_standards],
-                         middleware=[gate_and_compress]) as agent:
+                         middleware=[gate_and_compress, turn_middleware("CHG-4471")]) as agent: # replace with unique UUID
             for q in ("Does rotating a TLS certificate on a load balancer need CAB approval?",
                        "What is our parental leave entitlement?"):
                 print(f"\nQ: {q}")
@@ -152,5 +154,5 @@ async def main() -> None:
 
 
 if __name__ == "__main__":
-    start_tracing()
+    start_tracing(exporters=[RunRecordExporter(), langfuse_exporter()])
     asyncio.run(main())

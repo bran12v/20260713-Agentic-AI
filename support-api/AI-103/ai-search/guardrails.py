@@ -10,6 +10,11 @@ from agent_framework.foundry import FoundryChatClient
 from azure.identity.aio import AzureCliCredential
 from kb_tool import search_standards
 
+from collections import Counter
+from dataclasses import dataclass, field
+
+from observability import guardrail_span
+
 from agent_framework import (
     Content,
     FunctionInvocationContext,
@@ -24,10 +29,58 @@ TAU = 2.47
 
 GATE_MARKER = "GATE_REFUSED:"
 
+MAX_QUESTION_CHARS = 2_000
+
+DECISIONS: Counter[str] = Counter()
+
 REFUSAL = (
     "That isn't covered in our current standards library - "
     "please raise it with the delivery lead."
 )
+
+@dataclass(frozen=True) # immutable
+class Verdict:
+    """The single return type for every control in this file."""
+
+    allowed: bool
+    stage: str
+    reason: str = "ok"
+    detail: dict = field(default_factory=dict)
+
+    def record(self) -> "Verdict":
+        """Put the verdict on the span and in the counter. One call, two placements."""
+        DECISIONS[f"{self.stage}:{self.reason}:{"allow" if self.allowed else "refuse"}"] += 1
+        with guardrail_span(self.stage) as span:
+            span.record(allowed=self.allowed, reason=self.reason, **self.detail)
+        return self
+
+class GuardrailRefusal(RuntimeError):
+    """A refusal. Not a server error. This is a simple representation of an ungrounded answer/invalid input/etc"""
+
+    def __init__(self, verdict: Verdict) -> None:
+        super().__init__(f"{verdict.stage}/{verdict.reason}")
+        self.verdict = verdict
+
+def validate_input(question: str) -> Verdict:
+    """Stage 1. Determinisitc, free, and it runs before a single token is spent.****"""
+    if not question or not question.strip():
+        return Verdict(False, "input", "empty_question").record()
+    if len(question) > MAX_QUESTION_CHARS:
+        return Verdict(
+            False, "input", "question_too_long", 
+            {"chars": len(question), "cap": MAX_QUESTION_CHARS}
+        ).record()
+    return Verdict(True, "input").record()
+
+def refusal_rate() -> dict[str, float]:
+    """A count is not a rate. This is the denominator everybody forgets."""
+    rates = {}
+    for stage in {key.split(":")[0] for key in DECISIONS}:
+        mine = [(k, v) for k, v in DECISIONS.items() if k.startswith(f"{stage}:")]
+        refused = sum(v for k, v in mine if k.endswith(":refuse"))
+        total = sum(v for _, v in mine)
+        rates[stage] = round(refused / total, 3) if total else 0.0
+    return rates
 
 def _payload(result) -> dict:
     """context.result is normally a list[Content]. Never assume; don't index blindly."""

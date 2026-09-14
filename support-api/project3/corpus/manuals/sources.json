@@ -1,0 +1,297 @@
+{
+  "project": "HelpDesk AI Automation System",
+  "purpose": "Ground the Device Worker so it can answer the questions a user actually asks about their laptop. Section 4.7 makes device_model a required filter on every query against these.",
+  "retrieved": "2026-09",
+  "notes": {
+    "user_agent": "dl.dell.com and delltechnologies.com return 403 to a default user-agent. The fetch script sends a browser one.",
+    "wayback": "Documents with a wayback block were removed from the vendor's live site. The archive serves the vendor's original bytes through the id_ raw form — https://web.archive.org/web/<timestamp>id_/<original-url>. Omitting id_ returns an archive-wrapped HTML page that will still start with %PDF-less markup.",
+    "portals": "Dell and Apple support portals are JavaScript-rendered and bot-protected. No Dell topicspdf PDF has ever existed for the 2024 Latitude 5550, 2024 Latitude 7350 or Precision 3460 — checked against 4,353 archived dl.dell.com/topicspdf URLs."
+  },
+  "documents": [
+    {
+      "doc_id": "MANUAL-G15-5510-SVC",
+      "device_model": "Dell G15 5510",
+      "kind": "service",
+      "troubleshooting": "full",
+      "file": "dell-g15-5510_service-manual.pdf",
+      "url": "https://dl.dell.com/topicspdf/g-series-15-5510-laptop_service-manual_en-us.pdf",
+      "title": "Dell G15 5510 Service Manual",
+      "regulatory_model": "P105F",
+      "revision": "July 2023 Rev. A04",
+      "pages": 73,
+      "verify_text": "G15 5510",
+      "answers": "Diagnostic LED codes, SupportAssist diagnostics, swollen battery handling, Wi-Fi power cycle, flea-power drain, OS recovery, BIOS setup and boot menu"
+    },
+    {
+      "doc_id": "MANUAL-G15-5510-SPEC",
+      "device_model": "Dell G15 5510",
+      "kind": "specs",
+      "troubleshooting": "none",
+      "file": "dell-g15-5510_setup-and-specifications.pdf",
+      "url": "https://web.archive.org/web/20210613173958id_/https://dl.dell.com/topicspdf/g-series-15-5510-laptop_setup-guide_en-us.pdf",
+      "wayback": {
+        "timestamp": "20210613173958",
+        "original_url": "https://dl.dell.com/topicspdf/g-series-15-5510-laptop_setup-guide_en-us.pdf"
+      },
+      "title": "Dell G15 5510 Setup and Specifications",
+      "regulatory_model": "P105F",
+      "revision": "February 2021 Rev. A00",
+      "pages": 21,
+      "verify_text": "Dell G15 5510",
+      "answers": "Views of the machine, ports and slots, display and graphics options, memory limits, battery capacity, keyboard shortcuts, power adapter",
+      "warning": "Dell removed this from its live site; the archive is now the only source. The matching service manual has no views or specifications chapter, so this is the only place the model's ports, memory limits and battery capacity are stated."
+    },
+    {
+      "doc_id": "MANUAL-LAT-5420-SVC",
+      "device_model": "Dell Latitude 5420",
+      "kind": "service",
+      "troubleshooting": "full",
+      "file": "dell-latitude-5420_service-manual.pdf",
+      "url": "https://dl.dell.com/topicspdf/latitude-5420-laptop_owners-manual2_en-us.pdf",
+      "title": "Latitude 5420 Service Manual",
+      "regulatory_model": "P137G",
+      "revision": "January 2025 Rev. A04",
+      "pages": 109,
+      "verify_text": "Latitude 5420",
+      "answers": "Diagnostic LED codes, built-in self-test for display faults, SupportAssist, swollen battery handling, network power cycle, flea-power drain, OS recovery, BIOS setup, clearing a forgotten BIOS password",
+      "warning": "Not latitude-14-5420-laptop — that slug is the Latitude 5420 Rugged, regulatory model P85G, a different computer."
+    },
+    {
+      "doc_id": "MANUAL-LAT-5420-SPEC",
+      "device_model": "Dell Latitude 5420",
+      "kind": "specs",
+      "troubleshooting": "none",
+      "file": "dell-latitude-5420_setup-and-specifications.pdf",
+      "url": "https://dl.dell.com/topicspdf/latitude-5420-laptop_owners-manual_en-us.pdf",
+      "title": "Latitude 5420 Setup and Specifications",
+      "regulatory_model": "P137G",
+      "revision": "May 2023 Rev. A04",
+      "pages": 25,
+      "verify_text": "Latitude 5420",
+      "answers": "Views of the machine, ports and slots, display options, memory limits, battery capacity, keyboard, camera, power adapter"
+    },
+    {
+      "doc_id": "MANUAL-LAT-5521-SVC",
+      "device_model": "Dell Latitude 5521",
+      "kind": "service",
+      "troubleshooting": "full",
+      "file": "dell-latitude-5521_service-manual.pdf",
+      "url": "https://dl.dell.com/topicspdf/latitude-15-5521-laptop_owners-manual_en-us.pdf",
+      "title": "Latitude 5521 Service Manual",
+      "regulatory_model": "P104F",
+      "revision": "June 2023 Rev. A03",
+      "pages": 125,
+      "verify_text": "Latitude 5521",
+      "answers": "Diagnostic LED codes, built-in self-test, SupportAssist, RTC reset, swollen battery handling, Wi-Fi power cycle, flea-power drain, OS recovery, BIOS setup and boot sequence, clearing passwords"
+    },
+    {
+      "doc_id": "MANUAL-LAT-5521-REIMAGE",
+      "device_model": "Dell Latitude 5521",
+      "kind": "specs",
+      "troubleshooting": "partial",
+      "file": "dell-latitude-5521_reimaging-guide.pdf",
+      "url": "https://dl.dell.com/topicspdf/latitude-15-5521-laptop_reference-guide_en-us.pdf",
+      "title": "Latitude 5521 Re-imaging guide for Windows 10",
+      "regulatory_model": "P104F",
+      "revision": null,
+      "pages": 16,
+      "verify_text": "Latitude 5521",
+      "answers": "Order of reinstallation, driver installation sequence, what to install after a clean Windows image"
+    },
+    {
+      "doc_id": "MANUAL-LAT-5521-SPEC",
+      "device_model": "Dell Latitude 5521",
+      "kind": "specs",
+      "troubleshooting": "none",
+      "file": "dell-latitude-5521_setup-and-specifications.pdf",
+      "url": "https://web.archive.org/web/20221014185919id_/https://dl.dell.com/topicspdf/latitude-15-5521-laptop_setup-guide_en-us.pdf",
+      "wayback": {
+        "timestamp": "20221014185919",
+        "original_url": "https://dl.dell.com/topicspdf/latitude-15-5521-laptop_setup-guide_en-us.pdf"
+      },
+      "title": "Latitude 5521 Setup and Specifications",
+      "regulatory_model": "P104F",
+      "revision": "August 2021 Rev. A01",
+      "pages": 31,
+      "verify_text": "Latitude 5521",
+      "answers": "Views of the machine, ports and slots, display options, memory limits, battery capacity, keyboard shortcuts, camera, power adapter",
+      "warning": "Dell removed this from its live site; the archive is now the only source. The matching service manual has no views or specifications chapter, so this is the only place the model's ports, memory limits and battery capacity are stated."
+    },
+    {
+      "doc_id": "MANUAL-LAT-5550-SPEC",
+      "device_model": "Dell Latitude 5550",
+      "kind": "specs",
+      "troubleshooting": "none",
+      "file": "dell-latitude-5550_spec-sheet.pdf",
+      "url": "https://web.archive.org/web/20250804113855id_/https://www.delltechnologies.com/asset/en-us/products/laptops-and-2-in-1s/technical-support/latitude-5350-5450-5550-spec-sheet.pdf",
+      "wayback": {
+        "timestamp": "20250804113855",
+        "original_url": "https://www.delltechnologies.com/asset/en-us/products/laptops-and-2-in-1s/technical-support/latitude-5350-5450-5550-spec-sheet.pdf"
+      },
+      "title": "Latitude 5350/5450/5550 Spec Sheet",
+      "regulatory_model": null,
+      "revision": null,
+      "pages": 17,
+      "verify_text": "5550",
+      "answers": "Processor, memory, storage, graphics, ports, display, battery and dimensions — specifications only, no procedures",
+      "warning": "A three-column comparison of the Latitude 5350, 5450 and 5550. Extraction keeps the row labels and loses the column headers, so a MEMORY OPTIONS or STORAGE OPTIONS chunk contains all three models' values with nothing marking which is which — the 5350's onboard LPDDR5 sits directly above the 5550's upgradeable DDR5. Layout-aware extraction is what recovers the association. Dell removed this from its live site; the archive is now the only source, and no Dell PDF has ever carried Latitude 5550 troubleshooting procedures."
+    },
+    {
+      "doc_id": "MANUAL-LAT-7350-GUIDE",
+      "device_model": "Dell Latitude 7350",
+      "kind": "guidebook",
+      "troubleshooting": "partial",
+      "file": "dell-latitude-7350_technical-guidebook.pdf",
+      "url": "https://web.archive.org/web/20260307id_/https://www.delltechnologies.com/asset/en-us/products/laptops-and-2-in-1s/technical-support/latitude-7350-technical-guidebook.pdf",
+      "wayback": {
+        "timestamp": "20260307",
+        "original_url": "https://www.delltechnologies.com/asset/en-us/products/laptops-and-2-in-1s/technical-support/latitude-7350-technical-guidebook.pdf"
+      },
+      "title": "Latitude 7350 Technical Guidebook",
+      "regulatory_model": "P179G/P178G",
+      "revision": null,
+      "pages": 50,
+      "verify_text": "7350",
+      "answers": "Full specifications, port layout and views, display and battery options, docking, hardware security, system diagnostics",
+      "warning": "This is the 2024 Meteor Lake machine (P179G/P178G). The 2015 Latitude 13 7350 is P58G — a different computer with its own downloadable PDF that must not be substituted."
+    },
+    {
+      "doc_id": "MANUAL-PREC-3460-GUIDE",
+      "device_model": "Dell Precision 3460",
+      "kind": "guidebook",
+      "troubleshooting": "partial",
+      "file": "dell-precision-3460_technical-guidebook.pdf",
+      "url": "https://web.archive.org/web/20231116id_/https://www.delltechnologies.com/asset/en-us/products/workstations/technical-support/precision-3460-sff-technical-guidebook.pdf.external",
+      "wayback": {
+        "timestamp": "20231116",
+        "original_url": "https://www.delltechnologies.com/asset/en-us/products/workstations/technical-support/precision-3460-sff-technical-guidebook.pdf.external"
+      },
+      "title": "Precision 3460 Small Form Factor Technical Guidebook",
+      "regulatory_model": "D17S",
+      "revision": null,
+      "pages": 49,
+      "verify_text": "3460",
+      "answers": "Full specifications, port layout, expansion and storage options, power supply, system diagnostics",
+      "warning": "This is a small-form-factor desktop workstation, not a laptop. There is no Precision 3460 laptop."
+    },
+    {
+      "doc_id": "MANUAL-PREC-3460-SPEC",
+      "device_model": "Dell Precision 3460",
+      "kind": "specs",
+      "troubleshooting": "none",
+      "file": "dell-precision-3460_spec-sheet.pdf",
+      "url": "https://www.delltechnologies.com/asset/en-ca/products/workstations/technical-support/precision-3460-sff-spec-sheet.pdf",
+      "title": "Precision 3460 SFF Spec Sheet",
+      "regulatory_model": null,
+      "revision": null,
+      "pages": 9,
+      "verify_text": "3460",
+      "answers": "Processor, memory, graphics and storage options, ports, dimensions"
+    },
+    {
+      "doc_id": "MANUAL-HP-635-AERO-G7",
+      "device_model": "HP ProBook 635 Aero G7",
+      "kind": "service",
+      "troubleshooting": "full",
+      "file": "hp-probook-635-aero-g7_service-guide.pdf",
+      "url": "https://kaas.hpcloud.hp.com/pdf-public/pdf_12642281_en-US-1.pdf",
+      "title": "HP ProBook 635 Aero G7 Maintenance and Service Guide",
+      "regulatory_model": null,
+      "revision": "2020",
+      "pages": 106,
+      "verify_text": "ProBook 635 Aero G7",
+      "answers": "Ports and keyboard layout, labels and where the serial number is, HP PC Hardware Diagnostics, backup and recovery, BIOS and HP Sure Start, full specifications"
+    },
+    {
+      "doc_id": "INFO-MBP14-M3",
+      "device_model": "Apple MacBook Pro (14-inch, Nov 2023)",
+      "kind": "info",
+      "troubleshooting": "none",
+      "file": "apple-macbook-pro-14-m3_info.pdf",
+      "url": "https://cdsassets.apple.com/live/6GJYWVAV/information/ma2164_macbook-pro-14inch-m3-nov23b-info.pdf",
+      "title": "MacBook Pro (14-inch, M3, Nov 2023) — Info",
+      "regulatory_model": null,
+      "revision": null,
+      "pages": 1,
+      "verify_text": "MacBook Pro",
+      "answers": "Safety and handling, battery and power adapter warnings, regulatory information"
+    },
+    {
+      "doc_id": "INFO-MBP14-M3PRO-MAX",
+      "device_model": "Apple MacBook Pro (14-inch, Nov 2023)",
+      "kind": "info",
+      "troubleshooting": "none",
+      "file": "apple-macbook-pro-14-m3pro-max_info.pdf",
+      "url": "https://cdsassets.apple.com/live/6GJYWVAV/information/ma2166_macbook-pro-14inch-m3pro-m3max-nov23-info.pdf",
+      "title": "MacBook Pro (14-inch, M3 Pro or M3 Max, Nov 2023) — Info",
+      "regulatory_model": null,
+      "revision": null,
+      "pages": 1,
+      "verify_text": "MacBook Pro",
+      "answers": "Safety and handling, battery and power adapter warnings, regulatory information"
+    },
+    {
+      "doc_id": "GUIDE-ME-AND-MY-DELL",
+      "device_model": null,
+      "kind": "general",
+      "troubleshooting": "partial",
+      "file": "dell_me-and-my-dell.pdf",
+      "url": "https://dl.dell.com/topicspdf/g-series-15-5510-laptop_reference-guide_en-us.pdf",
+      "title": "Me and My Dell",
+      "regulatory_model": null,
+      "revision": "January 2021 Rev. A09",
+      "pages": 60,
+      "verify_text": "Me and My Dell",
+      "answers": "General Dell usage — setting up, common tasks, ports and connectors, keyboard shortcuts, maintenance",
+      "warning": "device_model is deliberately null. This covers Inspiron, G-Series, XPS and Alienware generically, so tagging it to one model would let a model-filtered query answer a specific question from generic content — exactly the failure section 4.7 exists to prevent."
+    }
+  ],
+  "apple_support_articles": {
+    "device_model": "Apple MacBook Pro (14-inch, Nov 2023)",
+    "troubleshooting": "pointers",
+    "note": "Apple publishes no service manual PDF and its repair manual is HTML only, so the MacBook Pro model file carries this index instead. These are POINTERS, not quotations — the authoritative text lives at each URL. Every URL was opened and confirmed to return the article it claims; one candidate (mchlp2582) resolved to the generic Mac User Guide landing page and was dropped. Note that support.apple.com is unreachable by curl from some networks, so these are not machine-verifiable by the fetch script.",
+    "articles": [
+      {
+        "symptom": "Battery will not charge",
+        "url": "https://support.apple.com/en-us/guide/mac-help/mh29198/mac"
+      },
+      {
+        "symptom": "Battery status shows 'Not Charging'",
+        "url": "https://support.apple.com/en-us/guide/mac-help/mh20876/mac"
+      },
+      {
+        "symptom": "Battery shows 'Service Recommended'",
+        "url": "https://support.apple.com/en-us/108376"
+      },
+      {
+        "symptom": "Run hardware diagnostics",
+        "url": "https://support.apple.com/en-us/102550"
+      },
+      {
+        "symptom": "Diagnose problems on Mac",
+        "url": "https://support.apple.com/en-us/guide/mac-help/mh35727/mac"
+      },
+      {
+        "symptom": "Start up in safe mode",
+        "url": "https://support.apple.com/en-us/guide/mac-help/mh21245/mac"
+      },
+      {
+        "symptom": "Startup key combinations, including NVRAM reset",
+        "url": "https://support.apple.com/en-us/102603"
+      },
+      {
+        "symptom": "Start up from macOS Recovery to reinstall or repair",
+        "url": "https://support.apple.com/en-us/102518"
+      },
+      {
+        "symptom": "Component repair procedures (M3)",
+        "url": "https://support.apple.com/en-us/118618"
+      },
+      {
+        "symptom": "Component repair procedures (M3 Pro / M3 Max)",
+        "url": "https://support.apple.com/en-us/118617"
+      }
+    ]
+  },
+  "unavailable": []
+}

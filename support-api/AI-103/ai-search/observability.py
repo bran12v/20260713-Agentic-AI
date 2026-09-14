@@ -2,16 +2,26 @@
 
 The Agent Framework emits the spans; this module will define what will happen to them."""
 
-from collections.abc import Sequence
+from collections.abc import Awaitable, Callable, Sequence
 
 from opentelemetry.sdk.trace import ReadableSpan
 from opentelemetry.sdk.trace.export import SpanExporter, SpanExportResult
-from opentelemetry.trace import StatusCode, get_tracer
+from opentelemetry.trace import StatusCode, get_tracer, get_current_span
+
+from agent_framework import FunctionInvocationContext, agent_middleware
 
 from contextlib import contextmanager
 from typing import Any
 
-PRINTED = ("gen_ai.", "retrieval.", "guardrail.")
+from contextvars import ContextVar
+
+from dotenv import load_dotenv
+
+load_dotenv()
+
+CORRELATION_ID: ContextVar[str] = ContextVar("correlation_id", default="")
+
+PRINTED = ("gen_ai.", "retrieval.", "guardrail.", "turn.")
 
 class TreeExporter(SpanExporter):
     """Buffers spans, the print them as a tree when the process completes.
@@ -102,3 +112,31 @@ def guardrail_span(stage: str):
 
         span.record = record
         yield span
+
+def turn_middleware(correlation_id: str):
+
+    @agent_middleware
+    async def _stamp(context, call_next):
+        token = CORRELATION_ID.set(correlation_id)
+        try:
+            with tracer().start_as_current_span(f"turn {correlation_id}") as span:
+                span.set_attribute("turn.correlation_id", correlation_id)
+                await call_next() # this is the ENTIRE agent run
+        finally:
+            CORRELATION_ID.reset(token)
+
+    return _stamp
+
+def langfuse_exporter():
+    """OTLP/HTTP to LangFuse. Auth is HTTP basic: base64("public:secret")."""
+    import base64
+    import os
+
+    from opentelemetry.exporter.otlp.proto.http.trace_exporter import OTLPSpanExporter
+
+    pair = f"{os.environ['LANGFUSE_PUBLIC_KEY']}:{os.environ['LANGFUSE_SECRET_KEY']}"
+    host = os.environ.get("LANGFUSE_HOST", "http://localhost:3000")
+    return OTLPSpanExporter(
+        endpoint=f"{host}/api/public/otel/v1/traces",
+        headers={"Authorization": f"Basic {base64.b64encode(pair.encode()).decode()}"},
+    )
