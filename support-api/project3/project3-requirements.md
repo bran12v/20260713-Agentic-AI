@@ -4,7 +4,7 @@
 |---|---|
 | **Project Name** | HelpDesk AI Automation System |
 | **Version** | 1.0 |
-| **Date** | July 2026 |
+| **Date** | September 2026 |
 | **Duration** | 2 weeks |
 | **Team Size** | 16 |
 
