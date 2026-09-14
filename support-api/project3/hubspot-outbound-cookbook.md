@@ -174,7 +174,7 @@ why the ingest action ignores it.
 ## 3. Close the ticket
 
 Only two states matter: the ticket arrives in **New** and ends **closed**. Everything in between lives
-on the `ai_status` property, not in the pipeline.
+on the run record in your own database — **no field is created on the ticket for this project.**
 
 ```http
 PATCH https://api.hubapi.com/crm/v3/objects/tickets/{ticketId}
@@ -183,9 +183,7 @@ Content-Type: application/json
 
 {
   "properties": {
-    "hs_pipeline_stage": "954564780",
-    "ai_status": "done",
-    "ai_run_correlation_id": "7f3a..."
+    "hs_pipeline_stage": "954564780"
   }
 }
 ```
@@ -195,8 +193,9 @@ Content-Type: application/json
 | Work finished | Resolved | `954564780` |
 | Out-of-scope decline (§ 4.1) | Unresolvable | `954498199` |
 
-Both are `ticketState: CLOSED` on pipeline `648529809`. `ai_status` and `ai_run_correlation_id` are
-custom properties — see **Custom properties** below for their exact names and values.
+Both are `ticketState: CLOSED` on pipeline `648529809`. **The stage is the only property this system
+writes.** The correlation id that makes the write idempotent stays in your own store — HubSpot has no
+field for it and none is being added.
 
 ---
 
@@ -343,11 +342,7 @@ class HubSpotClient:
         r = await self._http.patch(
             f"{HUBSPOT_API}/crm/v3/objects/tickets/{ticket_id}",
             headers=self._auth,
-            json={"properties": {
-                "hs_pipeline_stage": stage,
-                "ai_status": "declined" if declined else "done",
-                "ai_run_correlation_id": correlation_id,
-            }},
+            json={"properties": {"hs_pipeline_stage": stage}},
             timeout=10.0,
         )
         r.raise_for_status()
@@ -380,7 +375,7 @@ The loop that carries a clarifying question through to an answer, end to end:
   lane needs information
         │
         ├─▶ reply_to_requester(...)          email leaves HubSpot
-        │   ai_status = awaiting_requester   ticket stays open
+        │   ticket stays open in New; the lane's state is on the run record
         │
         │   ... hours pass ...
         │
@@ -446,8 +441,10 @@ entitlement check is the only other control on that path.
 | Out-of-scope decline | Unresolvable | `954498199` |
 
 The other three stages — Assigned `954564778`, WIP `954564779`, Pending Stormer `954498198` — exist
-and are left alone. **No stage is needed for an approval wait**: set `ai_status` to
-`awaiting_approval` and leave the ticket in New.
+and are left alone. **A ticket waiting on an approver or on a requester's reply stays in New**; that
+state is on the run record, not in HubSpot. Do not repurpose the unused stages to carry it — the
+HelpDesk team reads the same board, and a stage that means something only to this system is a
+consistency problem rather than a feature.
 
 ### Re-enrollment
 
@@ -462,23 +459,22 @@ halves are load-bearing and both failure modes are silent:
   ingests its own replies forever.
 - The `from_visitor` filter is what keeps outbound `MESSAGE` writes from re-enrolling the ticket.
 
-### Custom properties
+### What this system writes to HubSpot
 
-Five properties the code reads by name. **Use these exact internal names** — HubSpot derives an
-internal name from the label and it is painful to change afterwards.
+**Three things, and none of them is a new field.** A `MESSAGE` on the thread, a `COMMENT` on the
+thread, and `hs_pipeline_stage` on the ticket. Everything else the system knows — which lane is
+waiting on whom, the correlation id, the decline reason, the requester's laptop model, the target of
+the request — lives on the run record in your own database.
 
-| Internal name | Type | Field type | Why |
-|---|---|---|---|
-| `device_model` | Enumeration | Dropdown select | § 4.7 makes it a required search filter on every manual query. The closed set is the eight fleet models in `corpus/MANIFEST.md` — free text makes the filter worthless |
-| `target_user_upn` | Single-line text | Text | § 4.1 separates the requester from the target of the request; nothing on the ticket captures the target |
-| `ai_run_correlation_id` | Single-line text | Text | § 4.5 requires ticket writes to be idempotent on it |
-| `ai_status` | Enumeration | Dropdown select | Carries in-flight state, because the pipeline does not. Options: `investigating`, `awaiting_requester`, `awaiting_approval`, `executing`, `done`, `declined`, `escalated` |
-| `ai_decline_reason` | Single-line text | Text | § 4.1 requires declines to be reportable |
+That is a deliberate constraint, not an oversight: it means the project needs no HubSpot admin, no
+property migration, and nothing to keep consistent between two systems. The cost is that HubSpot
+shows an open ticket and nothing else while a run is in flight, so **the internal note is the only
+place a human can see what happened.** Write it for them.
 
-Two more worth knowing. `hs_ticket_category` exists, but its options are HubSpot's stock set —
-Product issue, Billing issue, Feature request, General inquiry — none of which distinguish a lockout
-from a laptop fault, and it is unpopulated on every ticket examined; extend the existing enum rather
-than adding a property. And `hs_ticket_priority` is unpopulated too.
+`hs_ticket_category` exists but its options are HubSpot's stock set — Product issue, Billing issue,
+Feature request, General inquiry — none of which distinguish a lockout from a laptop fault, and it is
+unpopulated on every ticket examined. `hs_ticket_priority` is unpopulated too. Neither is worth
+reading, and neither is being changed.
 
 ---
 

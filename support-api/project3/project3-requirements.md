@@ -130,10 +130,10 @@ is why it is shaped that way.
 - **Assembling the corpus is the project's work, not a precondition.** Existing SkillStorm material is
   raw input where it exists; where it does not, the team authors the operational layer — the
   per-operation procedures the policy gate retrieves. Establishing which laptop models SkillStorm
-  issues is part of that work, and the answer sets the `device_model` enum.
-- **Nothing on the ticket identifies the requester's laptop today.** `device_model` is one of five
-  custom properties that have to be created before it can, and until then the model can only be parsed
-  from the ticket text or asked for. The Device Worker must handle both.
+  issues is part of that work, and the answer sets the values `device_model` can take on the index.
+- **Nothing on the ticket identifies the requester's laptop.** The model is parsed from the ticket
+  text or asked for, and the Device Worker must handle both. `device_model` is a filter on the search
+  index, not a field on the ticket.
 - An Azure subscription and resource group are available at project start, with an **Azure AI Foundry
   project** carrying a reasoning-tier deployment, a fast-tier deployment and an embedding deployment.
 - An **Azure AI Search** service at Basic tier or higher, so the semantic ranker is available. The
@@ -293,7 +293,7 @@ you are implementing it.
 | 12 | **Retrieval is load-bearing.** Below the reranker threshold the lane blocks and escalates. It never degrades to answering from model knowledge. |
 | 13 | **Identity is resolved server-side.** Entitlement-scoped reads sit behind the MCP server, which takes the subject from authenticated caller context. An in-process tool can always be handed whatever the model produced. |
 | 14 | **A lane is `(run_id, sub_request_id)`** and owns its own agent thread, its own budget counters and its own durable row. Two sub-requests routed to the same worker must not share a transcript. |
-| 15 | **Idempotency everywhere.** Ingest dedupes on event id, the approval callback on decision id, ticket writes on `ai_run_correlation_id`, and executors are idempotent. |
+| 15 | **Idempotency everywhere.** Ingest dedupes on event id, the approval callback on decision id, ticket writes on the run's correlation id held in the system's own store, and executors are idempotent. |
 | 16 | **Least privilege.** Narrowly scoped Graph permissions per executor, and a gated executor refuses to run without a matching approval record regardless of what the graph handed it. |
 
 Rules 1, 3, 5 and 14 are what make this a multi-agent system rather than a workflow. Rules 6, 7, 13
@@ -388,15 +388,15 @@ will be defined during design and refined iteratively during the build.
   reranker threshold, when a device symptom is outside the corpus for that model, when an approval
   expires, or when the investigation finds something a human must judge — such as a "can't log in"
   sub-request on an account deliberately disabled pending termination, where the correct outcome is a
-  reply and an escalation, not an unlock. **An escalated lane sets `ai_status` to `escalated`, leaves
-  the ticket open in New, assigns it to the HelpDesk owner queue, and writes the evidence it gathered
-  onto the ticket as an internal note.** It never closes the ticket and it never guesses.
+  reply and an escalation, not an unlock. **An escalated lane leaves the ticket open in New, assigns it
+  to the HelpDesk owner, and writes the evidence it gathered onto the thread as an internal note** —
+  the note is the whole handover, because nothing on the ticket says "escalated". It never closes the
+  ticket and it never guesses.
 
 - **The four terminal states are per sub-request, not per ticket.** One email can produce a clarifying
   question on one lane, an executed action on a second, and an escalation on a third, and the ticket
-  update says so. **`ai_status` is per ticket and therefore reports the least-finished lane** — a
-  ticket with one lane executed and one awaiting approval reads `awaiting_approval`. The per-lane
-  states live on the run record, which is where the ticket update is assembled from.
+  update says so. The states live on the run record, which is where the ticket update is assembled
+  from; the ticket itself only shows the summary the join writes.
 - Where the target user is ambiguous, missing, or matches more than one directory entry, the system
   composes a clarifying question and emails it to the requester on the ticket thread rather than
   guessing. The ticket stays open and its status records that it is waiting on a reply; the answer
@@ -466,10 +466,12 @@ ticket update says plainly which executed and which is waiting on whom.
 - The manufacturer manuals and service guides for the laptop models SkillStorm issues are indexed in
   Azure AI Search and reachable by the Device Worker as a read-only tool, when the investigation
   implicates the device rather than on a fixed step.
-- **The Device Worker resolves which model the requester has** from the ticket text or the HubSpot
-  record, and asks where it cannot. Every manual query filters on the resolved `device_model`; an
-  unfiltered query is a defect, because an answer drawn from the wrong model's manual is fluent,
-  specific, and carries a citation that resolves.
+- **The Device Worker resolves which model the requester has** from the ticket text, and asks where it
+  cannot — **nothing on the HubSpot record carries it**, so "ask, then wait for the reply" is the
+  normal path rather than the exception, and it is the clarifying-question interrupt of § 3.3.1. Every
+  manual query filters on the resolved `device_model`; an unfiltered query is a defect, because an
+  answer drawn from the wrong model's manual is fluent, specific, and carries a citation that
+  resolves.
 - Where the corpus covers the symptom, the system returns grounded, model-specific steps on the
   ticket, citing the manual and the section they came from.
 - Where the manual's procedure terminates in service, or the symptom indicates hardware failure, the
@@ -494,15 +496,18 @@ ticket update says plainly which executed and which is waiting on whom.
 - **The investigation summary, the actions proposed and the approval outcome are internal notes**, not
   replies. They are the audit trail § 5 requires; emailing them to the requester would send the
   system's own reasoning to the person who asked the question.
-- **Only two ticket states are used: it arrives open and ends closed.** In-flight state lives on the
-  `ai_status` ticket property rather than in the pipeline, so a ticket awaiting approval and a ticket
-  awaiting a reply are distinguishable without adding stages that have to be kept consistent. Its six
-  values are `investigating`, `awaiting_requester`, `awaiting_approval`, `executing`, `done`,
-  `declined` and `escalated` — a closed set, listed with the other custom properties in the outbound
-  cookbook. It is per ticket and reports the least-finished lane; per-lane state lives on the run
-  record.
-- Ticket writes are idempotent on `ai_run_correlation_id`, so a retried update does not append a
-  duplicate summary. The platform offers no idempotency key, so this is the system's to enforce.
+- **Only two ticket states are used: it arrives open in New and ends closed.** **No HubSpot field is
+  created for this project — the system works with the properties and stages that already exist.**
+  In-flight state therefore lives entirely on the run record: which lane is investigating, which is
+  waiting on a reply, which is waiting on an approver. The ticket carries none of it.
+- **The consequence is that HubSpot is not the place to look at a run in progress.** A HelpDesk person
+  reading the board sees an open ticket and nothing more, so anything a human needs to know mid-flight
+  has to be written into the thread as an internal note — which is also the audit trail. Make the
+  notes worth reading.
+- Ticket writes are idempotent on the run's correlation id, which the system holds in its own store as
+  `(correlation_id, operation) -> HubSpot message id` and checks before every write. **The platform
+  offers no idempotency key and no field to keep one in**, so a retried update must be recognised
+  system-side or it appends a duplicate summary.
 
 ### 4.6 Approvals
 
@@ -771,10 +776,11 @@ matter:
 | Out-of-scope decline | Unresolvable | `954498199` |
 
 The other three — Assigned `954564778`, WIP `954564779`, Pending Stormer `954498198` — exist and are
-left alone. **No stage is needed for an approval wait**: a gated action sets `ai_status` to
-`awaiting_approval` and the ticket stays in New. A clarifying question under § 4.1 does the same with
-`awaiting_requester`. Every extra stage is one more thing to keep consistent between HubSpot and the
-run record.
+left alone. **The ticket moves twice: it arrives in New and it closes.** A gated action waiting on an
+approver and a lane waiting on a requester's reply both leave it in New, because that state lives on
+the run record (§ 4.5) and not in HubSpot. Do not repurpose the unused stages to carry it — a stage
+that means something to this system and nothing to the HelpDesk staff using the same board is a
+consistency problem, not a feature.
 
 ---
 
