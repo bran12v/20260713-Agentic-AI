@@ -1,8 +1,9 @@
 # Design Rationale
 
 Why the architecture is shaped the way it is. **[project3-requirements.md](project3-requirements.md)
-§ 3.3 states the rules; this file argues them.** Read it once at the start. You do not need it open
-while you build, and nothing in it is a requirement.
+§ 3.3 states seventeen rules; this file argues each of them.** Every section names the rule it
+defends. Read it once at the start — you do not need it open while you build, and nothing in it is a
+requirement.
 
 It exists because the rules in § 3.3 look arbitrary until you know what each one is defending
 against, and a team that does not know will relax one of them under schedule pressure on day 6.
@@ -10,6 +11,8 @@ against, and a team that does not know will relax one of them under schedule pre
 ---
 
 ## Why the sub-request is the unit of work
+
+> **Defends Rule 1.**
 
 One email can hold several unrelated asks — a lockout, an access question and a full laptop. Treating
 the ticket as the unit forces all three through one state, so the whole ticket waits on the slowest
@@ -24,6 +27,8 @@ This is also what makes the graph divisible across sixteen people: the lane is t
 
 ## Why investigation, not classification
 
+> **Defends Rule 2.**
+
 A HelpDesk ticket is a symptom, not an instruction. "Jane can't log in" does not say whether her
 account is locked, her password expired, her MFA registration is broken, her account was disabled by an
 offboarding job, or a license lapsed — and the correct response to the last of those is not an unlock.
@@ -34,6 +39,8 @@ one-call-each shape is a classifier wearing an agent's clothes, and it does not 
 
 ## Why the width is the model's and the routing is not
 
+> **Defends Rule 3.**
+
 The Coordinator emits a typed plan naming the workers it wants and why. A selection function then
 routes deterministically on that object.
 
@@ -43,6 +50,8 @@ because a mis-route is invisible at runtime and a pure function over a typed pla
 with no model in the loop — which is the single cheapest test in the project.
 
 ## Why the join is hand-written, and why it sits after execution
+
+> **Defends Rules 4 and 5.**
 
 `WorkflowBuilder`'s fan-out targets are a static list declared at build time; what varies at runtime is
 which subset the selection function activates. Fan-in likewise declares a static source list and fires
@@ -58,6 +67,8 @@ make every lane wait on the slowest approver and collapse the design back into a
 
 ## Why approval is gated on reversibility
 
+> **Defends Rule 7.**
+
 Three operations change whether a person can work, and those three are what the flow covers.
 
 Deletion is irreversible. Deactivation and reactivation are the pair an attacker would aim at, because
@@ -69,6 +80,8 @@ Gating on "risk" in the abstract produces an argument every sprint. Gating on re
 list.
 
 ## Why approval is permission, not an instruction
+
+> **Defends Rule 10.**
 
 Approval arrives minutes or hours later. In that gap the account can be deleted by someone else, the
 license can lapse, the user can fix it themselves, or a second ticket can already have acted.
@@ -82,6 +95,8 @@ execution.
 
 ## Why the approval record binds the action type, not just the subject
 
+> **Defends Rule 10, and § 5 of the brief.**
+
 Re-validation may narrow an action. Without a binding on action type, `deactivate(jane)` approved and
 narrowed to `revoke_sessions(jane)` passes a subject check and executes something the approver never
 saw. The approval record therefore names `(decision_id, subject, action_type)`, and narrowing may
@@ -91,6 +106,8 @@ This is the kind of hole that only appears when someone implements "matching app
 obvious way.
 
 ## Why identity is resolved server-side
+
+> **Defends Rule 13.**
 
 The entitlement-scoped reads sit behind an MCP server that takes the subject from authenticated caller
 context rather than from a tool argument.
@@ -102,6 +119,119 @@ process boundary there makes the guarantee structural.
 
 Retrieval tools stay in-process by the same logic inverted: runbooks and manuals are not
 entitlement-scoped, so a server in front of them adds a hop without adding a control.
+
+## Why the model never reaches an executor
+
+> **Defends Rule 6.**
+
+The model decides *what* should happen; the graph routes it; code does it. Every action is a member of
+a closed enum, and every executor is a typed function the model cannot call.
+
+The reason is not that the model would compose a malicious call. It is that a system where the model
+can reach a directory has no reviewable boundary: you cannot point at a line and say "nothing past
+here is model output". With a closed enum you can, and the § 7 gated-set test is writable because the
+set is enumerable.
+
+## Why gating is per action and not per lane
+
+> **Defends Rule 8.** This is the one most likely to be simplified away on day 6.
+
+A lane proposes an action *set*, and a set can hold both kinds: "unlock Jane and revoke her sessions"
+is ungated; "and deactivate the contractor account she's been using" is not. § 4.2 requires the
+ungated members to run while the gated ones wait.
+
+Gate the lane instead of the action and you get one of two wrong behaviours: either the whole lane
+waits on an approver who is only needed for one of its actions, which is the delay that gets
+automation switched off, or the whole lane executes on one approval, which is the approver agreeing to
+something they were never shown.
+
+The cost is a second fan-out inside the lane, and it is real work. It is also why the lane's terminal
+state is not reached until every action it proposed has one.
+
+## Why a pause is a checkpoint and not a new run
+
+> **Defends Rule 9.** The other one most likely to be simplified away.
+
+When a lane needs an approval or needs information from the requester, the run interrupts and
+checkpoints, and the same run resumes when the answer arrives.
+
+The tempting shortcut is to treat the answer as a fresh trigger: take the callback, look up the
+record, start a new run seeded with what you know. It works for the simple case and then fails on
+everything the project is actually about — the worker's own investigation context is gone, so
+re-validation has to re-derive what "still holds" means; the other lanes on the ticket belong to a run
+that is still parked; and there is no longer one place that knows how many lanes the Coordinator
+ordered, which is what the join counts against.
+
+Both pauses use one mechanism deliberately. A clarifying question and an approval are the same shape —
+the lane stops, something outside the system answers, the lane continues — and building two mechanisms
+means maintaining two sets of resume, timeout and replay semantics.
+
+## Why the approval card comes from the typed object
+
+> **Defends Rule 11.**
+
+What the approver reads and what executes are rendered from the same structure. Not from model prose
+describing the action.
+
+If the card is prose, the approver is agreeing to a description, and nothing binds the description to
+the action. That is not a hypothetical failure: it is how a narrowed or substituted action passes a
+human check, which is the same hole Rule 10 closes from the other side.
+
+## Why retrieval blocks rather than degrades
+
+> **Defends Rule 12.**
+
+The runbook decides what verification an action requires. When retrieval falls below the reranker
+threshold the lane escalates; it never answers from what the model happens to know.
+
+A model that has read the internet knows how password resets usually work. It does not know how
+SkillStorm's policy says they work, and the difference is invisible in the output — the ungrounded
+answer is fluent, plausible and specific. Degrading to model knowledge does not produce a worse
+answer, it produces an unreviewable one.
+
+## Why the entitlement check is inside the tool
+
+> **Defends Rule 14.**
+
+Every call checks that the requester has a grant over the target. Not the plan, not the gate — the
+tool, on every call.
+
+With approval gated to three lifecycle operations, everything else executes on this check alone. It is
+the only thing between a spoofed email and a colleague's password, and § 2.3 is explicit that sender
+identity is only as good as SPF, DKIM and DMARC. A check that lives in the planning layer is a check
+an injected instruction can plan around; a check inside the tool is one it cannot.
+
+It also has to deny loudly. A denial that returns an empty result set is indistinguishable from "found
+nothing", and a worker will reason onward from the wrong premise.
+
+## Why a lane owns its own thread
+
+> **Defends Rule 15.** Silent when it breaks.
+
+A lane is `(run_id, sub_request_id)` and owns its own agent thread, budget counters and durable row.
+
+Two identity sub-requests in one email — the brief's own example — route to the same Identity worker.
+If that worker is one agent with one conversation thread, lane 1's evidence is in lane 2's context, and
+lane 2 reasons about an account it was never asked about. Nothing errors. The run record looks
+plausible. The only symptom is an occasional answer that is subtly about the wrong person.
+
+It is also what makes "the lanes are independent" a testable claim rather than a description, and what
+keeps the design on the `WorkflowBuilder` side of § 3.4's Magentic line.
+
+## Why idempotency is everywhere, and least privilege underneath it
+
+> **Defends Rules 16 and 17.**
+
+HubSpot retries a webhook whose handler throws, with a byte-identical body. Power Automate can post a
+decision twice. A partially failed lane gets re-entered. None of these are edge cases; they are the
+normal operation of the systems this one sits between, which is why every write is keyed and every
+executor safe to run twice.
+
+Least privilege is the same argument applied to blast radius rather than repetition. Each executor
+gets narrowly scoped Graph permissions, and a gated executor refuses to run without a matching
+approval record **regardless of what the graph handed it** — because the graph is code the team is
+writing for the first time, under time pressure, and the executor is the last place to catch a bug in
+it.
 
 ---
 

@@ -88,7 +88,6 @@ Content-Type: application/json
   "subject": "Re: TEST",
   "recipients": [
     {
-      "actorId": "V-247729059090",
       "recipientField": "TO",
       "deliveryIdentifier": {
         "type": "HS_EMAIL_ADDRESS",
@@ -199,6 +198,38 @@ field for it and none is being added.
 
 ---
 
+## 4. Escalate — hand the ticket to a person
+
+An escalated lane does not close the ticket. It leaves it in New, sets an owner so it lands in
+someone's queue, and puts the evidence in an internal note. **The note is the handover** — nothing on
+the ticket says "escalated", so a bare owner change tells the person nothing.
+
+```http
+PATCH https://api.hubapi.com/crm/v3/objects/tickets/{ticketId}
+Authorization: Bearer {token}
+Content-Type: application/json
+
+{
+  "properties": {
+    "hubspot_owner_id": "47306113"
+  }
+}
+```
+
+**Expected:** 200 OK. Post the `COMMENT` first, then assign — an owner who opens the ticket before the
+note lands sees an escalation with no reason.
+
+`hubspot_owner_id` is `enumeration / select` and is **not** read-only, so `crm.objects.tickets.write`
+covers it and no extra scope is needed to set one. Reading the owner *list* is another matter: the
+token has no `crm.objects.owners.read`, so the id cannot be looked up by email at runtime.
+
+**Sandbox value: `47306113`** — Brandon Vanek, `bvanek@skillstorm.com`, confirmed through the
+conversations actor endpoint, which returns `A-47306113` for the same person. That `A-` form is the
+`senderActorId` used when replying; the bare number is what the ticket property takes. It is the same
+person the approval flow routes to, so escalations and approvals land in one queue for the demo.
+Hold it in config as `hubspot_escalation_owner_id`; a real deployment resolves a queue owner instead
+of pinning one.
+
 ## The loop this design avoids
 
 The workflow re-enrolls on `hs_last_message_received_at` so that requester replies reach the system.
@@ -230,7 +261,7 @@ Getting the config/payload split right is most of the work.
 
 | Config (`pydantic-settings`) | Per-ticket (from the ingest payload) |
 |---|---|
-| `hubspot_sender_actor_id` · `hubspot_inbox_id` · the two stage ids · **fallback** channel values | `thread_id` · `requester_email` · `channel_id` · `channel_account_id` |
+| `hubspot_sender_actor_id` · `hubspot_escalation_owner_id` · the two stage ids · **fallback** channel values | `thread_id` · `requester_email` · `channel_id` · `channel_account_id` |
 
 The channel values are in both columns on purpose: the payload carries them for every threaded ticket,
 and the configured pair is used **only** when a chat-sourced or manual ticket arrives with both null.
@@ -279,10 +310,10 @@ class HubSpotClient:
         )
 
     async def reply_to_requester(
-        self, correlation_id: str, ticket, to_email: str, subject: str, body: str
+        self, correlation_id: str, operation: str, ticket, to_email: str, subject: str, body: str
     ) -> str:
         """Emails the requester. Use for clarifying questions and completion notices."""
-        if existing := await self._store.get(correlation_id, "reply"):
+        if existing := await self._store.get(correlation_id, operation):
             return existing
 
         channel_id, channel_account_id = self._channel(ticket)
@@ -312,7 +343,7 @@ class HubSpotClient:
         if sent.get("status", {}).get("statusType") != "SENT":
             raise HubSpotDeliveryError(sent)   # your own exception type — see § 5
 
-        await self._store.put(correlation_id, "reply", sent["id"])
+        await self._store.put(correlation_id, operation, sent["id"])
         return sent["id"]
 
     async def add_internal_note(self, correlation_id: str, thread_id: str, body: str) -> str:
@@ -353,7 +384,7 @@ class HubSpotClient:
 `raise_for_status()` is not enough on the reply. A `201` means HubSpot accepted the message; only
 `statusType: SENT` means it went out. Assert on it, or a silently undelivered email looks like success.
 
-**Do not pass `actorId` in `recipients`.** Send the `deliveryIdentifier` only. The actor id is
+**Do not pass `actorId` in `recipients`.** Send the `deliveryIdentifier` only — the request above omits it for that reason. The actor id is
 per-contact, it is not on the ingest payload, and fetching it needs a contacts scope the token does
 not hold.
 
@@ -396,8 +427,8 @@ The loop that carries a clarifying question through to an answer, end to end:
 
 Three things have to hold, and each is somewhere different:
 
-1. **Re-enrollment fires** — on `hs_last_message_received_at`, never a thread id. Already configured
-   in portal 51681374; see **Re-enrollment** below for why the alternatives fail silently.
+1. **Re-enrollment fires** — on `hs_last_message_received_at`, never a thread id. Configured on the
+   ingestion workflow; see **Re-enrollment** below for why the alternatives fail silently.
 2. **`kind` says `reply`** — the ingest action distinguishes a new request from an answer. Treating a
    reply as a new request restarts the investigation instead of resuming it, and the ticket never
    converges.
@@ -448,7 +479,7 @@ consistency problem rather than a feature.
 
 ### Re-enrollment
 
-The ingestion workflow enrolls on pipeline `IT Service`, and **re-enrolls on
+The ingestion workflow is configured to enroll on pipeline `IT Service` and to **re-enroll on
 `hs_last_message_received_at`** with a second filter of `hs_last_message_from_visitor is true`. Both
 halves are load-bearing and both failure modes are silent:
 
@@ -461,10 +492,10 @@ halves are load-bearing and both failure modes are silent:
 
 ### What this system writes to HubSpot
 
-**Three things.** A `MESSAGE` on the thread, a `COMMENT` on the thread, and `hs_pipeline_stage` on the
-ticket. Everything else the system knows — which lane is waiting on whom, the correlation id, the
-decline reason, the requester's laptop model, the target of the request — lives on the run record in
-your own database.
+**Four things.** A `MESSAGE` on the thread, a `COMMENT` on the thread, `hubspot_owner_id` when a lane
+escalates, and `hs_pipeline_stage` on close. Everything else the system knows — which lane is waiting
+on whom, the correlation id, the decline reason, the requester's laptop model, the target of the
+request — lives on the run record in your own database.
 
 So HubSpot needs no administration and there is nothing to hold consistent between two systems. The
 cost is that **HubSpot shows an open ticket and nothing else while a run is in flight**: the internal
@@ -483,4 +514,7 @@ The private app needs `conversations.read`, `conversations.write`, `crm.objects.
 `crm.objects.tickets.write`. The current token holds all four.
 
 It does **not** hold `automation`, which is why the workflow cannot be read or configured through the
-API. That part is UI work and is already done in the sandbox portal.
+API. That part is UI work, and it is on the pre-project checklist rather than yours.
+
+It also does not hold `crm.objects.owners.read`, so the owner list cannot be fetched — which is why
+the escalation owner is a configured id rather than a lookup by email.

@@ -170,8 +170,16 @@ is why it is shaped that way.
 
 ```
   HubSpot email ──▶ POST /api/v1/tickets/ingest ──▶ INTAKE (deterministic)
-  Direct tickets                                    dedupe · redact · verify
-                                                    requester · enqueue
+  Direct tickets                                    verify HMAC over raw bytes
+                                                    dedupe on event_id · redact
+                                                    resolve requester
+                                                              │
+                                                              ▼
+                                                    ╌╌╌ Service Bus ╌╌╌  ← webhook
+                                                              │            returns here
+                                                              ▼
+                                                    PROMPT SHIELDS over every
+                                                    string, before any model
                                                               │
                                                               ▼
                                                ┌──────────────────────────┐
@@ -192,52 +200,59 @@ is why it is shaped that way.
 
   ══ every lane below is the same shape; one lane drawn, N run ═════════════════
 
-              ┌────────────────────────────────────────────────┐
-              │                 OWNING WORKER                  │◀──┐
-              │   loops on its own tools · own agent thread    │   │
-              └───────┬─────────────────┬──────────────────────┘   │
-        needs_info /  │                 │ proposes 0..N actions    │
-        decline       │                 ▼                          │
-                      │         ┌───────────────┐   reject         │
-                      │         │  POLICY GATE  │─────────────────▶┤  ①
-                      │         │(deterministic)│                 │
-                      │         └───────┬───────┘ pass             │
-                      │                 ▼                          │
-                      │         ┌───────────────┐   reject         │
-                      │         │  GROUNDING    │─────────────────▶┤  ②
-                      │         │  REVIEWER     │                  │
-                      │         └───────┬───────┘ pass             │
-                      │        ┌────────┴────────┐                 │
-                      │   not gated         gated set              │
-                      │        │                 ▼                 │
-                      │        │        ╔═════════════════╗        │
-                      │        │        ║ INTERRUPT +     ║        │
-                      │        │        ║ CHECKPOINT      ║        │
-                      │        │        ║ (approval)      ║        │
-                      │        │        ╚════════╤════════╝        │
-                      │        │      rejected   │ approved        │
-                      │        │        ◀────────┤                 │
-                      │        │     close lane  ▼                 │
-                      │        │        ┌───────────────┐ withdraw │
-                      │        │        │  RE-VALIDATE  │─────────▶┤  ③
-                      │        │        └───────┬───────┘          │
-                      │        └────────┬───────┘ still holds      │
-                      │                 ▼                          │
-                      │            ┌─────────┐   partial failure   │
-                      │            │ EXECUTE │────────────────────▶┘  ④
-                      │            └────┬────┘
-                      │                 │
-                      └────────┬────────┘
-                               ▼
-                        lane terminal state
+         ┌──────────────────────────────────────────────────┐
+         │                  OWNING WORKER                   │
+         │     loops on its own tools · own agent thread    │
+         └──┬───────────────────────────────────────────────┘
+            │
+            ├──▶ needs_info ──▶ ══ INTERRUPT + CHECKPOINT (question) ══
+            │                        the reply resumes the same run,
+            │                        back into this worker
+            │
+            └──▶ proposes 0..N actions
+                     │
+                     ▼
+              ┌─────────────┐
+              │ POLICY GATE │ ───── reject ──▶ back to the worker   ①
+              └──────┬──────┘
+                     ▼ pass
+              ┌─────────────┐
+              │  GROUNDING  │ ───── reject ──▶ back to the worker   ②
+              │   REVIEWER  │
+              └──────┬──────┘
+                     ▼ pass
+              per-action fan-out — one action set can hold both kinds
+                     │
+          ┌──────────┴──────────┐
+          ▼                     ▼
+      not gated               gated
+          │                     │
+          │                     ▼
+          │        ══ INTERRUPT + CHECKPOINT (approval) ══
+          │                     │
+          │           rejected ─┴─ approved
+          │              │            │
+          │              ▼            ▼
+          │          ESCALATE     ┌─────────────┐
+          │                       │ RE-VALIDATE │ ── withdraw ──▶ worker  ③
+          │                       └──────┬──────┘
+          │                              ▼ still holds
+          └──────────────┬───────────────┘
+                         ▼
+                   ┌───────────┐
+                   │  EXECUTE  │ ── partial failure ──▶ worker           ④
+                   └─────┬─────┘
+                         ▼
+            lane terminal state — one of
+            executed · answered · declined · escalated
   ══════════════════════════════════════════════════════════════════════════════
-                               │
-                               ▼
-              JOIN (hand-written) — counts lane arrivals against the
-              Coordinator's ordered SubRequest list
-                               │
-                               ▼
-              Ticket updated/closed in HubSpot + run record
+                         │
+                         ▼
+       JOIN (hand-written) — counts lane arrivals against the Coordinator's
+       ordered SubRequest list
+                         │
+                         ▼
+       Ticket updated/closed in HubSpot + run record
 
   ① ② ③ ④ are the four bounded cycles. Each re-enters the lane's OWN worker with
   a structured objection, and each carries a hard cap (§ 5) — the graph is cyclic,
@@ -267,7 +282,7 @@ is why it is shaped that way.
 | **Policy gate** | Deterministic code. Checks the requester's entitlement over the target on every action, decides from the closed action enum whether the action falls in the approval-gated set, and enforces the verification steps the retrieved runbook requires. Runs per lane, and rejects back into that lane's owning worker with a structured objection. | Python |
 | **Grounding reviewer** | A harness stage with its own session per lane, never sharing a transcript with a worker. Checks that every grounded claim — the justification on a proposed action, **and the steps in a Device lane's reply to the requester** — is actually supported by the chunk it cites. A requester reading unreviewed device steps is the same failure as an approver reading ungrounded prose, and the device corpus is where a wrong answer is most fluent. | Agent Framework, Foundry fast deployment |
 | **Approval service** | Two endpoints bridging the graph and the provided Power Automate flow. Persists a pending-approval record per gated action, renders the approval card from the typed action object, and re-enters the graph on decision. Actions outside the gated set never reach it. | Flask, PostgreSQL |
-| **Action executors** | Deterministic, individually testable, idempotent Python functions: MFA reset, password reset, user create, enable/disable, session revoke, delete, and ticket update. Unreachable by the model. | Microsoft Graph SDK, Exchange, HubSpot integrations (provided) |
+| **Action executors** | Deterministic, individually testable, idempotent Python functions, one per member of § 4.2's action enum: MFA reset, password reset, user and mailbox creation, group membership add/remove, license assign/remove, enable/disable, session revoke, delete, and ticket update. Unreachable by the model. | Microsoft Graph SDK, Exchange, HubSpot integrations (provided) |
 | **Audit & observability** | A run record per ticket covering every tool call, retrieval, gate decision, approval and execution result. Agent tracing, token usage, latency and cost via the Agent Framework's OpenTelemetry layer exporting to Azure Monitor. | PostgreSQL, `agent_framework.observability`, Application Insights |
 | **Identity/Secrets** | Managed identities and secret storage for all credentials. | Azure Key Vault, Entra ID app registrations |
 
@@ -286,18 +301,20 @@ you are implementing it.
 | 5 | **The join is hand-written and sits after execution.** It counts arrivals against the Coordinator's ordered `SubRequest` list. It is not a barrier before approval. |
 | 6 | **The model decides what; the graph routes it; code executes it.** Every action is a member of a closed enum defined in code. The model never composes an API call and never reaches an executor. |
 | 7 | **The approval-gated set is closed and defined in code** — deactivate, reactivate, delete. Not a runtime judgment, and the model has no say in membership. |
-| 8 | **Gating is per action, not per lane.** A lane proposes an action *set*, and a set can hold gated and ungated members. The lane fans out once more over its own actions, the ungated ones execute, each gated one gets its own approval record, and a second small join closes the lane. § 4.2 depends on this: a mixed ticket runs the ungated and holds the gated. |
-| 9 | **A pause is an interrupt plus a checkpoint on the same run** — see 3.3.1. |
+| 8 | **Gating is per action, not per lane.** A lane proposes an action *set*, and a set can hold gated and ungated members. The lane fans out once more over its own actions, the ungated ones execute, each gated one gets its own approval record, and the lane reaches its terminal state only when every action it proposed has. § 4.2 depends on this: a mixed ticket runs the ungated and holds the gated. |
+| 9 | **A pause is an interrupt plus a checkpoint on the same run** — see § 3.3.1. |
 | 10 | **Approval is permission to act, not a committed instruction.** On re-entry the owning worker re-validates against live state before executing. |
 | 11 | **The approval card is rendered from the typed action object**, never from model prose. |
 | 12 | **Retrieval is load-bearing.** Below the reranker threshold the lane blocks and escalates. It never degrades to answering from model knowledge. |
-| 13 | **Identity is resolved server-side.** Entitlement-scoped reads sit behind the MCP server, which takes the subject from authenticated caller context. An in-process tool can always be handed whatever the model produced. |
-| 14 | **A lane is `(run_id, sub_request_id)`** and owns its own agent thread, its own budget counters and its own durable row. Two sub-requests routed to the same worker must not share a transcript. |
-| 15 | **Idempotency everywhere.** Ingest dedupes on event id, the approval callback on decision id, ticket writes on the run's correlation id held in the system's own store, and executors are idempotent. |
-| 16 | **Least privilege.** Narrowly scoped Graph permissions per executor, and a gated executor refuses to run without a matching approval record regardless of what the graph handed it. |
+| 13 | **Identity is resolved server-side.** Entitlement-scoped reads sit behind the MCP server, which takes the subject from authenticated caller context rather than from a tool argument. |
+| 14 | **No action executes without a passing entitlement check**, enforced inside the tool on every call. A requester may act on themselves; acting on anyone else requires a recorded grant. With approval gated to three operations, this is the only control between a spoofed email and a colleague's password. |
+| 15 | **A lane is `(run_id, sub_request_id)`** and owns its own agent thread, its own budget counters and its own durable row. Two sub-requests routed to the same worker must not share a transcript. |
+| 16 | **Idempotency everywhere.** Ingest dedupes on event id, the approval callback on decision id, ticket writes on the run's correlation id held in the system's own store, and executors are idempotent. |
+| 17 | **Least privilege.** Narrowly scoped Graph permissions per executor, and a gated executor refuses to run without a matching approval record regardless of what the graph handed it. |
 
-Rules 1, 3, 5 and 14 are what make this a multi-agent system rather than a workflow. Rules 6, 7, 13
-and 16 are what make it safe to point at a directory.
+Rules 1, 2, 3 and 15 are what make this a multi-agent system rather than a workflow — the ticket is
+decomposed, the workers investigate rather than classify, the width is the model's, and the lanes do
+not share state. Rules 6, 7, 13, 14 and 17 are what make it safe to point at a directory.
 
 #### 3.3.1 How a lane pauses
 
@@ -310,8 +327,8 @@ A lane pauses for two reasons — it needs an approval, or it needs information 
 - When the answer arrives — an approval decision on the callback, or a requester reply with
   `kind: reply` — **the same run resumes from where it stopped.** It continues down the happy path; it
   does not start again and it does not replay work already done.
-- **A rejection stops that lane where it is and closes it out gracefully**, recording the reason on
-  the ticket. It does not fail the run, and it does not touch the other lanes.
+- **A rejection ends that lane and escalates it** (§ 4.1), carrying the approver's comment as the
+  handover. It does not fail the run, and it does not touch the other lanes.
 - **Resume is single-writer.** The callback can land on any replica, and two replicas rehydrating one
   checkpoint would fork the run and let both copies write the ticket. Serialise it — a row lock on the
   ticket, taken before rehydration and held until the run idles again.
@@ -354,8 +371,12 @@ will be defined during design and refined iteratively during the build.
 ### 4.1 Ticket Intake and Investigation
 
 - A single endpoint receives every HubSpot email/ticket. Intake is deterministic: signature
-  validation, deduplication on event id, PII redaction, Prompt Shields over every string taken from
-  the email, and resolution of the requester from verified sender identity.
+  validation over the raw bytes, deduplication on event id, PII redaction, and resolution of the
+  requester from verified sender identity. It then enqueues and returns inside HubSpot's webhook
+  timeout.
+- **Prompt Shields runs on the consumer side of the queue, not in the webhook.** It is a Content
+  Safety round trip per string cracked out of the email, and the webhook has a timeout to meet — but
+  every such string is shielded before any model sees it.
 - **The Coordinator decomposes the ticket into 0..N independent sub-requests**, each naming the worker
   it needs, and emits them as a typed `Plan`. One email asking to unlock an account, grant a tool and
   fix a full disk is three sub-requests, not one ticket with three sentences.
@@ -380,18 +401,21 @@ will be defined during design and refined iteratively during the build.
   | `declined` | Out of scope, or denied at the entitlement check | Reason on the ticket |
   | `escalated` | The system could act but must not decide alone | Handed to a human, evidence attached |
 
-  A worker reaches one of these on a structured decision — a plan, a question, or a decline — backed by
-  an independent hard cap on tool calls and iterations. A question is not a terminal state: it
-  interrupts the lane (§ 3.3.1) and the lane terminates after the reply.
+  A worker reaches one of these on a structured decision, backed by an independent hard cap on tool
+  calls and iterations. It can propose an action set, answer outright, decline, escalate, or ask — and
+  **asking is not a terminal state**: a question interrupts the lane (§ 3.3.1) and the lane terminates
+  on one of the four once the reply arrives.
 
-- **Escalation is a real state with a real destination.** It fires when retrieval falls below the
-  reranker threshold, when a device symptom is outside the corpus for that model, when an approval
-  expires, or when the investigation finds something a human must judge — such as a "can't log in"
-  sub-request on an account deliberately disabled pending termination, where the correct outcome is a
-  reply and an escalation, not an unlock. **An escalated lane leaves the ticket open in New, assigns it
-  to the HelpDesk owner, and writes the evidence it gathered onto the thread as an internal note** —
-  the note is the whole handover, because nothing on the ticket says "escalated". It never closes the
-  ticket and it never guesses.
+- **Escalation is a real state with a real destination, and "the human queue" means exactly this:**
+  the ticket stays open in New, `hubspot_owner_id` is set so it lands in a person's queue, and the
+  evidence the lane gathered goes onto the thread as an internal note. **The note is the whole
+  handover**, because nothing on the ticket says "escalated". An escalated lane never closes the
+  ticket and never guesses.
+
+  Five things escalate: retrieval below the reranker threshold; a device symptom outside the corpus
+  for that model; **an approver rejecting a proposed action**; an approval expiring unanswered; and an
+  investigation that finds something a human must judge — a "can't log in" on an account deliberately
+  disabled pending termination, where the correct outcome is a reply and an escalation, not an unlock.
 
 - **The four terminal states are per sub-request, not per ticket.** One email can produce a clarifying
   question on one lane, an executed action on a second, and an escalation on a third, and the ticket
@@ -399,8 +423,9 @@ will be defined during design and refined iteratively during the build.
   from; the ticket itself only shows the summary the join writes.
 - Where the target user is ambiguous, missing, or matches more than one directory entry, the system
   composes a clarifying question and emails it to the requester on the ticket thread rather than
-  guessing. The ticket stays open and its status records that it is waiting on a reply; the answer
-  arrives as a reply and resumes the lane rather than starting a new one.
+  guessing. The ticket stays open in New and the lane records on the run record that it is waiting on
+  a reply; the answer arrives as a reply and resumes the same run (§ 3.3.1) rather than starting a new
+  one.
 - **An out-of-scope ticket is declined, not queued.** The system replies on the ticket — which
   reaches the requester by email, since the ticket is the channel they wrote in on — naming the
   specific reason the request falls outside this system's remit, pointing at the correct channel where
@@ -455,9 +480,9 @@ ticket update says plainly which executed and which is waiting on whom.
 - The server must be demonstrably driven by a second consumer — Claude Code, MCP Inspector or another
   host — with a server-side log line showing the call arrived over Streamable HTTP and was authorized
   as that caller rather than as the workflow.
-- **A requester may act on themselves; acting on anyone else requires a recorded grant.** Because most
-  operations now execute on the entitlement check alone, this is the control standing between a
-  spoofed email and a colleague's password. A reset aimed at the verified sender is self-service; the
+- **A requester may act on themselves; acting on anyone else requires a recorded grant.** With
+  approval gated to three lifecycle operations, this is the control standing between a spoofed email
+  and a colleague's password. A reset aimed at the verified sender is self-service; the
   same request aimed at someone else without a grant is denied at the tool, not escalated into a
   plan.
 
@@ -496,8 +521,8 @@ ticket update says plainly which executed and which is waiting on whom.
 - **The investigation summary, the actions proposed and the approval outcome are internal notes**, not
   replies. They are the audit trail § 5 requires; emailing them to the requester would send the
   system's own reasoning to the person who asked the question.
-- **Only two ticket states are used: it arrives open in New and ends closed.** The system writes three
-  things to HubSpot — a message on the thread, an internal note, and the pipeline stage on close.
+- **The system writes four things to HubSpot and nothing else**: a message on the thread, an internal
+  note on the thread, `hubspot_owner_id` when a lane escalates, and `hs_pipeline_stage` on close.
   In-flight state lives on the run record: which lane is investigating, which is waiting on a reply,
   which is waiting on an approver. The ticket carries none of it.
 - **HubSpot is therefore not the place to look at a run in progress.** A HelpDesk person reading the
@@ -515,7 +540,7 @@ ticket update says plainly which executed and which is waiting on whom.
   entitlement check passes.
 - One endpoint triggers the provided Power Automate approval flow for a specific pending gated action.
 - A second endpoint receives the decision: an approved action proceeds to re-validation, a rejected one
-  cancels and updates the ticket.
+  ends its lane and escalates.
 - **A gated action reaching an executor without a matching approval record is refused at runtime.** The
   executor checks for itself; the graph is not the only thing standing between a delete and the
   directory.
@@ -525,10 +550,12 @@ ticket update says plainly which executed and which is waiting on whom.
   the withdrawal is recorded on the ticket with the reason. It may also narrow the action — but
   narrowing that changes the action type re-enters approval rather than executing under the old one
   (§ 5).
-- **A rejection reason re-enters the graph as input, not as a terminal state.** An approver rejecting
-  with "wrong person — this is the contractor Jane Doe" produces a narrowed re-investigation through a
-  bounded cycle, not a closed ticket.
-- Approvals that are never answered expire on a configured deadline and route to the human queue. Any
+- **A rejection ends that lane and escalates it.** The system does not re-plan against the rejection:
+  a human looked at the proposal and said no, so a human takes it from there. The rejection comment is
+  the handover — an approver writing "wrong person, this is the contractor Jane Doe" is telling
+  whoever picks the ticket up what was wrong, which is why § 6.3 refuses a rejection that carries no
+  comment. Other lanes on the same ticket are unaffected.
+- Approvals that are never answered expire on a configured deadline and escalate the same way. Any
   ungated actions on the same ticket are unaffected — they have already run.
 - **Expiry belongs to this system, not to the approval flow.** The pending record is ours, so we reap
   it. A decision arriving for a record that has already expired or already been decided is refused,
@@ -597,7 +624,7 @@ ticket update says plainly which executed and which is waiting on whom.
 webhook signature validation, and credentials never exposed in tickets, logs or model context.
 
 **Prompt injection is a first-class threat here.** The ticket body is attacker-controlled email text,
-and the system holds tools that disable and delete accounts. Three controls carry it:
+and the system holds tools that disable and delete accounts. Four controls carry it:
 
 - Prompt Shields run over every string cracked out of an inbound email, before it reaches a model.
 - **No mutating executor takes its subject from model output.** The model may propose a candidate
@@ -673,8 +700,8 @@ everything else, because the approvals connector's health check is bound to `/ap
 
 **The entitlement MCP server** is the second deployed service. Python, Streamable HTTP, its own ACA
 app and managed identity, its own `/live` and `/ready`. It exposes `get_user`,
-`get_group_memberships`, `resolve_entitlements` and `find_similar_tickets`, resolves the caller from
-authenticated context, and holds the only database credential — no agent reaches Postgres directly.
+`get_group_memberships` and `resolve_entitlements` — the identity-scoped reads only, since § 4.3 keeps
+retrieval in-process — resolves the caller from authenticated context, and holds the only database credential — no agent reaches Postgres directly.
 
 **Consumed:** HubSpot, already integrated in both directions; the Power Automate approval flow and
 its custom connector, already built; Microsoft Graph / Entra ID for identity operations and
@@ -725,7 +752,7 @@ the raw request bytes.** Re-serialising the parsed JSON and signing that will no
 and separators differ — and is the most common way this check is written wrong. Reject a timestamp
 outside a few minutes of now, or a captured request can be replayed indefinitely.
 
-**Four rules the receiver has to honour.**
+**Five rules the receiver has to honour.**
 
 **Answer a duplicate with a 2xx.** Any non-2xx response makes the HubSpot action throw, and throwing
 is what makes HubSpot retry — with a byte-identical body and the same `event_id`. So a duplicate
@@ -772,10 +799,12 @@ matter:
 |---|---|---|
 | Arrived | New | `954564777` |
 | Work finished | Resolved | `954564780` |
-| Out-of-scope decline | Unresolvable | `954498199` |
+| Declined — out of scope, or denied at the entitlement check | Unresolvable | `954498199` |
 
 The other three — Assigned `954564778`, WIP `954564779`, Pending Stormer `954498198` — exist and are
-left alone. **The ticket moves twice: it arrives in New and it closes.** A gated action waiting on an
+left alone. **A ticket moves stage at most once**: it arrives in New, and it closes if every lane
+reached a terminal state that closes. A ticket with an escalated lane stays in New and is found by its
+owner, not by its stage. A gated action waiting on an
 approver and a lane waiting on a requester's reply both leave it in New, because that state lives on
 the run record (§ 4.5) and not in HubSpot. Do not repurpose the unused stages to carry it — a stage
 that means something to this system and nothing to the HelpDesk staff using the same board is a
@@ -921,7 +950,9 @@ required.
    pair is refused** — asserted at the executor, not only at the graph.
 6. **One lane declines while another executes** on the same ticket, and the ticket update names both.
 
-UAT with HelpDesk staff precedes go-live.
+**Before the day-10 demo, run the three demo tickets past a HelpDesk person** — not as a sign-off
+gate, but because the replies and internal notes are written for them and nobody on the team reads
+them that way.
 
 ---
 
