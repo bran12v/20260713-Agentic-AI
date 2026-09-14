@@ -279,6 +279,7 @@ HUBSPOT_API = "https://api.hubapi.com"
 
 class HubSpotConfig(BaseModel):
     sender_actor_id: str       # A-<hubspotUserId>
+    escalation_owner_id: str   # 47306113 — see § 4
     resolved_stage_id: str     # 954564780
     declined_stage_id: str     # 954498199
     # Fallback only, for a ticket that arrived with no thread. Pin the account
@@ -367,6 +368,28 @@ class HubSpotClient:
         note_id = r.json()["id"]
         await self._store.put(correlation_id, "note", note_id)
         return note_id
+
+    async def escalate(
+        self, correlation_id: str, ticket_id: str, thread_id: str, evidence: str
+    ) -> None:
+        """Hand the ticket to a person. Does not close it.
+
+        Note first, then owner. An owner who opens the ticket before the note
+        lands sees an escalation with no reason — and nothing on the ticket
+        says "escalated", so the note is the whole handover.
+        """
+        await self.add_internal_note(correlation_id, thread_id, evidence)
+
+        if await self._store.get(correlation_id, "escalate"):
+            return
+        r = await self._http.patch(
+            f"{HUBSPOT_API}/crm/v3/objects/tickets/{ticket_id}",
+            headers=self._auth,
+            json={"properties": {"hubspot_owner_id": self._cfg.escalation_owner_id}},
+            timeout=10.0,
+        )
+        r.raise_for_status()
+        await self._store.put(correlation_id, "escalate", ticket_id)
 
     async def close_ticket(self, correlation_id: str, ticket_id: str, declined: bool) -> None:
         stage = self._cfg.declined_stage_id if declined else self._cfg.resolved_stage_id

@@ -407,10 +407,11 @@ will be defined during design and refined iteratively during the build.
   on one of the four once the reply arrives.
 
 - **Escalation is a real state with a real destination, and "the human queue" means exactly this:**
-  the ticket stays open in New, `hubspot_owner_id` is set so it lands in a person's queue, and the
-  evidence the lane gathered goes onto the thread as an internal note. **The note is the whole
-  handover**, because nothing on the ticket says "escalated". An escalated lane never closes the
-  ticket and never guesses.
+  the ticket stays open in New, the evidence the lane gathered goes onto the thread as an internal
+  note, and `hubspot_owner_id` is then set so it lands in a person's queue. **The note is the whole
+  handover**, because nothing on the ticket says "escalated" — which is also why it is written before
+  the owner is assigned, so nobody opens the ticket to find an escalation with no reason. An escalated
+  lane never closes the ticket and never guesses.
 
   Five things escalate: retrieval below the reranker threshold; a device symptom outside the corpus
   for that model; **an approver rejecting a proposed action**; an approval expiring unanswered; and an
@@ -853,7 +854,7 @@ stored on the connection, not in the flow definition, so exporting the flow does
 | `decision_id` | string | yes | Passed through unchanged from § 6.2. The receiver looks up every other fact from its own record, which is what makes the callback safe to trust |
 | `decision` | `approved` \| `rejected` \| `expired` | yes | `expired` only on the timeout branch |
 | `approver` | string | yes | Email of the person who responded — **except on timeout, where it is the literal `system`.** A strict email validator here rejects every timeout |
-| `comments` | string | no in the schema, **required when rejecting** | The rejection reason is fed into a narrowed re-investigation. A rejection arriving with an empty comment is refused and the approval has to be redone |
+| `comments` | string | no in the schema, **required when rejecting** | The reason is the handover to whoever picks the escalated ticket up — a rejection ends the lane (§ 4.6) and nothing else explains why. A rejection arriving with an empty comment is refused and the approval has to be redone |
 | `decided_at` | ISO-8601 | yes | When the approver responded |
 
 **Responses.** `202` — accepted; the paused lane resumes or cancels, body carries `status`
@@ -1085,6 +1086,10 @@ working, not around landing one more capability.
 - ☐ Every gated action traces to a matching approval record, checked at the executor and not only at
   the graph
 - ☐ The gated set is a closed enum in code; the model has no say in membership
+- ☐ A rejected approval ends its lane and escalates — it does not re-plan, and it does not close the
+  ticket
+- ☐ An escalated lane leaves the ticket open in New, writes its evidence as an internal note, and then
+  sets an owner — checked in that order, because the note is the handover
 - ☐ An approved action is re-validated against live state before it executes, and a moved precondition
   narrows or withdraws it
 - ☐ A decision arriving for an expired or already-decided record is refused
