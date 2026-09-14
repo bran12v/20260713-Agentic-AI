@@ -1,7 +1,7 @@
 # Design Rationale
 
 Why the architecture is shaped the way it is. **[project3-requirements.md](project3-requirements.md)
-§ 3.3 states seventeen rules; this file argues each of them.** Every section names the rule it
+§ 3.3 states seventeen rules; this file argues them.** Every section but the last names the rule it
 defends. Read it once at the start — you do not need it open while you build, and nothing in it is a
 requirement.
 
@@ -9,6 +9,7 @@ It exists because the rules in § 3.3 look arbitrary until you know what each on
 against, and a team that does not know will relax one of them under schedule pressure on day 6.
 
 ---
+
 
 ## Why the sub-request is the unit of work
 
@@ -25,6 +26,7 @@ summary of N independent outcomes rather than one verdict.
 
 This is also what makes the graph divisible across sixteen people: the lane is the seam.
 
+
 ## Why investigation, not classification
 
 > **Defends Rule 2.**
@@ -37,6 +39,7 @@ So a worker is given a goal and read-only tools, not a label set. The number of 
 sub-request, and two tickets of different shape must produce visibly different run records. A fixed
 one-call-each shape is a classifier wearing an agent's clothes, and it does not meet the requirement.
 
+
 ## Why the width is the model's and the routing is not
 
 > **Defends Rule 3.**
@@ -48,6 +51,7 @@ The split matters in both directions. Planning has to be the model's, because de
 distinct requests an arbitrary email contains is not expressible as a rule. Routing has to be code,
 because a mis-route is invisible at runtime and a pure function over a typed plan can be unit tested
 with no model in the loop — which is the single cheapest test in the project.
+
 
 ## Why the join is hand-written, and why it sits after execution
 
@@ -65,6 +69,27 @@ state and the join counts arrivals against that list.
 It sits *after* execution and only assembles the ticket update. A join placed before approval would
 make every lane wait on the slowest approver and collapse the design back into a chain.
 
+**And the join assembles, not the Coordinator** — which is why the Coordinator holds no tools and
+never reads a lane's result. It is the one component positioned to see every lane, so it is the one
+component that could quietly start reasoning across them, and the moment it revises lane 2 because of
+what lane 1 returned the design has become Magentic (§ 3.4). Keeping it to decomposition is what makes
+that line easy to hold: a component with no tools and no read of the results cannot cross it by
+accident, only by someone deliberately giving it one.
+
+
+## Why the model never reaches an executor
+
+> **Defends Rule 6.**
+
+The model decides *what* should happen; the graph routes it; code does it. Every action is a member of
+a closed enum, and every executor is a typed function the model cannot call.
+
+The reason is not that the model would compose a malicious call. It is that a system where the model
+can reach a directory has no reviewable boundary: you cannot point at a line and say "nothing past
+here is model output". With a closed enum you can, and the § 7 gated-set test is writable because the
+set is enumerable.
+
+
 ## Why approval is gated on reversibility
 
 > **Defends Rule 7.**
@@ -79,58 +104,6 @@ each one waits on a human — which is the failure mode that gets an automation 
 Gating on "risk" in the abstract produces an argument every sprint. Gating on reversibility produces a
 list.
 
-## Why approval is permission, not an instruction
-
-> **Defends Rule 10.**
-
-Approval arrives minutes or hours later. In that gap the account can be deleted by someone else, the
-license can lapse, the user can fix it themselves, or a second ticket can already have acted.
-
-So on re-entry the **owning worker** — not a generic resumption step — re-validates its approved action
-against live state. It has the tools and the context to know what "still holds" means for the action it
-proposed; a generic step would have to re-derive both.
-
-Only the gated set carries this risk, because only the gated set has a gap between decision and
-execution.
-
-## Why the approval record binds the action type, not just the subject
-
-> **Defends Rule 10, and § 5 of the brief.**
-
-Re-validation may narrow an action. Without a binding on action type, `deactivate(jane)` approved and
-narrowed to `revoke_sessions(jane)` passes a subject check and executes something the approver never
-saw. The approval record therefore names `(decision_id, subject, action_type)`, and narrowing may
-withdraw but never substitute.
-
-This is the kind of hole that only appears when someone implements "matching approval record" the
-obvious way.
-
-## Why identity is resolved server-side
-
-> **Defends Rule 13.**
-
-The entitlement-scoped reads sit behind an MCP server that takes the subject from authenticated caller
-context rather than from a tool argument.
-
-This is the only place § 4.3's per-call entitlement check and § 5's "no tool takes its subject from
-model output" can actually be enforced. An in-process tool can always be handed whatever the model
-produced — the check becomes a convention, and conventions are what prompt injection is for. Putting a
-process boundary there makes the guarantee structural.
-
-Retrieval tools stay in-process by the same logic inverted: runbooks and manuals are not
-entitlement-scoped, so a server in front of them adds a hop without adding a control.
-
-## Why the model never reaches an executor
-
-> **Defends Rule 6.**
-
-The model decides *what* should happen; the graph routes it; code does it. Every action is a member of
-a closed enum, and every executor is a typed function the model cannot call.
-
-The reason is not that the model would compose a malicious call. It is that a system where the model
-can reach a directory has no reviewable boundary: you cannot point at a line and say "nothing past
-here is model output". With a closed enum you can, and the § 7 gated-set test is writable because the
-set is enumerable.
 
 ## Why gating is per action and not per lane
 
@@ -148,9 +121,10 @@ something they were never shown.
 The cost is a second fan-out inside the lane, and it is real work. It is also why the lane's terminal
 state is not reached until every action it proposed has one.
 
+
 ## Why a pause is a checkpoint and not a new run
 
-> **Defends Rule 9.** The other one most likely to be simplified away.
+> **Defends Rule 9.** Also relaxed under pressure, and also silent.
 
 When a lane needs an approval or needs information from the requester, the run interrupts and
 checkpoints, and the same run resumes when the answer arrives.
@@ -166,6 +140,35 @@ Both pauses use one mechanism deliberately. A clarifying question and an approva
 the lane stops, something outside the system answers, the lane continues — and building two mechanisms
 means maintaining two sets of resume, timeout and replay semantics.
 
+
+## Why approval is permission, not an instruction
+
+> **Defends Rule 10.**
+
+Approval arrives minutes or hours later. In that gap the account can be deleted by someone else, the
+license can lapse, the user can fix it themselves, or a second ticket can already have acted.
+
+So on re-entry the **owning worker** — not a generic resumption step — re-validates its approved action
+against live state. It has the tools and the context to know what "still holds" means for the action it
+proposed; a generic step would have to re-derive both.
+
+Only the gated set carries this risk, because only the gated set has a gap between decision and
+execution.
+
+
+## Why the approval record binds the action type, not just the subject
+
+> **Defends Rule 10, and § 5 of the brief.**
+
+Re-validation may narrow an action. Without a binding on action type, `deactivate(jane)` approved and
+narrowed to `revoke_sessions(jane)` passes a subject check and executes something the approver never
+saw. The approval record therefore names `(decision_id, subject, action_type)`, and narrowing may
+withdraw but never substitute.
+
+This is the kind of hole that only appears when someone implements "matching approval record" the
+obvious way.
+
+
 ## Why the approval card comes from the typed object
 
 > **Defends Rule 11.**
@@ -176,6 +179,7 @@ describing the action.
 If the card is prose, the approver is agreeing to a description, and nothing binds the description to
 the action. That is not a hypothetical failure: it is how a narrowed or substituted action passes a
 human check, which is the same hole Rule 10 closes from the other side.
+
 
 ## Why retrieval blocks rather than degrades
 
@@ -188,6 +192,23 @@ A model that has read the internet knows how password resets usually work. It do
 SkillStorm's policy says they work, and the difference is invisible in the output — the ungrounded
 answer is fluent, plausible and specific. Degrading to model knowledge does not produce a worse
 answer, it produces an unreviewable one.
+
+
+## Why identity is resolved server-side
+
+> **Defends Rule 13.**
+
+The identity-scoped reads sit behind an MCP server that takes the subject from authenticated caller
+context rather than from a tool argument.
+
+This is the only place § 4.3's per-call entitlement check and § 5's "no mutating executor takes its
+subject from model output" can actually be enforced. An in-process tool can always be handed whatever the model
+produced — the check becomes a convention, and conventions are what prompt injection is for. Putting a
+process boundary there makes the guarantee structural.
+
+Retrieval tools stay in-process by the same logic inverted: runbooks and manuals are not
+entitlement-scoped, so a server in front of them adds a hop without adding a control.
+
 
 ## Why the entitlement check is inside the tool
 
@@ -204,9 +225,10 @@ an injected instruction can plan around; a check inside the tool is one it canno
 It also has to deny loudly. A denial that returns an empty result set is indistinguishable from "found
 nothing", and a worker will reason onward from the wrong premise.
 
+
 ## Why a lane owns its own thread
 
-> **Defends Rule 15.** Silent when it breaks.
+> **Defends Rule 15.** The third one relaxed under pressure, and the quietest.
 
 A lane is `(run_id, sub_request_id)` and owns its own agent thread, budget counters and durable row.
 
@@ -217,6 +239,7 @@ plausible. The only symptom is an occasional answer that is subtly about the wro
 
 It is also what makes "the lanes are independent" a testable claim rather than a description, and what
 keeps the design on the `WorkflowBuilder` side of § 3.4's Magentic line.
+
 
 ## Why idempotency is everywhere, and least privilege underneath it
 
@@ -233,8 +256,8 @@ approval record **regardless of what the graph handed it** — because the graph
 writing for the first time, under time pressure, and the executor is the last place to catch a bug in
 it.
 
----
 
+---
 ## Why none of the five named orchestrations
 
 Each builder answers one question. None of them asks the question this system asks.

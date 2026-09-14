@@ -198,64 +198,59 @@ is why it is shaped that way.
     Graph reads (MCP)             groups · roles                manuals filtered
     identity runbooks             tool-access matrix            on device_model
 
-  ══ every lane below is the same shape; one lane drawn, N run ═════════════════
+  ══ every lane is the same shape; one lane shown, N run ═══════════════════════
 
-         ┌──────────────────────────────────────────────────┐
-         │                  OWNING WORKER                   │
-         │     loops on its own tools · own agent thread    │
-         └──┬───────────────────────────────────────────────┘
-            │
-            ├──▶ needs_info ──▶ ══ INTERRUPT + CHECKPOINT (question) ══
-            │                        the reply resumes the same run,
-            │                        back into this worker
-            │
-            └──▶ proposes 0..N actions
-                     │
-                     ▼
-              ┌─────────────┐
-              │ POLICY GATE │ ───── reject ──▶ back to the worker   ①
-              └──────┬──────┘
-                     ▼ pass
-              ┌─────────────┐
-              │  GROUNDING  │ ───── reject ──▶ back to the worker   ②
-              │   REVIEWER  │
-              └──────┬──────┘
-                     ▼ pass
-              per-action fan-out — one action set can hold both kinds
-                     │
-          ┌──────────┴──────────┐
-          ▼                     ▼
-      not gated               gated
-          │                     │
-          │                     ▼
-          │        ══ INTERRUPT + CHECKPOINT (approval) ══
-          │                     │
-          │           rejected ─┴─ approved
-          │              │            │
-          │              ▼            ▼
-          │          ESCALATE     ┌─────────────┐
-          │                       │ RE-VALIDATE │ ── withdraw ──▶ worker  ③
-          │                       └──────┬──────┘
-          │                              ▼ still holds
-          └──────────────┬───────────────┘
-                         ▼
-                   ┌───────────┐
-                   │  EXECUTE  │ ── partial failure ──▶ worker           ④
-                   └─────┬─────┘
-                         ▼
-            lane terminal state — one of
-            executed · answered · declined · escalated
+     OWNING WORKER          loops on its own tools · own agent thread
+        │
+        ├─ needs_info ─────▶  interrupt + checkpoint, the reply resumes this run
+        │                     and re-enters this worker
+        │
+        ├─ answer / decline / escalate ─────────────────────▶  lane terminal state
+        │
+        └─ proposes 0..N actions
+              │
+              ▼
+           POLICY GATE       reject ─▶ back to this worker            cycle ①
+              │ pass
+              ▼
+           GROUNDING         reject ─▶ back to this worker            cycle ②
+           REVIEWER
+              │ pass
+              ▼
+           per-action fan-out — one action set can hold both kinds
+              │
+              ├─ ungated ────────────────────────────────────▶  EXECUTE
+              │
+              └─ gated
+                    │
+                    ▼
+                 interrupt + checkpoint (approval)
+                    │
+                    ├─ rejected ─▶ ESCALATE ─▶  lane terminal state
+                    │
+                    └─ approved
+                          │
+                          ▼
+                       RE-VALIDATE   withdraw ─▶ back to this worker  cycle ③
+                          │ still holds
+                          ▼
+                       EXECUTE       partial failure ─▶ this worker   cycle ④
+                          │
+                          ▼
+                       lane terminal state
+
+     A lane ends in exactly one of: executed · answered · declined · escalated.
   ══════════════════════════════════════════════════════════════════════════════
-                         │
-                         ▼
-       JOIN (hand-written) — counts lane arrivals against the Coordinator's
-       ordered SubRequest list
-                         │
-                         ▼
-       Ticket updated/closed in HubSpot + run record
 
-  ① ② ③ ④ are the four bounded cycles. Each re-enters the lane's OWN worker with
-  a structured objection, and each carries a hard cap (§ 5) — the graph is cyclic,
+              all N lanes ─▶ JOIN (hand-written) — counts arrivals against the
+                             Coordinator's ordered SubRequest list
+                                   │
+                                   ▼
+                             Ticket updated/closed in HubSpot + run record
+
+  ① ② ③ ④ are the four bounded cycles. Each re-enters the lane's OWN worker — ① and ② with
+  a structured objection, ③ with the precondition that moved, ④ with the results so far — and each
+  carries a hard cap (§ 5) — the graph is cyclic,
   not a DAG.
 
   A needs_info question interrupts and checkpoints exactly as an approval does;
@@ -270,7 +265,7 @@ is why it is shaped that way.
 
 | Component | Description | Technology |
 |---|---|---|
-| **Ingestion API** | Single webhook endpoint receiving all HubSpot ticket/email events. Validates the HMAC signature and its timestamp header against the raw request bytes, deduplicates on HubSpot event id, redacts, runs Prompt Shields over every string cracked out of the email, resolves the requester from verified sender identity, and enqueues. Returns inside HubSpot's webhook timeout; the graph runs out of band. **Prompt Shields runs on the consumer side of the queue, not in the webhook** — it is a Content Safety round trip per string and the webhook has a timeout to meet. | Flask, Azure Container Apps, Azure Service Bus |
+| **Ingestion API** | Single webhook endpoint receiving all HubSpot ticket/email events. Validates the HMAC signature and its timestamp header against the raw request bytes, deduplicates on HubSpot event id, redacts, resolves the requester from verified sender identity, and enqueues. Returns inside HubSpot's webhook timeout. **Prompt Shields runs on the consumer side of the queue, not in the webhook** — it is a Content Safety round trip per string cracked out of the email, and the webhook has a timeout to meet — and it runs before any model sees a string. | Flask, Azure Container Apps, Azure Service Bus |
 | **Coordinator** | Reads the ticket and decomposes it into 0..N independent sub-requests, naming the worker each needs. Emits a typed `Plan`. Holds no tools, and never reads a lane's result — it decomposes, and the join assembles. | Agent Framework, Foundry reasoning deployment |
 | **Identity Worker** | Given one sub-request, works out what is actually wrong with the account and the minimal action set that fixes it. A custom `Executor` owning an agent, not a bare `AgentExecutor`, so it takes a typed `SubRequest` in and holds a per-lane agent thread. Loops on read-only Graph tools reached through the MCP server, plus identity runbooks. | Agent Framework, Foundry reasoning deployment |
 | **Access Worker** | Answers what a person has and whether they should have it, against group membership, role and the tool-access matrix. Its outcome is often an answer rather than an action. | Agent Framework, Foundry reasoning deployment |
@@ -307,7 +302,7 @@ you are implementing it.
 | 11 | **The approval card is rendered from the typed action object**, never from model prose. |
 | 12 | **Retrieval is load-bearing.** Below the reranker threshold the lane blocks and escalates. It never degrades to answering from model knowledge. |
 | 13 | **Identity is resolved server-side.** Entitlement-scoped reads sit behind the MCP server, which takes the subject from authenticated caller context rather than from a tool argument. |
-| 14 | **No action executes without a passing entitlement check**, enforced inside the tool on every call. A requester may act on themselves; acting on anyone else requires a recorded grant. With approval gated to three operations, this is the only control between a spoofed email and a colleague's password. |
+| 14 | **No action executes without a passing entitlement check**, enforced inside the tool on every call. A requester may act on themselves; acting on anyone else requires a recorded grant. It is what § 4.3 calls the control between a spoofed email and a colleague's password. |
 | 15 | **A lane is `(run_id, sub_request_id)`** and owns its own agent thread, its own budget counters and its own durable row. Two sub-requests routed to the same worker must not share a transcript. |
 | 16 | **Idempotency everywhere.** Ingest dedupes on event id, the approval callback on decision id, ticket writes on the run's correlation id held in the system's own store, and executors are idempotent. |
 | 17 | **Least privilege.** Narrowly scoped Graph permissions per executor, and a gated executor refuses to run without a matching approval record regardless of what the graph handed it. |
@@ -358,9 +353,9 @@ re-validation, and a join written by hand.
 > rebuilt by hand. Keeping the lanes independent is what keeps this a `WorkflowBuilder` graph, and the
 > architecture document has to record that the team held that line.
 >
-> Re-planning **inside** a lane is not Magentic and is required — a gate rejection, a withdrawn
-> action and a partial failure all re-enter the owning worker, which decides how to proceed. The line
-> is cross-lane reasoning, not re-planning as such.
+> Re-planning **inside** a lane is not Magentic and is required — all four cycles of § 3.1 re-enter
+> the owning worker, which decides how to proceed. The line is cross-lane reasoning, not re-planning
+> as such.
 ---
 
 ## 4. Functional Requirements
@@ -413,7 +408,7 @@ will be defined during design and refined iteratively during the build.
   the owner is assigned, so nobody opens the ticket to find an escalation with no reason. An escalated
   lane never closes the ticket and never guesses.
 
-  Five things escalate: retrieval below the reranker threshold; a device symptom outside the corpus
+  A worker escalates for five reasons: retrieval below the reranker threshold; a device symptom outside the corpus
   for that model; **an approver rejecting a proposed action**; an approval expiring unanswered; and an
   investigation that finds something a human must judge — a "can't log in" on an account deliberately
   disabled pending termination, where the correct outcome is a reply and an escalation, not an unlock.
@@ -658,8 +653,7 @@ spent. Every cycle in the graph has both a structured termination condition and 
 **Post-approval work draws on a separate budget.** Investigation and re-validation are budgeted apart,
 because they are minutes or hours apart and a lane that spent its iteration cap investigating would
 otherwise be unable to execute the action a human already approved — the budget would have silently
-vetoed a human decision. The same applies to the gate-rejection and partial-failure cycles: each
-re-entry gets its own allowance, and exhausting it escalates rather than stalling. "Per-turn wall
+vetoed a human decision. The same applies to all four cycles in § 3.1: each re-entry gets its own allowance, and exhausting it escalates rather than stalling. "Per-turn wall
 clock" means one worker invocation — entry to the worker until it returns a structured decision.
 
 **Reliability.** Duplicate webhooks and retries must not double-execute. Retries are bounded, backed
@@ -803,11 +797,17 @@ matter:
 | Declined — out of scope, or denied at the entitlement check | Unresolvable | `954498199` |
 
 The other three — Assigned `954564778`, WIP `954564779`, Pending Stormer `954498198` — exist and are
-left alone. **A ticket moves stage at most once**: it arrives in New, and it closes if every lane
-reached a terminal state that closes. A ticket with an escalated lane stays in New and is found by its
-owner, not by its stage. A gated action waiting on an
-approver and a lane waiting on a requester's reply both leave it in New, because that state lives on
-the run record (§ 4.5) and not in HubSpot. Do not repurpose the unused stages to carry it — a stage
+left alone. **A ticket moves stage at most once**: it arrives in New and it closes, if it closes.
+
+**Which stage it closes in, when the lanes disagree.** A ticket with an escalated lane does not close
+at all — it stays in New and is found by its owner. Otherwise: **Unresolvable only when every lane
+declined**, Resolved in every other case. A ticket that executed one lane and declined another did
+work, so it resolves, and the ticket update names the declined lane and its reason. Reserving
+Unresolvable for the wholly-declined ticket is what keeps that stage meaning something to the HelpDesk
+staff reading the board.
+
+A gated action waiting on an approver and a lane waiting on a requester's reply both leave the ticket
+in New, because that state lives on the run record (§ 4.5) and not in HubSpot. Do not repurpose the unused stages to carry it — a stage
 that means something to this system and nothing to the HelpDesk staff using the same board is a
 consistency problem, not a feature.
 
@@ -899,9 +899,9 @@ in the answer's `sources` array, and one line on why the case exists.
 | Distractor queries, one per declared distractor | 3 |
 | Ticket-backed, end to end from a real payload | 2 |
 | Out-of-corpus refusals | 2 |
-| Near-miss that must **not** refuse | 1 |
+| Near-miss that must **not** refuse, one paired with each refusal above | 2 |
 | Adversarial | 4 |
-| **Total** | **17** |
+| **Total** | **18** |
 
 **Golden cases are written by someone who did not tune retrieval**, against the documents, before
 seeing what the index returns. Otherwise the set measures the tuning rather than the system.
@@ -951,7 +951,7 @@ required.
    pair is refused** — asserted at the executor, not only at the graph.
 6. **One lane declines while another executes** on the same ticket, and the ticket update names both.
 
-**Before the day-10 demo, run the three demo tickets past a HelpDesk person** — not as a sign-off
+**Before the day-10 demo, run the three demonstration tickets of § 9 past a HelpDesk person** — not as a sign-off
 gate, but because the replies and internal notes are written for them and nobody on the team reads
 them that way.
 
@@ -977,7 +977,7 @@ alerts in place before the first agent run.
 | **Orchestration** | Robert Evans · Charles Eaton · Regan Johnson · Ishan Sultan | The `WorkflowBuilder` graph — the Coordinator, the three specialist workers, the selection function, the model-sized fan-out, the hand-written join, the typed outcomes, the cycles, bounds and hard caps, re-validation on approval re-entry, the per-action fan-out onto the gated set, and **the grounding reviewer**. The hardest and highest-risk work in the project |
 | **Knowledge & Retrieval** | Javier Martinez · Maclay Teefey · Pratik Sharma | All three corpora — runbooks and policy, laptop manuals, closed-ticket resolutions. Sourcing, chunking, index schema and filterable fields, `device_model` filtering, hybrid retrieval with the semantic ranker, reranker threshold calibration, and the retrieval tools the agent calls |
 | **Identity & Control** | Anthony Huggins · Adrian Otieno · Christopher Lee | The closed action enum, the Graph executors with their idempotency keys, the policy gate, the gated-set test, **the entitlement MCP server** — its tools and its caller resolution — and **PostgreSQL**: schema, migrations, the repository module, and the seeded analysts and grants that give the server something to deny |
-| **Edge & Approvals** | Stanley Liu · Ralph Complido · Eric Gill | `/tickets/ingest` and the intake pipeline — signature validation, deduplication, redaction, Prompt Shields, requester resolution — plus HubSpot replies and ticket updates, both approval endpoints, the durable pending-approval records, the Power Automate contract, and expiry |
+| **Edge & Approvals** | Stanley Liu · Ralph Complido · Eric Gill | `/tickets/ingest` and the intake pipeline — signature validation, deduplication, redaction and requester resolution in the webhook, Prompt Shields on the consumer side — plus HubSpot replies and ticket updates, both approval endpoints, the durable pending-approval records, the Power Automate contract, and expiry |
 | **Platform & Quality** | Ta'Shawn Deshazier · Arnold Epanda · Johnny Huynh | Azure resources and Foundry deployments — **AI Search and Document Intelligence first**, because they are the only provisioning another team waits on — Key Vault, Container Apps, GitHub Actions with OIDC across three environments, the in-repo fakes, OpenTelemetry and run records and cost accounting, then the CI evaluation tier, the golden ticket set, the injection fixtures and the demo tickets |
 
 Two things the table does not show. **Knowledge & Retrieval and Platform & Quality share no members**,

@@ -1,12 +1,14 @@
 # HubSpot Outbound Cookbook
 
 How the system talks back to HubSpot: emailing the person who opened the ticket, recording what it did
-for the audit trail, and closing the ticket. Owned by **Edge & Approvals**.
+for the audit trail, handing a ticket to a person, and closing it. Owned by **Edge & Approvals**.
 
-Every call below was executed against live portal 51681374 and the request and response bodies are
-what actually came back — not what the documentation implies.
+Every call below **except the escalation PATCH** was executed against live portal 51681374, and the
+request and response bodies are what actually came back rather than what the documentation implies.
+The escalation call is unrun: its shape follows the close-ticket PATCH beside it, and the owner id in
+it was confirmed against the live actor endpoint.
 
-> **Three operations, and the first two are the pair most likely to be confused.** A `MESSAGE` is
+> **Four operations, and the first two are the pair most likely to be confused.** A `MESSAGE` is
 > delivered to the requester as email. A `COMMENT` is an internal note that is never emailed. Putting
 > § 4.5's investigation summary in a `MESSAGE` mails your audit trail to the customer.
 
@@ -192,7 +194,7 @@ Content-Type: application/json
 | Work finished | Resolved | `954564780` |
 | Out-of-scope decline (§ 4.1) | Unresolvable | `954498199` |
 
-Both are `ticketState: CLOSED` on pipeline `648529809`. **The stage is the only property this system
+Both are `ticketState: CLOSED` on pipeline `648529809`. **The stage and the owner are the only properties this system
 writes.** The correlation id that makes the write idempotent stays in your own store — HubSpot has no
 field for it and none is being added.
 
@@ -230,6 +232,8 @@ person the approval flow routes to, so escalations and approvals land in one que
 Hold it in config as `hubspot_escalation_owner_id`; a real deployment resolves a queue owner instead
 of pinning one.
 
+---
+
 ## The loop this design avoids
 
 The workflow re-enrolls on `hs_last_message_received_at` so that requester replies reach the system.
@@ -261,7 +265,7 @@ Getting the config/payload split right is most of the work.
 
 | Config (`pydantic-settings`) | Per-ticket (from the ingest payload) |
 |---|---|
-| `hubspot_sender_actor_id` · `hubspot_escalation_owner_id` · the two stage ids · **fallback** channel values | `thread_id` · `requester_email` · `channel_id` · `channel_account_id` |
+| `hubspot_sender_actor_id` · `hubspot_escalation_owner_id` · `hubspot_inbox_id` · the two stage ids · **fallback** channel values | `thread_id` · `requester_email` · `channel_id` · `channel_account_id` |
 
 The channel values are in both columns on purpose: the payload carries them for every threaded ticket,
 and the configured pair is used **only** when a chat-sourced or manual ticket arrives with both null.
@@ -313,7 +317,9 @@ class HubSpotClient:
     async def reply_to_requester(
         self, correlation_id: str, operation: str, ticket, to_email: str, subject: str, body: str
     ) -> str:
-        """Emails the requester. Use for clarifying questions and completion notices."""
+        """Emails the requester. `operation` distinguishes the replies one run can
+        send — use `reply:question` and `reply:complete`, not a bare `reply`, or the
+        second one returns the first one's id from the store and never sends."""
         if existing := await self._store.get(correlation_id, operation):
             return existing
 
@@ -347,9 +353,12 @@ class HubSpotClient:
         await self._store.put(correlation_id, operation, sent["id"])
         return sent["id"]
 
-    async def add_internal_note(self, correlation_id: str, thread_id: str, body: str) -> str:
-        """Never emailed. This is where the run summary goes."""
-        if existing := await self._store.get(correlation_id, "note"):
+    async def add_internal_note(
+        self, correlation_id: str, operation: str, thread_id: str, body: str
+    ) -> str:
+        """Never emailed. The run summary and an escalation handover are both
+        notes on one run, so they must not share a store key."""
+        if existing := await self._store.get(correlation_id, operation):
             return existing
 
         # No recipients, no channel fields — that absence is what makes it internal.
@@ -366,7 +375,7 @@ class HubSpotClient:
         )
         r.raise_for_status()
         note_id = r.json()["id"]
-        await self._store.put(correlation_id, "note", note_id)
+        await self._store.put(correlation_id, operation, note_id)
         return note_id
 
     async def escalate(
@@ -378,7 +387,7 @@ class HubSpotClient:
         lands sees an escalation with no reason — and nothing on the ticket
         says "escalated", so the note is the whole handover.
         """
-        await self.add_internal_note(correlation_id, thread_id, evidence)
+        await self.add_internal_note(correlation_id, "note:escalate", thread_id, evidence)
 
         if await self._store.get(correlation_id, "escalate"):
             return
@@ -392,6 +401,8 @@ class HubSpotClient:
         await self._store.put(correlation_id, "escalate", ticket_id)
 
     async def close_ticket(self, correlation_id: str, ticket_id: str, declined: bool) -> None:
+        if await self._store.get(correlation_id, "close"):
+            return
         stage = self._cfg.declined_stage_id if declined else self._cfg.resolved_stage_id
         r = await self._http.patch(
             f"{HUBSPOT_API}/crm/v3/objects/tickets/{ticket_id}",
@@ -400,6 +411,7 @@ class HubSpotClient:
             timeout=10.0,
         )
         r.raise_for_status()
+        await self._store.put(correlation_id, "close", ticket_id)
 ```
 
 **Four things that are easy to get wrong and hard to notice.**
@@ -539,5 +551,6 @@ The private app needs `conversations.read`, `conversations.write`, `crm.objects.
 It does **not** hold `automation`, which is why the workflow cannot be read or configured through the
 API. That part is UI work, and it is on the pre-project checklist rather than yours.
 
-It also does not hold `crm.objects.owners.read`, so the owner list cannot be fetched — which is why
-the escalation owner is a configured id rather than a lookup by email.
+It also does not hold `crm.objects.contacts.read`, which is why a recipient's actor id cannot be
+fetched and only the delivery identifier is sent; or `crm.objects.owners.read`, which is why the
+escalation owner is a configured id rather than a lookup by email.
